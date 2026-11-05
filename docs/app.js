@@ -666,6 +666,16 @@ async function viewMembers(q) {
     <ul class="plain">${list.map(memberItem).join("")}</ul>`);
   document.getElementById("mf").addEventListener("submit", e => { e.preventDefault(); const p = new URLSearchParams(); for (const [k, v] of new FormData(e.target)) if (v) p.set(k, v); location.hash = "#/members?" + p; });
 }
+function serviceSpans(terms) {
+  // Two-year House terms (and six-year Senate terms) that follow each other become one span per chamber
+  const spans = [];
+  for (const t of terms.slice().sort((a, b) => (a.start || 0) - (b.start || 0))) {
+    const last = spans[spans.length - 1];
+    if (last && last.ch === t.ch && last.end && t.start <= last.end) last.end = t.end;
+    else spans.push({ ch: t.ch, start: t.start, end: t.end });
+  }
+  return spans;
+}
 async function viewMember(id) {
   const [members, pos, hv, sv] = await Promise.all([data("members.json"), data("positions.json"), data("votes_house.json"), data("votes_senate.json")]);
   const m = members.find(x => x.id === id);
@@ -689,7 +699,7 @@ async function viewMember(id) {
       <p class="lede">${esc(m.party)}, ${esc(m.state)}${m.district ? `, district ${m.district}` : m.chamber === "House" ? ", at large" : ""}${m.leadership.length ? ". " + esc(m.leadership.join("; ")) : ""}</p></div></div>
     <dl class="facts">
       ${m.born ? `<dt>Born</dt><dd>${esc(m.born)}</dd>` : ""}
-      <dt>Service</dt><dd>${m.terms.map(t => `${esc(t.ch)} ${esc(t.start)}–${esc(t.end || "present")}`).filter((v, i, a) => a.indexOf(v) === i).slice(-8).join("<br>")}</dd>
+      <dt>Service</dt><dd>${serviceSpans(m.terms).map(s => `${esc(s.ch)}, ${esc(s.start)}–${s.end ? esc(s.end) : "present"}`).join("<br>")}</dd>
       ${m.termEnd ? `<dt>Current term ends</dt><dd>${fmtDate(m.termEnd)}</dd>` : ""}
       ${m.office ? `<dt>Office</dt><dd>${esc(m.office)}${m.phone ? `, ${esc(m.phone)}` : ""}</dd>` : ""}
       ${m.web ? `<dt>Website</dt><dd><a href="${esc(m.web)}">${esc(m.web.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a></dd>` : ""}
