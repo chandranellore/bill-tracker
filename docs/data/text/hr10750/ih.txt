@@ -1,0 +1,112 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10750 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10750
+
+ To direct the Secretary of the Air Force to establish a pilot program 
+   to conduct in-space technology demonstrations regarding advanced 
+    nuclear fission propulsion systems and advanced nuclear fusion 
+                          propulsion systems.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 5, 2026
+
+Mr. Whitesides introduced the following bill; which was referred to the 
+                      Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To direct the Secretary of the Air Force to establish a pilot program 
+   to conduct in-space technology demonstrations regarding advanced 
+    nuclear fission propulsion systems and advanced nuclear fusion 
+                          propulsion systems.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Advanced Nuclear Fission and Fusion 
+Propulsion Systems Act''.
+
+SEC. 2. SPACE TECHNOLOGY DEMONSTRATION OF ADVANCED NUCLEAR PROPULSION 
+              TECHNOLOGIES.
+
+    (a) Establishment.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of the Air Force, acting through 
+the Commander of the Air Force Research Laboratory, may establish a 
+pilot program to conduct in-space technology demonstrations, and 
+related risk reduction technology development activities, with respect 
+to both advanced nuclear fission propulsion systems and advanced 
+nuclear fusion propulsion systems.
+    (b) Purpose.--If the Secretary carries out the pilot program under 
+subsection (a), the Secretary shall carry out the pilot program in a 
+manner that reduces technical risk and informs future development 
+requirements relating to nuclear propulsion for national security 
+missions in space, including potential operations beyond geosynchronous 
+orbit, including in cislunar orbit.
+    (c) Selection.--If the Secretary carries out the pilot program 
+under subsection (a), the Secretary shall select entities to carry out 
+activities under the pilot program. In determining the criteria for 
+making such selection, the Secretary shall emphasize previous 
+subcomponent and prototype development and the ability to demonstrate 
+within reasonable timeframes.
+    (d) Demonstration Required.--If the Secretary carries out the pilot 
+program under subsection (a), not later than three years after the date 
+of the enactment of this Act, the Secretary shall conduct in-space 
+demonstrations described in subsection (a), with oversight by the Air 
+Force Research Laboratory Rocket Propulsion Division at Edwards Air 
+Force Base, California.
+    (e) Activities.--In carrying out the pilot program under subsection 
+(a), the Secretary shall, at a minimum--
+            (1) establish technical objectives and success criteria for 
+        the in-space demonstrations described in subsection (a);
+            (2) develop a concept of operations and test and evaluation 
+        approach for the demonstrations;
+            (3) conduct ground test activities necessary to support the 
+        demonstrations;
+            (4) assist in the acquisition of launch services;
+            (5) plan for collection and analysis of on-orbit data 
+        sufficient to assess propulsion performance, operability, and 
+        reliability; and
+            (6) assess potential use cases for applications in cislunar 
+        operations pending the conclusion of the demonstrations.
+    (f) Plan.--Before commencing the pilot program under subsection 
+(a), the Secretary shall submit to the congressional defense committees 
+(as defined in section 101(a)(16) of title 10, United States Code) a 
+plan on the pilot program.
+    (g) Report.--If the Secretary carries out the pilot program under 
+subsection (a), not later than one year after the date of the enactment 
+of this Act, the Secretary shall submit to the congressional defense 
+committees a report on the pilot program. The report shall include--
+            (1) a description of the activities carried out under the 
+        pilot program, including the planned demonstration concept of 
+        operations and the associated timeline;
+            (2) the technical objectives and success criteria 
+        established under subsection (e)(1);
+            (3) an assessment of major technical risks and planned 
+        risk-mitigation activities; and
+            (4) an assessment of parallel efforts by the People's 
+        Republic of China to develop and deploy advanced space 
+        propulsion technologies for strategic purposes.
+                                 <all>

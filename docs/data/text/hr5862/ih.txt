@@ -1,0 +1,390 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5862 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 5862
+
+ To amend the Internal Revenue Code of 1986 to restore certain energy-
+ related provisions as in effect prior to the enactment of Public Law 
+                                119-21.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 28, 2025
+
+  Mr. Thompson of California (for himself, Mr. Neal, Mr. Doggett, Mr. 
+Larson of Connecticut, Mr. Davis of Illinois, Ms. Sanchez, Ms. Sewell, 
+      Ms. DelBene, Ms. Chu, Ms. Moore of Wisconsin, Mr. Boyle of 
+Pennsylvania, Mr. Beyer, Mr. Evans of Pennsylvania, Mr. Schneider, Mr. 
+Panetta, Mr. Gomez, Mr. Horsford, Ms. Plaskett, Mr. Suozzi, Mr. Fields, 
+    Ms. Barragan, Ms. Ansari, Mr. Tonko, Mr. Cleaver, Mr. Carter of 
+Louisiana, Mr. Vargas, Mr. Tran, Ms. Matsui, Ms. Salinas, Ms. McCollum, 
+  Mr. Garcia of California, Mr. Norcross, Ms. Castor of Florida, Mr. 
+  Garamendi, Mr. Scott of Virginia, Mr. Lieu, Ms. DeGette, Mr. Lynch, 
+    Mrs. Cherfilus-McCormick, Ms. Norton, Mrs. McIver, Ms. Kelly of 
+Illinois, Mr. Landsman, Ms. Simon, Mr. Casten, Mr. Goldman of New York, 
+Ms. Tokuda, Mr. Vicente Gonzalez of Texas, Mr. Kennedy of New York, Mr. 
+  DeSaulnier, Mr. Min, Mrs. Foushee, Ms. Elfreth, Mr. Magaziner, Mr. 
+Deluzio, Ms. Brownley, Mr. Costa, Mr. Mfume, Ms. Morrison, Mr. Mullin, 
+  Ms. Williams of Georgia, Ms. Pettersen, Ms. Lofgren, Ms. Ross, Mr. 
+  Courtney, Mr. Takano, Ms. Scholten, Mr. Espaillat, Mr. Correa, Mr. 
+   Jackson of Illinois, Ms. Schakowsky, Ms. Titus, Mr. Stanton, Ms. 
+McClellan, Mr. McGarvey, Ms. Budzinski, Mr. Huffman, Ms. Friedman, Mr. 
+Carbajal, Mr. Bell, Ms. McBride, Mr. Quigley, Ms. Scanlon, Ms. Randall, 
+ Mr. Carson, Ms. Bynum, Mr. Hoyer, Mr. Nadler, Mr. Torres of New York, 
+ Ms. Kamlager-Dove, Mr. Ruiz, Ms. Pingree, Mr. Mrvan, Ms. Lois Frankel 
+  of Florida, Mr. Cohen, Ms. Bonamici, Mr. Larsen of Washington, Ms. 
+ Jacobs, Mr. Gottheimer, Mr. Khanna, Ms. Garcia of Texas, Mr. Latimer, 
+ Mr. Thanedar, Ms. Johnson of Texas, Mr. Foster, Ms. Davids of Kansas, 
+Ms. McDonald Rivet, Mr. Amo, Mr. Sorensen, Mr. Thompson of Mississippi, 
+Ms. Stansbury, Mr. Menendez, Ms. Waters, Mr. McGovern, and Mr. Moulton) 
+ introduced the following bill; which was referred to the Committee on 
+                             Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to restore certain energy-
+ related provisions as in effect prior to the enactment of Public Law 
+                                119-21.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE, ETC.
+
+    (a) Short Title.--This Act may be cited as the ``American Energy 
+Independence and Affordability Act''.
+    (b) References to the Internal Revenue Code of 1986.--Except as 
+otherwise expressly provided, whenever in this Act an amendment or 
+repeal is expressed in terms of an amendment to, or repeal of, a 
+section or other provision, the reference shall be considered to be 
+made to a section or other provision of the Internal Revenue Code of 
+1986.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents of this Act is as follows:
+
+Sec. 1. Short title, etc.
+Sec. 2. Table of contents.
+    TITLE I--LOWERING ENERGY COSTS THROUGH ALL-OF-THE-ABOVE ENERGY 
+                               PRODUCTION
+
+Sec. 101. Clean energy production credit.
+Sec. 102. Clean electricity investment credit.
+Sec. 103. Advanced manufacturing production credit.
+Sec. 104. Repeal of restriction on the extension of advance energy 
+                            project credit program.
+Sec. 105. Reversion of construction date for clean hydrogen production 
+                            credit.
+Sec. 106. Reversion of termination for residential clean energy credit.
+Sec. 107. Reinstatement of special rate for sustainable aviation fuel.
+       TITLE II--LOWERING ENERGY COSTS THROUGH ENERGY EFFICIENCY
+
+Sec. 201. Energy efficient home improvement credit.
+Sec. 202. New energy efficient home credit.
+Sec. 203. Repeal of termination of new energy efficient commercial 
+                            buildings deduction.
+Sec. 204. Restoration of cost recovery for energy property.
+   TITLE III--ENSURING AMERICA LEADS THE WAY IN OUR AUTOMOTIVE FUTURE
+
+Sec. 301. Reversion of termination date for previously-owned vehicle 
+                            credit.
+Sec. 302. Reversion of termination date for clean vehicle credit.
+Sec. 303. Reversion of termination date for qualified commercial clean 
+                            vehicles credit.
+Sec. 304. Reversion of termination date for alternative fuel vehicle 
+                            refueling property credit.
+
+    TITLE I--LOWERING ENERGY COSTS THROUGH ALL-OF-THE-ABOVE ENERGY 
+                               PRODUCTION
+
+SEC. 101. CLEAN ENERGY PRODUCTION CREDIT.
+
+    (a) Restoration of Phase-Out.--Section 45Y(d)(3) is amended by 
+striking ``calendar year 2032.'' and inserting ``means the later of--
+                    ``(A) the calendar year in which the Secretary 
+                determines that the annual greenhouse gas emissions 
+                from the production of electricity in the United States 
+                are equal to or less than 25 percent of the annual 
+                greenhouse gas emissions from the production of 
+                electricity in the United States for calendar year 
+                2022, or
+                    ``(B) 2032.''.
+    (b) Restoration of Credit for Wind and Solar Facilities.--Section 
+45Y(d) is amended--
+            (1) in paragraph (1), by striking ``Subject to paragraph 
+        (4), the amount'' and inserting ``The amount'', and
+            (2) by striking paragraph (4).
+    (c) Restoration of Credit for Wind and Solar Leasing 
+Arrangements.--Section 45Y is amended by striking subsection (h).
+    (d) Repeal of Provision for Existing Studies.--Section 45Y(b)(2)(C) 
+is amended by striking clause (iii).
+    (e) Effective Dates.--The amendments made by this section shall 
+take effect as if included in section 70512 of Public Law 119-21.
+
+SEC. 102. CLEAN ELECTRICITY INVESTMENT CREDIT.
+
+    (a) Repeal of Termination for Wind and Solar Facilities.--Section 
+48E(e) is amended--
+            (1) in paragraph (1), by striking ``Subject to paragraph 
+        (4), the amount'' and inserting ``The amount'', and
+            (2) by striking paragraph (4).
+    (b) Restoration of Credit for Expenditures for Wind and Solar 
+Leasing Arrangements.--
+            (1) In general.--Section 48E is amended by striking 
+        subsection (i) and by redesignating subsections (j) and (k) as 
+        subsections (i) and (j), respectively.
+            (2) Conforming rule repeal.--Section 50 is amended by 
+        striking subsection (e).
+    (c) Restoration of Credit for Certain Energy Property.--Section 
+48(a)(2)(A)(ii) is amended by striking ``0 percent'' and inserting ``2 
+percent''.
+    (d) Effective Dates.--The amendments made by this section shall 
+take effect as if included in section 70513 of Public Law 119-21.
+
+SEC. 103. ADVANCED MANUFACTURING PRODUCTION CREDIT.
+
+    (a) Repeal of Inclusion of Metallurgical Coal as an Applicable 
+Critical Mineral.--Section 45X(c)(6) is amended by striking 
+subparagraph (R) and by redesignating subparagraphs (S) through (AA) as 
+subparagraphs (R) through (ZZ), respectively.
+    (b) Repeal of Termination for Wind Energy Components.--Section 
+45X(b)(3) is amended by striking subparagraph (D).
+    (c) Conforming Amendments.--
+            (1) Section 45X(b)(1)(M) is amended by striking ``(2.5 
+        percent in the case of metallurgical coal)''.
+            (2) The heading of section 45X(b)(3) is amended by striking 
+        ``and termination''.
+            (3) Section 45X(b)(3)(A) is amended by striking 
+        ``subparagraphs (C) and (D)'' and inserting ``subparagraph 
+        (C)''.
+            (4) The heading of section 45X(b)(3)(C) is amended by 
+        striking ``other than metallurgical coal''.
+            (5) The heading of section 45X(b)(3)(C)(ii) is amended by 
+        striking ``other than metallurgical coal''.
+            (6) Section 45X(b)(3) is amended by striking subparagraph 
+        (E).
+    (d) Effective Date.--The amendments made by this section shall take 
+effect as if included in section 70514 of Public Law 119-21.
+
+SEC. 104. REPEAL OF RESTRICTION ON THE EXTENSION OF ADVANCE ENERGY 
+              PROJECT CREDIT PROGRAM.
+
+    (a) In General.--Section 48C(e)(3)(C) is amended by striking 
+``shall not be increased'' and inserting ``shall be increased''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70515 of Public Law 119-21.
+
+SEC. 105. REVERSION OF CONSTRUCTION DATE FOR CLEAN HYDROGEN PRODUCTION 
+              CREDIT.
+
+    (a) In General.--Section 45V(c)(3)(C) is amended by striking 
+``January 1, 2028'' and inserting ``January 1, 2033''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70511 of Public Law 119-21.
+
+SEC. 106. REVERSION OF TERMINATION FOR RESIDENTIAL CLEAN ENERGY CREDIT.
+
+    (a) In General.--Section 25D(h) is amended by striking ``with 
+respect to any expenditures made after December 31, 2025'' and 
+inserting ``to property placed in service after December 31, 2034''.
+    (b) Conforming Amendment.--Section 25D(g) is amended by striking 
+``and'' at the end of paragraph (2), by striking ``30 percent.'' at the 
+end of paragraph (3) and inserting ``and before January 1, 2033, 30 
+percent,'' and by adding at the end the following new paragraphs:
+            ``(4) in the case of property placed in service after 
+        December 31, 2032, and before January 1, 2034, 26 percent, and
+            ``(5) in the case of property placed in service after 
+        December 31, 2033, and before January 1, 2035, 22 percent.''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect as if included in section 70506 of Public Law 119-21.
+
+SEC. 107. REINSTATEMENT OF SPECIAL RATE FOR SUSTAINABLE AVIATION FUEL.
+
+    (a) In General.--Section 45Z(a)(3) is amended to read as follows:
+            ``(3) Special rate for sustainable aviation fuel.--
+                    ``(A) In general.--In the case of a transportation 
+                fuel which is sustainable aviation fuel, paragraph (2) 
+                shall be applied--
+                            ``(i) in the case of fuel produced at a 
+                        qualified facility described in paragraph 
+                        (2)(A), by substituting `35 cents' for `20 
+                        cents', and
+                            ``(ii) in the case of fuel produced at a 
+                        qualified facility described in paragraph 
+                        (2)(B), by substituting `$1.75' for `$1.00'.
+                    ``(B) Sustainable aviation fuel.--For purposes of 
+                subparagraph (A), the term `sustainable aviation fuel' 
+                means liquid fuel, the portion of which is not 
+                kerosene, which is sold for use in an aircraft and 
+                which--
+                            ``(i) meets the requirements of--
+                                    ``(I) ASTM International Standard 
+                                D7566, or
+                                    ``(II) the Fischer Tropsch 
+                                provisions of ASTM International 
+                                Standard D1655, Annex A1, and
+                            ``(ii) is not derived from palm fatty acid 
+                        distillates or petroleum.''.
+    (b) Conforming Amendment.--Section 45Z(c)(1) is amended by striking 
+``and the $1.00 amount in subsection (a)(2)(B)'' and inserting ``the 
+$1.00 amount in subsection (a)(2)(B), the 35 cent amount in subsection 
+(a)(3)(A)(i), and the $1.75 amount in subsection (a)(3)(A)(ii)''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect as if included in section 70521 of Public Law 119-21.
+
+       TITLE II--LOWERING ENERGY COSTS THROUGH ENERGY EFFICIENCY
+
+SEC. 201. ENERGY EFFICIENT HOME IMPROVEMENT CREDIT.
+
+    (a) Restoring Product Identification Number Requirement.--Section 
+25C(h) is amended to read as follows:
+    ``(h) Product Identification Number Requirement.--
+            ``(1) In general.--No credit shall be allowed under 
+        subsection (a) with respect to any item of specified property 
+        placed in service after December 31, 2024, unless--
+                    ``(A) such item is produced by a qualified 
+                manufacturer, and
+                    ``(B) the taxpayer includes the qualified product 
+                identification number of such item on the return of tax 
+                for the taxable year.
+            ``(2) Qualified product identification number.--For 
+        purposes of this section, the term `qualified product 
+        identification number' means, with respect to any item of 
+        specified property, the product identification number assigned 
+        to such item by the qualified manufacturer pursuant to the 
+        methodology referred to in paragraph (3).
+            ``(3) Qualified manufacturer.--For purposes of this 
+        section, the term `qualified manufacturer' means any 
+        manufacturer of specified property which enters into an 
+        agreement with the Secretary which provides that such 
+        manufacturer will--
+                    ``(A) assign a product identification number to 
+                each item of specified property produced by such 
+                manufacturer utilizing a methodology that will ensure 
+                that such number (including any alphanumeric) is unique 
+                to each such item (by utilizing numbers or letters 
+                which are unique to such manufacturer or by such other 
+                method as the Secretary may provide),
+                    ``(B) label such item with such number in such 
+                manner as the Secretary may provide, and
+                    ``(C) make periodic written reports to the 
+                Secretary (at such times and in such manner as the 
+                Secretary may provide) of the product identification 
+                numbers so assigned and including such information as 
+                the Secretary may require with respect to the item of 
+                specified property to which such number was so 
+                assigned.
+            ``(4) Specified property.--For purposes of this subsection, 
+        the term `specified property' means any qualified energy 
+        property and any property described in subparagraph (B) or (C) 
+        of subsection (c)(3).''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in the enactment of section 70505 of Public Law 
+119-21.
+
+SEC. 202. NEW ENERGY EFFICIENT HOME CREDIT.
+
+    (a) In General.--Section 45L(h) is amended by striking ``acquired 
+after June 30, 2026'' and inserting ``acquired after December 31, 
+2032''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70508 of Public Law 119-21.
+
+SEC. 203. REPEAL OF TERMINATION OF NEW ENERGY EFFICIENT COMMERCIAL 
+              BUILDINGS DEDUCTION.
+
+    (a) In General.--Section 179D is amended by striking subsection 
+(i).
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70507 of Public Law 119-21.
+
+SEC. 204. RESTORATION OF COST RECOVERY FOR ENERGY PROPERTY.
+
+    (a) In General.--Section 168(e)(3)(B)(vi) is amended--
+            (1) by redesignating subclauses (I) and (II) as subclauses 
+        (II) and (III), respectively, and
+            (2) by inserting before subclause (II) (as so redesignated) 
+        the following subclause:
+                                    ``(I) is described in subparagraph 
+                                (A) of section 48(a)(3) (or would be so 
+                                described if ``solar or wind energy'' 
+                                were substituted for ``solar energy'' 
+                                in clause (i) thereof and the last 
+                                sentence of such section did not apply 
+                                to such subparagraph),''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70509 of Public Law 119-21.
+
+   TITLE III--ENSURING AMERICA LEADS THE WAY IN OUR AUTOMOTIVE FUTURE
+
+SEC. 301. REVERSION OF TERMINATION DATE FOR PREVIOUSLY-OWNED VEHICLE 
+              CREDIT.
+
+    (a) In General.--Section 25E(g) is amended by striking ``acquired 
+after September 30, 2025'' and inserting ``acquired after December 31, 
+2032''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70501 of Public Law 119-21.
+
+SEC. 302. REVERSION OF TERMINATION DATE FOR CLEAN VEHICLE CREDIT.
+
+    (a) In General.--Section 30D(h) is amended by striking ``acquired 
+after September 30, 2025'' and inserting ``placed in service after 
+December 31, 2032''.
+    (b) Conforming Amendments.--
+            (1) Section 30D(e)(1)(B) is amended by striking ``and'' at 
+        the end of clause (iii), by striking the period at the end of 
+        clause (iv) and inserting ``, and'', and by adding at the end 
+        the following clause:
+                            ``(v) in the case of a vehicle placed in 
+                        service after December 31, 2026, 80 percent.''.
+            (2) Section 30D(e)(2)(B) is amended by striking ``and'' at 
+        the end of clause (ii), by striking the period at the end of 
+        clause (iii), and by adding at the end the following clauses:
+                            ``(iv) in the case of a vehicle placed in 
+                        service during calendar year 2027, 80 percent,
+                            ``(v) in the case of a vehicle placed in 
+                        service during calendar year 2028, 90 percent, 
+                        and
+                            ``(vi) in the case of a vehicle placed in 
+                        service after December 31, 2028, 100 
+                        percent.''.
+    (c) Effective Date.--The amendments made by this section shall take 
+effect as if included in section 70502 of Public Law 119-21.
+
+SEC. 303. REVERSION OF TERMINATION DATE FOR QUALIFIED COMMERCIAL CLEAN 
+              VEHICLES CREDIT.
+
+    (a) In General.--Section 45W(g) is amended by striking ``September 
+30, 2025'' and inserting ``December 31, 2032''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70503 of Public Law 119-21.
+
+SEC. 304. REVERSION OF TERMINATION DATE FOR ALTERNATIVE FUEL VEHICLE 
+              REFUELING PROPERTY CREDIT.
+
+    (a) In General.--Section 30C(i) is amended by striking ``June 30, 
+2026'' and inserting ``December 31, 2032''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect as if included in section 70504 of Public Law 119-21.
+                                 <all>

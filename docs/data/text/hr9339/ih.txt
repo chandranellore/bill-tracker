@@ -1,0 +1,89 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9339 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9339
+
+To require the Secretary of Energy to conduct an assessment on the use 
+of artificial intelligence and high-performance computing technologies 
+       to enhance the bulk-power system, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 18, 2026
+
+Mrs. Harshbarger (for herself and Mr. Mullin) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Secretary of Energy to conduct an assessment on the use 
+of artificial intelligence and high-performance computing technologies 
+       to enhance the bulk-power system, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Affordable Innovation for the Grid 
+Act''.
+
+SEC. 2. ASSESSMENT ON USE OF ARTIFICIAL INTELLIGENCE AND HIGH-
+              PERFORMANCE COMPUTING TECHNOLOGIES TO ENHANCE BULK-POWER 
+              SYSTEM.
+
+    (a) Assessment.--Not later than 90 days after the date of enactment 
+of this Act, the Secretary of Energy, in consultation with the Federal 
+Energy Regulatory Commission and the Electric Reliability Organization, 
+shall conduct an assessment on the use of artificial intelligence and 
+high-performance computing technologies, including an assessment of the 
+employment of probabilistic operating techniques by artificial 
+intelligence and high-performance computing technologies, to enhance 
+the capacity, reliable operation, and operational efficiency of the 
+bulk-power system.
+    (b) Matters.--The assessment conducted under subsection (a) shall 
+include an assessment of--
+            (1) the potential for artificial intelligence and high-
+        performance computing technologies to expedite generator and 
+        load interconnection studies;
+            (2) the current applications, and levels of adoption, of 
+        artificial intelligence and high-performance computing 
+        technologies with respect to the operation of the bulk-power 
+        system; and
+            (3) any technical, regulatory, cybersecurity, or 
+        operational limitation affecting such adoption.
+    (c) Report.--Not later than one year after the date of enactment of 
+this Act, the Secretary of Energy shall submit to the Committee on 
+Energy and Commerce of the House of Representatives and the Committee 
+on Energy and Natural Resources of the Senate a report on the 
+assessment conducted under subsection (a), including recommendations 
+to--
+            (1) overcome any limitation assessed under subsection 
+        (b)(3); and
+            (2) facilitate the adoption and integration of artificial 
+        intelligence and high-performance computing technologies with 
+        respect to the operation of the bulk-power system.
+    (d) Definitions.--In this section, the terms ``bulk-power system'', 
+``Electric Reliability Organization'', and ``reliable operation'' have 
+the meanings given those terms in section 215(a) of the Federal Power 
+Act (16 U.S.C. 824o(a)).
+                                 <all>

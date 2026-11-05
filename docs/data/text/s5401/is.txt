@@ -1,0 +1,681 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5401 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5401
+
+  To amend the Department of Energy Organization Act to require that 
+financial assistance provided by the Department of Energy promote high 
+   labor standards, community benefits, domestic manufacturing, and 
+support for small or disadvantaged communities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 15, 2026
+
+ Mr. Heinrich introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Department of Energy Organization Act to require that 
+financial assistance provided by the Department of Energy promote high 
+   labor standards, community benefits, domestic manufacturing, and 
+support for small or disadvantaged communities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Good Energy Jobs Act of 2026''.
+
+SEC. 2. GOOD ENERGY JOBS.
+
+    (a) In General.--Title VI of the Department of Energy Organization 
+Act is amended by inserting before part B (42 U.S.C. 7231 et seq.) the 
+following:
+
+   ``PART A--ENERGY JOBS, COMMUNITY BENEFITS, AND RELATED FINANCIAL 
+                         ASSISTANCE PROVISIONS
+
+``SEC. 601. DEFINITIONS.
+
+    ``In this part:
+            ``(1) Covered project.--The term `covered project' means 
+        any construction, alteration, maintenance, or repair project.
+            ``(2) Financial assistance.--The term `financial 
+        assistance' includes--
+                    ``(A) a grant;
+                    ``(B) a loan;
+                    ``(C) a loan guarantee;
+                    ``(D) a cooperative agreement; and
+                    ``(E) an authorization to participate in, and any 
+                amounts or prizes provided pursuant to, a prize 
+                competition.
+            ``(3) Labor organization.--The term `labor organization' 
+        has the meaning given the term in section 2 of the National 
+        Labor Relations Act (29 U.S.C. 152).
+            ``(4) National laboratory.--The term `National Laboratory' 
+        has the meaning given the term in section 2 of the Energy 
+        Policy Act of 2005 (42 U.S.C. 15801).
+            ``(5) Project labor agreement.--The term `project labor 
+        agreement' means a pre-hire collective bargaining agreement 
+        with 1 or more labor organizations of which building, 
+        construction, or manufacturing employees are members that--
+                    ``(A) establishes the terms and conditions of 
+                employment for a specific project; and
+                    ``(B) is an agreement described in section 8(f) of 
+                the National Labor Relations Act (29 U.S.C. 158(f)).
+            ``(6) Registered apprenticeship program.--The term 
+        `registered apprenticeship program' has the meaning given the 
+        term in section 3131(e)(3)(B) of the Internal Revenue Code of 
+        1986.
+            ``(7) Small or disadvantaged community.--The term `small or 
+        disadvantaged community' means a community that--
+                    ``(A) bears burdens of negative public health 
+                effects, environmental pollution, or impacts of climate 
+                change;
+                    ``(B) is identified by the Secretary as 
+                disadvantaged based on relevant socioeconomic criteria, 
+                such as--
+                            ``(i) historical or structural 
+                        disinvestment that has resulted in 
+                        disproportionate environmental or health 
+                        burdens; or
+                            ``(ii) high-concentrations of low- and 
+                        moderate-income households; or
+                    ``(C)(i) has a population of less than 10,000 
+                individuals; and
+                    ``(ii) a sufficient number of those individuals, as 
+                determined by the Secretary--
+                            ``(I) bear burdens described in 
+                        subparagraph (A); or
+                            ``(II) are otherwise disadvantaged, as 
+                        described in subparagraph (B).
+
+``SEC. 602. PREVAILING WAGES AND APPRENTICESHIPS.
+
+    ``(a) Prevailing Wages.--
+            ``(1) In general.--The Secretary shall require that all 
+        laborers and mechanics employed by contractors or 
+        subcontractors in the performance of construction, alteration, 
+        maintenance, or repair work assisted, in whole or in part, by 
+        financial assistance provided by the Department for covered 
+        projects shall be paid wages at rates not less than those 
+        prevailing on similar construction in the locality as 
+        determined by the Secretary of Labor in accordance with 
+        subchapter IV of chapter 31 of title 40, United States Code.
+            ``(2) Authority.--With respect to the labor standards 
+        specified in this subsection, the Secretary of Labor shall have 
+        the authority and functions set forth in Reorganization Plan 
+        Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 
+        3145 of title 40, United States Code.
+            ``(3) Flexibility.--The Secretary of Labor and the 
+        Secretary may modify any applicable payroll certification 
+        requirement under part 3 of title 29, Code of Federal 
+        Regulations (or successor regulations), with respect to a 
+        contractor or subcontractor to which paragraph (1) applies for 
+        laborers and mechanics described in that paragraph that are 
+        parties to a collective bargaining agreement that requires a 
+        payroll schedule different than a payroll schedule otherwise 
+        required under that part to better align the timing of payroll 
+        certification reporting and payroll schedules.
+    ``(b) Apprenticeship Utilization.--The Secretary shall require, as 
+a term or condition of receiving financial assistance provided by the 
+Department for a covered project, that--
+            ``(1) not less than 15 percent of the total labor hours of 
+        the project shall be performed by individuals participating in 
+        a registered apprenticeship program; and
+            ``(2) the entity receiving the financial assistance shall 
+        adhere to apprentice-to-journey worker ratio requirements--
+                    ``(A) as determined by the Secretary; and
+                    ``(B) in compliance with Federal and State laws.
+    ``(c) Noncompliance.--
+            ``(1) Review.--The Secretary shall regularly review whether 
+        entities that receive financial assistance provided by the 
+        Department for covered projects comply with the requirements 
+        described in subsections (a) and (b).
+            ``(2) Corrective action.--If the Secretary determines that 
+        an entity described in paragraph (1) has failed to comply with 
+        a requirement described in that paragraph, the Secretary shall 
+        implement a corrective action, which may include withholding, 
+        recapturing, or terminating the applicable financial assistance 
+        provided by the Department to that entity.
+            ``(3) Consideration in evaluating future applications.--The 
+        Secretary shall consider any failure by an entity described in 
+        paragraph (1) to comply with a requirement described in that 
+        paragraph in evaluating any future application by that entity 
+        for financial assistance provided by the Department, including 
+        by flagging the entity for heightened compliance review.
+    ``(d) Public Reporting.--The Secretary shall annually publish 
+aggregate data on wage compliance, apprenticeship utilization, and 
+enforcement actions under this section, including the names of 
+noncompliant entities, on a publicly accessible website.
+
+``SEC. 603. LABOR NEUTRALITY.
+
+    ``(a) In General.--The Secretary shall require any entity receiving 
+financial assistance provided by the Department to make a good-faith 
+certification to the Secretary that the entity shall remain neutral, by 
+taking no position for or against, with respect to the exercise of 
+employees and labor organizations of the right to organize and bargain 
+in accordance with section 7 the National Labor Relations Act (29 
+U.S.C. 157) for the term of the financial assistance, including any 
+construction, operations, or maintenance assisted, in whole or in part, 
+by the financial assistance.
+    ``(b) Application to Contractors and Subcontractors.--
+            ``(1) In general.--The labor neutrality requirements 
+        described in subsection (a) shall apply to all contractors and 
+        subcontractors of an entity described in that subsection that 
+        are engaged in activities assisted, in whole or in part, by 
+        financial assistance provided by the Department.
+            ``(2) Certification and compliance.--Each contractor and 
+        subcontractor described in paragraph (1) shall make a good-
+        faith certification of neutrality to the Secretary, and each 
+        entity described in subsection (a) shall be responsible for 
+        ensuring compliance of all contractors and subcontractors of 
+        that entity throughout the contracting chain.
+    ``(c) Noncompliance.--
+            ``(1) Review.--The Secretary shall regularly review whether 
+        entities that receive financial assistance provided by the 
+        Department comply with the requirements described in 
+        subsections (a) and (b)(2).
+            ``(2) Corrective action.--If the Secretary determines that 
+        an entity described in paragraph (1) has failed to comply with 
+        a requirement described in that paragraph, the Secretary shall 
+        implement a corrective action, which may include withholding, 
+        recapturing, or terminating the applicable financial assistance 
+        provided by the Department to that entity.
+            ``(3) Consideration in evaluating future applications.--The 
+        Secretary shall consider any failure by an entity described in 
+        paragraph (1) to comply with a requirement described in that 
+        paragraph in evaluating any future application by that entity 
+        for financial assistance provided by the Department, including 
+        by flagging the entity for heightened compliance review.
+    ``(d) Public Reporting.--The Secretary shall publish on a publicly 
+accessible website each certification made to the Secretary by an 
+entity under subsection (a) or (b)(2).
+
+``SEC. 604. PROJECT LABOR AGREEMENTS.
+
+    ``(a)  Definitions.--In this section:
+            ``(1) Covered department facility project.--The term 
+        `covered Department facility project' means a project--
+                    ``(A) for the construction, alteration, 
+                maintenance, or repair of a Department facility; and
+                    ``(B) the total cost of which exceeds $1,000,000.
+            ``(2) Department facility.--The term `Department facility' 
+        includes--
+                    ``(A) any facility owned and operated by the 
+                Department; and
+                    ``(B) any contractor-operated National Laboratory 
+                or National Nuclear Safety Administration facility.
+    ``(b) Project Labor Agreement Required.--The Secretary shall 
+require each contractor and subcontractor commencing any construction, 
+alteration, maintenance, or repair of a Department facility after the 
+date of enactment of the Good Energy Jobs Act of 2026 pursuant to a 
+covered Department facility project to negotiate or become a party to a 
+project labor agreement.
+    ``(c) Local and Targeted Hiring Goals.--The Secretary shall seek to 
+ensure that project labor agreements entered into pursuant to this 
+section include goals, to the extent permitted by law, for--
+            ``(1) local hiring; and
+            ``(2) the participation of women, people of color, 
+        veterans, justice-involved individuals, and other 
+        underrepresented workers.
+    ``(d) Apprenticeship Utilization.--The Secretary shall seek to 
+ensure that project labor agreements entered into pursuant to this 
+section--
+            ``(1) include provisions to employ individuals 
+        participating in registered apprenticeship programs; and
+            ``(2) maintain compliance with Federal- or State-approved 
+        apprentice-to-journey worker ratios.
+    ``(e) Noncompliance.--
+            ``(1) In general.--The Secretary shall regularly review 
+        whether contractors and subcontractors engaged in the 
+        construction, alteration, maintenance, or repair of a 
+        Department facility pursuant to a covered Department facility 
+        project comply with the requirement described in subsection 
+        (b).
+            ``(2) Corrective action.--If the Secretary determines that 
+        a contractor or subcontractor described in paragraph (1) has 
+        failed to comply with the requirement described in subsection 
+        (b), the Secretary shall implement a corrective action, which 
+        may include termination of the applicable contract.
+            ``(3) Consideration in evaluating future applications.--The 
+        Secretary shall consider any failure by a contractor or 
+        subcontractor described in paragraph (1) to comply with the 
+        requirement described in subsection (b) in evaluating any 
+        future application by that contractor or subcontractor for 
+        financial assistance provided by the Department, including by 
+        flagging the contractor or subcontractor for heightened 
+        compliance review.
+
+``SEC. 605. COMMUNITY BENEFITS PLANS AND ASSOCIATED AGREEMENTS.
+
+    ``(a) Community Benefits Plan Required.--
+            ``(1) In general.--The Secretary shall require any entity 
+        applying for financial assistance provided by the Department 
+        for a covered project to include in the application for that 
+        financial assistance a community benefits plan to ensure 
+        broadly shared prosperity resulting from that financial 
+        assistance.
+            ``(2) Consideration.--In evaluating applications described 
+        in paragraph (1) and selecting applicants to receive any 
+        financial assistance described in that paragraph, the Secretary 
+        shall consider the quality of, and specific and measurable 
+        commitments contained in, a community benefits plan.
+            ``(3) Requirement.--A community benefits plan shall be 
+        informed by a community needs assessment, as described in 
+        subsection (b).
+    ``(b) Community Needs Assessment.--A community needs assessment 
+required under subsection (a)(3) shall--
+            ``(1) identify the communities and populations likely to be 
+        affected by the proposed use of the financial assistance for 
+        which the applicable entity is applying, including--
+                    ``(A) small or disadvantaged communities; and
+                    ``(B) disadvantaged, low-income, and 
+                underrepresented workers and residents;
+            ``(2) assess existing workforce, environmental, public 
+        health, and other infrastructure conditions in the affected 
+        area, using publicly available data (to the extent possible), 
+        including job quality conditions, wage levels, worker 
+        demographics, barriers to employment, and the availability of 
+        support services, which may include child care and 
+        transportation services;
+            ``(3) identify community priorities, which may include--
+                    ``(A) job quality;
+                    ``(B) local hiring;
+                    ``(C) worker training and advancement 
+                opportunities;
+                    ``(D) environmental health;
+                    ``(E) pollution reduction; and
+                    ``(F) energy burden reduction;
+            ``(4) describe the community engagement process used to 
+        develop the community needs assessment; and
+            ``(5) identify--
+                    ``(A) the measurable benefits sought by community 
+                stakeholders; and
+                    ``(B) the potential impacts of the proposed use of 
+                the financial assistance for which the applicable 
+                entity is applying, including impacts on job quality, 
+                worker training, and worker retention.
+    ``(c) Community Benefits Plan Contents.--A community benefits plan 
+required under subsection (a)(1) shall--
+            ``(1) demonstrate how the entity applying for the financial 
+        assistance--
+                    ``(A) will conduct meaningful documented engagement 
+                with, and ensure the participation of (including by 
+                negotiating to enter into a workforce or community 
+                agreement described in subsection (d)), an inclusive 
+                and representative coalition of local stakeholders that 
+                would be affected by the proposed use of the financial 
+                assistance, such as labor organizations, community-
+                based organizations, public interest groups, academic 
+                institutions, local governments, and, as applicable, 
+                Tribal governments;
+                    ``(B) has developed, and will implement, the 
+                community benefits plan in an accessible and 
+                transparent manner;
+                    ``(C) will address, as applicable, how the proposed 
+                use of the financial assistance by the entity will 
+                address concerns identified by the community, mitigate 
+                harms, and ensure that meaningful benefits accrue to 
+                small or disadvantaged communities to advance the Small 
+                and Disadvantaged Communities Initiative carried out 
+                under section 608, including--
+                            ``(i) identification of the specific 
+                        populations within the affected community that 
+                        qualify as small or disadvantaged communities; 
+                        and
+                            ``(ii) a description of the measurable 
+                        benefits the project will provide to those 
+                        populations, including--
+                                    ``(I) any measurable benefits 
+                                identified under subsection (b)(5);
+                                    ``(II) any relevant metrics 
+                                developed pursuant to the 
+                                recommendations under section 606(b); 
+                                and
+                                    ``(III) any measurable benefits 
+                                identified by the Secretary under 
+                                section 608(a); and
+                    ``(D) will address other community concerns, such 
+                as--
+                            ``(i) infrastructure access and adequacy;
+                            ``(ii) pollution mitigation; and
+                            ``(iii) other concerns that may be related 
+                        to the proposed use of the financial 
+                        assistance; and
+            ``(2) contain a plan to promote job quality and access, 
+        which shall--
+                    ``(A) demonstrate how the entity applying for 
+                financial assistance--
+                            ``(i) will use that financial assistance to 
+                        support, create, or retain high-quality jobs, 
+                        including jobs that provide wages above 
+                        prevailing wage rates where feasible, are 
+                        sufficient to meet regionally adjusted living 
+                        standards, and provide employer-provided 
+                        healthcare, retirement benefits, and paid 
+                        leave, while supporting workforce development, 
+                        reduced barriers to employment, and safe and 
+                        healthy workplaces; and
+                            ``(ii) will ensure that disadvantaged and 
+                        underrepresented workers have access to high-
+                        quality jobs and economic opportunities 
+                        generated by the proposed use of the financial 
+                        assistance;
+                    ``(B) describe how the proposed use of the 
+                financial assistance will avoid worker displacement and 
+                ensure retention of existing workers through retraining 
+                and upskilling where feasible and consistent with the 
+                proposed use of the financial assistance; and
+                    ``(C) describe how the entity applying for 
+                financial assistance will promote positive labor-
+                management relations, which may include adoption, as 
+                appropriate, of project labor agreements, community 
+                benefits agreements, collective bargaining agreements, 
+                agreements intended to ensure the uninterrupted 
+                delivery of services, agreements designed to facilitate 
+                first collective bargaining agreements, and voluntary 
+                union recognition.
+    ``(d) Workforce and Community Agreements.--A community benefits 
+plan required under subsection (a)(1) shall be designed to result in 1 
+or more legally enforceable workforce or community agreements, which 
+may include a community benefits agreement, a community workforce 
+agreement, a project labor agreement, a collective bargaining 
+agreement, or any other similar contractual agreement, that--
+            ``(1) are consistent with the needs of the relevant 
+        workforce and community;
+            ``(2) are negotiated between the entity applying for 
+        financial assistance and an inclusive and representative 
+        coalition of relevant local stakeholders, including--
+                    ``(A) labor organizations;
+                    ``(B) community-based organizations;
+                    ``(C) public interest groups;
+                    ``(D) academic institutions;
+                    ``(E) local governments; and
+                    ``(F) Tribal governments, as applicable; and
+            ``(3) cover any construction, operations, and maintenance 
+        activities associated with a covered project that is subject to 
+        an application for financial assistance.
+    ``(e) Transparency.--
+            ``(1) In general.--The Secretary shall require the public 
+        disclosure of detailed summaries of community benefits plans 
+        and associated agreements (excluding project labor agreements) 
+        developed pursuant to this section, which shall include, 
+        subject to such protections for confidential business 
+        information as the Secretary determines appropriate--
+                    ``(A) a summary of the details of the applicable 
+                community benefits plan and associated agreements;
+                    ``(B) a list of the parties to any associated 
+                agreement; and
+                    ``(C) a description of the organizations consulted 
+                in the development of the applicable community benefits 
+                plans and associated agreements.
+            ``(2) Dashboard.--The Secretary shall maintain and 
+        regularly update a public dashboard summarizing--
+                    ``(A) the commitments made by entities described in 
+                subsection (a)(1) in community benefits plans and 
+                associated agreements developed pursuant to this 
+                section; and
+                    ``(B) the progress of those entities toward 
+                fulfilling those commitments.
+            ``(3) Periodic reporting on progress.--The Secretary shall 
+        require entities that receive financial assistance described in 
+        subsection (a)(1) to periodically report on progress made 
+        toward fulfilling the commitments included in any community 
+        benefits plans and associated agreements developed pursuant to 
+        this section.
+            ``(4) Project labor agreements.--This subsection shall not 
+        apply to a project labor agreement, and no project labor 
+        agreement or summary of a project labor agreement shall be--
+                    ``(A) required to be disclosed under paragraph (1);
+                    ``(B) included on the dashboard maintained under 
+                paragraph (2); or
+                    ``(C) subject to progress reporting under paragraph 
+                (3).
+    ``(f) Noncompliance.--
+            ``(1) In general.--The Secretary shall regularly review 
+        whether entities that receive financial assistance provided by 
+        the Department for covered projects comply with the 
+        requirements of this section and fulfill the commitments 
+        included in community benefits plans and associated agreements 
+        developed pursuant to this section.
+            ``(2) Corrective action.--If the Secretary determines that 
+        an entity described in paragraph (1) has failed to comply with 
+        a requirement or fulfill a commitment described in that 
+        paragraph, the Secretary shall implement a corrective action, 
+        which may include withholding, recapturing, or terminating the 
+        applicable financial assistance provided by the Department to 
+        that entity.
+            ``(3) Consideration in evaluating future applications.--The 
+        Secretary shall consider any failure by an entity described in 
+        paragraph (1) to comply with a requirement or fulfill a 
+        commitment described in that paragraph in evaluating any future 
+        application by that entity for financial assistance provided by 
+        the Department, including by flagging the entity for heightened 
+        compliance review.
+
+``SEC. 606. COMMUNITY BENEFITS AND JOB QUALITY ADVISORY GROUP.
+
+    ``(a) In General.--Not later than 1 year after the date of 
+enactment of the Good Energy Jobs Act of 2026, the Secretary shall 
+establish an advisory group consisting of representatives of labor 
+organizations (including at least 1 representative from a labor union 
+representing building or construction workers and at least 1 
+representative from a labor union representing manufacturing workers), 
+community-based organizations, public interest groups, academic 
+institutions, local governments, Tribal governments, and other experts, 
+as determined appropriate by the Secretary, to develop recommendations 
+and best practices on the development, implementation, and evaluation 
+of community benefit plans and associated agreements (excluding project 
+labor agreements) and community needs assessments.
+    ``(b) Requirement.--The recommendations and best practices 
+developed under subsection (a) shall support the development of--
+            ``(1) metrics to assess the success of the plans, 
+        assessments, and agreements described in that subsection; and
+            ``(2) methods to support transparency and reporting on key 
+        metrics.
+
+``SEC. 607. DOMESTIC MANUFACTURING.
+
+    ``(a) In General.--The Secretary shall promote the 
+commercialization and public availability of inventions made in the 
+United States by United States industry and labor.
+    ``(b) Enhancing United States Competitiveness.--The Secretary shall 
+require that an entity applying for financial assistance provided by 
+the Department to carry out research, development, or demonstration 
+shall--
+            ``(1) enter into an agreement providing that any product 
+        embodying the subject of, or produced through, that research, 
+        development, or demonstration shall, to the best ability of 
+        that entity, be manufactured substantially in the United 
+        States; and
+            ``(2) if the entity intends to manufacture any product 
+        described in paragraph (1), submit to the Secretary a domestic 
+        manufacturing plan regarding that product.
+    ``(c) Labor Standards.--
+            ``(1) In general.--The Secretary shall give preference to 
+        applications for financial assistance described in subsection 
+        (b) that include domestic manufacturing plans that include--
+                    ``(A) a commitment to manufacture any product 
+                described in subsection (b)(1) only using workers 
+                covered by a collective bargaining agreement;
+                    ``(B) a commitment to utilize registered 
+                apprenticeship programs or joint labor-management 
+                training programs with a demonstrated capacity to 
+                successfully train workers in manufacturing; and
+                    ``(C) such other commitments as are necessary to 
+                meet or exceed industry-leading labor standards.
+            ``(2) Requirement.--In carrying out paragraph (1), the 
+        Secretary shall require evidence that any joint labor-
+        management training program described in subparagraph (B) of 
+        that paragraph--
+                    ``(A) has successfully trained workers in 1 or more 
+                manufacturing industries for at least 2 years prior to 
+                receiving the applicable financial assistance;
+                    ``(B) has provided workers with a recognized and 
+                transferable credential at the completion of training; 
+                and
+                    ``(C) meets or exceeds the standards set by--
+                            ``(i) the applicable State Apprenticeship 
+                        Agency; or
+                            ``(ii) if there is no applicable State 
+                        Apprenticeship Agency, the Department of Labor.
+    ``(d) Noncompliance.--
+            ``(1) Review.--The Secretary shall regularly review whether 
+        entities that receive financial assistance described in 
+        subsection (b) comply with the requirements described in that 
+        subsection.
+            ``(2) Corrective action.--If the Secretary determines that 
+        an entity described in paragraph (1) has failed to comply with 
+        a requirement described in subsection (b) or has failed to 
+        adhere, or make reasonable progress toward adhering, to a 
+        domestic manufacturing plan submitted under paragraph (2) of 
+        that subsection, the Secretary shall implement a corrective 
+        action, which may include withholding, recapturing, or 
+        terminating the applicable financial assistance provided by the 
+        Department to that entity.
+            ``(3) Consideration in evaluating future applications.--The 
+        Secretary shall consider any failure by an entity described in 
+        paragraph (1) to comply with a requirement described in 
+        subsection (b) or to adhere, or make progress toward adhering, 
+        to a domestic manufacturing plan submitted under paragraph (2) 
+        of that subsection in evaluating any future application by that 
+        entity for financial assistance provided by the Department, 
+        including by flagging the entity for heightened compliance 
+        review.
+    ``(e) Offshoring Prohibited.--
+            ``(1) In general.--During the period described in paragraph 
+        (2), an entity receiving financial assistance provided by the 
+        Department may not, without the prior approval of the 
+        Secretary, relocate, transfer, or outsource the manufacture of 
+        any product developed or commercialized using that financial 
+        assistance to a foreign country.
+            ``(2) Period described.--The period referred to in 
+        paragraph (1) consists of--
+                    ``(A) the term of the applicable financial 
+                assistance; and
+                    ``(B) the 5-year period beginning on the completion 
+                of that term.
+            ``(3) Prior approval of the secretary.--The Secretary may 
+        only grant the approval described in paragraph (1) if the 
+        entity requesting that approval demonstrates that no feasible 
+        domestic manufacturing option exists.
+            ``(4) Consideration of noncompliance in evaluating future 
+        applications.--The Secretary shall consider any failure by an 
+        entity described in paragraph (1) to comply with a requirement 
+        of this subsection in evaluating future applications by that 
+        entity for financial assistance provided by the Department, 
+        including by flagging the entity for heightened compliance 
+        review.
+
+``SEC. 608. SMALL AND DISADVANTAGED COMMUNITIES INITIATIVE.
+
+    ``(a) In General.--The Secretary shall seek to ensure that not less 
+than 40 percent of the financial assistance provided by the Department 
+through programs included on the list established under subsection (b) 
+is provided to entities that have committed, through community benefits 
+plans and enforceable associated agreements, to provide specific, 
+measurable, and meaningful benefits to small or disadvantaged 
+communities, as determined by the Secretary.
+    ``(b) Covered Programs.--Not later than 1 year after the date of 
+enactment of the Good Energy Jobs Act of 2026, the Secretary, in 
+consultation with stakeholders representing geographically diverse 
+labor organizations and community-based organizations, shall, by rule, 
+establish and regularly update a list of programs that address--
+            ``(1) climate change;
+            ``(2) energy production, transmission, distribution, 
+        storage, and efficiency;
+            ``(3) energy technology manufacturing and related supply 
+        chains;
+            ``(4) transportation;
+            ``(5) housing;
+            ``(6) training and workforce development;
+            ``(7) remediation and reduction of legacy pollution; and
+            ``(8) drinking water and wastewater infrastructure.
+    ``(c) Enhanced Consideration for Small or Disadvantaged 
+Communities.--The Secretary shall ensure that financial assistance 
+provided by the Department, regardless of whether the financial 
+assistance is provided through a program included on the list 
+established under subsection (b), to entities that will use the 
+financial assistance to carry out a project in a small or disadvantaged 
+community--
+            ``(1) provides meaningful benefits to that small or 
+        disadvantaged community; and
+            ``(2) does not result in significant or permanent increased 
+        negative impacts to that small or disadvantaged community.
+    ``(d) Small and Disadvantaged Communities Initiative Evaluation.--
+Not later than 1 year after the date of enactment of the Good Energy 
+Jobs Act of 2026, and each year thereafter, the Secretary shall submit 
+to Congress a report on the efforts of the Department to carry out this 
+section.
+
+``SEC. 609. DATA COLLECTION AND REPORTING.
+
+    ``(a) In General.--The Secretary shall require any entity that 
+receives financial assistance provided by the Department to submit to 
+the Secretary a report, in a manner prescribed by the Secretary--
+            ``(1) to determine the compliance of that entity with the 
+        requirements of sections 602 through 608;
+            ``(2) to enable the assessment by the Secretary of the 
+        efforts of the Department to support job creation, job quality, 
+        apprenticeship utilization, and community benefits; and
+            ``(3) to enable the collection and reporting of metrics 
+        developed by the Department to track outcomes associated with 
+        the requirements of sections 602 through 608 over time.
+    ``(b) Job Quality Evaluation.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of the Good Energy Jobs Act of 2026, and each year 
+        thereafter, the Secretary shall submit to Congress a report 
+        on--
+                    ``(A) the efforts of the Department to carry out 
+                sections 602 through 608; and
+                    ``(B) other efforts of the Department to promote 
+                job quality, job access, and broadly shared prosperity 
+                among workers and communities resulting from financial 
+                assistance provided by the Department.
+            ``(2) Requirement.--The Secretary shall make aggregate data 
+        relating to apprenticeship utilization, wage compliance, and 
+        community benefits plans and associated agreements resulting 
+        from financial assistance provided by the Department publicly 
+        accessible through a website.''.
+    (b) Clerical Amendment.--The table of contents for the Department 
+of Energy Organization Act (Public Law 95-91; 91 Stat. 566; 110 Stat. 
+665) is amended by inserting before the items relating to part B of 
+title VI the following:
+
+   ``Part A--Energy Jobs, Community Benefits, and Related Financial 
+                         Assistance Provisions
+
+``Sec. 601. Definitions.
+``Sec. 602. Prevailing wages and apprenticeships.
+``Sec. 603. Labor neutrality.
+``Sec. 604. Project labor agreements.
+``Sec. 605. Community benefits plans and associated agreements.
+``Sec. 606. Community benefits and job quality advisory group.
+``Sec. 607. Domestic manufacturing.
+``Sec. 608. Small and Disadvantaged Communities Initiative.
+``Sec. 609. Data collection and reporting.''.
+                                 <all>

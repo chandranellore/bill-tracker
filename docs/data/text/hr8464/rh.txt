@@ -1,0 +1,327 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8464 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 597
+119th CONGRESS
+  2d Session
+                                H. R. 8464
+
+                          [Report No. 119-684]
+
+    To amend title 31, United States Code, to authorize pausing and 
+              segmenting payments, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 23, 2026
+
+  Mr. Comer (for himself and Mr. Arrington) introduced the following 
+ bill; which was referred to the Committee on Oversight and Government 
+                                 Reform
+
+                              June 3, 2026
+
+                    Additional sponsor: Mr. Calvert
+
+                              June 3, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+ [For text of introduced bill, see copy of bill as introduced on April 
+                               23, 2026]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend title 31, United States Code, to authorize pausing and 
+              segmenting payments, and for other purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stopping Fraudulent Payments Act''.
+
+SEC. 2. AUTHORITY TO PAUSE PAYMENTS FOR FURTHER REVIEW AND CORRECTIVE 
+              ACTION.
+
+    (a) Treasury Payment Voucher Waiver Authority.--
+            (1) Amendment.--Subchapter II of chapter 33 of title 31, 
+        United States Code, is amended by adding at the end the 
+        following:
+``Sec. 3337. Authority to pause payments for further review and 
+              corrective action
+    ``(a) Agency Obligation to Pause Disbursement Requests for 
+Corrective Action.--The head of an agency shall take a corrective 
+action to temporarily delay, condition, or segment a disbursement 
+request before the certification of a payment voucher under section 
+3325 if, as determined by an official designated by the head of the 
+agency, the agency--
+            ``(1) has sufficient reason to determine that the payment 
+        presents an elevated risk of fraud based on a fraud-risk 
+        indicator or an improper payment resulting in financial loss to 
+        the Government as estimated under the requirements of section 
+        3352 in accordance with the statutorily-defined eligibility 
+        requirements or other legally-established condition of the 
+        program for a payee to be eligible to receive payment;
+            ``(2) has sufficient reason to determine, based on a 
+        notification by the relevant State or local government official 
+        in the case of a payment from Federal funds disbursed by a 
+        State or local government under a State-administered and 
+        federally-funded program, that the payment presents an elevated 
+        risk of fraud based on a fraud-risk indicator or an improper 
+        payment resulting in financial loss to the Government as 
+        estimated under the requirements of section 3352 in accordance 
+        with the statutorily-defined eligibility requirements or other 
+        legally-established condition of the program for a payee to be 
+        eligible to receive payment; or
+            ``(3) has been notified of an order from the Secretary of 
+        the Treasury described under subsection (b).
+    ``(b) Treasury Obligation to Return Payment Voucher and Issue 
+Corrective Action Order.--Except where otherwise required by law, the 
+Secretary shall promptly notify the relevant certifying official of an 
+order to return a certified payment voucher submitted to a disbursing 
+official under section 3325 and issue a corrective action order to the 
+head of an agency not later than 2 days after the Secretary makes a 
+determination that in accordance with the statutorily-defined 
+eligibility requirements or other legally-established condition of the 
+program for a payee to be eligible to receive payment that such payment 
+presents an elevated risk of fraud based on a fraud-risk indicator or 
+an improper payment resulting in financial loss to the Government based 
+on an output of the Do Not Pay system under section 3354.
+    ``(c) Agency Documentation and Time-limited Corrective Action.--An 
+action taken by the head of an agency under subsection (a) shall--
+            ``(1) be based on an objective, documented fraud-risk 
+        indicator;
+            ``(2) be narrowly applied to the portion of the payment 
+        presenting the elevated risk; and
+            ``(3) be limited in duration to the minimum period 
+        necessary, as determined by the head of the agency, to verify 
+        eligibility of the payee or accuracy of the payment per any 
+        program requirement associated with the payment or as 
+        stipulated under law.
+    ``(d) Payee Notification and Time Limit of Paused Disbursement 
+Requests.--With respect to a disbursement request that has been 
+delayed, conditioned, or segmented pursuant to subsection (a) or a 
+payment voucher that is returned pursuant subsection (b), the head of 
+the agency shall take the following actions:
+            ``(1) Promptly provide to the payee (not later than 2 days 
+        after a determination under subsection (a) or a notification to 
+        the agency under subsection (b)), as appropriate, and for a 
+        case in which the payment from Federal funds disbursed by a 
+        State or local government under a State-administered and 
+        federally-funded program also provides to such relevant State 
+        or local government official, a notification that--
+                    ``(A) a disbursement has been temporarily paused, 
+                conditioned, or segmented;
+                    ``(B) identifies the nature of the fraud-risk 
+                indicator or improper payment relied upon by the agency 
+                to make the corrective action determination under 
+                subsection (a) or notification to the agency under 
+                subsection (b); and
+                    ``(C) outlines the process for the corrective 
+                action review period.
+            ``(2) Use a process tailored to the specific requirements 
+        and design of the agency program for a payee, or the State or 
+        local government described under paragraph (1), to contest any 
+        factual inaccuracy or provide clarifying information during the 
+        corrective action review period.
+            ``(3) Issue such payment not later than 30 days after a 
+        determination to take a corrective action is made by the head 
+        of the agency under subsection (a) or the agency was notified 
+        by the Secretary under subsection (b) of a corrective action 
+        order, but not later than 7 days after the date on which the 
+        payee contests the corrective action under the process 
+        established pursuant to paragraph (2), if the head of the 
+        agency determines that the payment does not present an elevated 
+        risk of fraud or an improper payment resulting in financial 
+        loss to the Government.
+    ``(e) Segmentation of Low-risk Payments.--To the maximum extent 
+practicable, the head of each agency shall allow a routine, 
+historically consistent payment amount to proceed while temporarily 
+holding an anomalous, unusually large, or high-risk portion of a 
+payment, or class of payments, pending review and resolution of an 
+agency corrective action determination under subsection (a) or a 
+corrective action order under subsection (b).
+    ``(f) Exemptions for Law Enforcement Activities.--The head of an 
+agency, in consultation with the Secretary and the Attorney General, 
+may waive any provision in this section on a case-by-case basis if 
+notified of or instructed by a Federal law enforcement authority, 
+including an agency Inspector General, that the action will jeopardize 
+an active criminal investigation or legal proceeding related to an 
+effort to defraud the Federal Government or violate sections 3729 
+through 3733 of title 31 (commonly known as the `False Claims Act').
+    ``(g) Limitation of Liability.--No officer or employee of the 
+Federal Government shall be personally liable for an action taken in 
+good faith under this section. An action taken under this section may 
+not constitute a final determination of eligibility, liability, or 
+wrongdoing on the part of a payee.
+    ``(h) Rule of Construction for Program Authorizing Statute.--
+Nothing in this section may be construed to supersede any other 
+provision of law with respect to any statute that authorizes the 
+payment or program the payment is made under.
+    ``(i) Regulations.--Not later than 180 days after the date of the 
+enactment of this section, and annually thereafter, the Secretary, in 
+consultation with the Director, shall issue regulations and establish 
+procedures to administer the requirements of this section that shall be 
+published in the Federal Register that, at a minimum, specify the 
+following:
+            ``(1) The minimum seniority of an agency official 
+        designated under subsection (a) authorized to make a 
+        determination to issue a corrective action.
+            ``(2) The procedures by which the Secretary of the Treasury 
+        will use the Do Not Pay system under section 3354 to make a 
+        determination under subsection (b) in accordance with the 
+        statutorily-defined eligibility requirements or other legally-
+        established condition of a program for a payee to be eligible 
+        to receive payment.
+            ``(3) The procedure for an agency to dispute an order to 
+        return a certified payment voucher and appeal a related 
+        corrective action order under subsection (b) to the Fiscal 
+        Assistant Secretary, which shall at a minimum include a 
+        requirement for the agency to receive a response not later than 
+        five days after making such a dispute or appeal to the 
+        Department of the Treasury.
+            ``(4) The minimum information requirements of a 
+        notification required under subsection (d)(1).
+    ``(j) Definitions.--In this section:
+            ``(1) Director.--The term `Director' means the Director of 
+        the Office of Management and Budget.
+            ``(2) Fraud-risk indicator.--The term `fraud-risk 
+        indicator' means an objective data point or analytic signal 
+        that indicates an anomalous payment pattern or increase in the 
+        volume of a payment amount, a verified data mismatch, network 
+        or behavioral anomaly, or match identified by the Do Not Pay 
+        system under section 3354 and any payment, account, or payee 
+        validation program or service administered by the Secretary 
+        that would result in financial loss to the Government.
+            ``(3) Routine, historically consistent payment amount.--The 
+        term `routine, historically consistent payment amount' means a 
+        payment amount that is consistent with previous payment history 
+        of the payee, established program use patterns, or other 
+        objective benchmarks determined by the certifying agency.
+            ``(4) Secretary.--The term `Secretary' means the Secretary 
+        of the Treasury.''.
+            (2) Technical and conforming amendment.--The table of 
+        sections for chapter 33 of title 31, United States Codes, is 
+        amended by inserting after the item for section 3336 the 
+        following:
+
+        ``3337. Authority to pause payments for further review and 
+                            corrective action.''.
+    (b) Requirements and Authorities of Payment Disbursing Officials.--
+Paragraph (3) of section 3325(a) of title 31, United States Code, is 
+amended--
+            (1) by inserting ``, compliance with an order to pause a 
+        payment pursuant to section 3337(b),'' after ``except for the 
+        correctness of computations on a voucher''; and
+            (2) by striking ``,,'' and inserting a comma.
+    (c) Relief of Accountable Officers.--Section 3527 of title 31, 
+United States Code, is amended--
+            (1) in subsection (a)(2), by inserting after ``the loss or 
+        deficiency was not the result of an illegal or incorrect 
+        payment'' the following: ``, or was made as a result of a good 
+        faith effort to comply with the requirements of section 3337''; 
+        and
+            (2) in subsection (b)(1)(A)(ii), by inserting after ``the 
+        loss or deficiency was not the result of an illegal or 
+        incorrect payment'' the following: ``, or was made as a result 
+        of a good faith effort to comply with the requirements of 
+        section 3337''.
+    (d) Requirements and Authorities of Payment Certifying Officials.--
+Subsection (a) of section 3528 of title 31, United States Code, is 
+amended--
+            (1) in paragraph (4)(C), by striking ``; and'' and 
+        inserting a semicolon;
+            (2) in paragraph (5), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following
+            ``(6) complying with an order to take a corrective action 
+        to temporarily delay, condition, or segment a disbursement 
+        request pursuant to section 3337.''.
+    (e) Relief of Certifying Officials.--Subsection (b)(1) of section 
+3528 of title 31, United States Code--
+            (1) in subparagraph (A), by striking ``; or'' and inserting 
+        a semicolon;
+            (2) in subparagraph (B)(iii), by striking the period at the 
+        end and inserting ``; or''; and
+            (3) by inserting at the end the following new subparagraph:
+            ``(C) the certification was made as a result of a good 
+        faith effort to comply with the requirements of section 
+        3337.''.
+    (f) Report on Results of Payments Paused for Further Review and 
+Corrective Action.--Not later than 18 months after the date of the 
+enactment of this Act, and annually thereafter, the Secretary of the 
+Treasury shall submit to the Director of the Office of Management and 
+Budget, the Committees on Appropriations of the Senate and the House of 
+Representatives, the Committee on Homeland Security and Governmental 
+Affairs of the Senate, and the Committee on Oversight and Government 
+Reform of the House of Representatives, a report on the following:
+            (1) The total number of orders to return a certified 
+        payment voucher submitted to a disbursing official under 
+        section 3325 of title 31, United States Code, and corrective 
+        action orders issued to the head of an agency under the 
+        authorities provided by section 3337(b) of such title, as added 
+        by this section.
+            (2) The percentage of such payments that are issued by the 
+        agency, including by successful contestations filed by the 
+        recipient or payee with the agency, and recommendations to 
+        mitigate such errors in the fraud-risk indicators of the 
+        Department of the Treasury in the future.
+            (3) The total savings to the Federal Government in payments 
+        determined to be fraudulent or result in financial loss to the 
+        Government under the authorities provided by subsections (a) 
+        and (b) of section 3337 of title 31, United States Code, as 
+        added by this section.
+            (4) Any necessary policy, regulatory, or legislative 
+        recommendations related to the authorities and requirements 
+        under section of section 3337 of title 31, United States Code, 
+        as added by this section, or other relevant law.
+    (g) Effective Date.--The amendments made by this section shall take 
+effect 1 year after the date of the enactment of this Act.
+                                                 Union Calendar No. 597
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 8464
+
+                          [Report No. 119-684]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+    To amend title 31, United States Code, to authorize pausing and 
+              segmenting payments, and for other purposes.
+
+_______________________________________________________________________
+
+                              June 3, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed

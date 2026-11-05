@@ -1,0 +1,162 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8466 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8466
+
+ To require certain agencies to develop plans for internal control in 
+      the event of an emergency or crisis, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 23, 2026
+
+ Mr. Biggs of Arizona (for himself and Mr. Subramanyam) introduced the 
+ following bill; which was referred to the Committee on Oversight and 
+                           Government Reform
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require certain agencies to develop plans for internal control in 
+      the event of an emergency or crisis, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Taxpayer Resources Used in 
+Emergencies Accountability Act'' or the ``TRUE Accountability Act''.
+
+SEC. 2. OMB GUIDANCE.
+
+    (a) Plans for Emergency Spending.--Subchapter IV of chapter 33 of 
+title 31, United States Code is amended by adding at the end the 
+following new section:
+``Sec. 3359. Requirement for financial and administrative controls for 
+              emergency spending
+    ``(a) Definitions.--In this section:
+            ``(1) Covered agency.--The term `covered agency' means an 
+        agency described in section 901(b).
+            ``(2) Director.--The term `Director' means the Director of 
+        the Office of Management and Budget.
+            ``(3) Internal control.--The term `internal control' means 
+        a process that is--
+                    ``(A) affected by the management and other 
+                personnel of an entity; and
+                    ``(B) designed to provide reasonable assurance with 
+                respect to the achievement of objectives relating to--
+                            ``(i) effectiveness and efficiency of 
+                        operations;
+                            ``(ii) reliability of financial reporting; 
+                        and
+                            ``(iii) compliance with applicable law.
+    ``(b) Guidance.--
+            ``(1) In general.--Not later than 180 days after the date 
+        of the enactment of this section, the Director shall issue, and 
+        every 3 years thereafter review and if necessary update, 
+        guidance to covered agencies for the development of plans for 
+        internal control that are ready or adaptable for immediate use 
+        in a future disaster, pandemic, economic relief, or other such 
+        emergency supplemental appropriations legislative measure.
+            ``(2) Contents.--The guidance issued under paragraph (1) 
+        shall--
+                    ``(A) incorporate relevant governmentwide documents 
+                and best practices for preventing improper payments and 
+                mitigating fraud risks in Federal programs, including 
+                the documents of the Government Accountability Office 
+                entitled `A Framework for Managing Improper Payments in 
+                Emergency Assistance Programs' and `A Framework for 
+                Managing Fraud Risks in Federal Programs' (or any 
+                successor document); and
+                    ``(B) require a plan for internal control of each 
+                covered agency to include--
+                            ``(i) the identification of a senior 
+                        official of the covered agency to be 
+                        responsible and accountable for the 
+                        implementation of the plan; and
+                            ``(ii) policies and procedures to timely--
+                                    ``(I) in accordance with paragraph 
+                                (3), assess the risks of improper 
+                                payments and fraud relating to the 
+                                implementation of any supplemental 
+                                appropriation, or other increase in 
+                                budget authority, that may be made 
+                                available to the covered agency for a 
+                                purpose relating to implementing a 
+                                disaster, pandemic, economic relief, or 
+                                other such emergency supplemental 
+                                appropriations legislative measure;
+                                    ``(II) develop and implement 
+                                mitigation strategies to reduce the 
+                                risks described in subclause (I), 
+                                including any change to internal 
+                                controls, to ensure that, to the 
+                                greatest extent possible, appropriate 
+                                controls are in place prior to the 
+                                expenditure of funds; and
+                                    ``(III) adopt real-time, data 
+                                driven payment monitoring techniques to 
+                                identify and reduce improper and 
+                                fraudulent payments, such as anomaly 
+                                detection, volume plausibility checks, 
+                                and network analysis.
+            ``(3) Assessment of risk.--The assessment of risk required 
+        by paragraph (2)(B)(ii)(I) shall include at a minimum--
+                    ``(A) a substantive evaluation of the risk of 
+                financial loss to the Federal Government caused by 
+                improper payments and fraud; and
+                    ``(B) an identification of the risk tolerance for 
+                the agency program or activity.
+    ``(c) Plan Submission.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        the enactment of this section, the head of each covered agency 
+        head shall submit to the Director the plan required by 
+        subsection (b)(2)(B).
+            ``(2) Revisions.--Not later than 3 years after the date on 
+        which the head of a covered agency submits a plan under 
+        paragraph (1), and not less frequently than once every 3 years 
+        thereafter, the head of each covered agency shall--
+                    ``(A) review and, if necessary, revise the plan of 
+                the covered agency; and
+                    ``(B) submit to the Director any revised plan of 
+                the covered agency.
+            ``(3) Submission to congress.--Not later than 15 months 
+        after the date of the enactment of this section, and not less 
+        frequently than annually thereafter, the Director shall 
+        assemble and submit to the Committee on Homeland Security and 
+        Governmental Affairs of the Senate and the Committee on 
+        Oversight and Government Reform of the House of Representatives 
+        the plans submitted by covered agencies under paragraph (1) and 
+        a summary of the plans to help agencies prepare to implement 
+        such plans, including any action planned to harmonize the 
+        agency programs and activities and any legislative 
+        recommendations for a future disaster, pandemic, economic 
+        relief, or other emergency supplemental appropriation.''.
+    (b) Technical and Conforming Amendment.--The table of sections for 
+chapter 33 of title 31, United States Code, is amended by inserting 
+after the item relating to section 3358 the following:
+
+        ``3359. Requirement for financial and administrative controls 
+                            for emergency spending.''.
+    (c) No Additional Funds.--No additional funds are authorized to be 
+appropriated for the purpose of carrying out this Act.
+                                 <all>

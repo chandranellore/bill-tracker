@@ -1,0 +1,143 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9646 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9646
+
+    To require the Secretary of the Interior to carry out a quantum-
+       enhanced critical minerals survey, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 13, 2026
+
+  Mr. Hurd of Colorado (for himself and Mr. Carbajal) introduced the 
+    following bill; which was referred to the Committee on Natural 
+                               Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To require the Secretary of the Interior to carry out a quantum-
+       enhanced critical minerals survey, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Quantum-Enhanced Critical Minerals 
+Mapping Act of 2026''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Critical mineral.--The term ``critical mineral'' has 
+        the meaning given to that term in section 7002(a) of the Energy 
+        Act of 2020 (30 U.S.C. 1606(a)).
+            (2) Earth mri.--The term ``Earth MRI'' means the Earth 
+        Mapping Resources Initiative of the United States Geological 
+        Survey.
+            (3) Quantum gravity gradiometry.--The term ``quantum 
+        gravity gradiometry'' means the use of quantum mechanical 
+        systems, including cold-atom interferometry, to measure spatial 
+        gradients of gravitational fields for the purpose of detecting 
+        subsurface density variations.
+            (4) Rare earth element.--The term ``rare earth element'' 
+        means any of the 17 metallic elements consisting of the 15 
+        lanthanides plus scandium and yttrium, which are a special 
+        subset of critical minerals.
+            (5) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior, acting through the Director of the United 
+        States Geological Survey.
+
+SEC. 3. QUANTUM-ENHANCED CRITICAL MINERALS SURVEY.
+
+    (a) In General.--Not later than 180 days after the date of 
+enactment of this Act, the Secretary shall establish and carry out a 
+program to conduct original quantum-enhanced geophysical surveys to 
+improve upon existing United States Geological Survey data for the 
+discovery and characterization of critical mineral and rare earth 
+element deposits on or adjacent to Federal lands.
+    (b) Survey Requirements.--In carrying out the program under 
+subsection (a), the Secretary shall--
+            (1) conduct mobile quantum gravity gradiometry surveys over 
+        not fewer than 3 priority critical minerals focus areas 
+        identified under the Earth MRI program, with priority given to 
+        focus areas in the western rare earth element zones;
+            (2) compare quantum gravity gradiometry data with existing 
+        classical geophysical survey data from the same focus areas to 
+        quantify detection improvements in resolution, depth 
+        penetration, and mineral deposit characterization;
+            (3) integrate all survey data into the Earth MRI national 
+        minerals database and make such data publicly accessible in a 
+        format compatible with existing Earth MRI data platforms;
+            (4) coordinate with the Secretary of Energy, acting through 
+        the directors of relevant Department of Energy national 
+        laboratories, including the National Laboratory of the Rockies; 
+        and
+            (5) to the maximum extent practicable, carry out surveys 
+        under cooperative research and development agreements with 
+        private quantum sensing firms to leverage private sector 
+        investment and reduce Federal costs.
+    (c) State Coordination.--The Secretary shall consult and coordinate 
+with the State Geological Surveys of affected States in selecting 
+survey focus areas and interpreting survey results.
+    (d) Industry Access.--Survey data made publicly available under 
+subsection (b)(3) shall be provided to mining and mineral exploration 
+companies to facilitate private-sector investment in domestic critical 
+mineral development.
+
+SEC. 4. REPORT TO CONGRESS.
+
+    (a) In General.--Not later than 24 months after the date of 
+enactment of this Act, the Secretary shall submit to the Committee on 
+Natural Resources of the House of Representatives and the Committee on 
+Energy and Natural Resources of the Senate a report on the quantum-
+enhanced geophysical survey program established under section 3.
+    (b) Contents.--The report required under subsection (a) shall 
+include--
+            (1) a description of each survey area, the quantum gravity 
+        gradiometry instruments deployed, and the survey methodologies 
+        used;
+            (2) a summary of critical minerals and rare earth elements 
+        identified or characterized in each survey area, including 
+        estimated deposit locations, depths, and potential economic 
+        significance;
+            (3) a quantitative comparison of quantum gravity 
+        gradiometry results against classical geophysical survey 
+        results from the same areas, including metrics for detection 
+        resolution, subsurface depth penetration, and cost per unit 
+        area surveyed;
+            (4) an assessment of the potential for quantum gravity 
+        gradiometry to reduce speculative drilling requirements in 
+        domestic critical minerals exploration;
+            (5) an analysis of private sector interest in and 
+        investment resulting from publicly released survey data;
+            (6) recommendations for scaling quantum-enhanced 
+        geophysical survey capabilities across the Earth MRI program 
+        nationally;
+            (7) any legislative or regulatory changes the Secretary 
+        recommends to accelerate domestic critical mineral permitting 
+        in areas identified by the surveys; and
+            (8) a cost-benefit analysis comparing the Federal 
+        investment under this Act with the estimated economic value of 
+        critical mineral deposits identified.
+                                 <all>

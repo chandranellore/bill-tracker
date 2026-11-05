@@ -1,0 +1,251 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8773 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8773
+
+ To impose certain conditions on mineral materials sales contracts and 
+free use permits under the Materials Act of 1947 with respect to large-
+ scale mineral extraction projects located near urban communities, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 12, 2026
+
+Mr. Whitesides introduced the following bill; which was referred to the 
+                     Committee on Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To impose certain conditions on mineral materials sales contracts and 
+free use permits under the Materials Act of 1947 with respect to large-
+ scale mineral extraction projects located near urban communities, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Containing Effects of Mineral 
+Extraction Act of 2026''.
+
+SEC. 2. REQUIREMENTS FOR CERTAIN MINERAL MATERIALS SALES CONTRACTS AND 
+              FREE USE PERMITS.
+
+    (a) Requirements.--
+            (1) In general.--The Secretary may only enter into a 
+        mineral materials sales contract with respect to, or issue a 
+        free use permit for the disposal of mineral materials pursuant 
+        to, a qualifying project under the Act of July 31, 1947 (30 
+        U.S.C. 601 et seq.; commonly known as the ``Materials Act of 
+        1947'') if--
+                    (A) the person carrying out the qualifying 
+                project--
+                            (i) submits to the Secretary--
+                                    (I) a haul route impact assessment 
+                                for the qualifying project--
+                                            (aa) jointly developed by 
+                                        the person and the agency with 
+                                        jurisdiction over 
+                                        transportation of each State 
+                                        and political subdivision 
+                                        thereof within which the 
+                                        qualifying project will be 
+                                        carried out;
+                                            (bb) that concludes the 
+                                        qualifying project will not 
+                                        materially degrade the safety 
+                                        or level of service on highways 
+                                        on the haul route; and
+                                            (cc) that, consistent with 
+                                        applicable laws and other 
+                                        standards relating to air 
+                                        quality and noise, identifies 
+                                        measures that shall be taken to 
+                                        minimize dust, particulate 
+                                        emissions, and noise impacts on 
+                                        land adjacent to the haul route 
+                                        that is used for sensitive or 
+                                        residential purposes;
+                                    (II) a trip management plan for the 
+                                qualifying project that sets limits 
+                                on--
+                                            (aa) load staging;
+                                            (bb) hours of operation; 
+                                        and
+                                            (cc) debris controls;
+                                    (III) a water use and conservation 
+                                plan for the qualifying project that, 
+                                consistent with applicable State and 
+                                Tribal laws, ensures the projected 
+                                annual consumptive use of groundwater 
+                                and surface water by the qualifying 
+                                project will be offset within the same 
+                                basin through conservation or other 
+                                feasible measures; and
+                                    (IV) a rail or lower-impact 
+                                transportation analysis for the 
+                                qualifying project that evaluates 
+                                whether rail-served aggregate supply or 
+                                other lower-impact modes of 
+                                transportation are feasible for the 
+                                majority of projected tonnage of the 
+                                qualifying project; and
+                            (ii) demonstrates to the satisfaction of 
+                        the Secretary that, with respect to the 
+                        qualifying project, the person--
+                                    (I) will implement each of the 
+                                items submitted to the Secretary under 
+                                clause (i);
+                                    (II) has coordinated in good faith 
+                                with affected State, Tribal, and local 
+                                governments to identify and undertake 
+                                reasonable haul-route safety and 
+                                maintenance measures;
+                                    (III) has acquired all necessary 
+                                water rights; and
+                                    (IV) has been issued each required 
+                                permit under the Federal Water 
+                                Pollution Control Act (33 U.S.C. 1251 
+                                et seq.) and the Safe Drinking Water 
+                                Act (42 U.S.C. 300f et seq.); and
+                    (B) the Secretary determines each of the items 
+                submitted to the Secretary under subparagraph (A)(i)--
+                            (i) meet applicable Federal, State, Tribal, 
+                        and local laws and other standards relating to 
+                        transportation safety, air quality, noise, and 
+                        water resources; and
+                            (ii) reflect any modification requested by 
+                        an affected State, Tribal, or local government 
+                        under paragraph (2) that is determined to be 
+                        reasonable under subparagraph (B) of that 
+                        paragraph.
+            (2) Modification requests.--
+                    (A) In general.--A State, Tribal, or local 
+                government that is affected by a qualifying project may 
+                submit to the Secretary a request for a modification of 
+                the qualifying project.
+                    (B) Reasonableness determination.--If a State, 
+                Tribal, or local government submits a request for a 
+                modification of a qualifying project under subparagraph 
+                (A), the Secretary and the applicable State, Tribal, or 
+                local government shall jointly select an entity to 
+                carry out an independent review of the modification to 
+                determine whether the modification is reasonable.
+    (b) Incorporation of Lower-Impact Transportation Options in 
+Qualifying Projects.--If the analysis submitted to the Secretary under 
+subsection (a)(1)(A)(i)(IV) for a qualifying project demonstrates that 
+lower-impact modes of transportation, including rail, are feasible for 
+the majority of projected tonnage of the qualifying project, the 
+Secretary shall, where practicable, take into account the incorporation 
+of such modes into the qualifying project in entering into a mineral 
+materials sales contract with respect to, or issuing a free use permit 
+for the disposal of mineral materials pursuant to, the qualifying 
+project under the Act of July 31, 1947 (30 U.S.C. 601 et seq.; commonly 
+known as the ``Materials Act of 1947'').
+    (c) Enforcement.--The Secretary may require the suspension of 
+operations under or terminate or revoke a mineral materials sales 
+contract entered into with respect to, or a free use permit issued for 
+the disposal of mineral materials pursuant to, a qualifying project 
+under the Act of July 31, 1947 (30 U.S.C. 601 et seq.; commonly known 
+as the ``Materials Act of 1947'') if the Secretary determines, after 
+notice and opportunity to cure, the person carrying out the qualifying 
+project has failed to comply with a requirement of this section.
+    (d) Annual Reports.--
+            (1) In general.--A person carrying out a qualifying project 
+        shall annually submit to the Secretary a report regarding the 
+        qualifying project, including, with respect to the preceding 
+        year--
+                    (A) the volume of groundwater and surface water 
+                consumed;
+                    (B) the number of truck trips made by commercial 
+                motor vehicle; and
+                    (C) the implementation of each of the items 
+                submitted to the Secretary under subsection 
+                (a)(1)(A)(i).
+            (2) Confidential business information.--Each report 
+        submitted to the Secretary under paragraph (1) and information 
+        included in each such report--
+                    (A) shall be--
+                            (i) treated as confidential business 
+                        information; and
+                            (ii) exempt from disclosure under section 
+                        552(b)(3)(B) of title 5, United States Code 
+                        (commonly known as the ``Freedom of Information 
+                        Act''); and
+                    (B) except as provided in paragraph (3), may not be 
+                made publicly available.
+            (3) Publicly available summary.--The Secretary shall 
+        annually--
+                    (A) aggregate the information included in the 
+                annual reports submitted under paragraph (1); and
+                    (B) publish and make publicly available a summary 
+                of such aggregated information.
+    (e) Review.--Beginning 5 years after the date of the enactment of 
+this section and every 5 years thereafter, the Secretary shall--
+            (1) aggregate the information included in the annual 
+        reports submitted under subsection (d); and
+            (2) evaluate such aggregated information to identify any 
+        recurring effects on transportation and groundwater resources.
+    (f) Rulemaking.--The Secretary may issue such regulations as are 
+necessary to carry out this section, including procedures and criteria 
+with respect to--
+            (1) the analysis required to be submitted to the Secretary 
+        under subsection (a)(1)(A)(i)(IV); and
+            (2) ensuring the consistency of qualifying projects with 
+        applicable State and local requirements.
+    (g) Rule of Construction.--Nothing in this section may be construed 
+to duplicate or supersede--
+            (1) the requirements of the National Environmental Policy 
+        Act of 1969 (42 U.S.C. 4321 et seq.); or
+            (2) applicable State permitting processes.
+    (h) Definitions.--In this section:
+            (1) Areas of critical environmental concern.--The term 
+        ``areas of critical environmental concern'' has the meaning 
+        given the term in section 103 of the Federal Land Policy and 
+        Management Act of 1976 (43 U.S.C. 1702).
+            (2) Mineral materials.--The term ``mineral materials'' 
+        means mineral materials as the term is used in section 1 of the 
+        Act of July 31, 1947 (30 U.S.C. 601; commonly known as the 
+        ``Materials Act of 1947'').
+            (3) Qualifying project.--The term ``qualifying project'' 
+        means a project to extract mineral materials that--
+                    (A) is located--
+                            (i) within 25 miles of an urbanized area; 
+                        or
+                            (ii) within or adjacent to areas of 
+                        critical environmental concern, as determined 
+                        by the Secretary;
+                    (B) is projected by the person carrying out the 
+                project or determined by the Secretary to be expected 
+                to produce more than 1 million tons of mineral 
+                materials in any 1-year period; and
+                    (C) has not begun commercial extraction of mineral 
+                materials before the date of the enactment of this 
+                section.
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+            (5) Urbanized area.--The term ``urbanized area'' means an 
+        area designated as such by the Secretary of Commerce, acting 
+        through the Director of the United States Census Bureau.
+                                 <all>

@@ -1,0 +1,268 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8706 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8706
+
+To amend the Energy Act of 2020 to modify certain programs and projects 
+   with respect to energy storage technology, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 7, 2026
+
+  Mr. Panetta (for himself and Mr. Harrigan) introduced the following 
+   bill; which was referred to the Committee on Science, Space, and 
+                               Technology
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Energy Act of 2020 to modify certain programs and projects 
+   with respect to energy storage technology, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Better Energy Storage and Safety 
+Act''.
+
+SEC. 2. MODIFICATION OF CERTAIN PROGRAMS AND PROJECTS WITH RESPECT TO 
+              ENERGY STORAGE TECHNOLOGY.
+
+    (a) Clarification of Definition of Energy Storage System.--
+Subsection (a)(1) of section 3201 of the Energy Act of 2020 (42 U.S.C. 
+17232) is amended by inserting ``(including any components or modules 
+that comprise such a system)'' after ``any system''.
+    (b) Energy Storage System Research, Development, and Deployment 
+Program.--
+            (1) Expanding objectives.--Paragraph (2) of section 3201(b) 
+        of the Energy Act of 2020 (42 U.S.C. 17232(b)) is amended--
+                    (A) in subparagraph (A)--
+                            (i) in the matter preceding clause (i), by 
+                        inserting ``modules,'' after ``components,''; 
+                        and
+                            (ii) in clause (i), by inserting ``of 
+                        residential and utility energy storage 
+                        systems'' after ``deployment'';
+                    (B) in subparagraph (I), by striking ``and'' after 
+                the semicolon; and
+                    (C) by adding at the end the following new 
+                subparagraphs:
+                    ``(K) models, tools, and diagnostic data sets to 
+                improve the safe installation and long-term operation 
+                of energy storage systems by abating expected failure 
+                modes that could damage such a system, including--
+                            ``(i) component, module, or system failure; 
+                        and
+                            ``(ii) thermal runaway and other fire and 
+                        explosion risks; and
+                    ``(L) early detection methods and preventative 
+                maintenance techniques relating to failure modes of 
+                energy storage systems.''.
+            (2) Modifying testing and validation.--Paragraph (3) of 
+        section 3201(b) of the Energy Act of 2020 (42 U.S.C. 17232(b)) 
+        is amended to read as follows:
+            ``(3) Benchmarking, testing, and validation.--
+                    ``(A) In general.--In coordination with one or more 
+                National Laboratories, the Director of the National 
+                Institute of Standards and Technology, and the 
+                Administrator of the United States Fire Administration, 
+                the Secretary shall support the development, 
+                standardized testing, and validation of energy storage 
+                systems specified in subparagraph (B), including test-
+                bed trials and field tests, by developing testing and 
+                evaluation methodologies for the following:
+                            ``(i) Storage technologies, controls, and 
+                        power electronics for such systems under a 
+                        variety of operating and failure conditions, 
+                        including such conditions that occur while such 
+                        a system is being utilized.
+                            ``(ii) Standardized and grid performance 
+                        testing for energy storage systems, materials, 
+                        and technologies at each stage of development 
+                        and at the operational system level.
+                            ``(iii) Reliability, safety, degradation, 
+                        and durability testing under standard and 
+                        evolving duty cycles.
+                            ``(iv) Component, module, and integrated 
+                        system level safety and degradation stress 
+                        testing to failure.
+                            ``(v) Accelerated life testing protocols to 
+                        predict estimated lifetime metrics with 
+                        accuracy.
+                            ``(vi) Equipment, including automated fire 
+                        suppression systems, and techniques for 
+                        mitigating risks of such energy storage 
+                        systems.
+                    ``(B) Energy storage systems specified.--The energy 
+                storage systems specified in this subparagraph are 
+                energy storage systems that satisfy the following 
+                requirements:
+                            ``(i) Are under the program.
+                            ``(ii) Are operational and connected to the 
+                        grid.
+                            ``(iii) Were installed before the most 
+                        recent codes and standards for such systems.
+                            ``(iv) Represent a variety of the following 
+                        characteristics:
+                                    ``(I) Chemistries.
+                                    ``(II) Compositions.
+                                    ``(III) Installation and 
+                                manufacturing techniques.
+                                    ``(IV) Any other characteristic the 
+                                Secretary determines appropriate.''.
+            (3) Modifying periodic evaluations.--Paragraph (4) of 
+        section 3201(b) of the Energy Act of 2020 (42 U.S.C. 17232(b)) 
+        is amended--
+                    (A) by inserting ``the testing and evaluation of'' 
+                after ``advance''; and
+                    (B) by striking ``costs and increasing the 
+                duration'' and inserting ``costs, increasing the 
+                lifetime, and improving the safety''.
+            (4) Modifying strategic plan.--Paragraph (5)(B) of section 
+        3201(b) of the Energy Act of 2020 (42 U.S.C. 17232(b)) is 
+        amended--
+                    (A) in clause (iii)(II)(bb), by striking ``and the 
+                mission of the Department, as determined by the 
+                Secretary'';
+                    (B) in clause (iv)(II), by striking ``and'' after 
+                the semicolon;
+                    (C) in clause (v), by striking the period at the 
+                end and inserting ``; and''; and
+                    (D) by adding at the end the following new clause:
+                            ``(vi) include a summary of the status of 
+                        any innovative, emerging, or alternative 
+                        technologies that could improve the 
+                        performance, durability, or safety of grid-
+                        scale energy storage systems and any potential 
+                        commercial barriers to such innovative, 
+                        emerging, or alternative technologies.''.
+            (5) Leveraging of resources.--Paragraph (6) of section 
+        3201(b) of the Energy Act of 2020 (42 U.S.C. 17232(b)) is 
+        amended--
+                    (A) in subparagraph (C)--
+                            (i) in clause (ii), by adding ``and'' at 
+                        the end; and
+                            (ii) in clause (iii), by striking ``and'' 
+                        after the semicolon;
+                    (B) in subparagraph (D), by striking the period at 
+                the end and inserting a semicolon; and
+                    (C) by adding at the end the following new 
+                subparagraphs:
+                    ``(E) the United States Fire Administration; and
+                    ``(F) the National Institute of Standards and 
+                Technology.''.
+    (c) Increasing Number of Energy Storage Demonstration Projects.--
+Paragraph (1) of section 3201(c) of the Energy Act of 2020 (42 U.S.C. 
+17232(c)) is amended--
+            (1) in the matter preceding subparagraph (A)--
+                    (A) by striking ``September 30, 2023'' and 
+                inserting ``September 30, 2030''; and
+                    (B) by striking ``3'' and inserting ``5'';
+            (2) in subparagraph (A), by striking ``and'' after the 
+        semicolon;
+            (3) in subparagraph (B), by striking the period at the end 
+        and inserting a semicolon; and
+            (4) by adding at the end the following new subparagraphs:
+                    ``(C) at least 1 energy storage system 
+                demonstration project designed to further the safety of 
+                technologies described in clause (iii) or (iv) of such 
+                subsection, including through stress testing to 
+                failure; and
+                    ``(D) at least 1 energy storage system 
+                demonstration project designed to further the safety of 
+                technologies described in clause (v) or (vi) of such 
+                subsection, including through stress testing to 
+                failure.''.
+    (d) Energy Storage Pilot Grant Program.--
+            (1) Expanding selection requirements.--Paragraph (2)(C)(ii) 
+        of section 3201(c) of the Energy Act of 2020 (42 U.S.C. 
+        17232(c)) is amended--
+                    (A) in subclause (II), by striking ``and'' after 
+                the semicolon; and
+                    (B) by adding at the end the following new 
+                subclauses:
+                                    ``(IV) improve the safety of 
+                                operational energy storage systems 
+                                through component, module, and 
+                                integrated system level testing and 
+                                evaluation; and
+                                    ``(V) utilize data from such energy 
+                                storage systems to improve, such as 
+                                through the prediction of system 
+                                failure, the safety of such energy 
+                                storage systems;''.
+            (2) Expanding objectives.--Paragraph (2)(D) of section 
+        3201(c) of the Energy Act of 2020 (42 U.S.C. 17232(c)) is 
+        amended by adding at the end the following new clauses:
+                            ``(xiii) To improve and advance the 
+                        robustness of testing and evaluation 
+                        methodologies for energy storage systems.
+                            ``(xiv) To improve and advance data 
+                        collection mechanisms for operational energy 
+                        storage systems.
+                            ``(xv) To improve the diagnostic, 
+                        artificial intelligence, computing, and digital 
+                        twin capabilities of energy storage systems.
+                            ``(xvi) To improve the safety of installed 
+                        energy storage systems.
+                            ``(xvii) To test innovative chemistries for 
+                        grid-connected energy storage systems that are 
+                        safer than conventional chemistries for such 
+                        energy storage systems.''.
+    (e) Expanding Priorities of the Electric Vehicle Battery Second-
+Life Project.--Paragraph (3)(C) of section 3201(c) of the Energy Act of 
+2020 (42 U.S.C. 17232(c)) is amended by inserting ``advanced safety 
+testing and evaluation methodologies or'' after ``from''.
+    (f) Chemistries and Stress Testing in Long-Duration Demonstration 
+Initiative and Joint Program.--Subsection (d) of section 3201 of the 
+Energy Act of 2020 (42 U.S.C. 17232) is amended--
+            (1) in paragraph (3)(A), by inserting ``and chemistries'' 
+        after ``types''; and
+            (2) in paragraph (4)--
+                    (A) in subparagraph (A)--
+                            (i) in clause (i), by striking ``scales; 
+                        and'' and inserting ``scales and with various 
+                        chemistries;'';
+                            (ii) in clause (ii), by striking the period 
+                        at the end and inserting ``; and''; and
+                            (iii) by adding at the end the following 
+                        new clause:
+                            ``(iii) to develop safety features that 
+                        prevent or mitigate the failure of long-
+                        duration energy storage technologies.''; and
+                    (B) in subparagraph (C)(ii), by inserting ``for 
+                stress testing integrated energy storage systems to 
+                failure'' after ``appropriate''.
+    (g) Authorization of Appropriations.--Subsection (h) of section 
+3201 of the Energy Act of 2020 (42 U.S.C. 17232) is amended--
+            (1) in paragraph (2), by striking ``and'';
+            (2) in paragraph (3), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(4) to carry out programs, initiatives, and associated 
+        activities relating to the safety of energy storage systems and 
+        energy storage technologies pursuant to subsections (b) through 
+        (d), as the case may be, $30,000,000 for each of fiscal years 
+        2027 through 2031, to remain available until expended.''.
+                                 <all>

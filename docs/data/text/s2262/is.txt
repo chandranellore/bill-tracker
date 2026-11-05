@@ -1,0 +1,95 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2262 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                S. 2262
+
+To amend the Federal Land Policy and Management Act of 1976 to clarify 
+ the nature of public involvement for purposes of certain rulemaking, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 10, 2025
+
+ Mr. Barrasso (for himself, Ms. Lummis, Mr. Crapo, Mr. Risch, and Mr. 
+    Curtis) introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Land Policy and Management Act of 1976 to clarify 
+ the nature of public involvement for purposes of certain rulemaking, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Voices in Federal Lands 
+Act''.
+
+SEC. 2. PUBLIC INVOLVEMENT IN CERTAIN PUBLIC LAND RULEMAKING.
+
+    (a) Definition of Public Involvement.--Section 103(d) of the 
+Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(d)) is 
+amended by striking ``citizens'' and inserting ``citizens of the United 
+States, in accordance with section 310(d), as applicable,''.
+    (b) Public Involvement Relating to Certain Rules and Regulations.--
+Section 310 of the Federal Land Policy and Management Act of 1976 (43 
+U.S.C. 1740) is amended to read as follows:
+
+``SEC. 310. RULES AND REGULATIONS.
+
+    ``(a) Authorization.--
+            ``(1) Secretary.--Subject to subsection (d), the Secretary, 
+        with respect to public lands, shall promulgate rules and 
+        regulations to carry out the purposes of--
+                    ``(A) this Act; and
+                    ``(B) other laws applicable to public lands.
+            ``(2) Secretary of agriculture.--The Secretary of 
+        Agriculture, with respect to land in the National Forest 
+        System, shall promulgate rules and regulations to carry out the 
+        purposes of this Act.
+    ``(b) Requirement.--The promulgation of rules and regulations 
+pursuant to this section shall be in accordance with chapter 5 of title 
+5, United States Code, without regard to section 553(a)(2) of that 
+title.
+    ``(c) Absence of Regulation.--Before the promulgation of a rule or 
+regulation pursuant to this section with respect to public lands or 
+land in the National Forest System, the applicable land shall be 
+administered under existing rules and regulations concerning the land, 
+to the maximum extent practicable.
+    ``(d) Public Involvement Relating to Bureau Land.--Notwithstanding 
+any other provision of law, with respect to public lands managed by the 
+Bureau, the Secretary--
+            ``(1) in promulgating any applicable regulations pursuant 
+        to this or any other Act, may take into consideration only 
+        public comments received from citizens of the United States; 
+        and
+            ``(2) in any public involvement under this Act or any other 
+        provision of law (including regulations), shall establish and 
+        implement a process commonly known as `Completely Automated 
+        Public Test to tell Computers and Humans Apart (CAPTCHA)' to 
+        deter attempts at public involvement via artificial 
+        intelligence.''.
+                                 <all>

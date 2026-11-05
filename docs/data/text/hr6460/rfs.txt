@@ -1,0 +1,57 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6460 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 6460
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 25, 2026
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To amend title 49, United States Code, to clarify exceptions for 
+  limited recreational operations of unmanned aircraft, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Recreational Drone Empowerment 
+Act''.
+
+SEC. 2. CLARIFYING RECREATIONAL OPERATIONS OF DRONE SYSTEMS.
+
+    Section 44809(c)(2)(C) of title 49, United States Code, is 
+amended--
+            (1) in the heading by inserting ``and class e'' after 
+        ``Uncontrolled''; and
+            (2) by inserting ``, Class E airspace above Class G 
+        airspace, or a Class E airspace designated as an extension to a 
+        Class B, Class C, Class D, or Class E surface area'' after 
+        ``Class G airspace''.
+
+            Passed the House of Representatives March 24, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

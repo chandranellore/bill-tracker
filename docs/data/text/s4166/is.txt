@@ -1,0 +1,172 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4166 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4166
+
+ To amend the Energy Policy and Conservation Act to require States to 
+include supporting the physical security, cybersecurity, and resilience 
+ of local distribution systems in State energy security plans, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 24, 2026
+
+    Ms. Cortez Masto (for herself, Ms. Murkowski, and Mrs. Shaheen) 
+introduced the following bill; which was read twice and referred to the 
+               Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Energy Policy and Conservation Act to require States to 
+include supporting the physical security, cybersecurity, and resilience 
+ of local distribution systems in State energy security plans, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securing Community Upgrades for a 
+Resilient Grid Act'' or the ``SECURE Grid Act''.
+
+SEC. 2. CONSIDERATION OF THE SECURITY OF LOCAL DISTRIBUTION SYSTEMS IN 
+              STATE ENERGY SECURITY PLANS.
+
+    Section 366 of the Energy Policy and Conservation Act (42 U.S.C. 
+6326) is amended--
+            (1) in subsection (a)--
+                    (A) by redesignating paragraph (2) as paragraph 
+                (3); and
+                    (B) by inserting after paragraph (1) the following:
+            ``(2) Local distribution system.--The term `local 
+        distribution system' means any energy infrastructure owned and 
+        operated by an electric utility at a voltage of 100 kilovolts 
+        or less.'';
+            (2) in subsection (b)(2), in the matter preceding 
+        subparagraph (A), by inserting ``, and suppliers of equipment 
+        for the generation, transmission, and distribution of 
+        electricity to,'' after ``owners and operators of'';
+            (3) in subsection (c)--
+                    (A) by striking paragraph (3) and inserting the 
+                following:
+            ``(3) address potential hazards to each energy sector or 
+        system, including--
+                    ``(A) physical threats and vulnerabilities, 
+                including--
+                            ``(i) weather-related threats and 
+                        vulnerabilities;
+                            ``(ii) physical attacks on local 
+                        distribution systems and the bulk-power system; 
+                        and
+                            ``(iii) supply chain risks for equipment 
+                        for the generation, transmission, and 
+                        distribution of electricity; and
+                    ``(B) cybersecurity threats and vulnerabilities, 
+                including threats to, and vulnerabilities of, local 
+                distribution systems that may impact the bulk-power 
+                system;''; and
+                    (B) by striking paragraph (5) and inserting the 
+                following:
+            ``(5) provide a risk mitigation approach to enhance 
+        reliability and end-use resilience, including methods of 
+        responding to, mitigating, and recovering from potential 
+        hazards described in paragraph (3); and'';
+            (4) in subsection (d)(3)--
+                    (A) in subparagraph (A), by striking ``and'' at the 
+                end;
+                    (B) by redesignating subparagraph (B) as 
+                subparagraph (C); and
+                    (C) by inserting after subparagraph (A) the 
+                following:
+                    ``(B) supplying equipment for the generation, 
+                transmission, and distribution of electricity; and'';
+            (5) in subsection (e)--
+                    (A) in paragraph (2), by redesignating 
+                subparagraphs (A) and (B) as clauses (i) and (ii), 
+                respectively, and indenting appropriately;
+                    (B) by redesignating paragraphs (1) and (2) as 
+                subparagraphs (A) and (B), respectively, and indenting 
+                appropriately;
+                    (C) in the matter preceding subparagraph (A) (as so 
+                designated), by striking ``A State is not eligible'' 
+                and inserting the following:
+            ``(1) Submission required.--A State is not eligible''; and
+                    (D) by adding at the end the following:
+            ``(2) State determination.--A submission under paragraph 
+        (1) is not required to be approved by the Secretary.'';
+            (6) in subsection (f), by striking ``may'' and inserting 
+        ``shall'';
+            (7) in subsection (h), in the matter preceding paragraph 
+        (1), by inserting ``, local distribution system,'' after 
+        ``electric utility''; and
+            (8) by striking subsection (i) and inserting the following:
+    ``(i) Sunset.--This section shall expire on September 30, 2031.''.
+
+SEC. 3. GAO REPORT.
+
+    (a) Definition of State Energy Security Plan.--In this section, the 
+term ``State energy security plan'' has the meaning given the term in 
+section 366(a) of the Energy Policy and Conservation Act (42 U.S.C. 
+6326(a)).
+    (b) Report.--Not later than September 30, 2030, the Comptroller 
+General of the United States shall submit to the Committee on Energy 
+and Commerce of the House of Representatives and the Committee on 
+Energy and Natural Resources of the Senate a report on the efficacy of 
+State energy security plans that includes--
+            (1) an evaluation of whether and how State energy security 
+        plans have improved the ability of States--
+                    (A) to identify, assess, and mitigate risks to 
+                energy infrastructure and supply chains; and
+                    (B) to plan for, respond to, and recover from 
+                events that disrupt energy supply;
+            (2) recommendations for--
+                    (A) improving the ability of States described in 
+                paragraph (1); and
+                    (B) actions the Secretary of Energy may take to 
+                improve coordination with States with respect to 
+                identifying, assessing, and mitigating risks to energy 
+                infrastructure and supply chains and planning for, 
+                responding to, and recovering from events that disrupt 
+                energy supply;
+            (3) information on Federal financial assistance made 
+        available to States under part D of title III of the Energy 
+        Policy and Conservation Act (42 U.S.C. 6321 et seq.) that was 
+        used to implement State energy security plans;
+            (4) information on activities carried out by States using 
+        that financial assistance;
+            (5) an analysis of the efficacy of the implementation of 
+        section 366 of the Energy Policy and Conservation Act (42 
+        U.S.C. 6326) (as amended by this Act); and
+            (6) information on State use of assistance provided under 
+        section 366(f) of the Energy Policy and Conservation Act (42 
+        U.S.C. 6326(f)) (as amended by this Act), including any 
+        revisions of State energy security plans made by States 
+        resulting from assistance provided under that section.
+    (c) Protected Information.--The report required under subsection 
+(b) shall be submitted in a form that may be made available to the 
+public, except that any information protected from disclosure under 
+section 366(h) of the Energy Policy and Conservation Act (42 U.S.C. 
+6326(h)) shall be included in the report in an annex that shall not be 
+publicly disclosed, consistent with that section.
+                                 <all>

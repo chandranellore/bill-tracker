@@ -1,0 +1,200 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2189 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 2189
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To modernize Federal firearms laws to account for advancements in 
+    technology and less-than-lethal weapons, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+            TITLE I--LAW-ENFORCEMENT INNOVATE TO DE-ESCALATE
+
+SECTION 101. SHORT TITLE.
+
+    This title may be cited as the ``Law-Enforcement Innovate to De-
+Escalate Act''.
+
+SEC. 102. EXEMPTION OF CERTAIN LESS-THAN-LETHAL PROJECTILE DEVICES FROM 
+              RESTRICTIONS UNDER TITLE 18, UNITED STATES CODE.
+
+    Section 921(a) of title 18, United States Code, is amended--
+            (1) in the second sentence of paragraph (3), by inserting 
+        ``or a less-than-lethal projectile device'' before the period; 
+        and
+            (2) by adding at the end the following:
+    ``(39)(A) The term `less-than-lethal projectile device' means a 
+device that--
+            ``(i) is not designed or intended to expel and may not be 
+        readily converted to accept and discharge--
+                    ``(I) ammunition commonly used in handguns, rifles, 
+                or shotguns; or
+                    ``(II) any other projectile at a velocity exceeding 
+                500 feet per second;
+            ``(ii) is designed and intended to be used in a manner that 
+        is not likely to cause death or serious bodily injury; and
+            ``(iii) does not accept, and is not able to be readily 
+        modified to accept, an ammunition feeding device--
+                    ``(I) loaded through the inside of a pistol grip; 
+                or
+                    ``(II) commonly used in semiautomatic firearms.
+    ``(B) If a person requests that the Attorney General determine 
+whether a device satisfies the definition of `less-than-lethal 
+projectile device' under subparagraph (A), the Attorney General shall 
+make the determination not later than 90 days after the date on which 
+the Attorney General receives the device pursuant to the request.''.
+
+    TITLE II--INNOVATE LESS LETHAL TO DE-ESCALATE TAX MODERNIZATION
+
+SEC. 201. SHORT TITLE.
+
+    This title may be cited as the ``Innovate Less Lethal to De-
+Escalate Tax Modernization Act''.
+
+SEC. 202. EXEMPTION OF CERTAIN LESS-THAN-LETHAL PROJECTILE DEVICES FROM 
+              FIREARMS AND AMMUNITION TAX.
+
+    (a) In General.--Section 4182 of the Internal Revenue Code of 1986 
+is amended--
+            (1) by redesignating subsection (d) as subsection (e), and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d) Less-than-Lethal Projectile Devices.--
+            ``(1) In general.--The tax imposed by section 4181 shall 
+        not apply to--
+                    ``(A) any less-than-lethal projectile device,
+                    ``(B) any device contained on the most recent list 
+                made available by the Secretary under paragraph (4)(B), 
+                and
+                    ``(C) any shell or cartridge that meets the 
+                requirement of paragraph (2)(B) and is designed for use 
+                in a device referred to in subparagraph (A) or (B).
+            ``(2) Less-than-lethal projectile device.--The term `less-
+        than-lethal projectile device' means a device that--
+                    ``(A) is not designed or intended to expel, and may 
+                not be readily converted to accept and discharge--
+                            ``(i) ammunition commonly used in handguns, 
+                        rifles, or shotguns, or
+                            ``(ii) any other projectile at a velocity 
+                        exceeding 500 feet per second,
+                    ``(B) is designed and intended to be used in a 
+                manner that is not likely to cause death or serious 
+                bodily injury, and
+                    ``(C) does not accept, and is not able to be 
+                readily modified to accept, ammunition feeding 
+                devices--
+                            ``(i) loaded through the inside of a pistol 
+                        grip, or
+                            ``(ii) commonly used in semiautomatic 
+                        firearms.
+            ``(3) Request for classification.--Pursuant to a request 
+        made by the manufacturer, producer, or importer of a device for 
+        a determination as to whether such device satisfies the 
+        requirements under paragraph (2), the Secretary shall make such 
+        determination not later than 90 days after the date of receipt 
+        of such request.
+            ``(4) Annual review of new and emerging technologies.--
+                    ``(A) List of less-than-lethal projectile 
+                devices.--The Secretary shall make publicly available a 
+                list of devices that the Secretary has determined are 
+                described in paragraph (2) and shall update such list 
+                annually to take into account new devices.
+                    ``(B) List of non-lethal devices the projectiles of 
+                which exceed 500 feet per second.--
+                            ``(i) In general.--The Secretary shall--
+                                    ``(I) make publicly available a 
+                                list of devices that the Secretary has 
+                                determined are not described in 
+                                paragraph (2) but would be so described 
+                                if such paragraph were applied without 
+                                regard to subparagraph (A)(ii) thereof, 
+                                and
+                                    ``(II) update such list annually to 
+                                take into account new devices.
+                            ``(ii) Report to congress.--The Secretary 
+                        shall annually submit a written report to the 
+                        Committee on Ways and Means of the House of 
+                        Representatives and the Committee on Finance of 
+                        the Senate regarding the annual list of devices 
+                        described in clause (i), including a copy of 
+                        such list, a description of the devices that 
+                        were considered for inclusion on such list, and 
+                        the reasons for including or excluding such 
+                        devices from such list.''.
+    (b) Effective Date.--
+            (1) In general.--Except as otherwise provided in this 
+        subsection, the amendments made by this section shall apply to 
+        articles sold by the manufacturer, producer, or importer after 
+        the date of the enactment of this Act.
+            (2) Requests for determinations.--Section 4182(d)(3) of the 
+        Internal Revenue Code of 1986 (as added by this section) shall 
+        apply to requests received after the date of the enactment of 
+        this Act, except that any request under such section which is 
+        received during the 180-day period beginning on the date of the 
+        enactment of this Act shall be treated for purposes of such 
+        section as received as of the close of such period.
+
+SEC. 203. EXEMPTION OF CERTAIN LESS-THAN-LETHAL PROJECTILE DEVICES FROM 
+              NATIONAL FIREARMS ACT.
+
+    Section 5845(a) of the Internal Revenue Code of 1986 is amended by 
+striking ``an antique firearm or'' and inserting ``any antique firearm, 
+any less-than-lethal projectile device (as defined in section 
+4182(d)(2)), any device referred to in section 4182(d)(1)(B), or''.
+
+            Passed the House of Representatives February 12, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 2189
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To modernize Federal firearms laws to account for advancements in 
+    technology and less-than-lethal weapons, and for other purposes.

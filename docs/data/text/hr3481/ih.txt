@@ -1,0 +1,69 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3481 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 3481
+
+   To amend title 38, United States Code, to direct the Secretary of 
+ Veterans Affairs to provide for electronic communication relating to 
+  educational assistance benefits under the laws administered by the 
+                   Secretary, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 19, 2025
+
+ Mr. Barrett (for himself and Mr. Tran) introduced the following bill; 
+        which was referred to the Committee on Veterans' Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend title 38, United States Code, to direct the Secretary of 
+ Veterans Affairs to provide for electronic communication relating to 
+  educational assistance benefits under the laws administered by the 
+                   Secretary, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Delivering Digitally to Our Veterans 
+Act of 2025''.
+
+SEC. 2. DEPARTMENT OF VETERANS AFFAIRS ELECTRONIC COMMUNICATION 
+              RELATING TO EDUCATIONAL ASSISTANCE BENEFITS.
+
+    Section 3680 of title 38, United States Code, is amended by adding 
+at the end the following new subsection:
+    ``(i)(1) The Secretary shall provide a mechanism by which an 
+eligible veteran or eligible person may electronically send and receive 
+correspondence with the Department of Veterans related to entitlement 
+to and use of educational assistance benefits under the laws 
+administered by the Secretary. The Secretary shall ensure that an 
+eligible veteran or eligible person is provided with an opportunity to 
+opt into sending and receiving such correspondence electronically 
+rather than by mail.
+    ``(2) The Secretary shall provide to eligible veterans and eligible 
+persons who are enrolled in a course or program of education or 
+training notice of the opportunity to opt in to sending and receiving 
+correspondence electronically pursuant to paragraph (1).''.
+                                 <all>

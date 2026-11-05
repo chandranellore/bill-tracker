@@ -1,0 +1,530 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4406 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4406
+
+  To amend the Energy Independence and Security Act of 2007 to direct 
+   research, development, demonstration, and commercial application 
+activities in support of next-generation geothermal systems in various 
+                  conditions, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 28, 2026
+
+    Ms. Cortez Masto (for herself and Ms. Murkowski) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                      Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Energy Independence and Security Act of 2007 to direct 
+   research, development, demonstration, and commercial application 
+activities in support of next-generation geothermal systems in various 
+                  conditions, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Next-Generation Geothermal Research 
+and Development Act''.
+
+SEC. 2. GEOTHERMAL ENERGY.
+
+    (a) EISA Definitions.--Section 612 of the Energy Independence and 
+Security Act of 2007 (42 U.S.C. 17191) is amended--
+            (1) by redesignating paragraphs (1) through (8) as 
+        paragraphs (2), (3), (4), (5), (6), (7), (8), and (12), 
+        respectively;
+            (2) by inserting before paragraph (2) (as so redesignated) 
+        the following:
+            ``(1) Closed-loop geothermal systems.--The term `closed-
+        loop geothermal systems' means a wellbore or subsurface circuit 
+        of wellbores containing a fluid heated through contact with the 
+        borehole wall.''; and
+            (3) by inserting after paragraph (8) (as so redesignated) 
+        the following:
+            ``(9) Next-generation geothermal systems.--The term `next-
+        generation geothermal systems' means--
+                    ``(A) enhanced geothermal systems;
+                    ``(B) closed-loop geothermal systems; and
+                    ``(C) in supercritical conditions--
+                            ``(i) enhanced geothermal systems;
+                            ``(ii) closed-loop geothermal systems; or
+                            ``(iii) other technologies, as determined 
+                        by the Secretary.
+            ``(10) Supercritical conditions.--The term `supercritical 
+        conditions' means subsurface temperature conditions at or above 
+        the supercritical temperature of the primary fluid present.
+            ``(11) Supercritical geothermal.--The term `supercritical 
+        geothermal' means energy derived from a subsurface geologic 
+        rock resource existing in-situ at or above the supercritical 
+        temperature of the primary fluid present.''.
+    (b) Hydrothermal Research and Development Programs.--Section 
+613(b)(1) of the Energy Independence and Security Act of 2007 (42 
+U.S.C. 17192(b)(1)) is amended by striking ``advanced geologic tools to 
+assist'' and inserting ``advanced tools, including machine learning 
+algorithms, to assist''.
+    (c) Geothermal Systems Research and Development.--Section 614 of 
+the Energy Independence and Security Act of 2007 (42 U.S.C. 17193) is 
+amended--
+            (1) in subsection (d)(1), by striking ``among the Office of 
+        Fossil Energy, the Office of Energy Efficiency and Renewable 
+        Energy,'' and inserting ``across the Department''; and
+            (2) in subsection (h)--
+                    (A) in paragraph (1), by inserting ``and publicly 
+                available subsurface data, including data reported as 
+                part of fossil fuel and mining operations,'' after 
+                ``geothermal drilling information''; and
+                    (B) in paragraph (2), by adding at the end the 
+                following:
+                    ``(C) Updates.--The repository established under 
+                paragraph (1) shall be periodically updated in order to 
+                carry out the following:
+                            ``(i) Standardize data in a uniform manner 
+                        to the maximum extent practicable and enable 
+                        analysis across different projects.
+                            ``(ii) Enhance the accessibility and 
+                        usability of data to increase analysis of 
+                        geothermal energy, including next-generation 
+                        geothermal systems on regional, local, and 
+                        site-specific scales.
+                            ``(iii) Increase uses of data, including 
+                        data viewable by map and organization by common 
+                        attributes such as region.
+                            ``(iv) Make other improvements in 
+                        functionality and usability, as determined by 
+                        the Secretary.
+                    ``(D) Memorandum of understanding.--
+                            ``(i) In general.--The Secretary shall 
+                        enter into a memorandum of understanding with 
+                        the Secretary of the Interior, and may enter 
+                        into a memorandum of understanding with the 
+                        head of any other relevant Federal department 
+                        or agency, for notifying, sharing, and 
+                        providing opportunities for additional data 
+                        collection regarding shared geothermal 
+                        development data from projects funded by each 
+                        applicable department or agency, including data 
+                        from mining, critical minerals, and energy 
+                        projects, such as subsurface heat data, seismic 
+                        data, lithology data, boundaries of State-
+                        protected and federally protected areas, and 
+                        existing transmission capacity.
+                            ``(ii) Prioritization.--To the maximum 
+                        extent practicable, activities conducted under 
+                        a memorandum of understanding entered into 
+                        under clause (i) shall prioritize heat, 
+                        lithology, and strain profiles through deep 
+                        exploration boreholes and control points for 
+                        deep heat mapping and geothermal development.
+                    ``(E) Regional deep data probes.--
+                            ``(i) In general.--The Secretary shall work 
+                        with the Secretary of the Interior, who shall 
+                        be responsible for commissioning the drilling 
+                        of deep exploration boreholes deeper than 8 
+                        kilometers in depth in representative 
+                        geological provinces in the United States to 
+                        provide control points for deep heat mapping 
+                        and geothermal development.
+                            ``(ii) Requirements.--The resulting data 
+                        shall--
+                                    ``(I) include an exploration of 
+                                heat, lithology, and subsurface stress 
+                                state; and
+                                    ``(II) be shared publicly on the 
+                                drilling data repository.''.
+    (d) Enhanced Geothermal Systems Research and Development.--Section 
+615 of the Energy Independence and Security Act of 2007 (42 U.S.C. 
+17194) is amended--
+            (1) in the section heading, by striking ``research and 
+        development'' and inserting ``and closed-loop geothermal 
+        systems research, development, and testing'';
+            (2) by inserting ``and closed-loop geothermal systems'' 
+        after ``enhanced geothermal systems'' each place it appears;
+            (3) in subsection (b)--
+                    (A) in the subsection heading, by inserting ``and 
+                Closed-loop Geothermal Systems'' after ``Systems'';
+                    (B) in paragraph (11), by striking ``and'' at the 
+                end;
+                    (C) in paragraph (12), by striking the period at 
+                the end and inserting ``; and''; and
+                    (D) by adding at the end the following:
+            ``(13) the research topics described in paragraphs (1) 
+        through (12) in supercritical conditions.'';
+            (4) in subsection (c)--
+                    (A) by inserting ``systems and closed-loop 
+                geothermal systems'' after ``enhanced geothermal'' each 
+                place it appears;
+                    (B) by redesignating paragraph (7) as paragraph 
+                (8); and
+                    (C) by inserting after paragraph (6) the following:
+            ``(7) Testing of next-generation geothermal systems in 
+        supercritical conditions.--Not later than 1 year after the date 
+        of enactment of the Next-Generation Geothermal Research and 
+        Development Act, the Secretary shall take such actions as may 
+        be necessary to ensure that at least 1 FORGE site has the 
+        capabilities to include testing of next-generation geothermal 
+        systems in supercritical conditions.'';
+            (5) in subsection (d)--
+                    (A) in the subsection heading, by inserting ``and 
+                Closed-loop Geothermal Systems'' after ``Systems''; and
+                    (B) in paragraph (2)(C), by inserting ``and closed-
+                loop geothermal'' after ``enhanced geothermal''; and
+            (6) by adding at the end the following:
+    ``(e) Next-Generation Geothermal Research and Development 
+Program.--
+            ``(1) In general.--Within the Geothermal Technologies 
+        Office of the Department, the Secretary shall support a 
+        program, to be called the `Next-Generation Research and 
+        Development Program', for next-generation geothermal systems 
+        research, development, demonstration, and commercial 
+        application activities.
+            ``(2) Supercritical geothermal.--
+                    ``(A) In general.--The program described in 
+                paragraph (1) shall include research on supercritical 
+                geothermal, including on the following topics in 
+                supercritical conditions:
+                            ``(i) Well completion.
+                            ``(ii) Reservoir creation and management, 
+                        including drilling tools, casing production 
+                        equipment, proppants, and packers.
+                            ``(iii) Materials development and equipment 
+                        design, including power production, specific to 
+                        supercritical geothermal systems.
+                            ``(iv) Sensor development.
+                            ``(v) Water-rock geochemistry.
+                            ``(vi) Rock properties.
+                            ``(vii) Hard rock and deep drilling.
+                            ``(viii) Any other topics the Secretary 
+                        determines necessary.
+                    ``(B) Milestone-based grants.--In carrying out 
+                supercritical geothermal research under the program 
+                described in paragraph (1), the Secretary shall award 
+                milestone-based grants for deep drilling projects in 
+                unique geodynamic settings at each of the following 
+                milestones:
+                            ``(i) Tectonic crustal stress and fracture 
+                        characterization.
+                            ``(ii) Laboratory work.
+                            ``(iii) Drilling.
+                            ``(iv) Flow testing.
+                            ``(v) Power production.
+                    ``(C) Administration.--The Secretary shall 
+                administer grants to institutions of higher education 
+                and private sector entities to carry out activities on 
+                the topics described in subparagraphs (A) and (B) and, 
+                to the maximum extent practicable, share data, results, 
+                and information publicly.
+            ``(3) Report on water use.--
+                    ``(A) In general.--Not later than 5 years after the 
+                date of enactment of this subsection, the Secretary 
+                shall submit to the Committee on Natural Resources and 
+                the Committee on Science, Space, and Technology of the 
+                House of Representatives and the Committee on Energy 
+                and Natural Resources of the Senate a report on 
+                estimated water withdrawal and consumption of next-
+                generation geothermal systems.
+                    ``(B) Requirements.--The report required under 
+                subparagraph (A) shall include an analysis of--
+                            ``(i) the ability of next-generation 
+                        geothermal systems to use brackish and non-
+                        potable water;
+                            ``(ii) the withdrawal and consumption of 
+                        water per megawatt hour of next-generation 
+                        geothermal systems, as compared to other power-
+                        generation technologies; and
+                            ``(iii) technological and operational 
+                        improvements that could lead to decreases in 
+                        water withdrawal and consumption of next-
+                        generation geothermal systems.
+            ``(4) Next-generation geothermal center of excellence.--
+                    ``(A) Establishment.--The Secretary shall award 
+                grants, through a competitive, merit-reviewed process, 
+                to National Laboratories (as defined in section 2 of 
+                the Energy Policy Act of 2005 (42 U.S.C. 15801)) 
+                (referred to in this paragraph as the `National 
+                Laboratories'), multi-institutional collaborations, 
+                public-private partnerships, State geological surveys, 
+                or institutions of higher education (or consortia 
+                thereof), for the following:
+                            ``(i) The continuation and expansion of 
+                        research, development, demonstration, testing, 
+                        and commercial application activities 
+                        applicable to FORGE sites, including activities 
+                        in supercritical conditions.
+                            ``(ii) The establishment of a next-
+                        generation geothermal systems center of 
+                        excellence.
+                    ``(B) Location.--In selecting National 
+                Laboratories, multi-institutional collaborations, 
+                public-private partnerships, or institutions of higher 
+                education for the establishment of a center of 
+                excellence under subparagraph (A), the Secretary shall 
+                consider the following criteria:
+                            ``(i) Whether the institution hosts an 
+                        existing geothermal energy research and 
+                        development program.
+                            ``(ii) Whether the institution has proven 
+                        technical expertise to support geothermal 
+                        energy research.
+                            ``(iii) Whether the institution has access 
+                        to diverse geothermal resources to support 
+                        next-generation geothermal systems in various 
+                        conditions.
+                    ``(C) Purpose.--A center of excellence established 
+                under subparagraph (A) shall coordinate among existing 
+                FORGE sites, the Department, institutions of higher 
+                education, and National Laboratories to carry out the 
+                following:
+                            ``(i) Advance research, development, 
+                        demonstration, and commercial application of 
+                        next-generation geothermal systems, including 
+                        supercritical geothermal technologies, to 
+                        address both fundamental scientific challenges 
+                        and industry and commercial needs, including by 
+                        partnering with other academic or research 
+                        institutions, industry, nongovernmental 
+                        organizations, Tribal entities (including 
+                        Alaska Native Corporations), and State, local, 
+                        or Tribal governments.
+                            ``(ii) Foster collaboration for education, 
+                        research, and partnership initiatives in order 
+                        to support the technology, deployment, and 
+                        workforce needs of the United States geothermal 
+                        energy industry, including a focus on next-
+                        generation geothermal systems.
+                            ``(iii) Support workforce development 
+                        across the next-generation geothermal systems 
+                        energy development lifecycle.
+                            ``(iv) Provide educational, technical, and 
+                        analytical assistance on next-generation 
+                        geothermal systems to Federal agencies, 
+                        industry, and State, local, and Tribal 
+                        governments.
+                            ``(v) Collect and disseminate information 
+                        on best practices in all areas relating to 
+                        developing and managing geothermal energy 
+                        resources and energy systems, including next-
+                        generation geothermal systems.
+            ``(5) Commercial-readiness innovation grants.--
+                    ``(A) In general.--The Secretary shall award grants 
+                to accelerate the development, testing, and 
+                implementation of innovative technologies identified by 
+                in-field operations as areas for improving the 
+                performance of commercial geothermal energy projects 
+                using enhanced geothermal systems and closed-loop 
+                geothermal systems.
+                    ``(B) Focus areas.--Grants may be awarded under 
+                this paragraph for innovative technologies, including--
+                            ``(i) hardrock drilling equipment, 
+                        components, and systems, including bit design 
+                        and vibration control;
+                            ``(ii) reservoir characterization, well 
+                        design and spacing, and completions; and
+                            ``(iii) data acquisition and analysis, 
+                        including fiber optic sensing tools and 
+                        methodologies.
+                    ``(C) Applications.--
+                            ``(i) In general.--An entity seeking a 
+                        grant under this paragraph shall submit to the 
+                        Secretary an application at such time, in such 
+                        manner, and containing such information as the 
+                        Secretary may require.
+                            ``(ii) Prioritization.--In awarding grants 
+                        under this paragraph, the Secretary shall give 
+                        priority to--
+                                    ``(I) applicants, especially for-
+                                profit entities and public-private 
+                                partnerships, with demonstrated success 
+                                relating to in-field development and 
+                                commercial operations for geothermal 
+                                energy projects;
+                                    ``(II) projects with the greatest 
+                                ability to advance near-term commercial 
+                                deployment of enhanced geothermal 
+                                systems and closed-loop geothermal 
+                                systems; and
+                                    ``(III) projects that advance the 
+                                commercialization of geothermal energy 
+                                projects in diverse geological 
+                                conditions or supercritical conditions.
+                    ``(D) Cost sharing.--The Federal share of the cost 
+                of a project carried out with a grant under this 
+                paragraph shall be not more than 80 percent.
+            ``(6) Next-generation geothermal systems surface facility 
+        innovation grants.--
+                    ``(A) In general.--The Secretary shall award grants 
+                for innovation in the operation, cost, and design of 
+                surface facility components of next-generation 
+                geothermal systems.
+                    ``(B) Focus areas.--Grants may be awarded under 
+                this paragraph for development and testing of 
+                innovative technologies, including--
+                            ``(i) improved organic Rankine cycle 
+                        generation efficiency, working fluids, and 
+                        performance at low and supercritical 
+                        temperatures;
+                            ``(ii) improved performance of air-cooled 
+                        condensers in warm ambient weather conditions, 
+                        and improved efficiency of water-cooled 
+                        condensers; and
+                            ``(iii) component and facility design, 
+                        including gathering lines, generation unit 
+                        standardization, and data collection and 
+                        monitoring.
+                    ``(C) Applications.--
+                            ``(i) In general.--An entity seeking a 
+                        grant under this paragraph shall submit to the 
+                        Secretary an application at such time, in such 
+                        manner, and containing such information as the 
+                        Secretary may require.
+                            ``(ii) Prioritization.--In awarding grants 
+                        under this paragraph, the Secretary shall give 
+                        priority to--
+                                    ``(I) applicants, especially 
+                                private entities and public-private 
+                                partnerships, with demonstrated success 
+                                relating to in-field operation of 
+                                geothermal energy technologies, 
+                                including manufacturing power 
+                                generation and industrial energy 
+                                components;
+                                    ``(II) projects with the greatest 
+                                ability to advance near-term commercial 
+                                deployment of geothermal energy 
+                                projects; and
+                                    ``(III) projects that advance the 
+                                commercialization of geothermal energy 
+                                projects in diverse geological 
+                                conditions or in supercritical 
+                                conditions.
+            ``(7) Authorization of appropriations.--There are 
+        authorized to be appropriated to the Secretary to carry out 
+        this subsection $5,000,000 for each of fiscal years 2027 
+        through 2031.''.
+    (e) Organization and Administration of Programs.--Section 617 of 
+the Energy Independence and Security Act of 2007 (42 U.S.C. 17196) is 
+amended--
+            (1) in subsection (e), by striking ``Committee on Science 
+        and Technology'' and inserting ``Committee on Science, Space, 
+        and Technology''; and
+            (2) by striking subsection (f) and inserting the following:
+    ``(f) Progress Reports.--Not later than 1 year after the date of 
+enactment of the Next-Generation Geothermal Research and Development 
+Act, and every 2 years thereafter, the Secretary shall submit to the 
+Committee on Science, Space, and Technology of the House of 
+Representatives and the Committee on Energy and Natural Resources of 
+the Senate a report that contains the following:
+            ``(1) A description of the maximum potential of geothermal 
+        resources in the United States, including the States of Alaska 
+        and Hawaii, using the geothermal resource assessment under 
+        section 2501 of the Energy Policy Act of 1992 (30 U.S.C. 1028) 
+        or other such means, as the Secretary determines appropriate, 
+        including a consideration of next-generation geothermal 
+        systems.
+            ``(2) Information relating to the results of projects 
+        undertaken under this section.
+            ``(3) An assessment of the barriers to commercialization of 
+        next-generation geothermal systems.
+            ``(4) Such other information as the Secretary considers 
+        appropriate.''.
+    (f) Reauthorization of Advanced Geothermal Innovation Leadership.--
+Section 623 of the Energy Independence and Security Act of 2007 (42 
+U.S.C. 17202) is amended--
+            (1) by striking ``There are authorized'' and inserting the 
+        following:
+    ``(a) In General.--There are authorized''; and
+            (2) by adding at the end the following:
+    ``(b) Program Continuance.--In addition to amounts provided under 
+section 615(e), there are authorized to be appropriated to the 
+Secretary to carry out the programs under this subtitle such sums as 
+are necessary for each of fiscal years 2026 through 2031, to remain 
+available until expended.''.
+    (g) International Geothermal Energy Development.--Section 624(a) of 
+the Energy Independence and Security Act of 2007 (42 U.S.C. 17203(a)) 
+is amended by striking ``system resources'' and inserting ``systems 
+resources''.
+    (h) Update to Geothermal Resource Assessment.--Section 2501 of the 
+Energy Policy Act of 1992 (30 U.S.C. 1028) is amended--
+            (1) by striking ``acting through the United States 
+        Geological Survey'' each place it appears and inserting 
+        ``acting through the Director of the United States Geological 
+        Survey'';
+            (2) in subsection (c)--
+                    (A) in the matter preceding paragraph (1), by 
+                inserting ``, subject to subsection (d), 
+                quadrennially'' after ``shall'';
+                    (B) in paragraph (1)(D)(ii), by striking ``and'' at 
+                the end;
+                    (C) in paragraph (2)--
+                            (i) by inserting ``, State geological 
+                        surveys,'' after ``State officials''; and
+                            (ii) by striking the period at the end and 
+                        inserting ``; and''; and
+                    (D) by adding at the end the following:
+            ``(3) by assessing regions of the United States with 
+        significant potential for supercritical geothermal (as defined 
+        in section 612 of the Energy Independence and Security Act of 
+        2007 (42 U.S.C. 17191)).''; and
+            (3) by striking subsection (d) and inserting the following:
+    ``(d) Initial Assessments.--
+            ``(1) In general.--Not later than 2 years after the date of 
+        enactment of the Next-Generation Geothermal Research and 
+        Development Act, the Secretary of the Interior, acting through 
+        the Director of the United States Geological Survey (referred 
+        to in this subsection as the `Director'), shall complete 
+        updated assessments of--
+                    ``(A) conventional hydrothermal resources; and
+                    ``(B) next-generation geothermal resources, 
+                including enhanced geothermal systems.
+            ``(2) Methodologies.--Not later than 5 years after the date 
+        of enactment of the Next-Generation Geothermal Research and 
+        Development Act, the Director shall develop methodologies for, 
+        and complete an initial assessment of, next-generation 
+        geothermal resources, including supercritical geothermal 
+        systems.
+            ``(3) Interim products.--In carrying out paragraphs (1) and 
+        (2), the Director may publish interim datasets, analyses, or 
+        partial assessments prior to the completion of a full 
+        assessment under those paragraphs.
+            ``(4) Prioritization.--To the extent practicable, the 
+        Director shall prioritize carrying out geothermal resource 
+        assessments in a sustained effort and manner consistent with 
+        the requirements of the Advanced Geothermal Energy Research and 
+        Development Act of 2007 (42 U.S.C. 17191 et seq.).
+            ``(5) Implementation.--The completion of the initial 
+        assessments required under paragraphs (1) and (2) shall satisfy 
+        the first update required after the date of enactment of the 
+        Next-Generation Geothermal Research and Development Act under 
+        subsection (c).''.
+    (i) Clerical Amendment.--The table of contents of the Energy 
+Independence and Security Act of 2007 (42 U.S.C. 17001 note; Public Law 
+110-140) is amended by striking the item relating to section 615 and 
+inserting the following:
+
+``Sec. 615. Enhanced geothermal systems and closed-loop geothermal 
+                            systems research, development, and 
+                            testing.''.
+                                 <all>

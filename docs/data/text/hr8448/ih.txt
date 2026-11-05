@@ -1,0 +1,105 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8448 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8448
+
+To establish an Office of Energy Affordability within the Department of 
+                    Energy, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 22, 2026
+
+ Mr. Lawler (for himself and Mr. Gottheimer) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish an Office of Energy Affordability within the Department of 
+                    Energy, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Energy Affordability and Reliability 
+Act of 2026''.
+
+SEC. 2. ESTABLISHMENT OF OFFICE OF ENERGY AFFORDABILITY.
+
+    (a) Establishment.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Energy shall establish within 
+the Office of Policy of the Department of Energy an office to be known 
+as the Office of Energy Affordability (in this section referred to as 
+the ``Office'').
+    (b) Duties.--The duties of the Office shall be to--
+            (1) review each proposed regulation or policy of the 
+        Department of Energy that would require, or otherwise relates 
+        to, a transition between types of energy or sources of energy, 
+        to determine whether such regulation or policy--
+                    (A) incorporates transparent and rigorous analysis 
+                of the short-term and long-term effects of such 
+                regulation or policy on energy affordability and on 
+                related economic costs;
+                    (B) includes strategies to ensure that such 
+                regulation or policy does not negatively affect energy 
+                affordability and that related economic costs are 
+                mitigated; and
+                    (C) supports reliable access to energy by consumers 
+                and promotes cost-effective energy solutions; and
+            (2) provide advice and guidance based on the results of 
+        such review.
+    (c) Timely Review; No Prevention of Issuance.--In carrying out the 
+duties under subsection (b), the Office--
+            (1) shall complete the review of each proposed regulation 
+        or policy pursuant to such subsection by not later than 30 days 
+        after the date on which the Office receives notice of such 
+        proposed regulation or policy; and
+            (2) may not prevent the issuance of any regulation or 
+        policy.
+    (d) Annual Reports.--On an annual basis, the Office shall submit to 
+the appropriate congressional committees a report containing, with 
+respect to any regulation or policy specified in subsection (b) 
+proposed to be issued or issued during the year covered by such 
+report--
+            (1) an analysis of the effects specified in subsection 
+        (b)(1)(A); and
+            (2) recommendations for the strategies specified in 
+        subsection (b)(1)(B).
+    (e) Report on Effectiveness of Office.--Not later than 5 years 
+after the date on which the Office is established under subsection (a), 
+the Secretary of Energy shall submit to the appropriate congressional 
+committees a report on the effectiveness of the Office.
+    (f) Definitions.--In this section--
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means--
+                    (A) the Committee on Energy and Commerce and the 
+                Committee on Appropriations of the House of 
+                Representatives; and
+                    (B) the Committee on Energy and Natural Resources 
+                and the Committee on Appropriations of the Senate.
+            (2) Energy affordability.--The term ``energy 
+        affordability'' means the cost of energy transmitted to a 
+        residential, commercial, or industrial consumer proportional to 
+        the income or operational costs of such consumer.
+                                 <all>

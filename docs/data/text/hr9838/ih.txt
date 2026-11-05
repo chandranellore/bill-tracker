@@ -1,0 +1,283 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9838 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9838
+
+To provide for the expedited approval of interstate oil and natural gas 
+  pipelines that are critical to the national security of the United 
+                                States.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 22, 2026
+
+ Mr. Calvert (for himself, Mr. Strong, Mr. Gallagher, Mr. Valadao, Mr. 
+  Shreve, Mr. Fong, Mr. Issa, and Mr. Moran) introduced the following 
+ bill; which was referred to the Committee on Energy and Commerce, and 
+in addition to the Committees on Transportation and Infrastructure, and 
+ Natural Resources, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To provide for the expedited approval of interstate oil and natural gas 
+  pipelines that are critical to the national security of the United 
+                                States.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``National Security Interstate 
+Pipeline Act''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) Reliable transportation of oil and natural gas across 
+        the United States is essential to national defense, military 
+        readiness, and the defense industrial base.
+            (2) Constraints in regional energy supply create 
+        vulnerabilities for military installations, critical 
+        infrastructure, and industrial capacity.
+            (3) Interstate pipeline infrastructure is the most 
+        efficient, secure, and scalable method for transporting large 
+        volumes of energy resources.
+            (4) Fragmented Federal, State, and local permitting 
+        processes create delays that undermine the timely development 
+        of critical energy infrastructure.
+            (5) It is in the national interest to ensure the rapid 
+        development of interstate energy transportation systems 
+        necessary to support national security objectives.
+
+SEC. 3. EXPEDITED APPROVAL OF INTERSTATE OIL AND NATURAL GAS PIPELINES 
+              CRITICAL TO THE NATIONAL SECURITY OF THE UNITED STATES.
+
+    (a) Designation of Covered Pipeline Projects.--
+            (1) Authority.--The President may designate an interstate 
+        pipeline as a covered pipeline project if the President 
+        determines that the interstate pipeline is necessary to ensure 
+        energy supply for military installations, the defense 
+        industrial base, or critical infrastructure resilience.
+            (2) Publication.--Each designation of an interstate 
+        pipeline as a covered pipeline project under this section shall 
+        be transmitted to Congress and published in the Federal 
+        Register.
+    (b) Exclusive Federal Siting and Permitting Authority.--
+            (1) Exclusive authority.--Notwithstanding any other 
+        provision of law, the Commission shall have exclusive authority 
+        to approve or deny an application for the siting, construction, 
+        expansion, or operation of a covered pipeline project.
+            (2) Certificate.--Upon the filing of an application to 
+        site, construct, expand, or operate a covered pipeline project, 
+        the Commission shall issue or deny a certificate authorizing 
+        such siting, construction, expansion, or operation accordingly.
+            (3) Lead agency.--The Commission shall act as the lead 
+        agency for purposes of coordinating all applicable Federal 
+        authorizations and related environmental reviews of a covered 
+        pipeline project.
+    (c) Acquisition of Property Interests.--
+            (1) Authority to acquire.--A holder of a certificate issued 
+        under subsection (b) may acquire any right-of-way, easement, or 
+        other interest in real property necessary for the siting, 
+        construction, expansion, or operation of the covered pipeline 
+        project for which the certificate was issued, by--
+                    (A) negotiation and purchase; or
+                    (B) the exercise of the right of eminent domain in 
+                the district court of the United States for the 
+                district in which the property is located, or in the 
+                appropriate court of the State in which the property is 
+                located, in accordance with paragraph (2).
+            (2) Conditions on eminent domain.--
+                    (A) Good faith negotiation required.--A certificate 
+                holder may not commence a proceeding under paragraph 
+                (1)(B) unless the certificate holder has made a good-
+                faith effort to acquire the necessary property interest 
+                by negotiation, including a written offer of just 
+                compensation to the owner of record not later than 60 
+                days before commencing such proceeding.
+                    (B) Just compensation.--Any acquisition under this 
+                subsection shall be subject to the payment of just 
+                compensation, as determined in accordance with the fair 
+                market value of the property interest acquired.
+                    (C) Temporary workspace distinguished.--
+                Compensation for a temporary construction easement 
+                shall be calculated separately from, and shall not be 
+                based on, the valuation methodology applied to a 
+                permanent right-of-way or easement, and shall account 
+                for the duration and scope of the temporary use.
+                    (D) Severance damages.--Where an acquisition under 
+                this subsection affects less than the entirety of a 
+                parcel of real property, just compensation shall 
+                include any diminution in the fair market value of the 
+                remaining property proximately caused by the 
+                acquisition.
+                    (E) Date of valuation.--Fair market value under 
+                this subsection shall be determined as of the date on 
+                which the certificate holder files a complaint in 
+                condemnation under paragraph (1)(B), or the date of 
+                taking, whichever is earlier.
+            (3) Procedure.--Except as otherwise provided in this 
+        subsection, a proceeding under paragraph (1)(B) shall be 
+        conducted in accordance with rule 71.1 of the Federal Rules of 
+        Civil Procedure, or the applicable procedure of the State in 
+        which the property is located, as appropriate.
+            (4) Notice to landowners.--Not later than 30 days before 
+        filing a complaint in condemnation under paragraph (1)(B), a 
+        certificate holder shall provide written notice to the owner of 
+        record of the affected property, which shall include--
+                    (A) a description of the property interest sought;
+                    (B) a written appraisal of the fair market value of 
+                the property interest, prepared by a qualified 
+                independent appraiser; and
+                    (C) a statement of the owner's right to obtain an 
+                independent appraisal and to contest the amount of 
+                compensation offered.
+    (d) Expedited Review.--
+            (1) Timelines.--Notwithstanding any other provision of law, 
+        if--
+                    (A) not later than 180 days after an application 
+                for a certificate is submitted under subsection (b), a 
+                Federal agency does not complete an action that is 
+                required with respect to a Federal authorization, 
+                including any proceeding, opinion, review, or decision, 
+                or related environmental review, such requirement shall 
+                be deemed satisfied and, if applicable, such Federal 
+                authorization shall be deemed approved; and
+                    (B) not later than 60 days after an application for 
+                a certificate is submitted under subsection (b), a 
+                State, local, or Tribal agency does not complete an 
+                action that is required with respect to a Federal 
+                authorization, including any proceeding, opinion, 
+                review, or decision, or related environmental review, 
+                such requirement shall be deemed satisfied and, if 
+                applicable, such Federal authorization shall be deemed 
+                approved.
+            (2) Limitation on alternatives.--Notwithstanding any other 
+        provision of law, in conducting any action with respect to a 
+        Federal authorization, including any proceeding, opinion, 
+        review, or decision, or related environmental review with 
+        respect to a covered pipeline project that requires the 
+        consideration of alternatives, including reviews under the 
+        National Environmental Policy Act of 1969, Federal and State 
+        agencies shall consider alternatives that are technically and 
+        economically feasible and consistent with national security 
+        objectives, as determined by the Commission, in consultation 
+        with the Secretary of Energy and the Secretary of Defense.
+    (e) Federal Preemption of State and Local Requirements.--
+            (1) In general.--No State, Tribal, or local government may 
+        enforce any law or regulation that--
+                    (A) prohibits the siting, construction, expansion, 
+                or operation of a covered pipeline project or imposes 
+                any requirement, condition, limitation, or standard 
+                that would reasonably be expected to delay, increase 
+                the cost of, or otherwise impede the siting, 
+                construction, expansion, or operation, of a covered 
+                pipeline project; or
+                    (B) imposes any requirement, condition, limitation, 
+                or standard on the siting, construction, expansion, or 
+                operation of a covered pipeline project that is 
+                inconsistent with a certificate issued under subsection 
+                (b).
+            (2) Limitation on state permitting.--No State, Tribal, or 
+        local permit, approval, or certification shall be required for 
+        a covered pipeline project. Any such permit, approval, or 
+        certification may be issued for advisory purposes only and 
+        shall have no binding effect on the siting, construction, 
+        expansion or operation of the covered pipeline project.
+            (3) Rule of construction.--Nothing in the section shall be 
+        construed to revise or alter the duties or authorities of the 
+        Commission with respect to any pipeline project that is not a 
+        covered pipeline project.
+    (f) National Security Waiver Authority.--The President may waive 
+compliance any requirement of the National Environmental Policy Act of 
+1969 (42 U.S.C. 4321 et seq.), the Clean Air Act (42 U.S.C. 7401 et 
+seq.), the Federal Water Pollution Control Act (33 U.S.C. 1251 et 
+seq.), or the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), 
+if necessary to prevent unacceptable delay, as determined by the 
+President, of the siting, construction, expansion, or operation of a 
+covered pipeline project.
+    (g) Congressional Notification and Oversight.--
+            (1) Notification.--The President shall notify Congress not 
+        later than 7 days after any designation under subsection (a) or 
+        waiver under subsection (f).
+            (2) Quarterly reports.--The President shall submit to 
+        Congress quarterly reports on all covered pipeline projects, 
+        including any waiver with respect to a covered pipeline project 
+        under subsection (f), and the status of each such covered 
+        pipeline project.
+    (h) Delegation.--
+            (1) In general.--The President may delegate any authority 
+        or responsibility under subsection (a), subsection (f), or 
+        subsection (g) to the Secretary of Energy.
+            (2) Consultation.--If the Secretary of Energy is delegated 
+        authority or responsibility pursuant to subparagraph (A), the 
+        Secretary of Energy shall exercise such authority or 
+        responsibility in consultation with the Secretary of Defense.
+    (i) Judicial Review.--
+            (1) Exclusive jurisdiction.--Any claim arising under this 
+        Act shall be filed exclusively in the United States Court of 
+        Appeals for the District of Columbia Circuit.
+            (2) Expedited review.--The United States Court of Appeals 
+        for the District of Columbia Circuit shall expedite review of 
+        any claim arising under this Act to the maximum extent 
+        practicable.
+            (3) Standard of review.--Federal agency actions taken 
+        pursuant to this Act shall be upheld unless found to be 
+        arbitrary, capricious, or contrary to law.
+    (j) Definitions.--In this Act:
+            (1) Commission.--The term ``Commission'' means the Federal 
+        Energy Regulatory Commission.
+            (2) Covered pipeline project.--The term ``covered pipeline 
+        project'' means any interstate pipeline for the transportation 
+        of crude oil, refined petroleum products, or natural gas, that 
+        is designated under subsection (a).
+            (3) Critical infrastructure resilience.--The term 
+        ``critical infrastructure resilience'' means resilience of 
+        systems and assets, whether physical or virtual, so vital to 
+        the United States that the incapacity or destruction of such 
+        systems and assets would have a debilitating impact on 
+        security, national economic security, national public health or 
+        safety, or any combination of those matters.
+            (4) Defense industrial base.--The term ``defense industrial 
+        base'' has the meaning given such term in section 236.2 of 
+        title 32, Code of Federal Regulations (as in effect on the date 
+        of enactment of this Act).
+            (5) Federal authorization.--The term ``Federal 
+        authorization''--
+                    (A) means any authorization required under Federal 
+                law with respect to an application for a certificate 
+                under subsection (b); and
+                    (B) includes any permits, special use 
+                authorizations, certifications, opinions, or other 
+                approvals as may be required under Federal law with 
+                respect to an application for a certificate under 
+                subsection (b).
+            (6) Military installation.--The term ``military 
+        installation'' means a base, camp, post, station, yard, center, 
+        or other activity under the jurisdiction of the Secretary of a 
+        military department under the operational control of the 
+        Secretary of a military department or the Secretary of Defense, 
+        without regard to the duration of operational control.
+                                 <all>

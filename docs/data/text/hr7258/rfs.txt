@@ -1,0 +1,67 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7258 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 7258
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 13, 2026
+
+   Received; read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To amend the Department of Energy Organization Act with respect to 
+  functions assigned to Assistant Secretaries, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Energy Emergency Leadership Act''.
+
+SEC. 2. FUNCTIONS ASSIGNED TO ASSISTANT SECRETARIES.
+
+    (a) In General.--Subsection (a) of section 203 of the Department of 
+Energy Organization Act (42 U.S.C. 7133(a)) is amended by adding at the 
+end the following new paragraph:
+            ``(12) Energy emergency and energy security functions, 
+        including--
+                    ``(A) responsibilities with respect to energy 
+                infrastructure, security and resilience, emerging 
+                threats, cybersecurity, supply, and emergency planning 
+                and preparedness, coordination, response, and 
+                restoration, as appropriate; and
+                    ``(B) upon request of a State, local, or Tribal 
+                government or energy sector entity, and in coordination 
+                with other Federal agencies as appropriate, provision 
+                of technical assistance and support to protect against, 
+                detect, and respond to energy security threats, risks, 
+                and incidents.''.
+    (b) Coordination.--The Secretary of Energy shall ensure that the 
+functions of the Secretary described in section 203(a)(12) of the 
+Department of Energy Organization Act (as added by this Act) are 
+performed in coordination with relevant Federal agencies.
+
+            Passed the House of Representatives June 29, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

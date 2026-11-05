@@ -1,0 +1,159 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5590 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5590
+
+   To require the Secretary of Defense to submit a plan to identify, 
+    prioritize, and remediate the presence of certain equipment and 
+computational facilities owned or controlled by a foreign adversary in 
+    the electric grid of the United States, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 29, 2026
+
+   Mr. Banks introduced the following bill; which was read twice and 
+              referred to the Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To require the Secretary of Defense to submit a plan to identify, 
+    prioritize, and remediate the presence of certain equipment and 
+computational facilities owned or controlled by a foreign adversary in 
+    the electric grid of the United States, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Electric Grid Supply Chain Security 
+Act''.
+
+SEC. 2. PLAN ON REMEDIATION OF CERTAIN EQUIPMENT AND COMPUTATIONAL 
+              FACILITIES OWNED OR CONTROLLED BY A FOREIGN ADVERSARY.
+
+    (a) In General.--Not later than 180 days after the date of the 
+enactment of this Act, the Secretary of Defense, in coordination with 
+the Commander of the United States Northern Command and the Secretaries 
+of the military departments and in consultation with the Secretary of 
+Energy, shall submit to the congressional defense committees a plan to 
+identify, prioritize, and remediate, to the standards established under 
+sections 394, 2815, and 2920 of title 10, United States Code, the 
+presence of covered equipment and covered computational facilities 
+owned or controlled by a foreign adversary in the electric grid of the 
+United States.
+    (b) Elements.--The plan required under subsection (a) shall 
+include--
+            (1) an assessment of the risks to the national defense and 
+        security of the United States posed by covered equipment owned 
+        or controlled by a foreign adversary, components, systems, and 
+        technologies related to such equipment, and covered 
+        computational facilities owned or controlled by a foreign 
+        adversary, including risks to--
+                    (A) military installations and defense critical 
+                electric infrastructure (as defined in section 215A of 
+                the Federal Power Act (16 U.S.C. 824o-1));
+                    (B) continuity of operations for critical missions 
+                of the Department of Defense; and
+                    (C) the reliability and resilience of the bulk-
+                power system;
+            (2) criteria for prioritizing remediation actions based on 
+        risk to military operations, including proximity to covered 
+        military installations and entities of the defense industrial 
+        base, and the criticality of affected infrastructure;
+            (3) a remediation strategy, coordinated with relevant State 
+        governments--
+                    (A) to remove, replace, or otherwise mitigate, to 
+                the standards established under sections 2815 and 2920 
+                of title 10, United States Code, covered equipment, 
+                components, systems, and technologies related to such 
+                equipment, and computational facilities;
+                    (B) to incorporate secure and trusted alternatives 
+                to such equipment, components, systems, technologies, 
+                and facilities, including weapons protection, standard 
+                manufactured components, and software; and
+                    (C) to minimize disruption to grid operations; and
+            (4) such other information and plans as the Secretary 
+        determines relevant.
+    (c) Form.--The plan required under subsection (a) shall be 
+submitted in unclassified form, but may include a classified annex.
+    (d) Annual Funding, Equipment, and Personnel Requirements.--
+Beginning in the fiscal year 2028 budget cycle, and annually 
+thereafter, the Commander of the United States Northern Command shall 
+submit to the Secretary and the congressional defense committees an 
+annual budget estimating the funding required to execute the plan 
+submitted under subsection (a).
+    (e) Definitions.--In this section:
+            (1) Congressional defense committees.--The term 
+        ``congressional defense committees'' has the meaning given that 
+        term in section 101(a)(16) of title 10, United States Code.
+            (2) Control.--The term ``control'' has the meaning given 
+        that term in section 800.208 of title 31, Code of Federal 
+        Regulations, or any successor regulations.
+            (3) Covered computational facility.--
+                    (A) In general.--Subject to subparagraph (B), the 
+                term ``covered computational facility'' means a 
+                facility used to operate computing equipment in support 
+                of continuous, automated computational operations.
+                    (B) Issuance of guidance.--
+                            (i) In general.--Not later than 90 days 
+                        after the date of the enactment of this Act, 
+                        the Secretary, in consultation with the 
+                        Commander of the United States Northern 
+                        Command, shall issue guidance to further define 
+                        the term ``covered computational facility'' for 
+                        purposes of this section.
+                            (ii) Annual update.--Not less frequently 
+                        than annually, the Secretary, in consultation 
+                        with the Commander of the United States 
+                        Northern Command, shall, as appropriate, update 
+                        guidance under clause (i) in response to 
+                        technical developments, legal, regulatory, and 
+                        institutional barriers, and newly identified 
+                        threats and risks.
+            (4) Covered equipment.--The term ``covered equipment'' 
+        means any equipment that--
+                    (A) is capable of connecting to the internet, a 
+                local area network, a wide area network, or any other 
+                communications network, whether through wired or 
+                wireless means, regardless of ownership or operational 
+                control by the government or private industry;
+                    (B) contains software, firmware, or hardware that 
+                is remotely updatable or remotely accessible;
+                    (C) is otherwise susceptible to unauthorized 
+                access, exploitation, or manipulation through a 
+                network-connected vector, including through embedded 
+                components, supply chain vulnerabilities, or third-
+                party software dependencies; and
+                    (D) is directly connected to the grid, the electric 
+                distribution system of a military installation or 
+                entity of the defense industrial base, or connected to 
+                the grid through a transformer, and can be accessed or 
+                communicated with via power line or other 
+                communication, or that can be physically accessed.
+            (5) Foreign adversary.--The term ``foreign adversary'' has 
+        the meaning given the term ``covered nation'' in section 
+        4872(f) of title 10, United States Code.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of Defense.
+                                 <all>

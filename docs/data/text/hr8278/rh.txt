@@ -1,0 +1,248 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8278 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 617
+119th CONGRESS
+  2d Session
+                                H. R. 8278
+
+                          [Report No. 119-711]
+
+ To require certain supervisory agencies to assess their technological 
+                 capabilities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 14, 2026
+
+  Mr. Stutzman (for himself and Mr. Foster) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+                             June 24, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+ [For text of introduced bill, see copy of bill as introduced on April 
+                               14, 2026]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require certain supervisory agencies to assess their technological 
+                 capabilities, and for other purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fostering the Use of Technology to 
+Uphold Regulatory Effectiveness in Supervision Act''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) Banking regulators continue to examine and monitor 
+        depository institutions without sufficient access to real-time 
+        information.
+            (2) Risk surrounding technology procurement may present 
+        challenges for updating supervisory technology.
+            (3) To ensure that prudential supervision is effective and 
+        sustainable in the digital age, agencies must leverage new 
+        technologies to allow for the financial monitoring necessary to 
+        preserve a safe and sound banking system.
+            (4) New technological tools are also necessary in order for 
+        agencies to effectively fulfill mandates other than prudential 
+        supervision, including their mandates to assure consumer 
+        protection and monitor Bank Secrecy Act compliance.
+            (5) Agencies' reliance on outdated technology can create 
+        vulnerabilities for the financial system, through--
+                    (A) difficulties in collecting, compiling, and 
+                analyzing relevant information about risks and 
+                noncompliance at supervised firms;
+                    (B) reliance on information that is inaccurate, 
+                incomplete, or not timely;
+                    (C) reliance on limited and outdated tools for data 
+                analysis;
+                    (D) difficulties in using data to identify risk 
+                trends;
+                    (E) difficulties in producing accurate and timely 
+                reports;
+                    (F) inadequacy of cybersecurity safeguards; and
+                    (G) failure to detect illegal activities.
+            (6) The rapid expansion of financial firms' use of 
+        artificial intelligence may generate opportunities to improve 
+        the financial system while also introducing a range of risks, 
+        making it essential that agencies be equipped with the 
+        technology, expertise, and skills needed to analyze these 
+        opportunities and potential risks.
+            (7) While agencies assess their supervisory capabilities on 
+        an ongoing basis, it is imperative that there be a unified goal 
+        of enhancing supervisory technologies that ensure effective and 
+        sustainable oversight.
+
+SEC. 3. TECHNOLOGICAL CAPABILITIES AND PROCUREMENT PRACTICES 
+              ASSESSMENT.
+
+    (a) In General.--
+            (1) Technological capabilities assessment.--Each covered 
+        agency shall, not later than 180 days after the date of the 
+        enactment of this section, assess how existing technologies 
+        used by the covered agency pose challenges to the covered 
+        agency in conducting adequate, real-time supervisory 
+        assessments of entities over which the covered agency has 
+        supervisory authority. Such technologies include, as 
+        applicable--
+                    (A) core information technology infrastructure;
+                    (B) technologies used to supervise entities;
+                    (C) technologies for monitoring general market 
+                risks using reported data and external data; and
+                    (D) technologies for data collection, storage, 
+                processing, and security.
+            (2) Procurement practices assessment.--Each covered agency 
+        shall, not later than 180 days after the date of the enactment 
+        of this section--
+                    (A) assess the procurement rules and protocols 
+                adhered to by such covered agency when such covered 
+                agency acquires or develops new technological systems; 
+                and
+                    (B) identify any opportunities to further 
+                streamline procurement rules and protocols, including 
+                an assessment of the impact such rules or protocols 
+                have on the ability of the covered agency to test new 
+                technological systems, that are within the covered 
+                agency's authority to streamline.
+    (b) Report.--Not later than 18 months after the completion of the 
+assessments required under subsection (a), and for every 5 years 
+thereafter, the covered agencies shall coordinate and jointly submit to 
+the Committee on Financial Services of the House of Representatives and 
+the Committee on Banking, Housing, and Urban Affairs of the Senate, in 
+a manner that does not pose a risk to the integrity or security of any 
+technologies, systems, or capabilities of covered agencies, regulated 
+entities, or market participants, a report that includes, as 
+applicable, the following with respect to each covered agency:
+            (1) A general overview of hardware and software used for 
+        information gathering and advanced analytics during supervision 
+        activities, including categories of technology purchased from 
+        vendors and developed by the covered agency or contractors of 
+        the covered agency.
+            (2) A description of the procurement practices and 
+        protocols of the covered agency, including a description of--
+                    (A) whether such processes are voluntarily adhered 
+                to or mandated; and
+                    (B) any opportunities to further streamline 
+                procurement rules and protocols, including an 
+                assessment of the impact such rules or protocols have 
+                on the ability of the covered agency to test new 
+                technological systems.
+            (3) A general overview of the portion of the workforce of 
+        the covered agency that is engaged materially in technology 
+        development within the covered agency, including--
+                    (A) an overview of the ability of the covered 
+                agency to recruit and retain appropriate technology 
+                experts; and
+                    (B) a description of the degree to which the 
+                covered agency relies on contractors to design, 
+                develop, or deploy technology and perform technology-
+                related tasks, and a description of related risk 
+                management practices for contractors and third-party 
+                technologies.
+            (4) A general description of the processes used by the 
+        covered agency to obtain information from entities supervised 
+        by the covered agency and any impediments thereto, including 
+        regulatory obstacles.
+            (5) General information about market and technology trends 
+        and risks in the underlying regulated markets including, 
+        specific to the covered agency's jurisdiction--
+                    (A) market developments influenced by the adoption 
+                of new technologies;
+                    (B) the use of new technologies by supervised 
+                entities for compliance and risk management purposes;
+                    (C) the impact of new technologies on the 
+                collection and analysis of data submitted to the 
+                covered agencies by supervised entities as required by 
+                regulation, including on data quality, 
+                interoperability, and standardization; and
+                    (D) potential risks, including risks of illicit 
+                activity, related to new technologies.
+            (6) A general description of the ways in which the covered 
+        agency shares information or system access with other covered 
+        agencies and any impediments thereto, including regulatory 
+        obstacles.
+            (7) An estimate of the costs for supervised entities to 
+        modify systems to share data with covered agencies, as 
+        appropriate.
+            (8) A general description of any plans of the covered 
+        agency to implement future upgrades to the technology it uses 
+        to supervise entities, including--
+                    (A) the anticipated timeline for any planned 
+                upgrades;
+                    (B) the costs of any planned upgrades;
+                    (C) any impediments to procuring relevant 
+                technologies;
+                    (D) plans for hiring and training individuals in 
+                connection with technological upgrades;
+                    (E) any aspects of any planned upgrades that should 
+                be addressed on an interagency basis;
+                    (F) any anticipated challenges and opportunities 
+                associated with entities supervised by the covered 
+                agency adapting to the covered agency's reporting 
+                process, including--
+                            (i) estimates of transition costs; and
+                            (ii) estimates of any potential cost 
+                        reductions; and
+                    (G) as applicable, the covered agency's 
+                relationships with other covered agencies in their 
+                capacity as delegated examiners.
+    (c) Covered Agency Defined.--In this section, the term ``covered 
+agency'' means the Board of Governors of the Federal Reserve System, 
+the Bureau of Consumer Financial Protection, the Federal Deposit 
+Insurance Corporation, the Department of the Treasury, including the 
+Office of the Comptroller of the Currency and the Financial Crimes 
+Enforcement Network, the Federal Housing Finance Agency, and the 
+National Credit Union Administration.
+                                                 Union Calendar No. 617
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 8278
+
+                          [Report No. 119-711]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To require certain supervisory agencies to assess their technological 
+                 capabilities, and for other purposes.
+
+_______________________________________________________________________
+
+                             June 24, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed

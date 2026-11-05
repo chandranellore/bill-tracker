@@ -1,0 +1,66 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1618 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  1st Session
+                                H. R. 1618
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 15, 2025
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To require the Federal Communications Commission to review certain 
+rules of the Commission and develop recommendations for rule changes to 
+         promote precision agriculture, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Precision Agriculture Satellite 
+Connectivity Act''.
+
+SEC. 2. PRECISION AGRICULTURE SATELLITE CONNECTIVITY.
+
+    (a) Review.--The Commission shall--
+            (1) review the rules of the Commission relating to fixed 
+        satellite service, mobile satellite service, and earth 
+        exploration satellite service to determine if there are rule 
+        changes that the Commission could implement under existing 
+        authority to promote precision agriculture; and
+            (2) if the Commission determines under paragraph (1) that 
+        there are rule changes that the Commission could implement, 
+        develop recommendations for how to implement the changes.
+    (b) Report.--Not later than 15 months after the date of the 
+enactment of this Act, the Commission shall submit to the Committee on 
+Energy and Commerce of the House of Representatives and the Committee 
+on Commerce, Science, and Transportation of the Senate a report on the 
+results of the review conducted under subsection (a), including any 
+recommendations developed under paragraph (2) of such subsection.
+    (c) Commission Defined.--In this section, the term ``Commission'' 
+means the Federal Communications Commission.
+
+            Passed the House of Representatives July 14, 2025.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

@@ -1,0 +1,278 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10681 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10681
+
+To establish a National Critical Minerals Council within the Executive 
+Office of the President to develop and coordinate the implementation of 
+   a national critical mineral and material strategy for the United 
+                    States, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 1, 2026
+
+    Ms. Lee of Nevada (for herself and Mr. Fulcher) introduced the 
+    following bill; which was referred to the Committee on Natural 
+                               Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish a National Critical Minerals Council within the Executive 
+Office of the President to develop and coordinate the implementation of 
+   a national critical mineral and material strategy for the United 
+                    States, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``National Critical Minerals Council 
+Act''.
+
+SEC. 2. NATIONAL CRITICAL MINERALS COUNCIL.
+
+    Section 7002 of the Energy Act of 2020 (30 U.S.C. 1606) is 
+amended--
+            (1) by redesignating subsection (o) as subsection (p); and
+            (2) by inserting after subsection (n) the following:
+    ``(o) National Critical Minerals Council.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Advisor.--The term `Advisor' means the Chief 
+                Minerals Advisor designated under paragraph (4)(C).
+                    ``(B) Advisory council.--The term `Advisory 
+                Council' means the National Critical Minerals Council 
+                established under paragraph (3).
+                    ``(C) Co-chair.--The term `Co-Chair' means an 
+                individual listed under paragraph (4)(A).
+                    ``(D) Critical mineral or material project.--The 
+                term `critical mineral or material project' means any 
+                project that, as a primary function or purpose, 
+                identifies, characterizes, mines, extracts, processes, 
+                reprocesses, reuses, or recycles critical minerals or 
+                critical materials.
+                    ``(E) Institution of higher education.--The term 
+                `institution of higher education' has the meaning given 
+                the term in section 101 of the Higher Education Act of 
+                1965 (20 U.S.C. 1001).
+                    ``(F) Mining school.--The term `mining school' 
+                means--
+                            ``(i) a mining, metallurgical, geological, 
+                        or mineral engineering program accredited by 
+                        the Accreditation Board for Engineering and 
+                        Technology, Inc., that is located at an 
+                        institution of higher education, including a 
+                        Tribal College or University (as defined in 
+                        section 316(b) of the Higher Education Act of 
+                        1965 (20 U.S.C. 1059c(b))); or
+                            ``(ii) a geology or engineering program or 
+                        department that is located at a 4-year public 
+                        institution of higher education located in a 
+                        State the gross domestic product of which in 
+                        2021 was not less than $2,000,000,000 in the 
+                        combined categories of ``Mining (except oil and 
+                        gas)'' and ``Support activities for mining'', 
+                        according to the Bureau of Economic Analysis.
+                    ``(G) Relevant congressional committees.--The term 
+                `relevant congressional committees' means--
+                            ``(i) the Committees on Energy and Natural 
+                        Resources, Armed Services, and Foreign 
+                        Relations of the Senate; and
+                            ``(ii) the Committees on Natural Resources, 
+                        Energy and Commerce, Armed Services, and 
+                        Foreign Affairs of the House of 
+                        Representatives.
+            ``(2) Purposes.--The purposes of the Advisory Council are--
+                    ``(A) to develop and coordinate the implementation 
+                of a national critical mineral and critical material 
+                strategy for the United States to secure the critical 
+                minerals and critical materials needed for energy 
+                security, economic opportunity, and national defense 
+                purposes;
+                    ``(B) to coordinate with relevant critical mineral 
+                and critical material efforts across relevant Federal 
+                agencies;
+                    ``(C) to reduce reliance on foreign adversaries for 
+                critical mineral and critical material imports;
+                    ``(D) to support domestic mineral sourcing 
+                capacity; and
+                    ``(E) to reduce single points of failure in 
+                critical mineral and critical material supply chains of 
+                the United States.
+            ``(3) Establishment.--There is established in the Executive 
+        Office of the President a National Critical Minerals Council, 
+        to advise the Co-Chairs and Advisor.
+            ``(4) Staff.--
+                    ``(A) Co-chairs.--The Advisory Council shall be co-
+                chaired by--
+                            ``(i) the Secretary (or a designee);
+                            ``(ii) the National Security Advisor (or a 
+                        designee); and
+                            ``(iii) the Director of the National 
+                        Economic Council (or a designee).
+                    ``(B) Advisor.--
+                            ``(i) In general.--Not later than 180 days 
+                        after the date of enactment of this subsection, 
+                        the Co-Chairs shall designate a Chief Minerals 
+                        Advisor.
+                            ``(ii) Duties.--The Advisor shall--
+                                    ``(I) carry out the day-to-day 
+                                operations of the Advisory Council;
+                                    ``(II) have hiring authority for 
+                                Advisory Council staff and serve as the 
+                                principal staff director for activities 
+                                of the Advisory Council within the 
+                                Executive Office of the President;
+                                    ``(III) serve as the executive 
+                                secretary of the Advisory Council; and
+                                    ``(IV) report to the Co-Chairs.
+                            ``(iii) Position.--The Advisor shall be--
+                                    ``(I) a Senior Executive Service 
+                                position (as defined in section 3132(a) 
+                                of title 5, United States Code) in the 
+                                Department of the Interior; or
+                                    ``(II) an equivalent level official 
+                                within the Executive Office of the 
+                                President.
+                    ``(C) Membership.--The Advisory Council shall 
+                comprise such heads of Executive agencies (as defined 
+                in section 105 of title 5, United States Code) or their 
+                appropriate designees, including at least 1 
+                representative from each of--
+                            ``(i) the Department of Agriculture;
+                            ``(ii) the Department of Commerce;
+                            ``(iii) the Department of Defense;
+                            ``(iv) the Department of Energy;
+                            ``(v) the Department of the Interior;
+                            ``(vi) the Department of Labor;
+                            ``(vii) the Department of State;
+                            ``(viii) the Department of the Treasury;
+                            ``(ix) the Committee on Foreign Investment 
+                        in the United States;
+                            ``(x) the Development Finance Cooperation;
+                            ``(xi) the Environmental Protection Agency;
+                            ``(xii) the Export-Import Bank of the 
+                        United States;
+                            ``(xiii) the National Economic Council;
+                            ``(xiv) the National Security Council;
+                            ``(xv) the Office of Management and Budget;
+                            ``(xvi) the Office of Science and 
+                        Technology Policy;
+                            ``(xvii) the Office of the Director of 
+                        National Intelligence; and
+                            ``(xviii) the Office of the United States 
+                        Trade Representative.
+            ``(5) Duties.--In carrying out this subsection, the 
+        Advisory Council shall--
+                    ``(A) coordinate the development of interagency 
+                policy guidance related to critical minerals and 
+                critical materials, including guidance issued jointly 
+                through the processes of the National Security Council 
+                and the National Economic Council;
+                    ``(B) recommend alignment of Federal agency budget 
+                requests with the national critical minerals and 
+                critical materials strategy and provide advice to the 
+                Director of the Office of Management and Budget on that 
+                alignment;
+                    ``(C) identify duplicative or conflicting Federal 
+                agency policies and recommend harmonization across 
+                represented Federal agencies;
+                    ``(D) coordinate with the heads of all relevant 
+                Federal agencies to consistently and proactively track 
+                investments in critical mineral or material projects 
+                and mining-related projects around the world made by 
+                the People's Republic of China and other foreign 
+                entities of concern, as determined by the Advisor;
+                    ``(E) take actions to improve the visibility of the 
+                United States as a preferred partner for critical 
+                mineral or material projects and agreements in 
+                comparison to foreign adversaries, including 
+                collaborating with non-United States entities and 
+                governments from allied and partner nations;
+                    ``(F) track and advise on memoranda of 
+                understanding or agreements with allied and partner 
+                nations for the exchange of resources, including 
+                financing, workforce, and innovation;
+                    ``(G) facilitate the availability, development, and 
+                environmentally responsible production of domestic 
+                resources to meet national critical minerals and 
+                critical materials needs;
+                    ``(H) seek to ensure there is an evaluation and 
+                consideration of the impact to current and future 
+                supplies of critical minerals and critical materials in 
+                proposed Federal agency decisionmaking with respect to 
+                proposed decisions that have the potential for 
+                significant positive or negative impacts to the supply 
+                of those critical minerals and critical materials;
+                    ``(I) consult with outside experts from mining 
+                schools and other institutions of higher education, 
+                National Laboratories (as defined in section 2 of the 
+                Energy Policy Act of 2005 (42 U.S.C. 15801)), relevant 
+                private industries, relevant nongovernmental entities, 
+                Indian Tribes, and investors to stay apprised of 
+                current commercial practices, industry trends, research 
+                trends, industry needs, and best practices for 
+                responsible critical minerals and critical materials 
+                sourcing;
+                    ``(J) coordinate mining and critical mineral or 
+                material project research, development, deployment, 
+                investment, and commercialization funding priorities 
+                and opportunities across all relevant Federal agencies;
+                    ``(K) develop a central platform on which funding 
+                opportunities may be viewed by private entities;
+                    ``(L) maintain a central, digitized dashboard 
+                accessible to all agency staff, developers, and the 
+                public, to serve as a comprehensive resource for 
+                tracking projects and housing data across Federal 
+                agencies, encouraging transparency and coordination; 
+                and
+                    ``(M) coordinate mining, metallurgical, geological, 
+                and critical mineral education and workforce 
+                development efforts to enable implementation of the 
+                national critical minerals and critical materials 
+                strategy.
+            ``(6) Report.--Not later than 1 year after the date of 
+        enactment of this subsection, the Advisor, in consultation with 
+        the Co-Chairs, shall submit to the relevant congressional 
+        committees a report on--
+                    ``(A) the composition and function of the Advisory 
+                Council;
+                    ``(B) a national critical mineral and critical 
+                material strategy to achieve the purposes described in 
+                paragraph (2); and
+                    ``(C) an implementation plan that--
+                            ``(i) describes how represented agencies 
+                        intend to carry out that national critical 
+                        mineral and critical material strategy; and
+                            ``(ii) includes clear benchmarks to 
+                        evaluate how the strategy and implementation 
+                        plan are fulfilling the purposes described in 
+                        paragraph (2).
+            ``(7) Briefing.--Not later than 1 year after the date the 
+        report required under paragraph (6) is submitted, and annually 
+        thereafter, the Advisor shall provide to the relevant 
+        congressional committees a briefing on the progress of the 
+        Advisory Council in executing the implementation plan and 
+        updates to the national critical mineral and critical material 
+        strategy described in that report.''.
+                                 <all>

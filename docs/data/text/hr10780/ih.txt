@@ -1,0 +1,1109 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10780 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10780
+
+To modify and enhance the Federal budgeting and appropriations process, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 9, 2026
+
+ Mr. Golden of Maine (for himself, Ms. Perez, and Mr. Gray) introduced 
+ the following bill; which was referred to the Committee on Rules, and 
+  in addition to the Committees on the Budget, House Administration, 
+Appropriations, and Oversight and Government Reform, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To modify and enhance the Federal budgeting and appropriations process, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Congressional Budget Reform Act''.
+
+SEC. 2. TABLE OF CONTENTS.
+
+    The table of contents for this Act is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Table of contents.
+        TITLE I--FORMAT AND CONSIDERATION OF APPROPRIATION BILLS
+
+Sec. 101. Format and consideration of appropriation bills.
+Sec. 102. Spending reduction accounts in appropriation bills.
+Sec. 103. Exercise of rulemaking powers.
+          TITLE II--EXECUTIVE SPENDING AND IMPOUNDMENT REFORMS
+
+Sec. 201. Executive spending and impoundment reforms.
+        TITLE III--FISCAL TARGETS AND BUDGET ENFORCEMENT REFORMS
+
+Sec. 301. Automatic continuing appropriations.
+Sec. 302. Report on fiscal targets.
+Sec. 303. Content of concurrent resolution on the budget.
+Sec. 304. Special reconciliation instructions.
+Sec. 305. PAYGO scorecard requirement.
+Sec. 306. Timely enactment of appropriation Acts.
+Sec. 307. Ratio of public debt to GDP included in President's budget 
+                            submission.
+             TITLE IV--FISCAL DATA AND PREPAREDNESS REFORMS
+
+Sec. 401. Annual joint meeting of Congress to receive presentation by 
+                            Comptroller General.
+Sec. 402. Inclusion of findings and analysis of Fiscal State of the 
+                            Nation in concurrent resolution on the 
+                            budget.
+Sec. 403. Annual report.
+
+        TITLE I--FORMAT AND CONSIDERATION OF APPROPRIATION BILLS
+
+SEC. 101. FORMAT AND CONSIDERATION OF APPROPRIATION BILLS.
+
+    (a) In General.--Title III of the Congressional Budget Act of 1974 
+(2 U.S.C. 631 et seq.) is amended by adding at the end the following 
+new section:
+
+  ``consolidated consideration of general appropriation bills in the 
+                                 house
+
+    ``Sec. 316.  (a) Subcommittee Consideration.--Each annual 
+appropriation bill shall be developed, considered, and reported by the 
+appropriate subcommittee of the Committee on Appropriations of the 
+House of Representatives to the Committee on Appropriations of the 
+House.
+    ``(b) Full Committee Consideration.--
+            ``(1) Consolidated measures.--As soon as practicable after 
+        all annual appropriation bills have been reported under 
+        subsection (a), the Committee on Appropriations shall consider 
+        and mark up four consolidated general appropriations bills 
+        consisting of the following:
+                    ``(A) A measure consisting solely of the text, 
+                without substantive revision, of the Defense, Homeland 
+                Security, and the Military Construction, Veterans 
+                Affairs, and Related Agencies bills as reported by the 
+                applicable subcommittees under subsection (a).
+                    ``(B) A measure consisting solely of the text, 
+                without substantive revision, of the National Security, 
+                Department of State, and Related Programs, the 
+                Commerce, Justice, Science, and Related Agencies, and 
+                the Financial Services and General Government bills as 
+                reported by the applicable subcommittees under 
+                subsection (a).
+                    ``(C) A measure consisting solely of the text, 
+                without substantive revision, of the Transportation, 
+                Housing and Urban Development, and Related Agencies, 
+                the Energy and Water Development, and Related Agencies, 
+                and the Interior, Environment, and Related Agencies 
+                bills as reported by the applicable subcommittees under 
+                subsection (a).
+                    ``(D) A measure consisting solely of the text, 
+                without substantive revision, of the Labor, Health and 
+                Human Services, Education, and Related Agencies, the 
+                Agriculture, Rural Development, Food and Drug 
+                Administration, and Related Agencies, and the 
+                Legislative Branch bills as reported by the applicable 
+                subcommittees under subsection (a).
+            ``(2) Format.--Each consolidated general appropriations 
+        bill under paragraph (1) shall be divided into three divisions, 
+        with each division consisting of the text of each applicable 
+        general appropriation bill.
+            ``(3) Consideration.--A consolidated appropriations bill 
+        under paragraph (1) may be considered in the same manner as the 
+        Committee considers any other measure within its jurisdiction, 
+        and the Committee may consider and adopt such amendments as the 
+        Committee considers appropriate.
+    ``(c) Reporting.--Upon concluding its markup of a consolidated 
+general appropriations bill under subsection (c), the Committee on 
+Appropriations shall report the consolidated general appropriations 
+bill to the House of Representatives. Nothing in this section shall be 
+construed to limit the form and manner in which a general appropriation 
+bill may be considered in the House.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+such Act is amended by inserting after the item relating to section 315 
+the following:
+
+``316. Consolidated consideration of general appropriation bills.''.
+
+SEC. 102. SPENDING REDUCTION ACCOUNTS IN APPROPRIATION BILLS.
+
+    (a) In General.--A general appropriation bill may not be considered 
+in the Committee of the Whole House on the State of the Union unless it 
+includes a spending reduction account as the last section of the bill. 
+An order to report a general appropriation bill to the House shall 
+constitute authority for the chair of the Committee on Appropriations 
+to add such a section to the bill or modify the figure contained 
+therein.
+    (b) Amendments to Spending Reduction Accounts.--
+            (1) In general.--During the reading of a general 
+        appropriation bill for amendment in the Committee of the Whole 
+        House on the State of the Union, it shall be in order to 
+        consider en bloc amendments proposing only to transfer 
+        appropriations from an object or objects in the bill to a 
+        spending reduction account. When considered en bloc under this 
+        paragraph, such amendments may amend portions of the bill not 
+        yet read for amendment (following disposition of any points of 
+        order against such portions) and are not subject to a demand 
+        for division of the question in the House or in the Committee 
+        of the Whole.
+            (2) Point of order.--Except as provided in paragraph (1), 
+        it shall not be in order to consider an amendment to a spending 
+        reduction account in the House or in the Committee of the Whole 
+        House on the State of the Union.
+    (c) Adjustments.--The chair of the Committee on the Budget of the 
+House of Representatives shall make appropriate budgetary adjustments 
+of new budget authority and the outlays flowing therefrom by the amount 
+reflected in a spending reduction account, including adjustments to the 
+allocations and suballocations under section 302(a) and 302(b), 
+respectively, of the Congressional Budget and Impoundment Control Act 
+of 1974.
+    (d) Spending Reduction Account Defined.--For purposes of this 
+subsection, the term ``spending reduction account'' means an account in 
+a general appropriation bill that bears that caption and contains 
+only--
+            (1) a recitation of the amount by which an applicable 
+        allocation of new budget authority under section 302(b) of the 
+        Congressional Budget Act of 1974 exceeds the amount of new 
+        budget authority proposed by the bill; or
+            (2) if no such allocation is in effect, ``$0''.
+
+SEC. 103. EXERCISE OF RULEMAKING POWERS.
+
+    The provisions of this title are enacted by the Congress--
+            (1) as an exercise of the rulemaking power of the House of 
+        Representatives and as such they shall be considered as part of 
+        the rules of the House and such rules shall supersede other 
+        rules only to the extent that they are inconsistent therewith; 
+        and
+            (2) with full recognition of the constitutional right of 
+        the House to change such rules at any time, in the same manner, 
+        and to the same extent as in the case of any other rule of the 
+        House.
+
+          TITLE II--EXECUTIVE SPENDING AND IMPOUNDMENT REFORMS
+
+SEC. 201. EXECUTIVE SPENDING AND IMPOUNDMENT REFORMS.
+
+    (a) In General.--In fiscal year fiscal year 2027 and each fiscal 
+year thereafter, the following shall apply:
+            (1) Subsection (d) of section 1017 of the Congressional 
+        Budget and Impoundment Control Act of 1974 shall have no force 
+        or effect.
+            (2) With respect to budget authority proposed to be 
+        rescinded or that is set to be reserved or proposed to be 
+        deferred in a special message transmitted under section 1012 or 
+        1013 of the Congressional Budget and Impoundment Control Act of 
+        1974, such budget authority--
+                    (A) shall be made available for obligation in 
+                sufficient time to be prudently obligated as required 
+                under section 1012(b) or 1013 of such Act; and
+                    (B) may not be deferred or otherwise withheld from 
+                obligation during the 90-day period before the 
+                expiration of the period of availability of such budget 
+                authority, including, if applicable, the 90-day period 
+                before the expiration of an initial period of 
+                availability for which such budget authority was 
+                provided.
+            (3) With respect to an apportionment of an appropriation 
+        made pursuant to section 1513(b) of title 31, United States 
+        Code, an appropriation (as that term is defined in section 1511 
+        of title 31, United States Code) shall be apportioned--
+                    (A) to make available all amounts for obligation in 
+                sufficient time to be prudently obligated; and
+                    (B) to make available all amounts for immediate 
+                obligation, without precondition (including by 
+                footnote), not later than 90 days before the expiration 
+                of the period of availability of such appropriation, 
+                and thereafter continuously available for immediate 
+                obligation during such 90-day period.
+    (b) Budget Authority Defined.--As used in this section, the term 
+``budget authority'' includes budget authority made available by this 
+or any other Act, by prior or subsequent appropriations Acts, or by any 
+law other than an appropriations Act.
+
+        TITLE III--FISCAL TARGETS AND BUDGET ENFORCEMENT REFORMS
+
+SEC. 301. AUTOMATIC CONTINUING APPROPRIATIONS.
+
+    (a) In General.--Subchapter I of chapter 13 of title 31, United 
+States Code, is amended by adding at the end the following:
+``Sec. 1311. Automatic continuing appropriations
+    ``(a) For purposes of this section--
+            ``(1) the term `lapse in appropriations' means a time 
+        period during which--
+                    ``(A) the applicable full-year appropriation Act 
+                for a program, project, or activity has not been 
+                enacted for the current fiscal year;
+                    ``(B) the program, project, or activity was 
+                provided funding in the preceding applicable 
+                appropriation Act; and
+                    ``(C) no continuing appropriation Act is in effect 
+                for such program, project, or activity; and
+            ``(2) the term `preceding applicable appropriation Act' 
+        means--
+                    ``(A) the most recent continuing appropriation Act 
+                enacted; or
+                    ``(B) if no continuing appropriation Act has been 
+                enacted for the current fiscal year, the most recent 
+                applicable full-year appropriation Act (including a 
+                full-year continuing appropriation Act) enacted for the 
+                immediately preceding fiscal year (excluding any 
+                supplemental appropriation Act).
+    ``(b)(1) On and after the first day of each fiscal year, if a lapse 
+in appropriations occurs with respect to a program, project, or 
+activity, there are appropriated such sums as may be necessary, at the 
+rate for operations as provided in the preceding applicable 
+appropriation Acts, under the authorities and conditions provided in 
+such Acts, for continuing programs, projects, or activities (including 
+the costs of direct loans and loan guarantees) that were conducted 
+under such Acts and for which appropriations, funds, or other 
+authorities were made available in such Acts.
+            ``(2)(A) Appropriations and funds made available and 
+        authority granted under paragraph (1) shall be available for a 
+        period of 14 calendar days.
+                    ``(B) If, at the end of the first 14 calendar-day 
+                period during which appropriations and funds are made 
+                available and authority is granted under paragraph (1), 
+                and the end of every 14 calendar-day period thereafter, 
+                a lapse in appropriations with respect to a program, 
+                project, or activity continues, the appropriations and 
+                funds made available and authority granted under 
+                paragraph (1) with respect to the program, project, or 
+                activity shall be extended for an additional 14 
+                calendar-day period.
+            ``(3) For entitlements and other mandatory payments whose 
+        budget authority was provided for in preceding applicable 
+        appropriation Acts or under this section, and for activities 
+        under the Food and Nutrition Act of 2008, appropriations and 
+        funds made available for a fiscal year under paragraph (1) 
+        shall be at the rate necessary to maintain program levels under 
+        current law, and under the authority and conditions provided in 
+        the preceding applicable appropriation Act.
+    ``(c) Appropriations and funds made available, and authority 
+granted, for any fiscal year pursuant to this section for a program, 
+project, or activity shall be available, in accordance with subsection 
+(b), for the period--
+            ``(1) beginning on the first day of any lapse in 
+        appropriations during such fiscal year; and
+            ``(2) ending on the date of enactment of an appropriation 
+        Act for such fiscal year with respect to the account for such 
+        program, project, or activity (whether or not such Act provides 
+        appropriations for such program, project, or activity) or a 
+        continuing appropriation Act providing funding for the program, 
+        project, or activity, as applicable.
+    ``(d) Expenditures made for a program, project, or activity for any 
+fiscal year pursuant to this section shall be charged to the applicable 
+appropriation, fund, or authorization whenever an appropriation Act for 
+such fiscal year with respect to the account for a program, project, or 
+activity or a law making continuing appropriations until the end of 
+such fiscal year for such program, project, or activity is enacted.
+    ``(e) Appropriations and funds made available by, or authority 
+granted pursuant to, this section may be used without regard to the 
+time limitations for submission and approval of apportionments set 
+forth in section 1513 of this title, but nothing in this section shall 
+be construed to waive any other provision of law governing the 
+apportionment of funds.
+    ``(f) Notwithstanding any other provision of this section, except 
+for subsection (c), for those programs that would otherwise have high 
+initial rates of operation or complete distribution of appropriations 
+at the beginning of the applicable fiscal year because of distributions 
+of funding to States, foreign countries, grantees, or others, such high 
+initial rates of operation or complete distribution shall not be made, 
+and no grants shall be awarded for such programs funded by this section 
+that would impinge on final funding prerogatives.
+    ``(g) This section shall be implemented so that only the most 
+limited funding action of that permitted shall be taken in order to 
+provide for continuation of programs, projects, and activities.
+    ``(h) This section shall not apply to a program, project, or 
+activity for any period during a fiscal year, if any other provision of 
+law (other than an authorization of appropriations or an appropriation 
+Act for a prior fiscal year making carryover funds available)--
+            ``(1) makes an appropriation, makes funds available, or 
+        grants authority for such program, project, or activity to 
+        continue for such period; or
+            ``(2) specifically provides that no appropriation shall be 
+        made, no funds shall be made available, or no authority shall 
+        be granted for such program, project, or activity to continue 
+        for such period.''.
+    (b) Clerical Amendment.--The table of sections for chapter 13 of 
+title 31, United States Code, is amended by inserting after the item 
+relating to section 1310 the following:
+
+``1311. Automatic continuing appropriations.''.
+
+SEC. 302. REPORT ON FISCAL TARGETS.
+
+    Section 202 of the Congressional Budget Act of 1974 (2 U.S.C. 602) 
+is amended by adding at the end the following:
+    ``(h) Report on Debt and Deficit Target.--
+            ``(1) In general.--Not later than February 15 of each year, 
+        the Director shall make publicly available a report estimating 
+        whether the target for the ratio of the debt held by the public 
+        to the gross domestic product of the United States or the ratio 
+        of the deficit to the gross domestic product of the United 
+        States by the end of the last fiscal year covered by the most 
+        recently agreed to concurrent resolution on the budget will be 
+        achieved.
+            ``(2) Discretionary appropriations.--In producing each 
+        estimate described in paragraph (1), the Director shall assume 
+        discretionary appropriations are made available in the amounts 
+        specified under the most recently agreed to concurrent 
+        resolution on the budget.
+            ``(3) Deficit reduction.--For each report made available 
+        under paragraph (1), the Director--
+                    ``(A) shall include an estimate of the level of 
+                deficit reduction required to achieve the target for 
+                either such ratio by the end of the last fiscal year 
+                covered by the most recently agreed to concurrent 
+                resolution on the budget; and
+                    ``(B) in estimating the level of deficit reduction 
+                required, shall account for interest effects by 
+                reducing the target by the percentage equal to percent 
+                of deficit reduction stemming from interest changes 
+                assumed in the most recently agreed to concurrent 
+                resolution on the budget.''.
+
+SEC. 303. CONTENT OF CONCURRENT RESOLUTION ON THE BUDGET.
+
+    Section 301(a) of the Congressional Budget Act of 1974 (2 U.S.C. 
+632(a)), is amended--
+            (1) in paragraph (6), by striking ``and'' at the end;
+            (2) in paragraph (7), by striking ``years.'' and inserting 
+        ``years;''; and
+            (3) by inserting before the matter following paragraph (7) 
+        the following:
+            ``(8) specify the amount of the gross domestic product of 
+        the United States assumed for purposes of each fiscal year 
+        covered by the concurrent resolution;
+            ``(9) specify a target for the ratio of--
+                    ``(A) the debt held by the public to the gross 
+                domestic product of the United States (rounded to the 
+                nearest one-tenth of 1 percent) for each fiscal year 
+                covered by the concurrent resolution; or
+                    ``(B) the deficit to the gross domestic product of 
+                the United States (rounded to the nearest one-tenth of 
+                1 percent) for each such fiscal year;
+            ``(10) the ratio of the public debt to the estimated gross 
+        domestic product; and
+            ``(11) the ratio of the surplus or deficit to the estimated 
+        gross domestic product.''.
+
+SEC. 304. SPECIAL RECONCILIATION INSTRUCTIONS.
+
+    (a) In General.--Title III of the Congressional Budget and 
+Impoundment Control Act of 1974 (2 U.S.C. 631 et seq.), as amended by 
+section 101(a) of this Act, is further amended by adding at the end the 
+following:
+
+                 ``special reconciliation instructions
+
+    ``Sec. 317.  (a) In General.--If the Director of the Congressional 
+Budget Office submits a report under section 202(h) indicating that the 
+fiscal targets of the United States by the end of the last fiscal year 
+covered by the most recently agreed to concurrent resolution on the 
+budget will not be achieved, not later than April 15 of the first 
+fiscal year covered by such resolution, the Committee on the Budget of 
+the Senate shall report to the Senate a simple resolution--
+            ``(1) specifying a total level of deficit reduction to be 
+        achieved and the period during which such reduction is to be 
+        achieved; and
+            ``(2) containing directives to 1 or more committees of the 
+        Senate specifying the total amount by which new budget 
+        authority or new entitlement authority contained in laws within 
+        the jurisdiction of each such committee is to be changed or 
+        revenues are to be changed to achieve the total level of 
+        deficit reduction.
+    ``(b) Consideration of Special Reconciliation Resolution.--
+            ``(1) Placement on calendar.--A resolution reported under 
+        subsection (a) by the Committee on the Budget of the Senate 
+        shall be placed immediately on the calendar.
+            ``(2) Motion to proceed.--
+                    ``(A) In general.--In the Senate, notwithstanding 
+                any rule or precedent of the Senate, including rule 
+                XXII of the Standing Rules of the Senate, it is in 
+                order (even though a previous motion to the same effect 
+                has been disagreed to) to move to proceed to the 
+                consideration of a resolution reported under subsection 
+                (a) and all points of order against the resolution (and 
+                against consideration of the resolution) are waived. 
+                The motion is not subject to amendment, or to a motion 
+                to postpone, or to a motion to proceed to the 
+                consideration of other business. A motion to reconsider 
+                the vote by which the motion is agreed to or disagreed 
+                to shall not be in order. If a motion to proceed to the 
+                consideration of a resolution reported under subsection 
+                (a) is agreed to, the resolution shall remain the 
+                unfinished business of the Senate until disposed of.
+                    ``(B) Resolution from the committee on the 
+                budget.--It shall not be in order to move to proceed to 
+                the consideration of a resolution containing the matter 
+                described in paragraphs (1) and (2) of subsection (a) 
+                that was not reported by the Committee on the Budget of 
+                the Senate.
+            ``(3) Consideration.--
+                    ``(A) In general.--In the Senate, consideration of 
+                a resolution reported under subsection (a), and on all 
+                amendments, debatable motions, and appeals in 
+                connection therewith, shall be limited to not more than 
+                10 hours.
+                    ``(B) General debate.--After the Senate proceeds to 
+                a resolution reported under subsection (a), there shall 
+                be period of not more than 2 hours for general debate 
+                on the resolution, which shall be divided equally 
+                between those favoring and those opposing the 
+                resolution.
+                    ``(C) Amendments.--
+                            ``(i) Period.--In the Senate, consideration 
+                        of any amendment to a resolution reported under 
+                        subsection (a) shall be limited to 1 hour, 
+                        which shall be divided equally between those 
+                        favoring and those opposing the amendment.
+                            ``(ii) Alternating opportunity to offer.--
+                                    ``(I) In general.--The opportunity 
+                                to offer and have immediately 
+                                considered an amendment to a resolution 
+                                reported under subsection (a) shall 
+                                alternate between the members of the 
+                                majority and the members of the 
+                                minority.
+                                    ``(II) Elect not to offer.--If the 
+                                members of the majority or the members 
+                                of the minority elect not to offer an 
+                                amendment when presented an opportunity 
+                                under this clause (including under 
+                                subclause (III) of this clause), the 
+                                members of the minority or the members 
+                                of the majority, respectively, shall 
+                                have the opportunity to offer and have 
+                                immediately considered an amendment to 
+                                the resolution reported under 
+                                subsection (a).
+                                    ``(III) Return to alternating 
+                                opportunity.--After an amendment 
+                                offered under subclause (II) by the 
+                                members of the majority or the members 
+                                of the minority is disposed of, the 
+                                members of the minority or the members 
+                                of the majority, respectively, shall 
+                                have the opportunity to offer and have 
+                                immediately considered an amendment to 
+                                the resolution reported under 
+                                subsection (a).
+                            ``(iii) Requirements for amendments.--The 
+                        only amendments in order to a resolution 
+                        reported under subsection (a) shall be--
+                                    ``(I) an amendment proposing to 
+                                change an amount specified in the 
+                                resolution;
+                                    ``(II) an amendment proposing to 
+                                add directives described in subsection 
+                                (a)(2) for 1 or more committees; and
+                                    ``(III) an amendment proposing to 
+                                strike directives described in 
+                                subsection (a)(2) for 1 or more 
+                                committees.
+                    ``(D) Further limit on consideration.--A motion 
+                further to limit consideration is in order and not 
+                debatable. A motion to postpone, a motion to proceed to 
+                the consideration of other business, or a motion to 
+                recommit the resolution is not in order.
+                    ``(E) Time during votes not counted.--For purposes 
+                of determining the end of the period of consideration 
+                of a resolution reported under subsection (a), or an 
+                amendment thereto, any time during a vote of the Senate 
+                shall not be counted.
+            ``(4) Vote on passage.--After the conclusion of the period 
+        for consideration of a resolution reported under subsection 
+        (a), the Senate shall proceed, without any further debate on 
+        any question, to vote on the final disposition thereof to the 
+        exclusion of all amendments not then actually pending before 
+        the Senate at that time and to the exclusion of all motions, 
+        except a motion to table or to reconsider and 1 quorum call on 
+        demand to establish the presence of a quorum (and motions 
+        required to establish a quorum) immediately before the vote on 
+        adoption of the resolution begins.
+            ``(5) Rulings of the chair on procedure.--Appeals from the 
+        decisions of the Chair relating to the application of this 
+        subsection or the rules of the Senate, as the case may be, to 
+        the procedure relating to a resolution reported under 
+        subsection (a) shall be decided without debate.
+    ``(c) Recommendations of Committees.--If a resolution is reported 
+under subsection (a), not later than May 15 of the year in which the 
+resolution is reported, each committee for which the resolution 
+contains directives shall submit to the Committee on the Budget of the 
+Senate recommended changes in laws within the jurisdiction of the 
+committee that comply with subsection (a)(2).
+    ``(d) Special Reconciliation Procedure.--
+            ``(1) In general.--Subject to paragraph (2), after each 
+        committee for which a resolution reported under subsection (a) 
+        contained directives has reported recommended changes to the 
+        Committee on the Budget of the Senate, the Committee shall 
+        report to the Senate special reconciliation legislation 
+        carrying out all such recommendations without any substantive 
+        revision.
+            ``(2) Failure to report compliant recommendations.--If 1 or 
+        more committees do not report recommendations that comply with 
+        subsections (a)(2) and (c), the Committee on the Budget of the 
+        Senate--
+                    ``(A) shall report to the Senate special 
+                reconciliation legislation carrying out all reported 
+                recommendations that comply with subsections (a)(2) and 
+                (c), without any substantive revision; and
+                    ``(B) may include in the legislation reported under 
+                subparagraph (A) changes in laws within the 
+                jurisdiction of each noncompliant committee, if the 
+                changes in law comply with subsection (a)(2).
+    ``(e) Limits on Special Reconciliation Bills.--
+            ``(1) Extraneous material.--
+                    ``(A) In general.--It shall not be in order to 
+                consider any provision in legislation reported under 
+                subsection (d) that contains material extraneous 
+                (within the meaning given that term under section 313) 
+                to the directives to the applicable committee.
+                    ``(B) Point of order sustained.--If a point of 
+                order is made by a Senator against a provision 
+                described in subparagraph (A), and the point of order 
+                is sustained by the Chair, that provision shall be 
+                stricken from the measure and may not be offered as an 
+                amendment from the floor.
+                    ``(C) Form of the point of order.--A point of order 
+                under subparagraph (A) may be raised by a Senator as 
+                provided in section 313(e).
+                    ``(D) Conference reports.--When the Senate is 
+                considering a conference report on, or an amendment 
+                between the Houses in relation to, legislation reported 
+                under subsection (d), upon a point of order being made 
+                by any Senator pursuant to subparagraph (A), and such 
+                point of order being sustained, such material contained 
+                in such conference report or House amendment shall be 
+                stricken, and the Senate shall proceed to consider the 
+                question of whether the Senate shall recede from its 
+                amendment and concur with a further amendment, or 
+                concur in the House amendment with a further amendment, 
+                as the case may be, which further amendment shall 
+                consist of only that portion of the conference report 
+                or House amendment, as the case may be, not so 
+                stricken. Any such motion in the Senate shall be 
+                debatable. In any case in which such point of order is 
+                sustained against a conference report (or Senate 
+                amendment derived from such conference report by 
+                operation of this subparagraph), no further amendment 
+                shall be in order.
+                    ``(E) Supermajority waiver and appeal.--In the 
+                Senate, this paragraph may be waived or suspended only 
+                by an affirmative vote of three-fifths of the Members, 
+                duly chosen and sworn. An affirmative vote of three-
+                fifths of Members of the Senate, duly chosen and sworn 
+                shall be required to sustain an appeal of the ruling of 
+                the Chair on a point of order raised under this 
+                paragraph.
+            ``(2) Deficit reduction required.--
+                    ``(A) Each title reduces the deficit.--
+                            ``(i) In general.--It shall not be in order 
+                        to consider any title in legislation reported 
+                        under subsection (d) that would increase the 
+                        deficit over--
+                                    ``(I) the period during which the 
+                                level of deficit reduction specified in 
+                                subsection (a)(1) is to be achieved; or
+                                    ``(II) the period covered by the 
+                                most recently agreed to concurrent 
+                                resolution on the budget.
+                            ``(ii) Point of order sustained.--If a 
+                        point of order is made by a Senator against a 
+                        title described in clause (i), and the point of 
+                        order is sustained by the Chair, that title 
+                        shall be stricken from the measure and may not 
+                        be offered as an amendment from the floor.
+                            ``(iii) Form of the point of order.--A 
+                        point of order under clause (i) may be raised 
+                        by a Senator as provided in section 313(e).
+                            ``(iv) Conference reports.--When the Senate 
+                        is considering a conference report on, or an 
+                        amendment between the Houses in relation to, a 
+                        bill or joint resolution, upon a point of order 
+                        being made by any Senator pursuant to clause 
+                        (i), and such point of order being sustained, 
+                        such material contained in such conference 
+                        report or House amendment shall be stricken, 
+                        and the Senate shall proceed to consider the 
+                        question of whether the Senate shall recede 
+                        from its amendment and concur with a further 
+                        amendment, or concur in the House amendment 
+                        with a further amendment, as the case may be, 
+                        which further amendment shall consist of only 
+                        that portion of the conference report or House 
+                        amendment, as the case may be, not so stricken. 
+                        Any such motion in the Senate shall be 
+                        debatable. In any case in which such point of 
+                        order is sustained against a conference report 
+                        (or Senate amendment derived from such 
+                        conference report by operation of this clause), 
+                        no further amendment shall be in order.
+                            ``(v) Supermajority waiver and appeal.--In 
+                        the Senate, this subparagraph may be waived or 
+                        suspended only by an affirmative vote of three-
+                        fifths of the Members, duly chosen and sworn. 
+                        An affirmative vote of three-fifths of Members 
+                        of the Senate, duly chosen and sworn shall be 
+                        required to sustain an appeal of the ruling of 
+                        the Chair on a point of order raised under this 
+                        subparagraph.
+                    ``(B) No amendments reducing the amount of deficit 
+                reduction.--
+                            ``(i) In general.--It shall not be in order 
+                        to consider an amendment to legislation 
+                        reported under subsection (d) that would reduce 
+                        the amount of the decrease in the deficit, as 
+                        compared to the legislation as reported by the 
+                        Committee on the Budget of the Senate, over--
+                                    ``(I) the period during which the 
+                                level of deficit reduction specified in 
+                                subsection (a)(1) is to be achieved; or
+                                    ``(II) the period covered by the 
+                                most recently agreed to concurrent 
+                                resolution on the budget.
+                            ``(ii) Supermajority waiver and appeal.--In 
+                        the Senate, this subparagraph may be waived or 
+                        suspended only by an affirmative vote of three-
+                        fifths of the Members, duly chosen and sworn. 
+                        An affirmative vote of three-fifths of Members 
+                        of the Senate, duly chosen and sworn shall be 
+                        required to sustain an appeal of the ruling of 
+                        the Chair on a point of order raised under this 
+                        subparagraph.
+    ``(f) Consideration of Special Reconciliation Bills.--
+            ``(1) Deadline.--Not later than July 30 of the first fiscal 
+        year to which the applicable concurrent resolution applies, the 
+        Senate shall proceed to consideration of legislation reported 
+        under subsection (d).
+            ``(2) Procedures.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), and subject to subsection (e), if the 
+                Committee on the Budget of the Senate reports 
+                legislation under subsection (d), the provisions of 
+                section 305 for the consideration in the Senate of 
+                concurrent resolutions on the budget and conference 
+                reports thereon shall also apply to the consideration 
+                in the Senate of such legislation and conference 
+                reports thereon.
+                    ``(B) Exceptions.--
+                            ``(i) Debate.--Debate in the Senate on any 
+                        legislation reported under subsection (d), and 
+                        all amendments thereto and debatable motions 
+                        and appeals in connection therewith, shall be 
+                        limited to not more than 20 hours.
+                            ``(ii) Amendments.--Paragraph (6) of 
+                        section 305(b) shall not apply to legislation 
+                        reported under subsection (d).
+                    ``(C) Vetoes.--If the President vetoes legislation 
+                reported under subsection (d), in the Senate there 
+                shall be not more than 1 hour of debate on the veto 
+                message, equally divided between the majority and 
+                minority leaders or their designees.
+            ``(3) Special rules for revenue measures.--
+                    ``(A) In general.--If the legislation reported 
+                under subsection (d) is a revenue measure, the majority 
+                leader shall submit for publication in the 
+                Congressional Record a written statement identifying a 
+                bill of the House of Representatives that is a revenue 
+                measure and that shall be used as the vehicle for 
+                consideration of the legislation reported under 
+                subsection (d).
+                    ``(B) Motion to proceed.--A motion to proceed to 
+                the consideration of a bill of the House of 
+                Representatives identified in a written statement under 
+                subparagraph (A) shall not be debatable.
+                    ``(C) Substitute amendment.--
+                            ``(i) In general.--If a motion to proceed 
+                        to a bill of the House of Representatives 
+                        identified in a written statement under 
+                        subparagraph (A) is agreed to, the majority 
+                        leader shall offer an amendment in the nature 
+                        of a substitute to the bill, which shall 
+                        consist only of the text of the legislation 
+                        reported under subsection (d).
+                            ``(ii) Treatment of text.--An amendment in 
+                        the nature of a substitute offered under clause 
+                        (i) shall be--
+                                    ``(I) deemed to be agreed to, 
+                                subject to further amendment;
+                                    ``(II) treated as original text for 
+                                purposes of germaneness and further 
+                                amendment; and
+                                    ``(III) considered in the same 
+                                manner as legislation reported under 
+                                subsection (d), in accordance with 
+                                paragraph (2) of this subsection.
+                    ``(D) No effect on points of order.--The fact that 
+                legislation reported under subsection (d) is considered 
+                as an amendment in the nature of a substitute to a bill 
+                of the House of Representatives shall not preclude any 
+                point of order that would lie against the legislation 
+                if the legislation were considered as a bill of the 
+                Senate reported by the Committee on the Budget under 
+                subsection (d).
+    ``(g) Limitation.--The procedures in the Senate for consideration 
+of any legislation under this section shall only apply during the first 
+fiscal year covered by the applicable concurrent resolution on the 
+budget.''.
+    (b) Technical and Conforming Amendment.--The table of contents in 
+section 1(b) of such Act, as amended by section 101(b) of this Act, is 
+further amended by inserting after the item relating to section 316 the 
+following:
+
+``Sec. 317. Special reconciliation instructions.''.
+
+SEC. 305. PAYGO SCORECARD REQUIREMENT.
+
+    (a) In General.--Section 4 of the Statutory Pay-As-You-Go Act of 
+2010 is amended by adding at the end the following:
+    ``(f) Requirement.--
+            ``(1) In general.--Any legislation proposing the 
+        modification or exclusion of the budgetary effects from a PAYGO 
+        scorecard shall be considered in the House of Representatives 
+        and the Senate only as a separate bill or joint resolution that 
+        contains no other matter.
+            ``(2) Recorded vote.--Notwithstanding any rule of the Rules 
+        of the House of Representatives or the Standing Rules of the 
+        Senate, the yeas and nays shall be considered as ordered with 
+        respect to the question on passage of any such bill or joint 
+        resolution.''.
+    (b) Exercise of Rulemaking Powers.--Subsection (a) and the 
+amendment made by such subsection is enacted by the Congress--
+            (1) as an exercise of the rulemaking power of the House of 
+        Representatives and as such they shall be considered as part of 
+        the rules of the House and such rules shall supersede other 
+        rules only to the extent that they are inconsistent therewith; 
+        and
+            (2) with full recognition of the constitutional right of 
+        the House to change such rules at any time, in the same manner, 
+        and to the same extent as in the case of any other rule of the 
+        House.
+
+SEC. 306. TIMELY ENACTMENT OF APPROPRIATION ACTS.
+
+    (a) Definitions.--In this section--
+            (1) the term ``covered officer or employee'' means--
+                    (A) an officer or employee of the Office of 
+                Management and Budget;
+                    (B) a Member of Congress; or
+                    (C) an employee of the personal office of a Member 
+                of Congress, a committee of either House of Congress, 
+                or a joint committee of Congress;
+            (2) the term ``covered period''--
+                    (A) means any period of automatic continuing 
+                appropriations; and
+                    (B) with respect to the legislative branch--
+                            (i) does not include any period of 
+                        automatic continuing appropriations that occurs 
+                        during the period--
+                                    (I) beginning at the time at which 
+                                general appropriation Acts providing 
+                                funding for the entire Federal 
+                                Government (including a continuing 
+                                appropriation Act) have been enacted or 
+                                passed in identical form by both Houses 
+                                and transmitted to the Secretary of the 
+                                Senate or the Clerk of the House for 
+                                enrollment and presentment to the 
+                                President for his signature; and
+                                    (II) ending at the time at which 1 
+                                or more general appropriation Acts--
+                                            (aa) are vetoed by the 
+                                        President; or
+                                            (bb) do not become law 
+                                        without the President's 
+                                        signature under article I, 
+                                        section 7 of the Constitution 
+                                        of the United States based on 
+                                        an adjournment of the Congress; 
+                                        and
+                            (ii) includes any period of automatic 
+                        continuing appropriations that is not a period 
+                        described in clause (i) and that follows a veto 
+                        or a failure to become law (as described in 
+                        item (bb) of clause (i)(II)) of 1 or more 
+                        general appropriation Acts;
+            (3) the term ``Member of Congress'' has the meaning given 
+        that term in section 2106 of title 5, United States Code;
+            (4) the term ``National Capital Region'' has the meaning 
+        given that term in section 8702 of title 40, United States 
+        Code; and
+            (5) the term ``period of automatic continuing 
+        appropriations'' means a period during which automatic 
+        continuing appropriations under section 1311 of title 31, 
+        United States Code, as added by section 301 of this Act, are in 
+        effect with respect to 1 or more programs, projects, or 
+        activities.
+    (b) Limits on Travel Expenditures.--
+            (1) Limits on official travel.--
+                    (A) Limitation.--Except as provided in subparagraph 
+                (B), no amounts may be obligated or expended for 
+                official travel by a covered officer or employee during 
+                a covered period.
+                    (B) Exceptions.--
+                            (i) Return to dc.--If a covered officer or 
+                        employee is away from the seat of Government on 
+                        the date on which a covered period begins, 
+                        funds may be obligated and expended for 
+                        official travel for a single return trip to the 
+                        seat of Government by the covered officer or 
+                        employee.
+                            (ii) Travel in national capital region.--
+                        During a covered period, amounts may be 
+                        obligated and expended for official travel by a 
+                        covered officer or employee from one location 
+                        in the National Capital Region to another 
+                        location in the National Capital Region.
+                            (iii) National security events.--During a 
+                        covered period, if a national security event 
+                        that triggers a continuity of operations or 
+                        continuity of Government protocol occurs, 
+                        amounts may be obligated and expended for 
+                        official travel by a covered officer or 
+                        employee for any official travel relating to 
+                        responding to the national security event or 
+                        implementing the continuity of operations or 
+                        continuity of Government protocol.
+            (2) Restriction on use of campaign funds.--Section 313 of 
+        the Federal Election Campaign Act of 1971 (52 U.S.C. 30114) is 
+        amended--
+                    (A) in subsection (a)(2), by striking ``for 
+                ordinary'' and inserting ``except as provided in 
+                subsection (d), for ordinary''; and
+                    (B) by adding at the end the following:
+    ``(d) Restriction on Use of Campaign Funds for Official Travel 
+During Automatic Continuing Appropriations.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        during a covered period (as defined in section 3 of the Prevent 
+        Government Shutdowns Act), a contribution or donation described 
+        in subsection (a) may not be obligated or expended for travel 
+        in connection with duties of the individual as a holder of 
+        Federal office.
+            ``(2) Return to dc.--If the individual is away from the 
+        seat of Government on the date on which a covered period (as so 
+        defined) begins, a contribution or donation described in 
+        subsection (a) may be obligated and expended for travel by the 
+        individual to return to the seat of Government.''.
+    (c) Procedures in the Senate and House of Representatives.--
+            (1) In general.--During a covered period, in the Senate and 
+        the House of Representatives--
+                    (A) it shall not be in order to move to proceed to 
+                any matter except for--
+                            (i) a measure making appropriations for the 
+                        fiscal year during which the covered period 
+                        begins;
+                            (ii) any motion required to determine the 
+                        presence of or produce a quorum;
+                            (iii) a bill or resolution addressing the 
+                        statutory limit on the public debt under 
+                        section 3101 of title 31, United States Code; 
+                        or
+                            (iv) on and after the 30th calendar day 
+                        after the first day of a covered period--
+                                    (I) the nomination of an 
+                                individual--
+                                            (aa) to a position at level 
+                                        I of the Executive Schedule 
+                                        under section 5312 of title 5, 
+                                        United States Code; or
+                                            (bb) to serve as Chief 
+                                        Justice of the United States or 
+                                        an Associate Justice of the 
+                                        Supreme Court of the United 
+                                        States; or
+                                    (II) a measure extending the period 
+                                during which a program, project, or 
+                                activity is authorized to be carried 
+                                out (without substantive change to the 
+                                program, project, or activity or any 
+                                other program, project, or activity) 
+                                if--
+                                            (aa) an appropriation Act 
+                                        with respect to the program, 
+                                        project, or activity for the 
+                                        fiscal year during which the 
+                                        covered period occurs has not 
+                                        been enacted; and
+                                            (bb) the program, project, 
+                                        or activity has expired since 
+                                        the beginning of such fiscal 
+                                        year or will expire during the 
+                                        30-day period beginning on the 
+                                        date of the motion;
+                    (B) it shall not be in order to move to recess or 
+                adjourn for a period of more than 23 hours; and
+                    (C) at noon each day, or immediately following any 
+                constructive convening of the Senate under rule IV, 
+                paragraph 2 of the Standing Rules of the Senate, the 
+                Presiding Officer shall direct the clerk to determine 
+                whether a quorum is present.
+            (2) Waiver.--
+                    (A) Limitation on period.--It shall not be in order 
+                in the Senate or the House of Representatives to move 
+                to waive any provision of paragraph (1) for a period 
+                that is longer than 7 days.
+                    (B) Supermajority vote.--A provision of paragraph 
+                (1) may only be waived or suspended upon an affirmative 
+                vote of two-thirds of the Members of the applicable 
+                House of Congress, duly chosen and sworn.
+
+SEC. 307. RATIO OF PUBLIC DEBT TO GDP INCLUDED IN PRESIDENT'S BUDGET 
+              SUBMISSION.
+
+    Section 1105(a) of title 31, United States Code, is amended--
+            (1) in paragraph (10), by striking the period at the end 
+        and inserting ``, including the ratio of the public debt to the 
+        estimated gross domestic product.''; and
+            (2) by adding at the end the following:
+            ``(39) the ratio of the surplus or deficit to the estimated 
+        gross domestic product.''.
+
+             TITLE IV--FISCAL DATA AND PREPAREDNESS REFORMS
+
+SEC. 401. ANNUAL JOINT MEETING OF CONGRESS TO RECEIVE PRESENTATION BY 
+              COMPTROLLER GENERAL.
+
+    Section 331 of title 31, United States Code, is amended by adding 
+at the end the following:
+    ``(f) Annual Joint Meeting of Congress To Receive Presentation by 
+Comptroller General.--
+            ``(1) In general.--Not later than 45 days (excluding 
+        Saturdays, Sundays, and holidays) after the date on which the 
+        Secretary of the Treasury submits to Congress the audited 
+        financial statement required under subsection (e)(1), on a date 
+        agreed upon by the Speaker of the House of Representatives and 
+        the President pro tempore of the Senate and the Comptroller 
+        General of the United States, the Congress shall hold a joint 
+        meeting (hereafter in this subsection referred to as the `Joint 
+        Meeting') to receive a presentation from the Comptroller 
+        General reviewing the findings of the audit required under 
+        subsection (e)(2) and providing, with respect to the 
+        information included by the Secretary in the report 
+        accompanying such audited financial statement, an analysis of 
+        the financial position and condition of the Federal Government, 
+        including financial measures (such as the net operating cost, 
+        income, budget deficits, or budget surpluses) and 
+        sustainability measures (such as the long-term fiscal 
+        projection or social insurance projection) described in such 
+        report.
+            ``(2) Presentation of statement in accordance with gao 
+        strategies and means.--The Comptroller General of the United 
+        States shall ensure that the presentation at the Joint Meeting 
+        is made in accordance with the Strategies and Means of the 
+        Government Accountability Office, so that the presentation will 
+        provide professional, objective, fact-based, nonpartisan, 
+        nonideological, fair, and balanced information to the members 
+        attending the Joint Meeting.
+            ``(3) Open meeting.--The Joint Meeting shall be open to the 
+        public, including to radio, television, and still photography 
+        coverage.
+            ``(4) Effective date.--The requirement under paragraph (1) 
+        shall apply with respect to any audited financial statement 
+        submitted on or after the date of the enactment of the Fiscal 
+        State of the Nation Act.''.
+
+SEC. 402. INCLUSION OF FINDINGS AND ANALYSIS OF FISCAL STATE OF THE 
+              NATION IN CONCURRENT RESOLUTION ON THE BUDGET.
+
+    Section 301(a) of the Congressional Budget and Impoundment Control 
+Act of 1974 (2 U.S.C. 632(a)) is amended by adding at the end the 
+following: ``Each concurrent resolution on the budget shall include a 
+statement of findings informed by the most recently conducted Fiscal 
+State of the Nation presentation under section 331(f) of title 31, 
+United States Code, and any other appropriate information on the fiscal 
+condition of the United States.''.
+
+SEC. 403. ANNUAL REPORT.
+
+    (a) In General.--Section 331(e) of title 31, United States Code, is 
+amended by adding at the end the following:
+    ``(3)(A) As a component of the report required under paragraph (1), 
+the Secretary of the Treasury, in coordination with the Director of the 
+Office of Management and Budget, shall examine the fiscal risks and 
+fiscal impacts of the response of the Federal Government to potential 
+national and international fiscal shocks.
+    ``(B) In making the examination required under subparagraph (A), 
+the Secretary of the Treasury, in coordination with the Director of the 
+Office of Management and Budget, shall--
+            ``(i) include an assessment of the fiscal risks and fiscal 
+        impacts of the Federal Government responding to events, such 
+        as--
+                    ``(I) an economic recession or depression;
+                    ``(II) a domestic energy crisis;
+                    ``(III) a catastrophic natural disaster;
+                    ``(IV) a health crisis, such as a global pandemic;
+                    ``(V) a significant armed conflict or event;
+                    ``(VI) a significant cyber attack; and
+                    ``(VII) a financial crisis;
+            ``(ii) determine the estimated short-term and long-term 
+        fiscal effects on the Federal Government in the case of an 
+        event described in clause (i); and
+            ``(iii) describe significant economic impacts and 
+        indicators selected by the Secretary of the Treasury, in 
+        coordination with the Director of the Office of Management and 
+        Budget, to convey the short-term and long-term fiscal effects 
+        on the Federal Government in the case of an event described in 
+        clause (i) in the method that best accomplishes the goal of the 
+        examination.
+    ``(C) In making the examination required under subparagraph (A) and 
+determining the scope and magnitude of an event described in 
+subparagraph (B)(i), the Secretary of the Treasury, in coordination 
+with the Director of the Office of Management and Budget, may consider 
+historical instances of those events and the response of the Federal 
+Government to those historical instances.
+    ``(D) In including the examination required under subparagraph (A) 
+in the report required under paragraph (1), the Secretary of the 
+Treasury, in coordination with the Director of the Office of Management 
+and Budget, may structure and report the examination in the method that 
+best accomplishes the goal of the examination.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on the later of--
+            (1) the first date following the date of enactment of this 
+        Act on which the Secretary of the Treasury, in coordination 
+        with the Office of Management and Budget, submits a report 
+        under section 331(e)(1) of title 31, United States Code; and
+            (2) 180 days after the date of enactment of this Act.
+    (c) GAO Report.--Not later than 1 year after the date on which the 
+Secretary of the Treasury publishes the first examination required 
+under section 331(e)(3)(A) of title 31, United States Code, as added by 
+subsection (a), after the date of enactment of this Act, and 
+periodically thereafter as determined necessary by the Comptroller 
+General of the United States, the Comptroller General of the United 
+States shall--
+            (1) review the methodology and results of the fiscal 
+        analysis performed during the examination;
+            (2) publish a report of the findings of the review under 
+        paragraph (1) on the website of the Government Accountability 
+        Office; and
+            (3) submit to the Committee on the Budget of the Senate and 
+        the Committee on the Budget of the House of Representatives the 
+        report published under paragraph (2).
+                                 <all>

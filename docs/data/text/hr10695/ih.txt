@@ -1,0 +1,412 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10695 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10695
+
+  To provide for certain requirements with respect to the landing and 
+   operation of submarine cables in the United States, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 1, 2026
+
+  Mr. Pfluger (for himself and Mr. Menendez) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To provide for certain requirements with respect to the landing and 
+   operation of submarine cables in the United States, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``United States Submarine Cable 
+Security Policy Act of 2026''.
+
+SEC. 2. SUBMARINE CABLE SECURITY AND LICENSING.
+
+    (a) Establishment of Security Policies and Measures.--
+            (1) United states submarine cable security policy.--
+                    (A) In general.--Not later than 180 days after the 
+                date of the enactment of this Act, the Committee shall, 
+                in consultation with the Assistant Secretary of 
+                Commerce for Communications and Information, and after 
+                seeking and considering input from interested parties, 
+                establish and submit to the Commission a general, 
+                forward-looking policy, to be known as the United 
+                States Submarine Cable Security Policy, that identifies 
+                and seeks to address potential security concerns 
+                relating to--
+                            (i) the provision of a license to land or 
+                        operate a submarine cable directly connecting 
+                        the United States and a foreign nation;
+                            (ii) the provision of a license to land or 
+                        operate a submarine cable directly connecting 
+                        the United States and a covered nation (as 
+                        defined in section 4872(f)(2) of title 10, 
+                        United States Code); and
+                            (iii) arrangements regarding the 
+                        construction of submarine cables in consortium, 
+                        partnership, or cooperation with entities that 
+                        produce or provide communications equipment or 
+                        services on the list published under section 2 
+                        of the Secure and Trusted Communications 
+                        Networks Act of 2019 (47 U.S.C. 1601).
+                    (B) Recommended security measures.--The Committee, 
+                taking into consideration the requirements described in 
+                paragraphs (2) and (3), shall include in the United 
+                States Submarine Cable Security Policy a recommended 
+                suite of standard security measures and a recommended 
+                suite of enhanced security measures with respect to the 
+                landing and operation of submarine cables. The 
+                Commission shall consider such recommended measures in 
+                promulgating the rules required by such paragraphs.
+            (2) Adoption of standard security measures.--Not later than 
+        180 days after the date on which the United States Submarine 
+        Cable Security Policy is submitted to the Commission, the 
+        Commission shall promulgate rules to adopt a suite of standard 
+        security measures with respect to the landing and operation of 
+        submarine cables, with which the Commission shall (except in 
+        circumstances described in paragraph (3)) require compliance as 
+        a condition of a license issued by the Commission to land or 
+        operate such a cable, that--
+                    (A) address physical security and supply chain 
+                security;
+                    (B) require, or incorporate appropriate elements of 
+                the rules of the Commission with respect to, the 
+                implementation of a cybersecurity and physical security 
+                risk management plan by a person who holds such a 
+                license; and
+                    (C) address entities that produce or provide 
+                communications equipment or services on the list 
+                published under section 2 of the Secure and Trusted 
+                Communications Networks Act of 2019 (47 U.S.C. 1601).
+            (3) Adoption of enhanced security measures.--In 
+        promulgating the rules required by paragraph (2), the 
+        Commission shall also adopt a suite of enhanced security 
+        measures, with which the Commission shall require compliance as 
+        a condition of a license issued by the Commission to land or 
+        operate a submarine cable in circumstances in which the 
+        issuance of such license may pose a risk to national security 
+        interests of the United States that is not addressed by the 
+        standard security measures adopted under such paragraph.
+            (4) Prohibition on certain license conditions.--In issuing 
+        a license to land or operate a submarine cable, the Commission 
+        may not place on such license a condition, with respect to any 
+        matter that is the subject of a security measure adopted under 
+        paragraph (2) or (3), that--
+                    (A) requires the applicant to enter into a security 
+                or similar agreement with the Committee or comply with 
+                any such agreement; or
+                    (B) requires prior notice to and approval or non-
+                objection of the Committee.
+    (b) Additional Rules.--Not later than 180 days after the date on 
+which the United States Submarine Cable Security Policy is submitted to 
+the Commission, the Commission shall--
+            (1) in coordination with the Committee, promulgate rules 
+        regarding referral to and consideration by the Committee, for 
+        review of risks to national security interests of the United 
+        States, of an application for a license to land or operate a 
+        submarine cable with respect to which the applicant seeks to 
+        overcome a foreign adversary presumptive disqualifying 
+        condition or foreign adversary cable landing presumptive 
+        disqualifying condition in the rules of the Commission;
+            (2) promulgate rules that permit an applicant for a license 
+        to land or operate a submarine cable to self-certify--
+                    (A) if the Commission has issued such a license to 
+                such applicant (or to an affiliate of such applicant 
+                that is wholly owned by the same person as such 
+                applicant) in the 48-month period preceding the date on 
+                which the relevant application is submitted, that there 
+                have been no material, non-pro forma changes to the 
+                ownership structure of such applicant since the 
+                issuance of the previous license;
+                    (B) that such submarine cable is at least 40-
+                percent owned by entities that would meet the criteria 
+                for self-certification under subparagraph (A) if such 
+                entities were applying for such license; or
+                    (C) that such applicant meets such other ownership 
+                criteria as the Commission may establish as a basis for 
+                excluding an application from referral to the Committee 
+                under subsection (c)(2) of section 7 of the Cable 
+                Landing License Act, as added by this Act; and
+            (3) promulgate rules that--
+                    (A) permit an applicant for a license to land or 
+                operate a submarine cable to self-certify whether the 
+                standard security measures adopted under subsection 
+                (a)(2) or the enhanced security measures adopted under 
+                subsection (a)(3) are applicable to the landing or 
+                operation of such cable; and
+                    (B) in the case of a person who holds a license to 
+                land or operate a submarine cable issued before the 
+                effective date of such rules that is conditioned on 
+                compliance with a security or similar agreement with 
+                the Committee, permit such licensee to petition the 
+                Commission to opt in to either the standard security 
+                measures adopted under subsection (a)(2) or the 
+                enhanced security measures adopted under subsection 
+                (a)(3) as a condition of such license, in place of 
+                compliance with such agreement, if the category of 
+                security measures proposed by such person would be 
+                applicable to the landing or operation of such cable on 
+                the date on which such petition is filed.
+    (c) Amendments to Cable Landing License Act.--
+            (1) In general.--The Cable Landing License Act is amended--
+                    (A) in the first section--
+                            (i) by inserting ``in accordance with 
+                        section 7'' after ``has been issued'';
+                            (ii) by striking ``the President of the 
+                        United States'' and inserting ``the 
+                        Commission''; and
+                            (iii) by striking ``That any such cable'' 
+                        and all that follows through ``That the 
+                        conditions'' and inserting ``That the 
+                        conditions'';
+                    (B) in section 2--
+                            (i) by striking ``the President'' and 
+                        inserting ``the Commission''; and
+                            (ii) by striking ``he'' and inserting ``the 
+                        Commission'';
+                    (C) in section 3, by striking ``the President'' and 
+                inserting ``the Commission''; and
+                    (D) by adding at the end the following:
+
+``SEC. 7. APPLICATION FOR AND ISSUANCE OF LICENSE TO LAND OR OPERATE 
+              SUBMARINE CABLE.
+
+    ``(a) Application.--A person seeking a license to land or operate a 
+submarine cable shall submit to the Commission an application for such 
+license.
+    ``(b) Streamlined Consideration.--
+            ``(1) Notice of acceptance for filing.--
+                    ``(A) In general.--Not later than 20 days after the 
+                date on which an application is submitted under 
+                subsection (a) or amended under subparagraph (B), the 
+                Commission shall transmit to the applicant a notice 
+                that informs such applicant of--
+                            ``(i) whether or not such application is 
+                        accepted for filing; and
+                            ``(ii) if such application is not accepted 
+                        for filing, the basis for, and how such 
+                        applicant may cure, the nonacceptance.
+                    ``(B) Opportunity to amend.--If a notice 
+                transmitted under subparagraph (A) with respect to an 
+                application informs the applicant that such application 
+                is not accepted for filing, such applicant may, not 
+                later than 10 days after receiving such notice, amend 
+                such application to cure the nonacceptance.
+                    ``(C) Deemed acceptance.--If the Commission does 
+                not transmit a notice as required by subparagraph (A) 
+                with respect to an application during the period 
+                required by such subparagraph, such application shall 
+                be deemed to be accepted for filing on the day after 
+                the last day of such period.
+            ``(2) Approval or denial.--
+                    ``(A) In general.--The Commission shall approve or 
+                deny an application submitted under subsection (a)--
+                            ``(i) except as provided in clause (ii), 
+                        not later than 45 days after the date on which 
+                        the Commission transmits to the applicant a 
+                        notice under paragraph (1)(A) informing such 
+                        applicant that such application is accepted for 
+                        filing, or not later than 45 days after the 
+                        date on which such application is deemed to be 
+                        accepted for filing under paragraph (1)(C), as 
+                        the case may be; or
+                            ``(ii) if the Commission refers such 
+                        application to the Committee for review in 
+                        accordance with subsection (c), not later than 
+                        1 year after the date on which the Commission 
+                        transmits to the applicant a notice under 
+                        paragraph (1)(A) informing such applicant that 
+                        such application is accepted for filing, or not 
+                        later than 1 year after the date on which such 
+                        application is deemed to be accepted for filing 
+                        under paragraph (1)(C), as the case may be.
+                    ``(B) Deemed approval.--
+                            ``(i) In general.--If the Commission does 
+                        not approve or deny an application submitted 
+                        under subsection (a) during the period required 
+                        by subparagraph (A), such application shall be 
+                        deemed to be approved on the day after the last 
+                        day of such period.
+                            ``(ii) Compliance with security measures.--
+                        Compliance with the standard security measures 
+                        adopted under paragraph (2) of section 2(a) of 
+                        the United States Submarine Cable Security 
+                        Policy Act of 2026 or the enhanced security 
+                        measures adopted under paragraph (3) of such 
+                        section, as applicable, shall be a condition of 
+                        a license to land or operate a submarine cable 
+                        that is issued as a result of an application 
+                        being deemed approved under this subparagraph.
+    ``(c) Referral of Application to Committee.--The Commission may 
+refer an application submitted under subsection (a) to the Committee 
+for review only if--
+            ``(1) the applicant seeks to overcome a foreign adversary 
+        presumptive disqualifying condition or foreign adversary cable 
+        landing presumptive disqualifying condition in the rules of the 
+        Commission; or
+            ``(2) the applicant is unable to make both--
+                    ``(A) the self-certification described in paragraph 
+                (2) of section 2(b) of the United States Submarine 
+                Cable Security Policy Act of 2026 under the rules 
+                promulgated under such paragraph; and
+                    ``(B) the self-certification described in paragraph 
+                (3)(A) of such section under the rules promulgated 
+                under such paragraph.
+    ``(d) Limitation on Additional Security Measures.--The Commission 
+may not, as a condition of a license to land or operate a submarine 
+cable, require compliance with any security measures other than the 
+standard security measures adopted under paragraph (2) of section 2(a) 
+of the United States Submarine Cable Security Policy Act of 2026 or the 
+enhanced security measures adopted under paragraph (3) of such section, 
+unless the Committee submits to the Commission a petition that is found 
+by the Commission to demonstrate that the issuance of such license 
+without such additional security measures would pose a risk to national 
+security interests of the United States that is not addressed by such 
+standard security measures or enhanced security measures.
+    ``(e) Compliance With Security Measures.--
+            ``(1) In general.--A person who holds a license to land or 
+        operate a submarine cable shall comply with--
+                    ``(A) the standard security measures adopted under 
+                paragraph (2) of section 2(a) of the United States 
+                Submarine Cable Security Policy Act of 2026 or the 
+                enhanced security measures adopted under paragraph (3) 
+                of such section, as applicable to such license; and
+                    ``(B) any additional security measures on which 
+                such license is conditioned in accordance with 
+                subsection (d).
+            ``(2) Violations.--The Commission shall enforce paragraph 
+        (1) as if such paragraph is a part of the Communications Act of 
+        1934 (47 U.S.C. 151 et seq.). A violation of such paragraph 
+        shall be considered to be a violation of the Communications Act 
+        of 1934.
+    ``(f) Authority to Land Pending Action on Application.--
+            ``(1) In general.--Except as provided in paragraph (2) of 
+        this subsection, in the case of an applicant for a license to 
+        land or operate a submarine cable that has made the self-
+        certification described in paragraph (2) of section 2(b) of the 
+        United States Submarine Cable Security Policy Act of 2026 under 
+        the rules promulgated under such paragraph and whose 
+        application is not subject to a foreign adversary cable landing 
+        presumptive disqualifying condition in the rules of the 
+        Commission, such applicant may land such cable subject to such 
+        pending application after the date that is 20 days after the 
+        date on which such applicant submits to the Commission and the 
+        Committee, in such manner as the Commission may by rule 
+        prescribe, a notification of the intent to land such cable 
+        under this paragraph.
+            ``(2) Objection by committee.--
+                    ``(A) Landing prohibited.--
+                            ``(i) In general.--An applicant for a 
+                        license to land or operate a submarine cable 
+                        may not land such cable under paragraph (1) if, 
+                        during the 20-day period that begins on the 
+                        date on which such applicant submits to the 
+                        Commission and the Committee the notification 
+                        described in such paragraph--
+                                    ``(I) the Committee objects to the 
+                                landing of such cable and informs the 
+                                Commission and such applicant of such 
+                                objection and the basis for such 
+                                objection; and
+                                    ``(II) the Commission concurs with 
+                                such objection and informs the 
+                                Committee and such applicant of such 
+                                concurrence and the basis for such 
+                                concurrence.
+                            ``(ii) Deemed concurrence.--If, during the 
+                        20-day period described in clause (i), the 
+                        Commission does not concur with the objection 
+                        of the Committee and inform the Committee and 
+                        the applicant under subclause (II) of such 
+                        clause, or notify the Committee and such 
+                        applicant of the nonconcurrence of the 
+                        Commission with such objection and the basis 
+                        for such nonconcurrence, the Commission shall 
+                        be deemed to have concurred with such objection 
+                        on the last day of such period.
+                    ``(B) Request to withdraw concurrence.--If an 
+                applicant submits to the Commission a request for the 
+                Commission to withdraw the concurrence of the 
+                Commission under subparagraph (A) to an objection of 
+                the Committee to the landing of a submarine cable under 
+                paragraph (1) by such applicant, and if the Commission 
+                finds that the submission of such applicant addresses 
+                the basis for such objection, the Commission may 
+                withdraw such concurrence and such applicant may land 
+                such cable under paragraph (1).
+            ``(3) Limitation.--This subsection does not authorize an 
+        applicant for a license to land or operate a submarine cable to 
+        operate such cable until such time as such license is issued by 
+        the Commission, except that such applicant may operate such 
+        cable to the extent necessary to construct and test such cable.
+            ``(4) Rule of construction.--Nothing in this subsection may 
+        be construed to preclude an applicant for a license to land or 
+        operate a submarine cable from requesting from the Commission 
+        special temporary authority with respect to such cable, in 
+        accordance with the rules of the Commission.
+
+``SEC. 8. DEFINITIONS.
+
+    ``In this Act:
+            ``(1) Commission.--The term `Commission' means the Federal 
+        Communications Commission.
+            ``(2) Committee.--The term `Committee' means the Committee 
+        for the Assessment of Foreign Participation in the United 
+        States Telecommunications Services Sector established by 
+        Executive Order 13913 (85 Fed. Reg. 19643) (or any successor to 
+        such Committee).''.
+            (2) Promulgation of rules.--Not later than 180 days after 
+        the date on which the United States Submarine Cable Security 
+        Policy is submitted to the Commission, the Commission shall 
+        promulgate rules to implement the amendments made by this 
+        subsection.
+    (d) Definitions.--In this section:
+            (1) Cable landing license act.--The term ``Cable Landing 
+        License Act'' means the Act entitled ``An Act relating to the 
+        landing and operation of submarine cables in the United 
+        States'', approved May 27, 1921 (47 U.S.C. 34 et seq.; 42 Stat. 
+        8).
+            (2) Commission.--The term ``Commission'' means the Federal 
+        Communications Commission.
+            (3) Committee.--The term ``Committee'' means the Committee 
+        for the Assessment of Foreign Participation in the United 
+        States Telecommunications Services Sector established by 
+        Executive Order 13913 (85 Fed. Reg. 19643) (or any successor to 
+        such Committee).
+    (e) Applicability.--This section and the amendments made by this 
+section shall apply with respect to an application for a license to 
+land or operate a submarine cable under the Cable Landing License Act 
+that is pending with the Commission on, or submitted to the Commission 
+on or after, the first date on which all of the rules required to be 
+promulgated by this section have taken effect, except that subsections 
+(b)(1)(C) and (b)(2)(B) of section 7 of the Cable Landing License Act, 
+as added by this Act, shall not apply with respect to an application 
+that was submitted to the Commission before such date.
+                                 <all>

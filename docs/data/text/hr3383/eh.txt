@@ -1,0 +1,1484 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3383 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  1st Session
+                                H. R. 3383
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To amend the Investment Company Act of 1940 with respect to the 
+     authority of closed-end companies to invest in private funds.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Incentivizing New 
+Ventures and Economic Strength Through Capital Formation Act of 2025'' 
+or the ``INVEST Act of 2025''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+       TITLE I--EXPANDING ACCESS TO CAPITAL FOR SMALL BUSINESSES
+
+Sec. 101. Expanding access to capital for rural job creators.
+Sec. 102. Helping angels lead our startups.
+Sec. 103. Amendment for crowdfunding capital enhancement and small-
+                            business support.
+Sec. 104. Small business investor capital access.
+Sec. 105. Advocating for small business.
+Sec. 106. Small entity update.
+Sec. 107. Improving access to small business information.
+Sec. 108. Improving capital allocation for newcomers.
+Sec. 109. Developing and empowering our aspiring leaders.
+            TITLE II--INCREASING OPPORTUNITIES FOR INVESTORS
+
+Sec. 201. Fair investment opportunities for professional experts.
+Sec. 202. Retirement fairness for charities and educational 
+                            institutions.
+Sec. 203. Equal opportunity for all investors.
+Sec. 204. Senior Security.
+Sec. 205. Improving disclosure for investors.
+Sec. 206. Increasing investor opportunities.
+                TITLE III--STRENGTHENING PUBLIC MARKETS
+
+Sec. 301. Encouraging local emerging ventures and economic growth.
+Sec. 302. Access to small business investor capital.
+Sec. 303. Encouraging public offerings.
+Sec. 304. Greenlighting growth.
+Sec. 305. Middle market IPO cost.
+Sec. 306. Expanding WKSI eligibility.
+Sec. 307. Enhancing multi-class share disclosures.
+
+       TITLE I--EXPANDING ACCESS TO CAPITAL FOR SMALL BUSINESSES
+
+SEC. 101. EXPANDING ACCESS TO CAPITAL FOR RURAL JOB CREATORS.
+
+    Section 4(i) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78d(i)) is amended--
+            (1) in paragraph (4)(C), by inserting ``, rural-area small 
+        businesses'' after ``women-owned small businesses''; and
+            (2) in paragraph (6)(B)(iii), by inserting ``, rural-area 
+        small businesses'' after ``women-owned small businesses''.
+
+SEC. 102. HELPING ANGELS LEAD OUR STARTUPS.
+
+    (a) Definitions.--For purposes of this section and the revision of 
+rules required under this section:
+            (1) Angel investor group.--The term ``angel investor 
+        group'' means any group that--
+                    (A) is composed of accredited investors interested 
+                in investing personal capital in early-stage companies;
+                    (B) holds regular meetings and has defined 
+                processes and procedures for making investment 
+                decisions, either individually or among the membership 
+                of the group as a whole; and
+                    (C) is neither associated nor affiliated with 
+                brokers, dealers, or investment advisers.
+            (2) Issuer.--The term ``issuer'' means an issuer that is a 
+        business, is not in bankruptcy or receivership, is not an 
+        investment company, and is not a blank check, blind pool, or 
+        shell company.
+    (b) In General.--Not later than 6 months after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+revise Regulation D (17 CFR 230.500 et seq.) to require that in 
+carrying out the prohibition against general solicitation or general 
+advertising contained in section 230.502(c) of title 17, Code of 
+Federal Regulations, the prohibition shall not apply to a presentation 
+or other communication made by or on behalf of an issuer which is made 
+at an event--
+            (1) sponsored by--
+                    (A) the United States or any territory thereof, the 
+                District of Columbia, any State, a federally recognized 
+                Indian Tribe, a political subdivision of any State, 
+                territory, or federally recognized Indian Tribe, or any 
+                agency or public instrumentality of any of the 
+                foregoing;
+                    (B) a college, university, or other institution of 
+                higher education;
+                    (C) a nonprofit organization;
+                    (D) an angel investor group;
+                    (E) an incubator or accelerator;
+                    (F) a venture forum, venture capital association, 
+                or trade association, other than an association created 
+                solely for the purpose of sponsoring an event described 
+                under this subsection; or
+                    (G) any other group, person, or entity as the 
+                Securities and Exchange Commission may determine by 
+                rule;
+            (2) that is not held in any facility that is owned or 
+        operated by a religious organization, other than an institution 
+        of higher education that is accredited and operated primarily 
+        for post-secondary education;
+            (3) where any advertising for the event does not reference 
+        any specific offering of securities by the issuer;
+            (4) the sponsor of which--
+                    (A) does not make investment recommendations or 
+                provide investment advice to event attendees;
+                    (B) does not engage in an active role in any 
+                investment negotiations between the issuer and 
+                investors attending the event;
+                    (C) does not charge event attendees any fees other 
+                than reasonable administrative fees;
+                    (D) does not receive any compensation for making 
+                introductions between investors attending the event and 
+                issuers, or for investment negotiations between such 
+                parties;
+                    (E) makes readily available to attendees a 
+                disclosure not longer than one page in length, as 
+                prescribed by the Securities and Exchange Commission, 
+                describing the nature of the event and the risks of 
+                investing in the issuers presenting at the event; and
+                    (F) does not receive any compensation with respect 
+                to such event that would require registration of the 
+                sponsor as a broker or a dealer under the Securities 
+                Exchange Act of 1934, or as an investment advisor under 
+                the Investment Advisers Act of 1940; and
+            (5) where no specific information regarding an offering of 
+        securities by the issuer is communicated or distributed by or 
+        on behalf of the issuer, other than--
+                    (A) that the issuer is in the process of offering 
+                securities or planning to offer securities;
+                    (B) the type and amount of securities being 
+                offered;
+                    (C) the amount of securities being offered that 
+                have already been subscribed for; and
+                    (D) the intended use of proceeds of the offering.
+    (c) Rule of Construction.--Subsection (b) may only be construed as 
+requiring the Securities and Exchange Commission to amend the 
+requirements of Regulation D with respect to presentations and 
+communications, and not with respect to purchases or sales.
+    (d) No Pre-existing Substantive Relationship by Reason of Event.--
+Attendance at an event described under subsection (b) shall not 
+qualify, by itself, as establishing a pre-existing substantive 
+relationship between an issuer and a purchaser, for purposes of Rule 
+506(b).
+
+SEC. 103. AMENDMENT FOR CROWDFUNDING CAPITAL ENHANCEMENT AND SMALL-
+              BUSINESS SUPPORT.
+
+    (a) In General.--Section 4A of the Securities Act of 1933 (15 
+U.S.C. 77d-1) is amended--
+            (1) in subsection (b)(1)(D), by striking ``$100,000'' each 
+        place such term appears and inserting ``$250,000''; and
+            (2) by adding at the end the following:
+    ``(i) Discretion to Adjust Amount.--The Commission may increase the 
+amount specified in subsections (b)(1)(D)(i) and (b)(1)(D)(ii) from 
+$250,000 to an amount not greater than $400,000 upon the recommendation 
+of the Office of the Advocate for Small Business Capital Formation and 
+the Office of the Investor Advocate.''.
+    (b) Technical Corrections.--The Securities Act of 1933 (15 U.S.C. 
+77a et seq.) is amended--
+            (1) in section 4A--
+                    (A) by striking ``section 4(6)'' each place such 
+                term appears and inserting ``section 4(a)(6)''; and
+                    (B) by striking ``section 4(6)(B)'' each place such 
+                term appears and inserting ``section 4(a)(6)(B)'';
+            (2) in section 16(f)(3), by striking ``section 4(2)'' and 
+        inserting ``section 4(a)(2)''; and
+            (3) in section 18--
+                    (A) in subsection (b)(4)--
+                            (i) in subparagraph (B), by striking 
+                        ``section 4(4)'' and inserting ``section 
+                        4(a)(4)'';
+                            (ii) in subparagraph (C), by striking 
+                        ``section 4(6)'' and inserting ``section 
+                        4(a)(6)''; and
+                            (iii) in subparagraph (F), by striking 
+                        ``section 4(2)'' each place such term appears 
+                        and inserting ``section 4(a)(2)''; and
+                    (B) in subsection (c)(1)(B), by striking ``section 
+                4(6)'' and inserting ``section 4(a)(6)'';
+
+SEC. 104. SMALL BUSINESS INVESTOR CAPITAL ACCESS.
+
+    Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 
+80b-3(m)) is amended--
+            (1) in paragraph (1), by striking ``$150,000,000'' and 
+        inserting ``$175,000,000''; and
+            (2) by adding at the end the following:
+            ``(5) Inflation adjustment.--The Commission shall, every 5 
+        years, adjust the dollar amount described under paragraph (1) 
+        to reflect the change in the Consumer Price Index for All Urban 
+        Consumers published by the Bureau of Labor Statistics of the 
+        Department of Labor, and round such dollar amount to the 
+        nearest multiple of $1,000,000.''.
+
+SEC. 105. ADVOCATING FOR SMALL BUSINESS.
+
+    Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is 
+amended by adding at the end the following:
+    ``(k) Offices of Small Business.--The Commission shall ensure that, 
+within each of the Division of Corporation Finance, the Division of 
+Investment Management, and the Division of Trading and Markets, an 
+Office of Small Business is established that shall coordinate with the 
+Office of the Advocate for Small Business Capital Formation on rules 
+and policy priorities related to capital formation. This subsection may 
+not be construed to authorize expenditures for additional full-time 
+equivalent employees.''.
+
+SEC. 106. SMALL ENTITY UPDATE.
+
+    (a) Definitions.--In this section--
+            (1) the term ``Commission'' means the Securities and 
+        Exchange Commission; and
+            (2) the term ``small entity''--
+                    (A) has the meaning given the term in section 601 
+                of title 5, United States Code, with respect to the 
+                activities of the Commission; and
+                    (B) includes any definition established by the 
+                Commission of the term ``small business'', ``small 
+                organization'', ``small governmental jurisdiction'', or 
+                ``small entity'' under paragraph (3), (4), (5), or (6), 
+                respectively, of section 601 of title 5, United States 
+                Code, with respect to the activities of the Commission.
+    (b) Studies and Reports.--Not later than 1 year after the date of 
+enactment of this Act, and again 5 years thereafter, the Commission 
+shall--
+            (1) conduct a study of the definition of the term ``small 
+        entity'' with respect to the activities of the Commission for 
+        the purposes of chapter 6 of title 5, United States Code, which 
+        shall consider--
+                    (A) the extent to which the definition of the term 
+                ``small entity'', as in effect during the period in 
+                which the study is conducted, aligns with the findings 
+                and declarations made under section 2(a) of the 
+                Regulatory Flexibility Act (5 U.S.C. 601 note);
+                    (B) the amount by which financial markets in the 
+                United States have grown since the last time the 
+                Commission amended the definition of the term ``small 
+                entity'', if applicable; and
+                    (C) how the Commission should define the term 
+                ``small entity'' to ensure that the entities that would 
+                fall under that definition be appropriately considered 
+                a ``small entity'' consistent with subparagraphs (A) 
+                and (B); and
+            (2) submit to Congress a report that includes--
+                    (A) the results of the applicable study conducted 
+                under paragraph (1); and
+                    (B) specific and detailed recommendations on the 
+                ways in which the Commission could amend the definition 
+                of the term ``small entity'' to--
+                            (i) be consistent with the results 
+                        described in subparagraph (A); and
+                            (ii) expand the number of entities covered 
+                        by such definition.
+    (c) Proposed Rule Revisions in Lieu of Study.--
+            (1) Initial study.--The Commission may satisfy the 
+        requirement to conduct the first study described in subsection 
+        (b)(1) and submit the associated report described in subsection 
+        (b)(2) by, within 1 year of the date of enactment of this Act, 
+        proposing revisions to the rules of the Commission relating to 
+        the term ``small entity'' in consideration of subparagraphs 
+        (A), (B), and (C) of subsection (b)(1).
+            (2) Second study.--The Commission may satisfy the 
+        requirement to conduct the second study described in subsection 
+        (b)(1) and submit the associated report described in subsection 
+        (b)(2) by, no sooner than 5 years and no later than 6 years 
+        after the date of enactment of this Act, proposing revisions to 
+        the rules of the Commission relating to the term ``small 
+        entity'' in consideration of subparagraphs (A), (B), and (C) of 
+        subsection (b)(1).
+    (d) Rulemaking.--Concurrently with, or after the completion of, 
+each study required under subsection (b), the Commission shall, subject 
+to public notice and comment, revise the rules of the Commission 
+consistent with the results of such study.
+    (e) Inflation Adjustments.--After the Commission issues the final 
+rule revisions required under subsection (c), and every 5 years 
+thereafter, the Commission shall adjust any dollar figures under the 
+definition of small entity established by the Commission to reflect the 
+change in the Consumer Price Index for All Urban Consumers published by 
+the Bureau of Labor Statistics of the Department of Labor.
+
+SEC. 107. IMPROVING ACCESS TO SMALL BUSINESS INFORMATION.
+
+    Section 4(i) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78d(i)) is amended by adding at the end the following:
+            ``(10) Preservation of information collection burden 
+        review.--
+                    ``(A) In general.--Actions taken by the Advocate 
+                for Small Business Capital Formation under this 
+                subsection shall not be a `collection of information' 
+                for purposes of subchapter I of chapter 35 of title 44, 
+                United States Code (commonly known as the `Paperwork 
+                Reduction Act').
+                    ``(B) Exceptions.--Notwithstanding subparagraph 
+                (A), the requirements under subsections (c)(1), (c)(4), 
+                and (i) of section 3506 of title 44, United States 
+                Code, and section 3507(a)(1)(A) of such title shall 
+                apply to actions taken by the Advocate for Small 
+                Business Capital Formation under this subsection, 
+                except that the Commission shall not be required--
+                            ``(i) to submit a collection of information 
+                        by the Advocate to the Director of the Office 
+                        of Management and Budget, as referenced under 
+                        section 3506(c)(1)(A) of such title;
+                            ``(ii) to display a control number on a 
+                        collection of information by the Advocate, as 
+                        described under section 3506(c)(1)(B)(i) of 
+                        such title (or to inform a person receiving a 
+                        collection of information from the Advocate 
+                        that the collection of information needs to 
+                        display a control number, as described under 
+                        section 3506(c)(1)(B)(iii)(V) of such title); 
+                        or
+                            ``(iii) to indicate a collection of 
+                        information by the Advocate is in accordance 
+                        with the clearance requirements of section 3507 
+                        of such title, as described under section 
+                        3506(c)(1)(B)(ii) of such title.''.
+
+SEC. 108. IMPROVING CAPITAL ALLOCATION FOR NEWCOMERS.
+
+    (a) Qualifying Venture Capital Funds.--Section 3(c)(1) of the 
+Investment Company Act of 1940 (15 U.S.C. 80a-3(c)(1)) is amended--
+            (1) in the matter preceding subparagraph (A), by striking 
+        ``250 persons'' and inserting ``500 persons''; and
+            (2) in subparagraph (C)(i)--
+                    (A) by striking ``$10,000,000'' and inserting 
+                ``$50,000,000''; and
+                    (B) by striking ``beginning from a measurement made 
+                by the Commission on a date selected by the 
+                Commission'' and inserting ``beginning from a 
+                measurement made on the date of the enactment of the 
+                INVEST Act of 2025''.
+    (b) Study and Rulemaking.--
+            (1) In general.--Beginning 5 years after the date of 
+        enactment of this Act, the Advocate for Small Business Capital 
+        Formation, in consultation with the Investor Advocate, shall 
+        conduct a study on the effect of the amendments made by 
+        subsection (a) on the businesses and startup entities in which 
+        qualifying venture capital funds invest, specifically 
+        including, with respect to such businesses and startup 
+        entities, changes or trends relating to--
+                    (A) the geographic distribution of capital to 
+                portfolio companies;
+                    (B) the socio-economic characteristics of founders 
+                or controlling persons;
+                    (C) the veteran status of founders or controlling 
+                persons;
+                    (D) the industry sector, size, stage of 
+                development, and related details; and
+                    (E) other factors or metrics determined by the 
+                Advocate for Small Business Capital Formation.
+            (2) Authorities related to required study.--For purposes of 
+        conducting the study required by paragraph (1), the Advocate 
+        for Small Business Capital Formation and the Investor Advocate 
+        shall have the authority to--
+                    (A) obtain from the Securities and Exchange 
+                Commission (in this section referred to as the 
+                ``Commission'') and utilize any data or information 
+                necessary to carry out the study;
+                    (B) request and receive assistance from any 
+                division or office of the Commission, including the 
+                Division of Economic and Risk Analysis; and
+                    (C) enter into agreements with third parties to 
+                assist in data analysis.
+            (3) Report.--The Advocate for Small Business Capital 
+        Formation shall issue a report to the Congress containing all 
+        findings and determinations made in carrying out the study 
+        required in paragraph (1), and make such report available to 
+        the public on the website of the Commission.
+            (4) Public comment.--During the 180-day period beginning on 
+        the date the report is issued under paragraph (3), the 
+        Commission shall solicit feedback from the public on the 
+        findings and determinations contained in the report.
+            (5) Rulemaking.--
+                    (A) In general.--The Commission, in consultation 
+                with the Investor Advocate and the Advocate for Small 
+                Business Capital Formation, may, after considering all 
+                comments received under paragraph (3) and only if the 
+                Commission determines in such report that the 
+                amendments made by subsection (a) have had a 
+                demonstrable effect on increasing the geographic 
+                distribution of capital to portfolio companies, 
+                increasing the variety of the socio-economic 
+                characteristics of founders or controlling persons, or 
+                increasing the number of founders or controlling 
+                persons who are veterans, issue rules to--
+                            (i) increase or decrease the 500 person 
+                        threshold described in the matter preceding 
+                        subparagraph (A) of section 3(c)(1) of the 
+                        Investment Company Act of 1940, but such 
+                        threshold may not exceed 750 persons or be 
+                        reduced below 250 persons; and
+                            (ii) increase or decrease the $50,000,000 
+                        dollar figure in section 3(c)(1)(C)(i) of the 
+                        Investment Company Act of 1940, but such dollar 
+                        figure may not exceed $100,000,000 or be 
+                        reduced below $10,000,000.
+                    (B) Deadline for rulemaking.--The rulemaking 
+                authority in subparagraph (A) only applies to a rule 
+                with respect to which the proposed rule was issued 
+                during the 180-day period beginning at the end of the 
+                public comment period described in paragraph (4).
+                    (C) No effect on inflation adjustments.--A rule 
+                issued under this subsection shall have no effect on 
+                the requirement under clause (i) of section 3(c)(1)(C) 
+                of the Investment Company Act of 1940 (15 U.S.C. 80a-
+                3(c)(1)(C)) to index the first dollar amount in such 
+                clause for inflation.
+
+SEC. 109. DEVELOPING AND EMPOWERING OUR ASPIRING LEADERS.
+
+    Not later than the end of the 180-day period beginning on the date 
+of the enactment of this Act, the Securities and Exchange Commission 
+shall--
+            (1) revise the definition of a qualifying investment under 
+        paragraph (c) of section 275.203(l)-1 of title 17, Code of 
+        Federal Regulations--
+                    (A) to include an equity security issued by a 
+                qualifying portfolio company, whether acquired directly 
+                from the company or in a secondary acquisition; and
+                    (B) to specify that an investment in another 
+                venture capital fund (as defined in paragraph (a) 
+                section 275.203(l)-1 of title 17, Code of Federal 
+                Regulations) is a qualifying investment under such 
+                definition; and
+            (2) revise paragraph (a) of such section to require, as a 
+        condition of a private fund qualifying as a venture capital 
+        fund under such paragraph, that, immediately after the 
+        acquisition of any asset, such fund holds no more than 49 
+        percent of the amount of the fund's aggregate capital 
+        contributions and uncalled committed capital (excluding short-
+        term holdings) in--
+                    (A) one or more venture capital funds; or
+                    (B) qualifying investments acquired in a secondary 
+                acquisition, valued at cost or fair value, consistently 
+                applied by the fund.
+
+            TITLE II--INCREASING OPPORTUNITIES FOR INVESTORS
+
+SEC. 201. FAIR INVESTMENT OPPORTUNITIES FOR PROFESSIONAL EXPERTS.
+
+    (a) In General.--Section 2(a)(15) of the Securities Act of 1933 (15 
+U.S.C. 77b(a)(15)) is amended--
+            (1) by redesignating subparagraphs (i) and (ii) as 
+        subparagraphs (A) and (F), respectively; and
+            (2) in subparagraph (A) (as so redesignated), by striking 
+        ``; or'' and inserting a semicolon, and inserting after such 
+        subparagraph the following:
+                    ``(B) with respect to a proposed sale of a 
+                security, any natural person whose individual net 
+                worth, or joint net worth with that person's spouse or 
+                spousal equivalent, at the time of such sale, exceeds 
+                $1,000,000 (which amount, along with the amounts set 
+                forth in subparagraph (C), shall be adjusted for 
+                inflation by the Commission every 5 years to the 
+                nearest $10,000 to reflect the change in the Consumer 
+                Price Index for All Urban Consumers published by the 
+                Bureau of Labor Statistics) where, for purposes of 
+                calculating net worth under this subparagraph--
+                            ``(i) the person's primary residence shall 
+                        not be included as an asset;
+                            ``(ii) indebtedness that is secured by the 
+                        person's primary residence, up to the estimated 
+                        fair market value of the primary residence at 
+                        the time of such sale, shall not be included as 
+                        a liability (except that if the amount of such 
+                        indebtedness outstanding at the time of such 
+                        sale exceeds the amount outstanding 60 days 
+                        before such time, other than as a result of the 
+                        acquisition of the primary residence, the 
+                        amount of such excess shall be included as a 
+                        liability); and
+                            ``(iii) indebtedness that is secured by the 
+                        person's primary residence in excess of the 
+                        estimated fair market value of the primary 
+                        residence at the time of such sale shall be 
+                        included as a liability;
+                    ``(C) any natural person who had an individual 
+                income in excess of $200,000 in each of the 2 most 
+                recent years or joint income with that person's spouse 
+                or spousal equivalent in excess of $300,000 in each of 
+                those years and has a reasonable expectation of 
+                reaching the same income level in the current year;
+                    ``(D) any natural person who is--
+                            ``(i) currently licensed or registered as a 
+                        broker or investment adviser by the Commission, 
+                        a self-regulatory organization (as defined in 
+                        section 3(a) of the Securities Exchange Act of 
+                        1934), or the securities division of a State, 
+                        the District of Columbia, or a territory of the 
+                        United States or the equivalent division 
+                        responsible for licensing or registration of 
+                        individuals in connection with securities 
+                        activities; and
+                            ``(ii) in good standing with respect to 
+                        such license or registration;
+                    ``(E) any natural person the Commission determines, 
+                by regulation, to have demonstrable education or job 
+                experience to qualify such person as having 
+                professional knowledge of a subject related to a 
+                particular investment, and whose education or job 
+                experience is verified by a self-regulatory 
+                organization (as defined in section 3(a) of the 
+                Securities Exchange Act of 1934); or''.
+    (b) Rulemaking.--Not later than 180 days after the date of 
+enactment of this Act, the Securities and Exchange Commission shall 
+revise the definition of accredited investor under Regulation D (17 CFR 
+230.500 et seq.) to conform with the amendments made by subsection (a).
+
+SEC. 202. RETIREMENT FAIRNESS FOR CHARITIES AND EDUCATIONAL 
+              INSTITUTIONS.
+
+    (a) Amendments to the Investment Company Act of 1940.--Section 
+3(c)(11) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)(11)) 
+is amended to read as follows:
+            ``(11) Any--
+                    ``(A) employee's stock bonus, pension, or profit-
+                sharing trust which meets the requirements for 
+                qualification under section 401 of the Internal Revenue 
+                Code of 1986;
+                    ``(B) custodial account meeting the requirements of 
+                section 403(b)(7) of such Code;
+                    ``(C) governmental plan described in section 
+                3(a)(2)(C) of the Securities Act of 1933 (15 U.S.C. 
+                77c(a)(2)(C));
+                    ``(D) collective trust fund maintained by a bank 
+                consisting solely of assets of one or more--
+                            ``(i) trusts described in subparagraph (A);
+                            ``(ii) governmental plans described in 
+                        subparagraph (C);
+                            ``(iii) church plans, companies, or 
+                        accounts that are excluded from the definition 
+                        of an investment company under paragraph (14) 
+                        of this subsection; or
+                            ``(iv) plans which meet the requirements of 
+                        section 403(b) of the Internal Revenue Code of 
+                        1986--
+                                    ``(I) if--
+                                            ``(aa) such plan is subject 
+                                        to title I of the Employee 
+                                        Retirement Income Security Act 
+                                        of 1974 (29 U.S.C. 1001 et 
+                                        seq.);
+                                            ``(bb) any employer making 
+                                        such plan available agrees to 
+                                        serve as a fiduciary for the 
+                                        plan with respect to the 
+                                        selection of the plan's 
+                                        investments among which 
+                                        participants can choose; or
+                                            ``(cc) such plan is a 
+                                        governmental plan (as defined 
+                                        in section 414(d) of such 
+                                        Code); and
+                                    ``(II) if the employer, a fiduciary 
+                                of the plan, or another person acting 
+                                on behalf of the employer reviews and 
+                                approves each investment alternative 
+                                offered under such plan described under 
+                                subclause (I)(cc) prior to the 
+                                investment being offered to 
+                                participants in the plan; or
+                    ``(E) separate account the assets of which are 
+                derived solely from--
+                            ``(i) contributions under pension or 
+                        profit-sharing plans which meet the 
+                        requirements of section 401 of the Internal 
+                        Revenue Code of 1986 or the requirements for 
+                        deduction of the employer's contribution under 
+                        section 404(a)(2) of such Code;
+                            ``(ii) contributions under governmental 
+                        plans in connection with which interests, 
+                        participations, or securities are exempted from 
+                        the registration provisions of section 5 of the 
+                        Securities Act of 1933 (15 U.S.C. 77e) by 
+                        section 3(a)(2)(C) of such Act (15 U.S.C. 
+                        77c(a)(2)(C));
+                            ``(iii) advances made by an insurance 
+                        company in connection with the operation of 
+                        such separate account; and
+                            ``(iv) contributions to a plan described in 
+                        clause (iii) or (iv) of subparagraph (D).''.
+    (b) Amendments to the Securities Act of 1933.--Section 3(a)(2) of 
+the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) is amended--
+            (1) by striking ``beneficiaries, or (D)'' and inserting 
+        ``beneficiaries, (D) a plan which meets the requirements of 
+        section 403(b) of such Code (i) if (I) such plan is subject to 
+        title I of the Employee Retirement Income Security Act of 1974 
+        (29 U.S.C. 1001 et seq.), (II) any employer making such plan 
+        available agrees to serve as a fiduciary for the plan with 
+        respect to the selection of the plan's investments among which 
+        participants can choose, or (III) such plan is a governmental 
+        plan (as defined in section 414(d) of such Code), and (ii) if 
+        the employer, a fiduciary of the plan, or another person acting 
+        on behalf of the employer reviews and approves each investment 
+        alternative offered under any plan described under clause 
+        (i)(III) prior to the investment being offered to participants 
+        in the plan, or (E)'';
+            (2) by striking ``(C), or (D)'' and inserting ``(C), (D), 
+        or (E)''; and
+            (3) by striking ``(iii) which is a plan funded'' and all 
+        that follows through ``retirement income account).'' and 
+        inserting ``(iii) in the case of a plan not described in 
+        subparagraph (D) or (E), which is a plan funded by an annuity 
+        contract described in section 403(b) of such Code''.
+    (c) Amendments to the Securities Exchange Act of 1934.--Section 
+3(a)(12)(C) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78c(a)(12)(C)) is amended--
+            (1) by striking ``or (iv)'' and inserting ``(iv) a plan 
+        which meets the requirements of section 403(b) of such Code (I) 
+        if (aa) such plan is subject to title I of the Employee 
+        Retirement Income Security Act of 1974 (29 U.S.C. 1001 et 
+        seq.), (bb) any employer making such plan available agrees to 
+        serve as a fiduciary for the plan with respect to the selection 
+        of the plan's investments among which participants can choose, 
+        or (cc) such plan is a governmental plan (as defined in section 
+        414(d) of such Code), and (II) if the employer, a fiduciary of 
+        the plan, or another person acting on behalf of the employer 
+        reviews and approves each investment alternative offered under 
+        any plan described under subclause (I)(cc) prior to the 
+        investment being offered to participants in the plan, or (v)'';
+            (2) by striking ``(ii), or (iii)'' and inserting ``(ii), 
+        (iii), or (iv)''; and
+            (3) by striking ``(II) is a plan funded'' and inserting 
+        ``(II) in the case of a plan not described in clause (iv), is a 
+        plan funded''.
+    (d) Conforming Amendment to the Securities Exchange Act of 1934.--
+Section 12(g)(2)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78l(g)(2)(H)) is amended by striking ``or (iii)'' and inserting ``(iii) 
+a plan described in section 3(a)(12)(C)(iv) of this Act, or (iv)''.
+
+SEC. 203. EQUAL OPPORTUNITY FOR ALL INVESTORS.
+
+    (a) In General.--The Commission shall revise the definition of 
+``accredited investor'' under Regulation D (section 230.500 et seq. of 
+title 17, Code of Federal Regulations) to include any natural person 
+who is certified through the examination required under subsection (b).
+    (b) Establishment of Examination.--Not later than 1 year after the 
+date of the enactment of this Act, the Commission shall establish an 
+examination (including a test, certification, or examination program)--
+            (1) to certify an individual as an accredited investor; and
+            (2) that--
+                    (A) is designed with an appropriate level of 
+                difficulty such that an individual with financial 
+                sophistication would be unlikely to fail; and
+                    (B) includes methods to determine whether an 
+                individual seeking to be certified as an accredited 
+                investor demonstrates competency with respect to--
+                            (i) the different types of securities;
+                            (ii) the disclosure requirements under the 
+                        securities laws applicable to issuers and 
+                        offerings of securities exempt from 
+                        registration under section 5 of the Securities 
+                        Act of 1933 as compared to issuers and 
+                        offerings of securities subject to such section 
+                        5;
+                            (iii) corporate governance;
+                            (iv) financial statements and the 
+                        components of such statements;
+                            (v) aspects of unregistered securities, 
+                        securities issued by private companies, and 
+                        investments into private funds, including risks 
+                        associated with--
+                                    (I) limited liquidity;
+                                    (II) limited disclosures;
+                                    (III) subjectivity and variability 
+                                in valuations and the analytical tools 
+                                investors may use to assess such 
+                                valuations;
+                                    (IV) information asymmetry;
+                                    (V) leverage risks;
+                                    (VI) concentration risk; and
+                                    (VII) longer investment horizons;
+                            (vi) potential conflicts of interest, when 
+                        the interests of financial professionals and 
+                        their clients are misaligned or when their 
+                        professional responsibilities may be in 
+                        conflict with financial motivations; and
+                            (vii) such other criteria as the Commission 
+                        determines necessary or appropriate in the 
+                        public interest or for the protection of 
+                        investors.
+    (c) Administration.--Beginning not later than 180 days after the 
+date the examination is established under subsection (b), such 
+examination shall be administered and offered free of charge to the 
+public by a registered national securities association under section 
+15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o-3).
+    (d) Commission Defined.--In this section, the term ``Commission'' 
+means the Securities and Exchange Commission.
+
+SEC. 204. SENIOR SECURITY.
+
+    (a) Senior Investor Taskforce.--Section 4 of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78d), as amended by section 105 is 
+further amended by adding at the end the following:
+    ``(l) Senior Investor Taskforce.--
+            ``(1) Establishment.--There is established within the 
+        Commission the Senior Investor Taskforce (in this subsection 
+        referred to as the `Taskforce').
+            ``(2) Director of the taskforce.--The head of the Taskforce 
+        shall be the Director, who shall--
+                    ``(A) report directly to the Chairman; and
+                    ``(B) be appointed by the Chairman, in consultation 
+                with the Commission, from among individuals--
+                            ``(i) currently employed by the Commission 
+                        or from outside of the Commission; and
+                            ``(ii) having experience in advocating for 
+                        the interests of senior investors.
+            ``(3) Staffing.--The Chairman shall ensure that--
+                    ``(A) the Taskforce is staffed sufficiently to 
+                carry out fully the requirements of this subsection; 
+                and
+                    ``(B) such staff shall include individuals from the 
+                Division of Enforcement, Office of Compliance 
+                Inspections and Examinations, and Office of Investor 
+                Education and Advocacy.
+            ``(4) No compensation for members of taskforce.--All 
+        members of the Taskforce appointed under paragraph (2) or (3) 
+        shall serve without compensation in addition to that received 
+        for their services as officers or employees of the United 
+        States.
+            ``(5) Minimizing duplication of efforts.--In organizing and 
+        staffing the Taskforce, the Chairman shall take such actions as 
+        may be necessary to minimize the duplication of efforts within 
+        the divisions and offices described under paragraph (3)(B) and 
+        any other divisions, offices, or taskforces of the Commission.
+            ``(6) Functions of the taskforce.--The Taskforce shall--
+                    ``(A) identify challenges that senior investors 
+                encounter, including problems associated with financial 
+                exploitation and cognitive decline;
+                    ``(B) identify areas in which senior investors 
+                would benefit from changes in the regulations of the 
+                Commission or the rules of self-regulatory 
+                organizations;
+                    ``(C) coordinate, as appropriate, with other 
+                offices within the Commission, other taskforces that 
+                may be established within the Commission, self-
+                regulatory organizations, and the Elder Justice 
+                Coordinating Council; and
+                    ``(D) consult, as appropriate, with State 
+                securities and law enforcement authorities, State 
+                insurance regulators, and other Federal agencies.
+            ``(7) Report.--The Taskforce, in coordination, as 
+        appropriate, with the Office of the Investor Advocate and self-
+        regulatory organizations, and in consultation, as appropriate, 
+        with State securities and law enforcement authorities, State 
+        insurance regulators, and Federal agencies, shall issue a 
+        report every 2 years to the Committee on Banking, Housing, and 
+        Urban Affairs and the Special Committee on Aging of the Senate 
+        and the Committee on Financial Services of the House of 
+        Representatives, the first of which shall not be issued until 
+        after the report described in section 3 of the National Senior 
+        Investor Initiative Act of 2025 has been issued and considered 
+        by the Taskforce, containing--
+                    ``(A) appropriate statistical information and full 
+                and substantive analysis;
+                    ``(B) a summary of recent trends and innovations 
+                that have impacted the investment landscape for senior 
+                investors;
+                    ``(C) a summary of regulatory initiatives that have 
+                concentrated on senior investors and industry practices 
+                related to senior investors;
+                    ``(D) key observations, best practices, and areas 
+                needing improvement, involving senior investors 
+                identified during examinations, enforcement actions, 
+                and investor education outreach;
+                    ``(E) a summary of the most serious issues 
+                encountered by senior investors, including issues 
+                involving financial products and services;
+                    ``(F) an analysis with regard to existing policies 
+                and procedures of brokers, dealers, investment 
+                advisers, and other market participants related to 
+                senior investors and senior investor-related topics and 
+                whether these policies and procedures need to be 
+                further developed or refined;
+                    ``(G) recommendations for such changes to the 
+                regulations, guidance, and orders of the Commission and 
+                self-regulatory organizations and such legislative 
+                actions as may be appropriate to resolve problems 
+                encountered by senior investors; and
+                    ``(H) any other information, as determined 
+                appropriate by the Director of the Taskforce.
+            ``(8) Request for reports.--The Taskforce shall make any 
+        report issued under paragraph (7) available to a Member of 
+        Congress who requests such a report.
+            ``(9) Sunset.--The Taskforce shall terminate after the end 
+        of the 10-year period beginning on the date of the enactment of 
+        this subsection.
+            ``(10) Senior investor defined.--In this subsection, the 
+        term `senior investor' means an investor over the age of 65.
+            ``(11) Use of existing funds.--The Commission shall use 
+        existing funds to carry out this subsection.''.
+    (b) GAO Study.--
+            (1) Study.--Not later than 2 years after the date of 
+        enactment of this Act, the Comptroller General of the United 
+        States shall submit to Congress and the Senior Investor 
+        Taskforce the results of a study of financial exploitation of 
+        senior citizens.
+            (2) Contents.--The study required under paragraph (1) shall 
+        include information with respect to--
+                    (A) economic costs of the financial exploitation of 
+                senior citizens--
+                            (i) associated with losses by victims that 
+                        were incurred as a result of the financial 
+                        exploitation of senior citizens;
+                            (ii) incurred by State and Federal 
+                        agencies, law enforcement and investigatory 
+                        agencies, public benefit programs, public 
+                        health programs, and other public programs as a 
+                        result of the financial exploitation of senior 
+                        citizens;
+                            (iii) incurred by the private sector as a 
+                        result of the financial exploitation of senior 
+                        citizens; and
+                            (iv) any other relevant costs that--
+                                    (I) result from the financial 
+                                exploitation of senior citizens; and
+                                    (II) the Comptroller General 
+                                determines are necessary and 
+                                appropriate to include in order to 
+                                provide Congress and the public with a 
+                                full and accurate understanding of the 
+                                economic costs resulting from the 
+                                financial exploitation of senior 
+                                citizens in the United States;
+                    (B) frequency of senior financial exploitation and 
+                correlated or contributing factors--
+                            (i) information about percentage of senior 
+                        citizens financially exploited each year; and
+                            (ii) information about factors contributing 
+                        to increased risk of exploitation, including 
+                        such factors as race, social isolation, income, 
+                        net worth, religion, region, occupation, 
+                        education, home-ownership, illness, and loss of 
+                        spouse; and
+                    (C) policy responses and reporting of senior 
+                financial exploitation--
+                            (i) the degree to which financial 
+                        exploitation of senior citizens unreported to 
+                        authorities;
+                            (ii) the reasons that financial 
+                        exploitation may be unreported to authorities;
+                            (iii) to the extent that suspected elder 
+                        financial exploitation is currently being 
+                        reported--
+                                    (I) information regarding which 
+                                Federal, State, and local agencies are 
+                                receiving reports, including adult 
+                                protective services, law enforcement, 
+                                industry, regulators, and professional 
+                                licensing boards;
+                                    (II) information regarding what 
+                                information is being collected by such 
+                                agencies; and
+                                    (III) information regarding the 
+                                actions that are taken by such agencies 
+                                upon receipt of the report and any 
+                                limits on the agencies' ability to 
+                                prevent exploitation, such as 
+                                jurisdictional limits, a lack of 
+                                expertise, resource challenges, or 
+                                limiting criteria with regard to the 
+                                types of victims they are permitted to 
+                                serve;
+                            (iv) an analysis of gaps that may exist in 
+                        empowering Federal, State, and local agencies 
+                        to prevent senior exploitation or respond 
+                        effectively to suspected senior financial 
+                        exploitation; and
+                            (v) an analysis of the legal hurdles that 
+                        prevent Federal, State, and local agencies from 
+                        effectively partnering with each other and 
+                        private professionals to effectively respond to 
+                        senior financial exploitation.
+            (3) Senior citizen defined.--In this subsection, the term 
+        ``senior citizen'' means an individual over the age of 65.
+
+SEC. 205. IMPROVING DISCLOSURE FOR INVESTORS.
+
+    (a) Promulgation of Rules.--Not later than 180 days after the date 
+of the enactment of this section, the Securities and Exchange 
+Commission shall propose and, not later than 1 year after the date of 
+the enactment of this section, the Commission shall finalize rules, 
+regulations, amendments, or interpretations, as appropriate, to allow a 
+covered entity to satisfy the entity's obligation to deliver regulatory 
+documents required under the securities laws to investors using 
+electronic delivery.
+    (b) Required Provisions.--Rules, regulations, amendments, or 
+interpretations the Commission promulgates pursuant to subsection (a) 
+shall:
+            (1) With respect to investors that do not receive all 
+        regulatory documents by electronic delivery, provide for--
+                    (A) delivery of an initial communication in paper 
+                form regarding electronic delivery;
+                    (B) a transition period not to exceed 180 days 
+                until such regulatory documents are delivered to such 
+                investors by electronic delivery; and
+                    (C) during a period not to exceed 2 years following 
+                the transition period set forth in subparagraph (B), 
+                delivery of an annual notice in paper form solely 
+                reminding such investors of the ability to opt out of 
+                electronic delivery at any time and receive paper 
+                versions of regulatory documents.
+            (2) Set forth requirements for the content of the initial 
+        communication described in paragraph (1)(A).
+            (3) Set forth requirements for the timing of delivery of a 
+        notice of website availability of regulatory documents and the 
+        content of the appropriate notice described in subsection 
+        (g)(3)(B).
+            (4) Provide a mechanism for investors to opt out of 
+        electronic delivery at any time and receive paper versions of 
+        regulatory documents.
+            (5) Require measures reasonably designed to identify and 
+        remediate failed electronic deliveries of regulatory documents.
+            (6) Set forth minimum requirements regarding readability 
+        and retainability for regulatory documents that are delivered 
+        electronically.
+            (7) For covered entities other than brokers, dealers, 
+        investment advisers registered with the Commission, and 
+        investment companies, require measures reasonably designed to 
+        ensure the confidentiality of personal information in 
+        regulatory documents that are delivered to investors 
+        electronically.
+    (c) Exemption From Certain Requirements.--Section 101(c) of the 
+Electronic Signatures in Global and National Commerce Act (15 U.S.C. 
+7001(c)) shall not apply with respect to a regulatory document 
+delivered in accordance with this section.
+    (d) Rule of Construction.--Nothing in this section shall be 
+construed as altering the substance or timing of any regulatory 
+document obligation under the securities laws or regulations of a self-
+regulatory organization.
+    (e) Treatment of Revisions Not Completed in a Timely Manner.--If 
+the Commission fails to finalize the rules, regulations, amendments, or 
+interpretations required under subsection (a) before the date specified 
+in such subsection--
+            (1) a covered entity may deliver regulatory documents using 
+        electronic delivery in accordance with subsections (b) and (c); 
+        and
+            (2) such electronic delivery shall be deemed to satisfy the 
+        obligation of the covered entity to deliver regulatory 
+        documents required under the securities laws.
+    (f) Other Required Actions.--
+            (1) Review of rules.--The Commission shall--
+                    (A) within 180 days of the date of enactment of 
+                this Act, conduct a review of the rules and regulations 
+                of the Commission to determine whether any such rules 
+                or regulations require delivery of written documents to 
+                investors; and
+                    (B) within 1 year of the date of enactment of this 
+                Act, promulgate amendments to such rules or regulations 
+                to provide that any requirement to deliver a regulatory 
+                document ``in writing'' may be satisfied by electronic 
+                delivery.
+            (2) Actions by self-regulatory organizations.--Each self-
+        regulatory organization shall adopt rules and regulations, or 
+        amend the rules and regulations of the self-regulatory 
+        organization, consistent with this section and consistent with 
+        rules, regulations, amendments, or interpretations finalized by 
+        the Commission pursuant to subsection (a).
+            (3) Rule of application.--This subsection shall not apply 
+        to a rule or regulation issued pursuant to a Federal statute if 
+        that Federal statute specifically requires delivery of paper 
+        documents to investors.
+    (g) Definitions.--In this section:
+            (1) Commission.--The term ``Commission'' means the 
+        Securities and Exchange Commission.
+            (2) Covered entity.--The term ``covered entity'' means--
+                    (A) an investment company (as defined in section 
+                3(a)(1) of the Investment Company Act of 1940 (15 
+                U.S.C. 80a-3(a)(1))) that is registered under such Act;
+                    (B) a business development company (as defined in 
+                section 2(a) of the Investment Company Act of 1940 (15 
+                U.S.C. 80a-2(a))) that has elected to be regulated as 
+                such under such Act;
+                    (C) a registered broker or dealer (as such terms 
+                are defined, respectively, in paragraphs (4) and (5) of 
+                section 3(a) of the Securities Exchange Act of 1934 (15 
+                U.S.C. 78c(a)));
+                    (D) a registered municipal securities dealer (as 
+                defined in section 3(a)(30) of the Securities Exchange 
+                Act of 1934 (15 U.S.C. 78c(a)(30)));
+                    (E) a registered government securities broker or 
+                government securities dealer (as such terms are 
+                defined, respectively, in paragraphs (43) and (44) of 
+                section 3(a) of the Securities Exchange Act of 1934 (15 
+                U.S.C. 78c(a)));
+                    (F) a registered investment adviser (as defined in 
+                section 202(a)(11) of the Investment Advisers Act of 
+                1940 (15 U.S.C. 80b-1(a)(11)));
+                    (G) a registered transfer agent (as defined in 
+                section 3(a)(25) of the Securities Exchange Act of 1934 
+                (15 U.S.C. 78c(a)(25))); or
+                    (H) a registered funding portal (as defined in the 
+                second paragraph (80) of section 3(a) of the Securities 
+                Exchange Act of 1934 (15 U.S.C. 78c(a))).
+            (3) Electronic delivery.--The term ``electronic delivery'', 
+        with respect to regulatory documents, includes--
+                    (A) the direct delivery of such regulatory document 
+                to an electronic address of an investor;
+                    (B) the posting of such regulatory document to a 
+                website, and direct delivery of an appropriate notice 
+                of the availability of the regulatory document to an 
+                electronic address of the investor; or
+                    (C) any other electronic method reasonably designed 
+                to ensure receipt of such regulatory document by the 
+                investor.
+            (4) Regulatory documents.--The term ``regulatory 
+        documents'' includes--
+                    (A) prospectuses meeting the requirements of 
+                section 10(a) of the Securities Act of 1933 (15 U.S.C. 
+                77j(a));
+                    (B) summary prospectuses meeting the requirements 
+                of--
+                            (i) section 230.498 of title 17, Code of 
+                        Federal Regulations; or
+                            (ii) section 230.498A of title 17, Code of 
+                        Federal Regulations;
+                    (C) statements of additional information, as 
+                described under section 270.30e-3(h)(2) of title 17, 
+                Code of Federal Regulations;
+                    (D) annual and semi-annual reports to investors 
+                meeting the requirements of section 30(e) of the 
+                Investment Company Act of 1940 (15 U.S.C. 80a-29(e));
+                    (E) notices meeting the requirements under section 
+                270.19a-1 of title 17, Code of Federal Regulations;
+                    (F) confirmations and account statements meeting 
+                the requirements under section 240.10b of title 17, 
+                Code of Federal Regulations;
+                    (G) proxy statements meeting the requirements under 
+                section 240.14a-3 of title 17, Code of Federal 
+                Regulations;
+                    (H) privacy notices meeting the requirements of 
+                Regulation S-P under subpart A of part 248 of title 17, 
+                Code of Federal Regulations;
+                    (I) affiliate marketing notices meeting the 
+                requirements of Regulation S-AM under subpart B of part 
+                248 of title 17, Code of Federal Regulations; and
+                    (J) all other regulatory documents required to be 
+                delivered by covered entities to investors under the 
+                securities laws and the rules and regulations of the 
+                Commission and the self-regulatory organizations.
+            (5) Securities laws.--The term ``securities laws'' has the 
+        meaning given the term in section 3(a) of the Securities 
+        Exchange Act of 1934 (15 U.S.C. 78c(a)).
+            (6) Self-regulatory organization.--The term ``self-
+        regulatory organization'' means--
+                    (A) a self-regulatory organization, as defined in 
+                section 3(a)(26) of the Securities Exchange Act of 1934 
+                (15 U.S.C. 78c(a)(26)); and
+                    (B) the Municipal Securities Rulemaking Board.
+            (7) Website.--The term ``website'' means an internet 
+        website or other digital, internet, or electronic-based 
+        information repository, including a mobile application.
+
+SEC. 206. INCREASING INVESTOR OPPORTUNITIES.
+
+    (a) In General.--Section 5 of the Investment Company Act of 1940 
+(15 U.S.C. 80a-5) is amended by adding at the end the following:
+    ``(d) Closed-end Company Authority to Invest in Private Funds.--
+            ``(1) In general.--Except as otherwise prohibited or 
+        restricted by this Act (or any rule issued under this Act), the 
+        Commission may not prohibit or otherwise limit a closed-end 
+        company from investing any or all of the assets of the closed-
+        end company in securities issued by private funds.
+            ``(2) Other restrictions on commission authority.--Except 
+        as otherwise prohibited or restricted by this Act (or any rule 
+        issued under this Act), the Commission may not impose any 
+        condition on, restrict, or otherwise limit--
+                    ``(A) the offer to sell, or the sale of, securities 
+                issued by a closed-end company that invests, or 
+                proposes to invest, in securities issued by private 
+                funds; or
+                    ``(B) the listing of the securities of a closed-end 
+                company described in subparagraph (A) on a national 
+                securities exchange.
+            ``(3) Unrelated restrictions.--The Commission may impose a 
+        condition on, restrict, or otherwise limit an activity 
+        described in paragraph (1) or subparagraph (A) or (B) of 
+        paragraph (2) if that condition, restriction, or limitation is 
+        unrelated to the underlying characteristics of a private fund 
+        or the status of a private fund as a private fund.
+            ``(4) Rule of application.--Notwithstanding section 6(f), 
+        this subsection shall also apply to a closed-end company that 
+        elects to be treated as a business development company pursuant 
+        to section 54.''.
+    (b) Definition of Private Fund.--Section 2(a) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-2(a)) is amended by adding at the 
+end the following:
+            ``(55) The term `private fund' has the meaning given in 
+        section 202(a) of the Investment Advisers Act of 1940 (15 
+        U.S.C. 80b-2(a)).''.
+    (c) Treatment by National Securities Exchanges.--Section 6 of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at 
+the end the following:
+    ``(m)(1) Except as otherwise prohibited or restricted by rules of 
+the exchange that are consistent with section 5(d) of the Investment 
+Company Act of 1940 (15 U.S.C. 80a-5(d)), an exchange may not prohibit, 
+condition, restrict, or impose any other limitation on the listing or 
+trading of the securities of a closed-end company when the closed-end 
+company invests, or may invest, some or all of the assets of the 
+closed-end company in securities issued by private funds.
+    ``(2) In this subsection--
+            ``(A) the term `closed-end company'--
+                    ``(i) has the meaning given the term in section 
+                5(a) of the Investment Company Act of 1940 (15 U.S.C. 
+                80a-5(a)); and
+                    ``(ii) includes a closed-end company that elects to 
+                be treated as a business development company pursuant 
+                to section 54 of the Investment Company Act of 1940 (15 
+                U.S.C. 80a-53); and
+            ``(B) the term `private fund' has the meaning given in 
+        section 202(a) of the Investment Advisers Act of 1940 (15 
+        U.S.C. 80b-2(a)).''.
+    (d) Investment Limitation.--Section 3(c) of the Investment Company 
+Act of 1940 (15 U.S.C. 80a-3(c)) is amended--
+            (1) in paragraph (1), in the matter preceding subparagraph 
+        (A), in the second sentence, by striking ``subparagraphs (A)(i) 
+        and (B)(i)'' and inserting ``subparagraphs (A)(i), (B)(i), and 
+        (C)''; and
+            (2) in paragraph (7)(D), by striking ``subparagraphs (A)(i) 
+        and (B)(i)'' and inserting ``subparagraphs (A)(i), (B)(i), and 
+        (C)''.
+    (e) Rules of Construction.--
+            (1) Nothing in this section or the amendments made by this 
+        section may be construed to limit or amend any fiduciary duty 
+        owed to a closed-end company (as defined in section 5(a)(2) of 
+        the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) or 
+        by an investment adviser (as defined under section 2(a) of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-2(a))) to a 
+        closed-end company.
+            (2) Nothing in this section or the amendments made by this 
+        section may be construed to limit or amend the valuation, 
+        liquidity, or redemption requirements or obligations of a 
+        closed-end company (as defined in section 5(a)(2) of the 
+        Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) as 
+        required by the Investment Company Act of 1940.
+
+                TITLE III--STRENGTHENING PUBLIC MARKETS
+
+SEC. 301. ENCOURAGING LOCAL EMERGING VENTURES AND ECONOMIC GROWTH.
+
+    Section 12(b) of the Securities Exchange Act of 1934 (15 U.S.C. 
+78l(b)) is amended--
+            (1) in paragraph (1)(K), by striking ``years,'' and 
+        inserting ``years (or, in the case of an emerging growth 
+        company, not more than the two preceding years),''; and
+            (2) by adding at the end the following:
+``Any issuer may confidentially submit to the Commission a draft 
+registration statement for confidential nonpublic review by the staff 
+of the Commission prior to public filing, provided that the initial 
+confidential submission and all amendments thereto shall be publicly 
+filed with the Commission not later than 10 days before listing on a 
+national securities exchange. Notwithstanding any other provision of 
+this title, the Commission shall not be compelled to disclose any 
+information provided to or obtained by the Commission pursuant to this 
+subsection. For purposes of section 552 of title 5, this subsection 
+shall be considered a statute described in subsection (b)(3)(B) of such 
+section 552. Information described in or obtained pursuant to this 
+subsection shall be deemed to constitute confidential information for 
+purposes of section 24.''.
+
+SEC. 302. ACCESS TO SMALL BUSINESS INVESTOR CAPITAL.
+
+    (a) Definitions.--For purposes of this section:
+            (1) Acquired fund.--The term ``Acquired Fund'' has the 
+        meaning given the term in Forms N-1A, N-2, and N-3.
+            (2) Acquired fund fees and expenses.--The term ``Acquired 
+        Fund Fees and Expenses'' means the Acquired Fund Fees and 
+        Expenses sub-caption in the Fee Table Disclosure.
+            (3) Business development company.--The term ``business 
+        development company'' has the meaning given the term in section 
+        2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-
+        2(a)).
+            (4) Fee table disclosure.--The term ``Fee Table 
+        Disclosure'' means the fee table described in Item 3 of Form N-
+        1A, Item 3 of Form N-2, or Item 4 of Form N-3 (as applicable, 
+        and with respect to each, in any successor fee table disclosure 
+        that the Securities and Exchange Commission adopts).
+            (5) Form n-1a.--The term ``Form N-1A'' means the form 
+        described in section 274.11A of title 17, Code of Federal 
+        Regulations, or any successor regulation.
+            (6) Form n-2.--The term ``Form N-2'' means the form 
+        described in section 274.11a-1 of title 17, Code of Federal 
+        Regulations, or any successor regulation.
+            (7) Form n-3.--The term ``Form N-3'' means the form 
+        described in section 274.11b of title 17, Code of Federal 
+        Regulations, or any successor regulation.
+            (8) Registered investment company.--The term ``registered 
+        investment company'' means an investment company, as defined 
+        under section 3(a) of the Investment Company Act of 1940 (15 
+        U.S.C. 80a-3(a)), registered with the Securities and Exchange 
+        Commission under such Act.
+    (b) Excluding Business Development Companies From Acquired Fund 
+Fees and Expenses.--A registered investment company may, on any 
+investment company registration statement filed pursuant to section 
+8(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-8(b)), omit 
+from the calculation of Acquired Fund Fees and Expenses those fees and 
+expenses that the investment company incurred indirectly as a result of 
+investment in shares of one or more Acquired Funds that is a business 
+development company.
+
+SEC. 303. ENCOURAGING PUBLIC OFFERINGS.
+
+    (a) Expanding Testing the Waters.--Section 5(d) of the Securities 
+Act of 1933 (15 U.S.C. 77e(d)) is amended--
+            (1) by striking ``Notwithstanding'' and inserting the 
+        following:
+            ``(1) In general.--Notwithstanding'';
+            (2) by striking ``an emerging growth company or any person 
+        authorized to act on behalf of an emerging growth company'' and 
+        inserting ``an issuer or any person authorized to act on behalf 
+        of an issuer''; and
+            (3) by adding at the end the following:
+            ``(2) Additional requirements.--
+                    ``(A) In general.--The Commission may promulgate 
+                regulations, subject to public notice and comment, to 
+                impose such other terms, conditions, or requirements on 
+                the engaging in oral or written communications 
+                described under paragraph (1) by an issuer other than 
+                an emerging growth company as the Commission determines 
+                appropriate.
+                    ``(B) Report to congress.--Prior to any rulemaking 
+                described under subparagraph (A), the Commission shall 
+                submit to Congress a report containing a list of the 
+                findings supporting the basis of the rulemaking.''.
+    (b) Confidential Review of Draft Registration Statements.--Section 
+6(e) of the Securities Act of 1933 (15 U.S.C. 77f(e)) is amended--
+            (1) in the heading, by striking ``Emerging Growth 
+        Companies'' and inserting ``Confidential Review of Draft 
+        Registration Statements'';
+            (2) by redesignating paragraph (2) as paragraph (3); and
+            (3) by striking paragraph (1) and inserting the following:
+            ``(1) In general.--Any issuer may, with respect to an 
+        initial public offering, initial registration of a security of 
+        the issuer under section 12(b) of the Securities Exchange Act 
+        of 1934 (15 U.S.C. 78l(b)), or follow-on offering, 
+        confidentially submit to the Commission a draft registration 
+        statement, for confidential nonpublic review by the staff of 
+        the Commission prior to public filing, provided that the 
+        initial confidential submission and all amendments thereto 
+        shall be publicly filed with the Commission not later than--
+                    ``(A) in the case of an initial public offering, 10 
+                days before the effective date of such registration 
+                statement;
+                    ``(B) in the case of an initial registration of a 
+                security of the issuer under such section 12(b), 10 
+                days before listing on an exchange; or
+                    ``(C) in the case of any offering after an initial 
+                public offering or an initial registration under such 
+                section 12(b), 48 hours before the effective date of 
+                such registration statement.
+            ``(2) Additional requirements.--
+                    ``(A) In general.--The Commission may promulgate 
+                regulations, subject to public notice and comment, to 
+                impose such other terms, conditions, or requirements on 
+                the submission of draft registration statements 
+                described under this subsection by an issuer other than 
+                an emerging growth company as the Commission determines 
+                appropriate.
+                    ``(B) Report to congress.--Prior to any rulemaking 
+                described under subparagraph (A), the Commission shall 
+                submit to Congress a report containing a list of the 
+                findings supporting the basis of the rulemaking.''.
+
+SEC. 304. GREENLIGHTING GROWTH.
+
+    (a) Securities Act of 1933.--Section 7(a)(2) of the Securities Act 
+of 1933 (15 U.S.C. 77g(a)(2)) is amended--
+            (1) in subparagraph (A), by striking ``and'' at the end;
+            (2) by redesignating subparagraph (B) as subparagraph (C); 
+        and
+            (3) by inserting after subparagraph (A) the following:
+                    ``(B) need not present acquired company financial 
+                statements or information otherwise required under 
+                section 210.3-05 or section 210.8-04 of title 17, Code 
+                of Federal Regulations, or any successor thereto, for 
+                any period prior to the earliest audited period of the 
+                emerging growth company presented in connection with 
+                its initial public offering and, thereafter, in no 
+                event shall an issuer that was an emerging growth 
+                company but is no longer an emerging growth company be 
+                required to present financial statements of the issuer 
+                (or acquired company financial statements or 
+                information otherwise required under section 210.3-05 
+                or section 210.8-04 of title 17, Code of Federal 
+                Regulations, or any successor thereto) for any period 
+                prior to the earliest audited period of the emerging 
+                growth company presented in connection with its initial 
+                public offering; and''.
+    (b) Securities Exchange Act of 1934.--Section 12(b)(1)(K) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78l(b)(1)(K)) is amended by 
+striking ``firm'' and inserting ``firm, provided that the application 
+of an emerging growth company need not present acquired company 
+financial statements or information otherwise required under section 
+210.3-05 or section 210.8-04 of title 17, Code of Federal Regulations, 
+or any successor thereto, for any period prior to the earliest audited 
+period of the emerging growth company presented in connection with its 
+application and, thereafter, in no event shall an issuer that was an 
+emerging growth company but is no longer an emerging growth company be 
+required to present financial statements of the issuer (or acquired 
+company financial statements or information otherwise required under 
+section 210.3-05 or section 210.8-04 of title 17, Code of Federal 
+Regulations, or any successor thereto) for any period prior to the 
+earliest audited period of the emerging growth company presented in 
+connection with any application under this subsection''.
+
+SEC. 305. MIDDLE MARKET IPO COST.
+
+    (a) Study.--The Comptroller General of the United States, in 
+consultation with the Securities and Exchange Commission and the 
+Financial Industry Regulatory Authority, shall carry out a study of the 
+costs associated with small- and medium-sized companies to undertake 
+initial public offerings (``IPOs''). In carrying out such study, the 
+Comptroller General shall--
+            (1) consider the direct and indirect costs of an IPO, 
+        including--
+                    (A) fees of accountants, underwriters, and any 
+                other outside advisors with respect to the IPO;
+                    (B) compliance with Federal and State securities 
+                laws at the time of the IPO; and
+                    (C) such other IPO-related costs as the Comptroller 
+                General may consider;
+            (2) compare and analyze the costs of an IPO with the costs 
+        of obtaining alternative sources of financing and of liquidity;
+            (3) consider the impact of such costs on capital formation;
+            (4) analyze the impact of these costs on the availability 
+        of public securities of small- and medium-sized companies to 
+        retail investors; and
+            (5) analyze trends in IPOs over a time period the 
+        Comptroller General determines is appropriate to analyze IPO 
+        pricing practices, considering--
+                    (A) the number of IPOs;
+                    (B) how costs for IPOs have evolved over time for 
+                underwriters, investment advisory firms, and other 
+                professions for services in connection with an IPO;
+                    (C) the number of brokers and dealers active in 
+                underwriting IPOs;
+                    (D) the different types of services that 
+                underwriters and related persons provide before and 
+                after a small- or medium-sized company IPO and the 
+                factors impacting IPOs costs;
+                    (E) changes in the costs and availability of 
+                investment research for small- and medium-sized 
+                companies; and
+                    (F) the impacts of litigation and its costs on 
+                being a public company.
+    (b) Report.--Not later than the end of the 360-day period beginning 
+on the date of the enactment of this Act, the Comptroller General of 
+the United States shall issue a report to the Congress containing all 
+findings and determinations made in carrying out the study required 
+under subsection (a) and any administrative or legislative 
+recommendations the Comptroller General may have.
+
+SEC. 306. EXPANDING WKSI ELIGIBILITY.
+
+    (a) In General.--For purposes of the Federal securities laws, and 
+regulations issued thereunder, an issuer shall be a ``well-known 
+seasoned issuer'' if--
+            (1) the aggregate market value of the voting and non-voting 
+        common equity held by non-affiliates of the issuer is 
+        $400,000,000 or more (as determined under Form S-3 general 
+        instruction I.B.1. as in effect on the date of enactment of 
+        this Act); and
+            (2) the issuer otherwise satisfies the requirements of the 
+        definition of ``well-known seasoned issuer'' contained in 
+        section 230.405 of title 17, Code of Federal Regulations (as in 
+        effect on the date of enactment of this Act) without reference 
+        to any requirement in such definition relating to minimum 
+        worldwide market value of outstanding voting and non-voting 
+        common equity held by non-affiliates.
+    (b) Report on Withdrawn Applications Related to Well-known Seasoned 
+Issuer Status.--The Securities and Exchange Commission shall, not later 
+than 90 days after the end of each calendar year, publish the total 
+number of applications submitted during such calendar year where the 
+applicant--
+            (1) submitted the application under section 230.405 of 
+        title 17, Code of Federal Regulations, for a determination by 
+        the Commission that the applicant not be considered an 
+        ineligible issuer under such section;
+            (2) requested such determination in order to meet the 
+        definition of a well-known seasoned issuer under such section; 
+        and
+            (3) withdrew the application.
+
+SEC. 307. ENHANCING MULTI-CLASS SHARE DISCLOSURES.
+
+    Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) 
+is amended by adding at the end the following:
+    ``(l) Disclosure Relating to Multi-class Share Structures.--
+            ``(1) Disclosure.--The Commission shall, by rule, require 
+        each issuer with a multi-class share structure to disclose the 
+        information described in paragraph (2) in any proxy or consent 
+        solicitation material for an annual meeting of the shareholders 
+        of the issuer, or any other filing as the Commission determines 
+        appropriate.
+            ``(2) Content of disclosure.--A disclosure made under 
+        paragraph (1) shall include, with respect to each person who is 
+        a director, director nominee, or named executive officer of the 
+        issuer, or who is the beneficial owner of securities with 5 
+        percent or more of the total combined voting power of all 
+        classes of securities entitled to vote in the election of 
+        directors--
+                    ``(A) the number of shares of all classes of 
+                securities entitled to vote in the election of 
+                directors beneficially owned by such person, expressed 
+                as a percentage of the total number of the outstanding 
+                securities of the issuer entitled to vote in the 
+                election of directors; and
+                    ``(B) the amount of voting power held by such 
+                person, expressed as a percentage of the total combined 
+                voting power of all classes of the securities of the 
+                issuer entitled to vote in the election of directors.
+            ``(3) Multi-class share structure.--In this subsection, the 
+        term `multi-class share structure' means a capitalization 
+        structure that contains 2 or more types of securities that have 
+        differing amounts of voting rights in the election of 
+        directors.''.
+
+            Passed the House of Representatives December 11, 2025.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  1st Session
+
+                               H. R. 3383
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+    To amend the Investment Company Act of 1940 with respect to the 
+     authority of closed-end companies to invest in private funds.

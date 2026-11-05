@@ -1,0 +1,61 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4593 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 4593
+
+     To amend the Energy Policy and Conservation Act to revise the 
+                       definition of showerhead.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 22, 2025
+
+   Mr. Fry introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+     To amend the Energy Policy and Conservation Act to revise the 
+                       definition of showerhead.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Saving Homeowners from 
+Overregulation With Exceptional Rinsing Act'' or the ``SHOWER Act''.
+
+SEC. 2. REVISED DEFINITION OF SHOWERHEAD.
+
+    (a) In General.--Section 321(31)(D) of the Energy Policy and 
+Conservation Act (42 U.S.C. 6291(31)(D)) is amended to read as follows:
+            ``(D) The term `showerhead' has the meaning given such term 
+        in ASME A112.18.1-2024, except such term does not include 
+        safety shower showerheads.''.
+    (b) Revisions to Regulations.--Not later than 180 days after the 
+date of enactment of this Act, the Secretary of Energy shall promulgate 
+such revisions to regulations as may be necessary to conform such 
+regulations to the definition of showerhead in section 321(31)(D) of 
+the Energy Policy and Conservation Act, as amended by subsection (a) of 
+this section.
+                                 <all>

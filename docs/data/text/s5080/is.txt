@@ -1,0 +1,90 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5080 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5080
+
+   To amend title 49, United States Code, to clarify the assistance 
+ available for recipients of assistance under chapter 53 of such title 
+  for acquisition of real property interests, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 22, 2026
+
+ Ms. Alsobrooks (for herself and Mr. Cramer) introduced the following 
+ bill; which was read twice and referred to the Committee on Banking, 
+                       Housing, and Urban Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend title 49, United States Code, to clarify the assistance 
+ available for recipients of assistance under chapter 53 of such title 
+  for acquisition of real property interests, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Modal Parity in Permitting Act''.
+
+SEC. 2. ACQUISITION OF REAL PROPERTY INTERESTS.
+
+    (a) In General.--Section 5323(q) of title 49, United States Code, 
+is amended--
+            (1) in the heading, by striking ``Corridor Preservation'' 
+        and inserting ``Real Property Interests'';
+            (2) in paragraph (1)--
+                    (A) by striking ``right-of-way'' each time it 
+                appears and inserting ``real property interests''; and
+                    (B) by inserting ``acquired'' after ``may use 
+                the''; and
+            (3) in paragraph (2), by striking ``Right-of-way'' and 
+        inserting ``Real property interests''.
+    (b) Updates Required.--Not later than 6 months after the date of 
+enactment of this Act, the Administrator of the Federal Transit 
+Administration shall update the ``FTA Circular 5010.1F'' (published on 
+November 1, 2024), or any successor circular or regulations, and any 
+other relevant guidance as necessary to implement the amendments made 
+by subsection (a).
+
+SEC. 3. PASSENGER RAIL PROJECT TRANSACTIONS.
+
+    (a) In General.--Chapter 242 of title 49, United States Code, is 
+amended by adding at the end the following:
+``Sec. 24203. Passenger rail project transactions
+    ``(a) Acquisition of Real Property Interests During Environmental 
+Review.--A recipient of financial assistance under chapter 229, 249, or 
+243 may use such assistance to acquire, through purchase, lease, or 
+otherwise, any real property interest necessary for a project before 
+the environmental review for the project is complete if the acquisition 
+or related transaction is otherwise permitted by Federal law.
+    ``(b) Timing of Development.--A real property interest purchased, 
+leased, or otherwise acquired under subsection (a) may not be 
+physically developed or improved in anticipation of the project until 
+all required environmental reviews for the project have been 
+completed.''.
+    (b) Clerical Amendment.--The analysis for chapter 242 of title 49, 
+United States Code, is amended by adding at the end the following:
+
+``24203. Passenger rail project transactions.''.
+                                 <all>

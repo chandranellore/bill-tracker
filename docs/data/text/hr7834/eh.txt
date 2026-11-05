@@ -1,0 +1,263 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7834 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 7834
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To limit liability for certain entities storing child sexual abuse 
+     material for law enforcement agencies, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Safe Cloud Storage Act''.
+
+SEC. 2. STORAGE OF CHILD PORNOGRAPHY, CHILD OBSCENITY, AND INTIMATE 
+              VISUAL DEPICTIONS OF MINORS.
+
+    (a) In General.--Title II of the PROTECT Our Children Act of 2008 
+(34 U.S.C. 21101 et seq.) is amended by inserting after section 201 the 
+following:
+
+``SEC. 202. MODERNIZING LAW ENFORCEMENT'S ABILITY TO STORE CHILD 
+              PORNOGRAPHY, CHILD OBSCENITY, AND INTIMATE VISUAL 
+              DEPICTIONS OF MINORS AND LIMITED LIABILITY FOR APPROVED 
+              VENDORS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Approved vendor.--The term `approved vendor' means a 
+        cloud service provider that--
+                    ``(A) complies with the security requirements 
+                described in subsection (c); and
+                    ``(B) has been contractually retained by a covered 
+                agency to support the duties of such agency by--
+                            ``(i) storing digital child pornography, 
+                        child obscenity, or an intimate visual 
+                        depiction of a minor;
+                            ``(ii) making such child pornography, child 
+                        obscenity, or intimate visual depiction of a 
+                        minor available to the contracting agency, or 
+                        any law enforcement or prosecutorial agency 
+                        designated by the contracting agency, upon 
+                        request; and
+                            ``(iii) providing maintenance, technical 
+                        and analytical assistance, and forensic tool 
+                        processing support upon request by the 
+                        contracting agency.
+            ``(2) Child pornography.--The term `child pornography' has 
+        the meaning given that term in section 2256(8) of title 18, 
+        United States Code.
+            ``(3) Cloud service provider.--The term `cloud service 
+        provider' means an organization, corporation, or entity that 
+        makes available digital storage services, including remote or 
+        cloud-based storage, and analytical and forensic tool 
+        processing support.
+            ``(4) Covered agency.--The term `covered agency' means a 
+        Federal, State, Tribal, or local law enforcement or 
+        prosecutorial agency.
+            ``(5) Intimate visual depiction of a minor.--The term 
+        `intimate visual depiction of a minor' means an intimate visual 
+        depiction, as defined in section 223(h) of the Communications 
+        Act of 1934 (47 U.S.C. 223(h)), including a digital forgery, of 
+        an identifiable individual who is a minor, as that term is 
+        defined in such section.
+            ``(6) Local.--The term `local' means any political 
+        subdivision of a State.
+            ``(7) State.--The term `State' means any of the 50 States 
+        of the United States, the District of Columbia, the 
+        Commonwealth of Puerto Rico, the Virgin Islands of the United 
+        States, Guam, American Samoa, or the Commonwealth of the 
+        Northern Mariana Islands.
+    ``(b) Limited Liability for Approved Vendors.--
+            ``(1) Limited liability for law enforcement approved 
+        vendors.--Except as provided in paragraph (2), a civil claim or 
+        criminal charge may not be brought in any Federal or State 
+        court against an approved vendor relating to the approved 
+        vendor's performance of any contractual obligation or service 
+        described in subsection (a)(1).
+            ``(2) Intentional, reckless, or other misconduct.--A civil 
+        claim or criminal charge may be brought in any Federal or State 
+        court against an approved vendor if the approved vendor--
+                    ``(A) engaged in--
+                            ``(i) intentional misconduct; or
+                            ``(ii) negligent conduct; or
+                    ``(B) acted, or failed to act--
+                            ``(i) with actual malice;
+                            ``(ii) with reckless disregard to a 
+                        substantial risk of causing injury without 
+                        legal justification; or
+                            ``(iii) for a purpose unrelated to the 
+                        performance of any responsibility or function 
+                        described in subsection (a)(1)(B).
+    ``(c) Vendor Cybersecurity Requirements.--With respect to any child 
+pornography, child obscenity, or intimate visual depiction of a minor 
+stored, maintained, or processed by an approved vendor, such approved 
+vendor shall--
+            ``(1) secure such child pornography, child obscenity, or 
+        intimate visual depiction of a minor in a manner that is 
+        consistent with the most recent version of the Cybersecurity 
+        Framework developed by the National Institute of Standards and 
+        Technology, or any successor thereto;
+            ``(2) only access the child pornography, child obscenity, 
+        or intimate visual depiction of a minor upon consent of the 
+        covered agency contracting the service and for the purpose of 
+        providing maintenance, technical assistance, and forensic tool 
+        processing support in the cloud;
+            ``(3) minimize the number of employees that may be able to 
+        obtain access to such child pornography, child obscenity, or 
+        intimate visual depiction of a minor and maintain a list of 
+        employees who have obtained such access;
+            ``(4) employ end-to-end encryption for data storage and 
+        transfer functions, or an equivalent technological standard;
+            ``(5) undergo an independent annual cybersecurity audit to 
+        determine whether such child pornography, child obscenity, or 
+        intimate visual depiction of a minor is secured as required by 
+        paragraphs (1), (3), and (4), including by assessing compliance 
+        with the National Institute of Standards and Technology Special 
+        Publication 800-53, Revision 5 (relating to security and 
+        privacy controls for information systems and organizations) or 
+        any successor documents or revisions; and
+            ``(6) promptly address all issues identified by an audit 
+        described in paragraph (5).
+    ``(d) Evidence Storage.--Any covered agency that stores child 
+pornography, child obscenity, or an intimate visual depiction of a 
+minor pursuant to a contract with an approved vendor shall retain such 
+evidence--
+            ``(1) in compliance with the security policy of the 
+        Criminal Justice Information Services Division of the Federal 
+        Bureau of Investigation, or any other similar and appropriate 
+        division within the Federal Bureau of Investigation;
+            ``(2) for a period consistent with the evidence retention 
+        requirements applicable to the covered agency under the 
+        relevant Federal, State, or local law, rule of criminal 
+        procedure, or prosecutorial policy; or
+            ``(3) in the absence of such law, rule, or policy, for a 
+        period not less than the applicable statute of limitations or 
+        the duration of any sentence imposed, including the period of 
+        post-conviction review.
+    ``(e) Additional Requirements for Approved Vendors.--
+            ``(1) Location of data.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), each approved vendor shall ensure 
+                that any child pornography, child obscenity, or 
+                intimate visual depiction of a minor stored pursuant to 
+                this section remains in the United States.
+                    ``(B) Exception.--Child pornography, child 
+                obscenity, and intimate visual depictions of a minor 
+                stored under this section may be transferred outside 
+                the United States only with the express consent of the 
+                contracting covered agency if such agency deems the 
+                transfer necessary for investigative purposes.
+            ``(2) Notification letter.--
+                    ``(A) In general.--Approved vendors shall file a 
+                notification letter with the Criminal Division of the 
+                Department of Justice not later than 30 days after 
+                entering into a contract described in subsection 
+                (a)(1)(B).
+                    ``(B) Contents.--The notification letter described 
+                in subparagraph (A) shall include the entity name and 
+                point of contact information of the approved vendor, 
+                the name of the contracting covered agency, the period 
+                of performance of the contract, and an acknowledgment 
+                by the approved vendor that the approved vendor will 
+                notify the Child Exploitation and Obscenity Section of 
+                the Criminal Division of the Department of Justice of 
+                any changes to the information in the letter.
+            ``(3) Breach of contract.--
+                    ``(A) In general.--If a covered agency fails to 
+                make required payment under a contract, breaches any 
+                material term of such contract, or otherwise terminates 
+                such contract without establishing lawful transfer of 
+                the evidence, the approved vendor shall, not later than 
+                30 days after the failure, breach, or termination, 
+                notify the Criminal Division of the Department of 
+                Justice in the case of a breach by a Federal agency, or 
+                the appropriate State attorney general in the case of a 
+                breach by a State or local agency.
+                    ``(B) Maintenance of evidence.--Upon making a 
+                notification under subparagraph (A), the approved 
+                vendor shall continue to preserve and maintain the 
+                integrity of the evidence until a prompt and lawful 
+                transfer of custody occurs to the Criminal Division of 
+                the Department of Justice or another Federal, State, or 
+                local law enforcement agency with jurisdiction.
+    ``(f) Rule of Construction.--Nothing in this section shall be 
+construed to--
+            ``(1) limit bona fide use by the contracting covered agency 
+        of child pornography, child obscenity, or intimate visual 
+        depiction of a minor being stored by the approved vendor, which 
+        includes providing such child pornography, child obscenity, or 
+        intimate visual depiction of a minor to any other party as 
+        necessary for an investigation or prosecution;
+            ``(2) limit the obligation of the contracting covered 
+        agency to comply with a constitutional or statutory obligation, 
+        court order, or request from a victim made pursuant to section 
+        3509(m)(3) of title 18, United States Code; or
+            ``(3) authorize or require the audit, assessment, or 
+        compliance verification of a governmental entity or any system 
+        administered by a governmental entity.''.
+    (b) Clerical Amendment.--Section 1(b) of the PROTECT Our Children 
+Act of 2008 (Public Law 110-401; 122 Stat. 4229) is amended by 
+inserting after the item relating to section 201 the following:
+
+``Sec. 202. Modernizing law enforcement's ability to store child 
+                            pornography, child obscenity, and intimate 
+                            visual depictions of minors and limited 
+                            liability for approved vendors.''.
+
+            Passed the House of Representatives September 16, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 7834
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+  To limit liability for certain entities storing child sexual abuse 
+     material for law enforcement agencies, and for other purposes.

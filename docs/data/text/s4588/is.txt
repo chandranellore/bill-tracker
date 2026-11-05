@@ -1,0 +1,128 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4588 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4588
+
+ To amend the Internal Revenue Code of 1986 to increase the excise tax 
+ for the repurchase of corporate stock by large oil and gas companies.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 20, 2026
+
+ Mr. Wyden (for himself, Mr. Schumer, Mr. Bennet, Mr. Whitehouse, Mr. 
+ Welch, Mr. Kim, Mr. Blumenthal, Mr. Van Hollen, Mr. Reed, Mr. Booker, 
+    Ms. Hirono, Mr. Markey, Mr. Merkley, Mr. Schatz, and Ms. Smith) 
+introduced the following bill; which was read twice and referred to the 
+                          Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to increase the excise tax 
+ for the repurchase of corporate stock by large oil and gas companies.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Taxing Buybacks from Big Oil 
+Windfalls Act''.
+
+SEC. 2. INCREASE IN TAX ON REPURCHASE OF CORPORATE STOCK BY LARGE OIL 
+              AND GAS COMPANIES.
+
+    Section 4501 of the Internal Revenue Code of 1986 is amended by 
+redesignating subsection (f) as subsection (g) and by inserting after 
+subsection (e) the following new subsection:
+    ``(f) Application to Large Oil and Gas Companies.--
+            ``(1) In general.--In the case of a covered corporation 
+        which is an applicable corporation for the taxable year, 
+        subsection (a) shall be applied by substituting `25 percent' 
+        for `1 percent'.
+            ``(2) Applicable corporation.--For purposes of this 
+        subsection--
+                    ``(A) In general.--The term `applicable 
+                corporation' means, with respect to any taxable year, 
+                any corporation if--
+                            ``(i) the average annual gross receipts of 
+                        such corporation for the 3-taxable-year period 
+                        ending with the taxable year which precedes 
+                        such taxable year equals or exceeds 
+                        $1,000,000,000, and
+                            ``(ii) such corporation is primarily 
+                        engaged in 1 or more oil or natural gas trades 
+                        or businesses during the taxable year.
+                For purposes of clause (i), rules similar to the rules 
+                of paragraphs (2) and (3) of section 448(c) shall 
+                apply.
+                    ``(B) Oil or natural gas trade or business.--The 
+                term `oil or natural gas trade or business' means any 
+                trade or business that consists of one or more of the 
+                following:
+                            ``(i) The production of oil or natural gas.
+                            ``(ii) The refining of oil or natural gas.
+                            ``(iii) The processing of oil or natural 
+                        gas.
+                            ``(iv) The transportation of oil or natural 
+                        gas.
+                            ``(v) The distribution of oil or natural 
+                        gas.
+            ``(3) Application of subsection.--
+                    ``(A) In general.--This subsection shall apply to 
+                repurchases of stock made--
+                            ``(i) after the date of the enactment of 
+                        this subsection, and
+                            ``(ii) before the first day of the first 
+                        month beginning after the gasoline price 
+                        requirement of subparagraph (B) is met.
+                    ``(B) Gasoline price requirement.--The gasoline 
+                price requirement of this subparagraph is met if the 
+                weekly retail price of all formulations of regular 
+                gasoline (as determined by the Energy Information 
+                Administration of the Department of Energy) is less 
+                than $2.937 per gallon for each week occurring during 
+                any 5-consecutive week period ending after the date of 
+                the enactment of this subsection.
+                    ``(C) Special rule.--For purposes of applying 
+                subsection (c)(3) to any taxable year which includes a 
+                period to which this subsection applies and a period to 
+                which this subsection does not apply, the amount of the 
+                reduction determined under such subsection for such 
+                taxable year shall be applied--
+                            ``(i) by reducing stock repurchased during 
+                        the period this subsection does not apply in 
+                        the amount which bears the same ratio to the 
+                        total amount of the reduction so determined for 
+                        such taxable year as--
+                                    ``(I) the number of days in the 
+                                taxable year during such period, bears 
+                                to
+                                    ``(II) the total number of days in 
+                                such taxable year, and
+                            ``(ii) by reducing stock repurchased during 
+                        the period this subsection applies by the 
+                        excess (if any) of the total amount of the 
+                        reduction so determined for such taxable year 
+                        over the amount of the reduction determined 
+                        under clause (i).''.
+                                 <all>

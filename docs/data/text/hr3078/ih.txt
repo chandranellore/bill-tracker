@@ -1,0 +1,84 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3078 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 3078
+
+To amend the Department of Energy Research and Innovation Act to direct 
+the Secretary of Energy to coordinate with certain Federal officials to 
+    conduct research, development, testing, and evaluation of novel 
+technologies to detect fentanyl vapor or particles in support of rapid 
+ screening of the mails, at prisons, at United States borders, and in 
+            other related use cases, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 29, 2025
+
+Mr. Riley of New York (for himself and Mr. Nunn of Iowa) introduced the 
+following bill; which was referred to the Committee on Science, Space, 
+                             and Technology
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Department of Energy Research and Innovation Act to direct 
+the Secretary of Energy to coordinate with certain Federal officials to 
+    conduct research, development, testing, and evaluation of novel 
+technologies to detect fentanyl vapor or particles in support of rapid 
+ screening of the mails, at prisons, at United States borders, and in 
+            other related use cases, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. DEPARTMENT OF ENERGY RESEARCH, DEVELOPMENT, TESTING, AND 
+              EVALUATION OF NOVEL TECHNOLOGIES TO DETECT FENTANYL VAPOR 
+              OR PARTICLES.
+
+    (a) In General.--Title III of the Department of Energy Research and 
+Innovation Act (42 U.S.C. 18641 et seq.) is amended by--
+            (1) by redesignating section 317 (42 U.S.C. 18655) as 
+        section 318; and
+            (2) by inserting after section 316 the following new 
+        section:
+
+``SEC. 317. RESEARCH, DEVELOPMENT, TESTING, AND EVALUATION OF NOVEL 
+              TECHNOLOGIES TO DETECT FENTANYL VAPOR OR PARTICLES.
+
+    ``The Secretary of Energy, in coordination with the Attorney 
+General, the Secretary of Homeland Security, and the Postmaster 
+General, shall carry out a research, development, testing, and 
+evaluation program of novel technologies to detect fentanyl vapor or 
+particles in support of rapid screening--
+            ``(1) of the mails;
+            ``(2) at prisons;
+            ``(3) at United States borders; and
+            ``(4) in other related use cases.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+the Department of Energy Research and Innovation Act is amended by 
+striking the item relating to section 317 and inserting the following 
+new items:
+
+``Sec. 317. Research, development, testing, and evaluation of novel 
+                            technologies to detect fentanyl vapor or 
+                            particles.
+``Sec. 318. Authorization of appropriations.''.
+                                 <all>

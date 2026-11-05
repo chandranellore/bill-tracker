@@ -1,0 +1,82 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9388 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 9388
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 14, 2026
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend title 49, United States Code, to authorize an extension of a 
+ program to permit screened passengers and their property arriving on 
+ direct flights or flight segments originating at certain foreign last 
+point of departure airports to continue on additional flights or flight 
+segments originating in the United States without additional screening, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``One-Stop Pilot Program Extension 
+Act''.
+
+SEC. 2. ONE-STOP PROGRAM.
+
+    (a) Checked Baggage Re-Screening.--Subsection (d) of section 7132 
+of the James M. Inhofe National Defense Authorization Act for Fiscal 
+Year 2023 (Public Law 117-263; 49 U.S.C. 44901 note) is amended to read 
+as follows:
+    ``(d) Re-Screening of Checked Baggage.--Subject to subsection (f), 
+the Administrator, in coordination with the Commissioner of U.S. 
+Customs and Border Protection (CBP), may permit checked baggage 
+arriving on direct flights or flight segments arriving from 
+participating foreign last point of departure airports referred to in 
+subsection (b) to continue on additional flights or flight segments 
+originating in the United States without additional TSA security re-
+screening if the following requirements are satisfied:
+            ``(1) The initial checked baggage screening at such an 
+        airport was conducted using an explosives detection system in 
+        accordance with an aviation security screening agreement 
+        described in subsection (e).
+            ``(2) Passengers arriving from such airports are unable to 
+        access their checked baggage until arrival at their final 
+        destination.
+            ``(3) CBP has received timely images of such baggage prior 
+        to the arrival in the United States of such passengers and 
+        baggage that satisfy CBP requirements from such an airport 
+        corresponding to the checked baggage of such passengers to 
+        ensure appropriate border security enforcement can be completed 
+        in an efficient manner.
+            ``(4) CBP has not identified any such passenger or baggage 
+        for further inspection.''.
+    (b) Extension.--Subsection (k) of section 7132 of the James M. 
+Inhofe National Defense Authorization Act for Fiscal Year 2023 is 
+amended by striking ``six'' and inserting ``ten''.
+
+            Passed the House of Representatives July 13, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

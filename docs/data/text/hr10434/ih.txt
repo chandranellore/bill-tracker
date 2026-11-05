@@ -1,0 +1,108 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10434 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10434
+
+  To amend the Internal Revenue Code of 1986 to establish a dedicated 
+         trust fund for investments in oil and gas communities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 16, 2026
+
+Mr. Vicente Gonzalez of Texas introduced the following bill; which was 
+  referred to the Committee on Ways and Means, and in addition to the 
+   Committee on Oversight and Government Reform, for a period to be 
+subsequently determined by the Speaker, in each case for consideration 
+  of such provisions as fall within the jurisdiction of the committee 
+                               concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Internal Revenue Code of 1986 to establish a dedicated 
+         trust fund for investments in oil and gas communities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Empower Energy Exporting Communities 
+Act''.
+
+SEC. 2. OIL AND GAS COMMUNITY TRUST FUND.
+
+    (a) In General.--Subchapter A of chapter 98 of the Internal Revenue 
+Code of 1986 is amended by adding at the end the following new section:
+
+``SEC. 9512. OIL AND GAS COMMUNITY TRUST FUND.
+
+    ``(a) In General.--There is established in the Treasury of the 
+United States a trust fund to be known as the `Oil and Gas Community 
+Trust Fund' consisting of such amounts as may be appropriated to such 
+Trust Fund as provided in this section and section 9602(b).
+    ``(b) Transfers to Trust Fund.--
+            ``(1) In general.--There are hereby appropriated to the Oil 
+        and Gas Community Trust Fund amounts equivalent to 3 percent of 
+        the net revenues received in the Treasury under section 11 from 
+        specified oil or gas companies for taxable years beginning 
+        after the date of the enactment of this section.
+            ``(2) Specified oil or gas company.--The term `specified 
+        oil or gas company' means any corporation if a significant 
+        portion of the gross receipts of such corporation are 
+        attributable to the production, refining, processing, 
+        transportation, or distribution of oil, gas, or any primary 
+        product thereof.
+    ``(c) Expenditures From Trust Fund.--
+            ``(1) In general.--Amounts in the Oil and Gas Community 
+        Trust Fund shall be available to the Secretary, without need of 
+        further appropriation and without fiscal year limitation, for 
+        purposes of making payments to eligible oil and gas communities 
+        for infrastructure and public service investments.
+            ``(2) Eligible oil and gas community.--For purposes of this 
+        subsection, the term `eligible oil and gas community' means any 
+        county, parish, municipality, or Tribal community if the 
+        Secretary determines that such county, parish, municipality, or 
+        Tribal community is located within 50 miles of a major port for 
+        the export of oil, gas, or any primary product thereof.
+            ``(3) Limitation based on export share.--
+                    ``(A) In general.--For any fiscal year, payments 
+                made under paragraph (1) during such year to eligible 
+                oil and gas communities in a port region shall not 
+                exceed, in the aggregate, the amount which bears the 
+                same ratio to the total amounts available in the Oil 
+                and Gas Community Trust Fund as the port region's total 
+                amount of exports of oil, gas, or any primary product 
+                thereof bears to the total amount of such exports of 
+                all major ports nationwide (as determined by the 
+                Secretary based on the most recent year for which data 
+                is available).
+                    ``(B) Port region.--For purposes of this paragraph, 
+                the term `port region' means any region within 50 miles 
+                of a major port for the export of oil, gas, or any 
+                primary product thereof.''.
+    (b) Clerical Amendment.--The table of sections for subchapter A of 
+chapter 98 of such Code is amended by adding at the end the following 
+new item:
+
+``Sec. 9512. Oil and Gas Community Trust Fund.''.
+                                 <all>

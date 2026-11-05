@@ -1,0 +1,259 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2978 Placed on Calendar Senate (PCS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 627
+119th CONGRESS
+  2d Session
+                                H. R. 2978
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 16, 2026
+
+            Received; read twice and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To permit State, local, and Tribal law enforcement agencies that 
+      receive eligible Federal grant funds to use such funds for 
+   investigating elder financial fraud, pig butchering, and general 
+ financial fraud, and to clarify that Federal law enforcement agencies 
+may assist State, local, and Tribal law enforcement agencies in the use 
+ of tracing tools for blockchain and related technology, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Guarding Unprotected Aging Retirees 
+from Deception Act of 2026'' or the ``GUARD Act of 2026''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Elder financial fraud.--The term ``elder financial 
+        fraud'' means the illegal or improper use of the money, 
+        property, or other resources of an elderly individual or adult 
+        with a disability for monetary or personal benefit, profit, or 
+        gain.
+            (2) Eligible federal grant funds.--The term ``eligible 
+        Federal grant funds'' means funds received under any of the 
+        following:
+                    (A) Title IV of the Prioritizing Resources and 
+                Organization for Intellectual Property Act of 2008 (34 
+                U.S.C. 30103 et seq.) (commonly known as the 
+                ``Economic, High-Technology, White Collar, and Internet 
+                Crime Prevention National Training and Technical 
+                Assistance Program''), including relating to the use of 
+                technology to solve crimes and to facilitate 
+                prosecutions (commonly known as the ``Internet of 
+                Things (IoT) National Training and Technical Assistance 
+                Program'').
+                    (B) Title 28, Code of Federal Regulations, part 23 
+                (commonly known as ``Justice Information Sharing 
+                Training and Technical Assistance Program'').
+                    (C) Section 1401 of the Violence Against Women Act 
+                Reauthorization Act of 2022 (34 U.S.C. 30107) to a 
+                local law enforcement agency for enforcement of 
+                cybercrimes against individuals.
+                    (D) Section 1701 title I of the Omnibus Crime 
+                Control and Safe Streets Act of 1968 (34 U.S.C. 10381), 
+                relating to developing and acquiring effective 
+                equipment, technologies, and interoperable 
+                communications that assist in responding to and 
+                preventing crime (commonly known as the ``COPS 
+                Technology and Equipment Program'').
+            (3) General financial fraud.--The term ``general financial 
+        fraud'' means, in order to obtain money or other things of 
+        value--
+                    (A) intentional misrepresentation of information or 
+                identity to deceive an individual;
+                    (B) unlawful use of a credit card, debit card, or 
+                automated teller machine; or
+                    (C) use of electronic means to transmit deceptive 
+                information.
+            (4) Pig butchering.--The term ``pig butchering'' means a 
+        confidence and investment fraud in which the victim is 
+        gradually lured into making increasing monetary contributions, 
+        generally in the form of cryptocurrency, to a seemingly sound 
+        investment before the scammer disappears with the contributed 
+        monies.
+            (5) Scam.--The term ``scam'' means a financial crime 
+        undertaken through the use of social engineering that uses 
+        deceptive inducement to acquire--
+                    (A) authorized access to funds; or
+                    (B) personal or sensitive information that can 
+                facilitate the theft of financial assets.
+            (6) State.--The term ``State'' means each of the several 
+        States, the District of Columbia, and each territory of the 
+        United States.
+
+SEC. 3. FEDERAL GRANTS USED FOR INVESTIGATING ELDER FINANCIAL FRAUD, 
+              PIG BUTCHERING, AND GENERAL FINANCIAL FRAUD.
+
+    (a) In General.--State, local, and Tribal law enforcement agencies 
+and grantees that receive eligible Federal grant funds may use such 
+funds for investigating elder financial fraud, pig butchering, and 
+general financial fraud, including by--
+            (1) hiring and retaining analysts, agents, experts, and 
+        other personnel;
+            (2) providing training specific to complex financial 
+        investigations, including training on--
+                    (A) coordination and collaboration between State, 
+                local, Tribal, and Federal law enforcement agencies;
+                    (B) assisting victims of financial fraud and 
+                exploitation;
+                    (C) the use of blockchain intelligence tools and 
+                related capabilities relating to emerging technologies 
+                identified in the February 2024 ``Critical and Emerging 
+                Technology List Update'' of the Fast Track Action 
+                Subcommittee on Critical and Emerging Technologies of 
+                the National Science and Technology Council (the 
+                ``Critical and Emerging Technology List''); and
+                    (D) unique aspects of fraud investigations, 
+                including transnational financial investigations and 
+                emerging technologies identified in the Critical and 
+                Emerging Technology List;
+            (3) obtaining software and technical tools to conduct 
+        financial fraud and exploitation investigations;
+            (4) encouraging improved data collection and reporting;
+            (5) supporting training and tabletop exercises to enhance 
+        coordination and communication between financial institutions 
+        and State, local, Tribal, and Federal law enforcement agencies 
+        for the purpose of stopping fraud and scams; and
+            (6) designating a financial sector liaison to serve as a 
+        point of contact for financial institutions to share and 
+        exchange with State, local, Tribal, and Federal law enforcement 
+        agencies information relevant to the investigation of fraud and 
+        scams.
+    (b) Report to Grant Provider.--Each law enforcement agency and 
+grantee that makes use of eligible Federal grant funds for a purpose 
+specified under subsection (a) shall, not later than 1 year after 
+making such use of the funds, submit to the Federal agency that 
+provided the eligible Federal grant funds, a report containing--
+            (1) an explanation of the amount of funds so used, and the 
+        specific purpose for which the funds were used;
+            (2) statistics with respect to elder financial fraud, pig 
+        butchering, and general financial fraud in the jurisdiction of 
+        the law enforcement agency, along with an analysis of how the 
+        use of the funds for a purpose specified under subsection (a) 
+        affected such statistics; and
+            (3) an assessment of the ability of the law enforcement 
+        agency to deter elder financial fraud, pig butchering, and 
+        general financial fraud.
+
+SEC. 4. REPORT ON GENERAL FINANCIAL FRAUD, PIG BUTCHERING, AND ELDER 
+              FINANCIAL FRAUD.
+
+    No later than a year after the date of the enactment of this Act, 
+the Secretary of the Treasury, acting through the Director of the 
+Financial Crimes Enforcement Network, and in consultation with the 
+Attorney General, the Secretary of Homeland Security, and the 
+appropriate Federal banking agencies and Federal functional regulators, 
+shall submit to Congress a report on efforts to combat general 
+financial fraud, pig butchering, elder financial fraud, and scams, 
+including an evaluation of, and any legislative recommendations to 
+improve, the efficacy of the efforts.
+
+SEC. 5. REPORT ON THE STATE OF SCAMS IN THE UNITED STATES.
+
+    Not later than 2 years after the date of enactment of this Act, and 
+two years thereafter, the Secretary of the Treasury, acting through the 
+Director of the Financial Crimes Enforcement Network, shall submit a 
+report to Congress on the state of financial fraud, pig butchering, 
+elder financial fraud, and scams, based on information available to the 
+Financial Crimes Enforcement Network, that--
+            (1) relies on information reported to or otherwise 
+        available to the Financial Crimes Enforcement Network;
+            (2) analyzes trends in suspected financial fraud, pig 
+        butchering, elder financial fraud, and scams, as reflected in 
+        reports filed under subchapter II of chapter 53 of title 31, 
+        United States Code (commonly referred to as the ``Bank Secrecy 
+        Act''), including--
+                    (A) the volume of relevant reports;
+                    (B) the aggregate dollar amount associated with the 
+                reports;
+                    (C) typologies and methods identified through the 
+                reports; and
+                    (D) the role of digital assets in the reports; and
+            (3) summarizes activities conducted in cooperation with law 
+        enforcement, including the Rapid Response Program, during the 
+        period covered by the report, including--
+                    (A) the number of referrals received from law 
+                enforcement;
+                    (B) the aggregate dollar amount of funds for which 
+                interdiction was sought;
+                    (C) the aggregate dollar amount of funds 
+                successfully interdicted or recovered; and
+                    (D) any limitations affecting the activities, 
+                including limitations arising from reliance on law 
+                enforcement referrals.
+
+SEC. 6. REPORT TO CONGRESS.
+
+    Each Federal agency that provides eligible Federal grant funds that 
+are used for a purpose specified under section 3(a) shall issue an 
+annual report to the Committee on Banking, Housing, and Urban Affairs 
+of the Senate, the Committee on Financial Services of the House of 
+Representatives, the Committee on the Judiciary of the Senate, and the 
+Committee on the Judiciary of the House of Representatives containing 
+the information received from law enforcement agencies under section 
+3(b).
+
+SEC. 7. FEDERAL LAW ENFORCEMENT AGENCIES ASSISTING STATE, LOCAL, AND 
+              TRIBAL LAW ENFORCEMENT AND FUSION CENTERS.
+
+    Federal law enforcement agencies may assist State, local, and 
+Tribal law enforcement agencies and fusion centers in the use of 
+tracing tools for blockchain and related technology tools.
+
+            Passed the House of Representatives September 15, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.
+                                                       Calendar No. 627
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 2978
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To permit State, local, and Tribal law enforcement agencies that 
+      receive eligible Federal grant funds to use such funds for 
+   investigating elder financial fraud, pig butchering, and general 
+ financial fraud, and to clarify that Federal law enforcement agencies 
+may assist State, local, and Tribal law enforcement agencies in the use 
+ of tracing tools for blockchain and related technology, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                           September 16, 2026
+
+            Received; read twice and placed on the calendar

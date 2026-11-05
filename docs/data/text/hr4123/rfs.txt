@@ -1,0 +1,409 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4123 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 4123
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 21, 2026
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To improve Federal technology procurement, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Improvement in Technology 
+Procurement Act'' or the ``FIT Procurement Act''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Acquisition workforce.--The term ``acquisition 
+        workforce'' means employees of an executive agency who are 
+        responsible for procurement, contracting, or program or project 
+        management that involves the performance of acquisition-related 
+        functions or other employees as designated by the Chief 
+        Acquisition Officer, senior procurement executive, or head of 
+        the contracting activity.
+            (2) Administrator.--The term ``Administrator'' means the 
+        Administrator for Federal Procurement Policy.
+            (3) Chief acquisition officer.--The term ``Chief 
+        Acquisition Officer'' means a Chief Acquisition Officer 
+        appointed pursuant to section 1702(a) of title 41, United 
+        States Code.
+            (4) Cross-functional.--The term ``cross-functional'' means 
+        a structure in which individuals with different functional 
+        expertise or from different areas of an organization work 
+        together as a team.
+            (5) Executive agency.--The term ``executive agency'' has 
+        the meaning given that term in section 133 of title 41, United 
+        States Code.
+            (6) Experiential learning.--The term ``experiential 
+        learning'' means on-the-job experiences or simulations that 
+        serve to enhance workforce professional skills.
+            (7) Information and communications technology.--The term 
+        ``information and communications technology''--
+                    (A) has the meaning given that term in section 
+                4713(k) of title 41, United States Code; and
+                    (B) includes information and communications 
+                technologies covered by any definition contained in the 
+                Federal Acquisition Regulation, including a definition 
+                added after the date of the enactment of this Act by 
+                the Federal Acquisition Regulatory Council pursuant to 
+                notice and comment.
+            (8) Relevant committees of congress.--The term ``relevant 
+        committees of Congress'' means the Committee on Homeland 
+        Security and Governmental Affairs of the Senate and the 
+        Committee on Oversight and Government Reform of the House of 
+        Representatives.
+            (9) Senior procurement executive.--The term ``senior 
+        procurement executive'' means a senior procurement executive 
+        designated pursuant to section 1702(c)(1) of title 41, United 
+        States Code.
+            (10) Small business.--The term ``small business'' has the 
+        meaning given the term ``small business concern'' in section 3 
+        of the Small Business Act (15 U.S.C. 632).
+
+SEC. 3. ACQUISITION WORKFORCE.
+
+    (a) Experiential Learning.--Not later than 18 months after the date 
+of the enactment of this Act, the Director of the Federal Acquisition 
+Institute may establish a pilot program to consider the incorporation 
+of experiential learning into the Federal Credentials Program, the 
+Federal Acquisition Certification for Contracting Officer's 
+Representatives program, the Federal Acquisition Certification for 
+Program and Project Managers program, or any successor program.
+    (b) Training on Information and Communications Technology 
+Acquisition.--
+            (1) In general.--Not later than 18 months after the date of 
+        the enactment of this Act, the Director of the Federal 
+        Acquisition Institute, in coordination with the Administrator, 
+        the Administrator of General Services, and the Administrator of 
+        the Office of Electronic Government, and in consultation with 
+        the heads of other executive agencies as determined to be 
+        appropriate by the Director of the Federal Acquisition 
+        Institute, may develop and implement or otherwise provide a 
+        cross-functional information and communications technology 
+        acquisition training program for members of the acquisition 
+        workforce involved in acquiring information and communications 
+        technology that shall do the following:
+                    (A) Include learning objectives related to the 
+                following:
+                            (i) Market research.
+                            (ii) Communicating with and considering 
+                        industry perspectives on the procurement 
+                        process, including how investment decisions are 
+                        impacted by Government communication and 
+                        engagement.
+                            (iii) Developing requirements, acquisition 
+                        planning, best practices for developing and 
+                        executing outcome-based contracts, and source 
+                        selection strategy.
+                            (iv) Evaluating proposals.
+                            (v) Awarding and administering contracts 
+                        for information and communications technology.
+                    (B) Include learning objectives that provide a 
+                basic understanding of key technologies that executive 
+                agencies need, such as cloud computing, artificial 
+                intelligence and artificial intelligence-enabled 
+                applications, and cybersecurity solutions.
+                    (C) Include learning objectives that encourage the 
+                use of commercial or commercially available off-the-
+                shelf technologies to the greatest extent practicable.
+                    (D) Include case studies of lessons learned from 
+                Federal information and communications technology 
+                procurements and contracts, and related matters as 
+                determined to be relevant by the Director of the 
+                Federal Acquisition Institute.
+                    (E) Include experiential learning opportunities and 
+                opportunities to practice collaborative acquisition 
+                strategies involving team members with varied relevant 
+                domain expertise to complete acquisition-related tasks, 
+                including tasks with accelerated timelines.
+                    (F) Include continuous learning recommendations and 
+                resources to keep the skills of members of the 
+                acquisition workforce current, including tools that 
+                help adopt or adapt the use of innovative acquisition 
+                practices or other flexible business practices commonly 
+                used in commercial buys.
+                    (G) Be made available to members of the acquisition 
+                workforce designated by a Chief Acquisition Officer, 
+                senior procurement executive, or head of the 
+                contracting activity to participate in the training 
+                program.
+                    (H) Inform executive agencies about streamlined and 
+                alternative procurement methods for the procurement of 
+                information and communications technology, including 
+                the following:
+                            (i) Simplified procedures for certain 
+                        commercial products and commercial services in 
+                        accordance with subpart 13.5 of the Federal 
+                        Acquisition Regulation, prize competitions 
+                        under the America COMPETES Reauthorization Act 
+                        of 2010 (Public Law 111-358), competitive 
+                        programs that encourage businesses to engage in 
+                        Federal research or research and development 
+                        with the potential for commercialization, and 
+                        joint venture partnerships.
+                            (ii) Innovative procurement techniques 
+                        designed to streamline the procurement process 
+                        and lower barriers to entry, such as the use of 
+                        oral presentations and product demonstrations 
+                        instead of lengthy written proposals, 
+                        appropriately leveraging performance and 
+                        outcomes-based contracting, and other 
+                        techniques discussed on the Periodic Table of 
+                        Acquisition Innovations or other similar 
+                        successor knowledge management portals.
+                            (iii) Information on appropriate use, 
+                        examples and templates, and any other 
+                        information determined relevant by the 
+                        Administrator to assist contracting officers 
+                        and other members of the acquisition workforce 
+                        in using the procedures and techniques 
+                        described in clauses (i) and (ii).
+                    (I) Incorporate learning objectives to identify and 
+                mitigate waste, fraud, and abuse and ensure the 
+                protection of established privacy rights, civil rights, 
+                and civil liberties in the procurement process.
+            (2) Report.--Not later than 2 years after the date of the 
+        enactment of this Act, the Director of the Federal Acquisition 
+        Institute shall provide to the relevant committees of Congress, 
+        the Chief Acquisition Officers Council, and the Chief 
+        Information Officers Council--
+                    (A) a report on the progress of the Director in 
+                developing and implementing or otherwise providing the 
+                training program described in paragraph (1); and
+                    (B) a list of any acquisition training that the 
+                Director determines to be outdated or no longer 
+                necessary.
+            (3) Duration.--The training program described in paragraph 
+        (1) may be updated as appropriate (but not less frequently than 
+        once every 2 years after implementation), and offered not less 
+        than 6 years following the date of implementation of the 
+        training program.
+    (c) Acquisition Workforce Training Fund.--Section 1703(i)(3) of 
+title 41, United States Code, is amended by striking ``Five percent'' 
+and inserting ``Seven and a half percent''.
+    (d) Harmonization of Acquisition Workforce Training Requirements.--
+Section 2 of the Artificial Intelligence Training for the Acquisition 
+Workforce Act (Public Law 117-207; 41 U.S.C. 1703 note) is amended--
+            (1) in subsection (a)(4), by striking ``Director.--The term 
+        `Director' means the Director of the Office of Management and 
+        Budget.'' and inserting ``Administrator.--The term 
+        `Administrator' means the Administrator of General Services.''; 
+        and
+            (2) in subsection (b)--
+                    (A) in paragraph (1), by striking ``Director, in 
+                coordination with the Administrator of General Services 
+                and any other person determined relevant by the 
+                Director'' and inserting ``Administrator, in 
+                coordination with the Director of the Office of 
+                Management and Budget'';
+                    (B) in paragraph (4), by striking ``Director'' and 
+                inserting ``Administrator'';
+                    (C) in paragraph (5), by striking ``Director'' and 
+                inserting ``Administrator''; and
+                    (D) in paragraph (6), by striking ``Director'' and 
+                inserting ``Administrator''.
+
+SEC. 4. INNOVATIVE PROCUREMENT METHODS.
+
+    (a) Increase in Simplified Acquisition Threshold.--Section 134 of 
+title 41, United States Code, is amended by striking ``$250,000'' and 
+inserting ``$500,000''.
+    (b) Simplified Procedures for Small Purchases.--Section 1901(a)(2) 
+of title 41, United States Code, is amended by striking ``$5,000,000'' 
+and inserting ``$10,000,000''.
+    (c) Increase in Micro Purchase Threshold.--Section 1902(a)(1) of 
+title 41, United States Code, is amended by striking ``$10,000'' and 
+inserting ``$25,000''.
+    (d) Advances for Commercial Technology Subscriptions and Tenancy.--
+Section 3324(d) of title 31, United States Code, is amended--
+            (1) in paragraph (1)(C), by striking ``; and'' and 
+        inserting a semicolon;
+            (2) in paragraph (2)--
+                    (A) by inserting ``or commercially available 
+                content'' after ``publication''; and
+                    (B) by striking the period at the end and inserting 
+                ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(3) charges for information and communications technology 
+        subscriptions, reservations, or tenancy, which means the 
+        sharing of computing resources in a private or public 
+        environment, including cloud environments, for which the 
+        ordering agency defines appropriate access and security 
+        standards.''.
+
+SEC. 5. ADJUSTMENTS TO CERTAIN ACQUISITION THRESHOLDS.
+
+    (a) Major Program.--Section 109 of title 41, United States Code, is 
+amended--
+            (1) in subsection (b)(1)--
+                    (A) by striking ``$75,000,000 (based on fiscal year 
+                1980 constant dollars)'' and inserting ``$275,000,000 
+                (based on fiscal year 2024 dollars)''; and
+                    (B) by striking ``$300,000,000 (based on fiscal 
+                year 1980 constant dollars)'' and inserting 
+                ``$1,300,000,000 (based on fiscal year 2024 dollars)''; 
+                and
+            (2) in subsection (b)(2), by striking ``$750,000 (based on 
+        fiscal year 1980 constant dollars)'' and inserting ``$2,000,000 
+        (based on fiscal year 2024 dollars)''.
+    (b) Modifications to Submissions of Cost or Pricing Data.--Section 
+3502(a) of title 41, United States Code, is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``2018'' each place it appears and 
+                inserting ``2026'';
+                    (B) in subparagraph (A), by striking ``$2,000,000'' 
+                and inserting ``$10,000,000''; and
+                    (C) in subparagraph (B), by striking ``$750,000'' 
+                and inserting ``$2,000,000'';
+            (2) in paragraph (2)--
+                    (A) in subparagraph (A), by striking ``$2,000,000'' 
+                and inserting ``$10,000,000'';
+                    (B) in subparagraph (B), by striking ``$750,000'' 
+                and inserting ``$2,000,000''; and
+                    (C) in subparagraph (C), by striking ``$750,000'' 
+                and inserting ``$2,000,000''; and
+            (3) in paragraph (3), by striking ``chapter and--'' and all 
+        that follows and inserting the following: ``chapter and--
+                    ``(A) in the case of a prime contract entered into 
+                after June 30, 2026, the price of the subcontract is 
+                expected to exceed $10,000,000; or
+                    ``(B) in the case of a prime contract entered into 
+                on or before June 30, 2026, the price of the 
+                subcontract is expected to exceed $2,000,000.''.
+
+SEC. 6. INCREASING COMPETITION IN FEDERAL CONTRACTING.
+
+    (a) Use of Past Performance.--
+            (1) In general.--Not later than 1 year after the date of 
+        the enactment of this Act, the Administrator shall issue 
+        guidance, including examples and templates where appropriate, 
+        on the following:
+                    (A) When a wider range of projects, including 
+                commercial, non-government, and Government projects, 
+                should be accepted as relevant past performance in 
+                order to have increased competition among eligible 
+                firms with capability to perform a requirement, such as 
+                a requirement without much precedent.
+                    (B) A means by which an agency may validate non-
+                government past performance references, such as by 
+                requiring an official of an entity that provides past 
+                performance references to attest to their authenticity 
+                and by providing verifiable contact information for the 
+                references.
+                    (C) Any use of alternative evaluation methods other 
+                than past performance that may be appropriate for a 
+                requirement without much precedent, such as 
+                demonstrations and testing of technologies as part of 
+                the proposal process.
+            (2) Supplement not supplant.--The guidance required by 
+        paragraph (1) shall supplement existing Federal and agency 
+        policy and procedures for consideration of past performance and 
+        other evaluation factors and methods.
+    (b) Enhancing Competition in Federal Procurement.--
+            (1) Council recommendations.--Not later than 90 days after 
+        the date of the enactment of this Act, the Administrator shall 
+        convene the Chief Acquisition Officers Council (in this 
+        subsection referred to as the ``Council'') to make 
+        recommendations to identify and eliminate specific, unnecessary 
+        procedural barriers that disproportionately affect the ability 
+        of small businesses to compete for Federal contracts, with a 
+        focus on streamlining documentation and qualification 
+        requirements unrelated to the protection of privacy rights and 
+        civil liberties.
+            (2) Consultation.--The Council shall obtain input from the 
+        public, including from the APEX Accelerators program (formerly 
+        known as Procurement Technical Assistance Center network) and 
+        other contractor representatives, to identify Federal 
+        procurement policies and regulations that are obsolete, overly 
+        burdensome or restrictive, not adequately harmonized, or 
+        otherwise serve to create barriers to the participation of 
+        small businesses in Federal contracting or unnecessarily 
+        increase bid and proposal costs.
+            (3) Examination of actions.--The Council shall consider the 
+        input obtained under paragraph (2) and any other information 
+        determined relevant by the Council to identify legislative, 
+        regulatory, and other actions to increase competition and 
+        remove barriers to the participation of small businesses in 
+        Federal contracting.
+            (4) Implementation.--Not later than 2 years after the date 
+        of the enactment of this Act, the Administrator, in 
+        consultation with the Federal Acquisition Regulatory Council, 
+        the Council, and other executive agencies as appropriate, shall 
+        implement the regulatory and other non-legislative actions 
+        identified under paragraph (3), as determined necessary by the 
+        Administrator, to remove barriers to entry for small businesses 
+        seeking to participate in Federal contracting.
+            (5) Briefing.--Not later than 2 years after the date of the 
+        enactment of this Act, the Administrator shall brief the 
+        relevant committees of Congress on the legislative actions 
+        identified under paragraph (3) and the actions implemented 
+        under paragraph (4).
+    (c) Consideration of Cost-efficiency and Quality.--The 
+Administrator shall advocate for and prioritize contracting policies 
+that ensure that cost-efficiency and quality of goods and services are 
+key determining factors in awarding Federal contracts.
+
+SEC. 7. COMPTROLLER GENERAL ASSESSMENT OF SMALL BUSINESS PARTICIPATION 
+              IN FEDERAL PROCUREMENT.
+
+    Not later than 18 months after the date of the enactment of this 
+Act, the Comptroller General of the United States shall submit to the 
+relevant committees of Congress and make publicly available a report 
+that does the following:
+            (1) Assesses the level of participation by small businesses 
+        in Federal procurement.
+            (2) Identifies barriers and opportunities and the impact of 
+        policies on the ability of small businesses to compete in 
+        Federal procurement.
+            (3) Catalogs and evaluates the effectiveness of programs 
+        intended to support the participation of small businesses in 
+        Federal procurement.
+            (4) Analyzes trends in the involvement of small businesses 
+        in Federal technology projects, including data on contract 
+        awards, the diversity of sectors represented, and the 
+        geographic distribution of small business contractors.
+
+SEC. 8. CONFLICT OF INTEREST PROCEDURES.
+
+    The Federal Acquisition Regulatory Council and the Administrator 
+shall update the Federal Acquisition Regulation as necessary to provide 
+additional guidance to executive agencies to address personal and 
+organizational conflicts of interest involving members of the 
+acquisition workforce.
+
+SEC. 9. NO ADDITIONAL FUNDING.
+
+    No additional funds are authorized to be appropriated for the 
+purpose of carrying out this Act.
+
+            Passed the House of Representatives July 20, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

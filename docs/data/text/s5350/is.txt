@@ -1,0 +1,121 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5350 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5350
+
+ To amend the Internal Revenue Code of 1986 to include foreign oil and 
+gas extraction income in net CFC tested income, to include income from 
+    the extraction of minerals from oil shale and tar sands in the 
+ definitions of foreign oil and gas extraction income and foreign oil 
+                related income, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 6, 2026
+
+ Mr. Heinrich introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to include foreign oil and 
+gas extraction income in net CFC tested income, to include income from 
+    the extraction of minerals from oil shale and tar sands in the 
+ definitions of foreign oil and gas extraction income and foreign oil 
+                related income, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Energy Independence and Tax 
+Fairness Act''.
+
+SEC. 2. FOREIGN OIL AND GAS EXTRACTION INCOME INCLUDED IN NET CFC 
+              TESTED INCOME.
+
+    (a) In General.--Section 951A(b)(2)(A)(i) of the Internal Revenue 
+Code of 1986 is amended by inserting ``and'' at the end of subclause 
+(III), by striking ``and'' at the end of subclause (IV) and inserting 
+``over'', and by striking subclause (V).
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years of foreign corporations beginning after the date 
+of the enactment of this Act, and to taxable years of United States 
+shareholders in which or with which such tax years of foreign 
+corporations end.
+
+SEC. 3. FOREIGN OIL AND GAS EXTRACTION INCOME AND FOREIGN OIL RELATED 
+              INCOME TO INCLUDE OIL SHALE AND TAR SANDS.
+
+    (a) In General.--Paragraphs (1)(A) and (2)(A) of section 907(c) of 
+the Internal Revenue Code of 1986 are each amended by inserting ``(or 
+oil shale or tar sands)'' after ``oil or gas wells''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+
+SEC. 4. MODIFICATIONS OF FOREIGN TAX CREDIT RULES APPLICABLE TO CERTAIN 
+              TAXPAYERS RECEIVING SPECIFIC ECONOMIC BENEFITS.
+
+    (a) In General.--Section 901 of the Internal Revenue Code of 1986 
+is amended by redesignating subsection (n) as subsection (o) and by 
+inserting after subsection (m) the following new subsection:
+    ``(n) Special Rules Relating to Dual Capacity Taxpayers.--
+            ``(1) General rule.--Notwithstanding any other provision of 
+        this chapter, any amount paid or accrued by a dual capacity 
+        taxpayer to a foreign country or possession of the United 
+        States for any period with respect to combined foreign oil and 
+        gas income (as defined in section 907(b)(1)) shall not be 
+        considered a tax--
+                    ``(A) if, for such period, the foreign country or 
+                possession does not impose a generally applicable 
+                income tax, or
+                    ``(B) to the extent such amount exceeds the amount 
+                which would be paid or accrued by such dual capacity 
+                taxpayer under the generally applicable income tax 
+                imposed by such country or possession if such taxpayer 
+                were not a dual capacity taxpayer.
+        Nothing in this paragraph shall be construed to imply the 
+        proper treatment of any such amount not in excess of the amount 
+        determined under subparagraph (B).
+            ``(2) Dual capacity taxpayer.--For purposes of this 
+        subsection, the term `dual capacity taxpayer' means, with 
+        respect to any foreign country or possession of the United 
+        States, a person who--
+                    ``(A) is subject to a levy of such country or 
+                possession, and
+                    ``(B) receives (or will receive) directly or 
+                indirectly a specific economic benefit from such 
+                country or possession (or any political subdivision, 
+                agency, or instrumentality thereof).
+            ``(3) Generally applicable income tax.--For purposes of 
+        this subsection, the term `generally applicable income tax' 
+        means an income tax (or a series of income taxes) which is 
+        generally imposed under the laws of a foreign country or 
+        possession of the United States on residents of such foreign 
+        country or possession that are not dual capacity taxpayers.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to taxable years of foreign corporations beginning after December 
+31, 2026, and to taxable years of United States shareholders in which 
+or with which such taxable years of foreign corporations end.
+                                 <all>

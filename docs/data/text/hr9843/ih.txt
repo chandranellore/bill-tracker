@@ -1,0 +1,105 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9843 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9843
+
+To amend the Federal Power Act to authorize the allocation of the costs 
+ of certain interstate electric power transmission lines and electric 
+   power transmission lines that are located offshore, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 22, 2026
+
+Ms. Castor of Florida introduced the following bill; which was referred 
+                to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Power Act to authorize the allocation of the costs 
+ of certain interstate electric power transmission lines and electric 
+   power transmission lines that are located offshore, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Enhancing Electric Grid Resilience 
+Act''.
+
+SEC. 2. ALLOCATION OF COSTS OF CERTAIN TRANSMISSION FACILITIES.
+
+    Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 224. ALLOCATION OF COSTS OF CERTAIN TRANSMISSION FACILITIES.
+
+    ``(a) Allocation of Costs.--
+            ``(1) In general.--Any entity that proposes to own, 
+        control, or operate a transmission facility of national 
+        significance may file a tariff with the Commission in 
+        accordance with section 205 and the regulations of the 
+        Commission allocating the costs of such transmission facility 
+        of national significance.
+            ``(2) Cost causation principle.--The Commission shall 
+        require that any tariff filed under paragraph (1) allocate the 
+        costs of a transmission facility of national significance to 
+        customers within the applicable transmission planning region or 
+        regions in a manner that is at least roughly commensurate with 
+        the estimated anticipated benefits described in paragraph (3).
+            ``(3) Cost allocation principle.--The Commission shall 
+        require that any tariff filed under paragraph (1) allocate 
+        costs based on the broad range of reliability, economic, public 
+        policy, resilience, and other reasonably anticipated benefits 
+        of the applicable transmission facility of national 
+        significance.
+    ``(b) Transmission Facility of National Significance.--In this 
+section, the term `transmission facility of national significance' 
+means--
+            ``(1) an interstate electric power transmission line (and 
+        any facilities necessary for the operation of such electric 
+        power transmission line) or an electric power transmission line 
+        that is located offshore (and any facilities necessary for the 
+        operation of such electric power transmission line)--
+                    ``(A) that has a transmission capacity of not less 
+                than 1,000 megawatts; and
+                    ``(B) the construction of which is completed on or 
+                after the date of enactment of this section; or
+            ``(2) an expansion of, or upgrade to, an interstate 
+        electric power transmission line (and any facilities necessary 
+        for the operation of such electric power transmission line) or 
+        an electric power transmission line that is located offshore 
+        (and any facilities necessary for the operation of such 
+        electric power transmission line) that--
+                    ``(A) increases the transmission capacity of such 
+                electric power transmission line by at least 500 
+                megawatts; and
+                    ``(B) is completed on or after the date of 
+                enactment of this section.
+    ``(c) Savings Provision.--This section does not affect the 
+authority of the Commission to approve the allocation of costs of 
+transmission facilities other than transmission facilities of national 
+significance.''.
+                                 <all>

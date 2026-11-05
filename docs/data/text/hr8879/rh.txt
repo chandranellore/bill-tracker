@@ -1,0 +1,236 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8879 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 593
+119th CONGRESS
+  2d Session
+                                H. R. 8879
+
+                          [Report No. 119-680]
+
+ To amend the Small Business Act to require a report on small business 
+concern participation in a covered contracting programs, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 19, 2026
+
+Mr. Olszewski (for himself and Mr. Wied) introduced the following bill; 
+         which was referred to the Committee on Small Business
+
+                              June 3, 2026
+
+Committed to the Committee of the Whole House on the State of the Union 
+                       and ordered to be printed
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Small Business Act to require a report on small business 
+concern participation in a covered contracting programs, and for other 
+                               purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Oversight and Transparency for Small 
+Business Certifications Act of 2026''.
+
+SEC. 2. REPORT ON SMALL BUSINESS CONCERN PARTICIPATION IN A COVERED 
+              CONTRACTING PROGRAMS.
+
+    Section 10(c) of the Small Business Act (15 U.S.C. 639(c)) is 
+amended to read as follows:
+    ``(c) Certification Reports.--
+            ``(1) In general.--Along with the submission to Congress of 
+        the budget of the President for each fiscal year pursuant to 
+        section 1105(a) of title 31, United States Code, the 
+        Administrator shall submit a report on small business concern 
+        participation in a covered contracting program during the year 
+        covered by the report that includes the following:
+                    ``(A) The total number of unique small business 
+                concerns certified for participation in a covered 
+                contracting program.
+                    ``(B) With respect to applications of small 
+                business concerns for participation in a covered 
+                contracting program--
+                            ``(i) the total number of applications for 
+                        participation that have sufficient information 
+                        for the Administrator to issue a certification 
+                        determination, disaggregated by--
+                                    ``(I) the number of applications 
+                                certified for each covered contracting 
+                                program; and
+                                    ``(II) the number of applications 
+                                for which a determination has not been 
+                                made for any covered contracting 
+                                program;
+                            ``(ii) the number of applications for 
+                        certification for two or more covered 
+                        contracting programs and the percentage of 
+                        total applicants that received two or more 
+                        certifications;
+                            ``(iii) the number of applications received 
+                        through the single, unified platform 
+                        established by the Administrator for receipt of 
+                        certification applications; and
+                            ``(iv) the number of small business 
+                        concerns certified for participation in a 
+                        covered contracting program for which such 
+                        certification documentation is contain in a 
+                        system other than the platform described in 
+                        clause (iii), disaggregated by covered 
+                        contracting program.
+                    ``(C) With respect to applications of small 
+                business concerns for certification as a small business 
+                concern owned and controlled by service-disabled 
+                veterans that have sufficient information for the 
+                Administrator to issue a certification determination--
+                            ``(i) the number of applications certified;
+                            ``(ii) the number of applications denied; 
+                        and
+                            ``(iii) the number of applications for 
+                        which a determination has not been made.
+                    ``(D) With respect to each application of a small 
+                business concern for certification as a small business 
+                concern owned and controlled by service-disabled 
+                veterans, the timeframe between the date of submission 
+                of a completed application and the issuance of a 
+                certification or recertification determination, 
+                disaggregated by--
+                            ``(i) the number, expressed as a 
+                        percentage, of certification determinations 
+                        made within the timeframe established by the 
+                        Administration;
+                            ``(ii) the average time for a first-time 
+                        applicant to receive a certification 
+                        determination; and
+                            ``(iii) the average time for an applicant 
+                        that is a small business concern owned and 
+                        controlled by service-disabled veterans to 
+                        receive a recertification determination.
+                    ``(E) With respect to applications of small 
+                business concerns for certification as a small business 
+                concern owned and controlled by women that have 
+                sufficient information for the Administrator to issue a 
+                certification determination--
+                            ``(i) the number of applications certified;
+                            ``(ii) of the applications described in 
+                        clause (i), the number certified that are 
+                        eligible for award of a sole source contract 
+                        under section 8(m)(7);
+                            ``(iii) the number of applications 
+                        certified that were processed by a national 
+                        certifying entity described in section 
+                        8(m)(2)(E);
+                            ``(iv) the number of applications denied; 
+                        and
+                            ``(v) the number of applications for which 
+                        a determination has not been made.
+                    ``(F) Of the applications described in subparagraph 
+                (E)(ii), the number of such applications that initially 
+                did not include sufficient information for the 
+                Administrator to issue a certification determination.
+                    ``(G) With respect to each application of a small 
+                business concern for certification as a small business 
+                concern owned and controlled by women, the timeframe 
+                between the date of submission of a completed 
+                application and the issuance of a certification or 
+                recertification determination, disaggregated by--
+                            ``(i) the number, expressed as a 
+                        percentage, of certification determinations 
+                        made within the timeframe established by the 
+                        Administration;
+                            ``(ii) the average time for a first-time 
+                        applicant to receive a certification 
+                        determination;
+                            ``(iii) the average time for an applicant 
+                        that is a small business concern owned and 
+                        controlled by women to receive a 
+                        recertification determination; and
+                            ``(iv) the average time for an applicant 
+                        certified by a national certifying entity to 
+                        receive a determination from the Administrator, 
+                        disaggregated by initial certification 
+                        applications and recertification applications.
+                    ``(H) With respect to applications of small 
+                business concerns for certification as a qualified 
+                HUBZone small business concern that have sufficient 
+                information for the Administrator to issue a 
+                certification determination--
+                            ``(i) the number of applications certified;
+                            ``(ii) the number of applications denied; 
+                        and
+                            ``(iii) the number of applications for 
+                        which a determination has not been made.
+                    ``(I) With respect to each application of a small 
+                business concern for certification as a qualified 
+                HUBZone small business concern, the timeframe between 
+                the date of submission of a completed application and 
+                the issuance of a certification or recertification 
+                determination, disaggregated by--
+                            ``(i) the number, expressed as a 
+                        percentage, of certification determinations 
+                        made within the timeframe established by the 
+                        Administration;
+                            ``(ii) the average time for a first-time 
+                        applicant to receive a certification 
+                        determination; and
+                            ``(iii) the average time for an applicant 
+                        that is a qualified HUBZone small business 
+                        concern to receive a recertification 
+                        determination.
+            ``(2) Covered contracting program defined.--In this 
+        subsection, the term `covered contracting program' means 
+        contracting assistance provided by the Administrator under 
+        following:
+                    ``(A) Section 8(a).
+                    ``(B) Section 8(m).
+                    ``(C) Section 31.
+                    ``(D) Section 36.''.
+                                                 Union Calendar No. 593
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 8879
+
+                          [Report No. 119-680]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To amend the Small Business Act to require a report on small business 
+concern participation in a covered contracting programs, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                              June 3, 2026
+
+Committed to the Committee of the Whole House on the State of the Union 
+                       and ordered to be printed

@@ -1,0 +1,1043 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4392 Reported in Senate (RS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 508
+119th CONGRESS
+  2d Session
+                                S. 4392
+
+ To promote United States and allied energy and mineral security, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 27, 2026
+
+Mr. Coons (for himself, Mr. Ricketts, Mr. Hickenlooper, and Mr. Curtis) 
+introduced the following bill; which was read twice and referred to the 
+                     Committee on Foreign Relations
+
+                             July 27, 2026
+
+                Reported by Mr. Risch, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To promote United States and allied energy and mineral security, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``Energy Security Pacts 
+Act''.</DELETED>
+
+<DELETED>SEC. 2. DEFINITIONS.</DELETED>
+
+<DELETED>    In this Act:</DELETED>
+        <DELETED>    (1) Appropriate congressional committees.--The 
+        term ``appropriate congressional committees'' means--</DELETED>
+                <DELETED>    (A) the Committee on Foreign Relations, 
+                the Committee on Finance, and the Committee on 
+                Appropriations of the Senate; and</DELETED>
+                <DELETED>    (B) the Committee on Foreign Affairs, the 
+                Committee on Ways and Means, and the Committee on 
+                Appropriations of the House of 
+                Representatives.</DELETED>
+        <DELETED>    (2) Council agency.--The term ``council agency'' 
+        means a department, agency, or organization described in 
+        section 6(c).</DELETED>
+        <DELETED>    (3) Critical mineral.--The term ``critical 
+        mineral'' means any mineral on the list of critical minerals 
+        required by section 7002(c)(3) of the Energy Act of 2020 (30 
+        U.S.C. 1606(c)(3)) on or after January 1, 2026.</DELETED>
+        <DELETED>    (4) Director for energy security pacts.--The term 
+        ``Director for Energy Security Pacts'' means the Director for 
+        Energy Security Pacts described in section 4.</DELETED>
+        <DELETED>    (5) Energy security pact.--The term ``Energy 
+        Security Pact'' means an Energy Security Pact described in 
+        section 3.</DELETED>
+        <DELETED>    (6) Energy security pacts council.--The term 
+        ``Energy Security Pacts Council'' means the Energy Security 
+        Pacts Council established under section 6.</DELETED>
+        <DELETED>    (7) Partner country.--The term ``partner country'' 
+        means a country eligible for participation in an Energy 
+        Security Pact.</DELETED>
+        <DELETED>    (8) Secretary.--The term ``Secretary'' means the 
+        Secretary of State.</DELETED>
+        <DELETED>    (9) Under secretary.--The term ``Under Secretary'' 
+        means the Under Secretary of State for Economic Growth, Energy, 
+        and the Environment.</DELETED>
+
+<DELETED>SEC. 3. AUTHORITY AND FUNDING FOR ENERGY SECURITY 
+              PACTS.</DELETED>
+
+<DELETED>    (a) In General.--The Secretary may establish multiyear 
+agreements (to be known as ``Energy Security Pacts'') with partner 
+countries under which the Secretary may coordinate and provide 
+assistance to enhance the energy and economic security and stability of 
+the United States and such partner countries, including through efforts 
+to counter economic coercion through the diversification of critical 
+mineral and energy supply chains.</DELETED>
+<DELETED>    (b) Funding.--</DELETED>
+        <DELETED>    (1) Availability of amounts.--The Secretary may 
+        make available, from amounts authorized to be appropriated for 
+        fiscal year 2026 or any subsequent fiscal year under the 
+        heading ``National Security Investment Programs'' in Acts 
+        making appropriations for the Department of State, foreign 
+        operations, and related programs (including amounts authorized 
+        to be appropriated to the Economic Resilience Initiative), 
+        amounts for the purpose of establishing and implementing Energy 
+        Security Pacts.</DELETED>
+        <DELETED>    (2) Transfers.--Funds authorized to be made 
+        available pursuant to paragraph (1) may be transferred to, and 
+        merged with, funds appropriated for fiscal year 2026 or any 
+        subsequent fiscal year under the headings ``United States Trade 
+        and Development Agency'', ``Millennium Challenge Corporation'', 
+        ``United States International Development Finance-Corporate 
+        Capital Account'', ``United States International Development 
+        Finance-Program Account'', ``Development Finance Corporate 
+        Equity Investment Account'', and ``Export-Import Bank of the 
+        United States-Program Account'' to carry out the purpose 
+        described in paragraph (1).</DELETED>
+        <DELETED>    (3) Consultation and notification.--The transfer 
+        authority provided by this subsection is--</DELETED>
+                <DELETED>    (A) in addition to any other transfer 
+                authority provided by law; and</DELETED>
+                <DELETED>    (B) subject to--</DELETED>
+                        <DELETED>    (i) prior consultation with--
+                        </DELETED>
+                                <DELETED>    (I) the Committee on 
+                                Appropriations and the Committee on 
+                                Foreign Relations of the Senate; 
+                                and</DELETED>
+                                <DELETED>    (II) the Committee on 
+                                Appropriations and the Committee on 
+                                Foreign Affairs of the House of 
+                                Representatives; and</DELETED>
+                        <DELETED>    (ii) the regular notification 
+                        procedures of such committees.</DELETED>
+<DELETED>    (c) Assistance for the Development and Implementation of 
+Pacts.--The Director for Energy Security Pacts may--</DELETED>
+        <DELETED>    (1) enter into contracts for required technical 
+        support related to Energy Security Pacts;</DELETED>
+        <DELETED>    (2) make grants to partner countries that meet 
+        eligibility requirements for United States foreign assistance 
+        for the purpose of building the administrative or technical 
+        capacity necessary to facilitate the development and 
+        implementation of an Energy Security Pact between the United 
+        States and such country; and</DELETED>
+        <DELETED>    (3) lead Country Pact Teams, in accordance with 
+        section 4(c), to carry out the implementation of Energy 
+        Security Pacts.</DELETED>
+<DELETED>    (d) Limitations.--</DELETED>
+        <DELETED>    (1) Prohibition on military assistance and 
+        training.--Assistance under this section may not include 
+        military assistance or military training for a 
+        country.</DELETED>
+        <DELETED>    (2) Prohibition on assistance relating to united 
+        states job loss or production displacement.--Assistance under 
+        this section may not be provided for any project that is likely 
+        to cause a substantial loss of United States jobs or a 
+        substantial displacement of United States production.</DELETED>
+        <DELETED>    (3) Prohibition on assistance relating to 
+        environmental, health, or safety hazards.--Assistance under 
+        this section may not be provided for any project that is likely 
+        to cause a significant environmental, health, or safety 
+        hazard.</DELETED>
+        <DELETED>    (4) Foreign aid transparency and accountability 
+        act compliance.--None of the funds authorized to be 
+        appropriated or otherwise made available to carry out this Act 
+        may be obligated or expended for an Energy Security Pact unless 
+        the Secretary complies with the requirements of section 4 of 
+        the Foreign Aid Transparency and Accountability Act of 2016 (22 
+        U.S.C. 2394c) with respect to the Pact and all activities 
+        associated with the Pact.</DELETED>
+        <DELETED>    (5) Prohibition on assistance for certain 
+        entities.--None of the funds authorized to be appropriated or 
+        otherwise made available to carry out this Act may be obligated 
+        or expended to provide any grant, contract, loan, or other 
+        financial assistance to an entity in which a senior United 
+        States Government official or an immediate family member (as 
+        defined in section 1128(j) of the Social Security Act (42 
+        U.S.C. 1320a-7(j))) of such official holds any ownership 
+        interest or serves in any managerial, officer, director, or 
+        board capacity.</DELETED>
+        <DELETED>    (6) Other prohibition.--Assistance under this 
+        section may not be used in any manner otherwise prohibited by 
+        any provision of law.</DELETED>
+
+<DELETED>SEC. 4. OFFICE OF ENERGY SECURITY PACTS.</DELETED>
+
+<DELETED>    (a) Establishment.--Not later than 180 days after the date 
+of the enactment of this Act, the Secretary shall establish an Office 
+of Energy Security Pacts, which shall perform such functions related to 
+the administration, coordination, and implementation of Energy Security 
+Pacts as the Under Secretary may prescribe.</DELETED>
+<DELETED>    (b) Director for Energy Security Pacts.--</DELETED>
+        <DELETED>    (1) In general.--The Office of Energy Security 
+        shall be led by a Director for Energy Security Pacts, who shall 
+        be--</DELETED>
+                <DELETED>    (A) appointed by the Secretary; 
+                and</DELETED>
+                <DELETED>    (B) responsible--</DELETED>
+                        <DELETED>    (i) to the Under Secretary for all 
+                        matters pertaining to the administration and 
+                        implementation of Energy Security Pacts; 
+                        and</DELETED>
+                        <DELETED>    (ii) for such other related duties 
+                        as the Secretary may from time to time 
+                        designate.</DELETED>
+        <DELETED>    (2) Responsibilities.--In addition to the 
+        responsibilities described in paragraph (1), the Director for 
+        Energy Security Pacts shall be responsible for supporting the 
+        coordination and implementation by the Department of State of 
+        the Economic Resilience Initiative and the Energy Security 
+        Pacts Council, including for all matters pertaining to the 
+        following:</DELETED>
+                <DELETED>    (A) Drafting the contribution of the 
+                Secretary to the strategy required by section 7030(d) 
+                of the Further Consolidated Appropriations Act, 2024 
+                (Public Law 118-47; 138 Stat. 782).</DELETED>
+                <DELETED>    (B) Leading the development, negotiation, 
+                and management of all Energy Security Pacts.</DELETED>
+                <DELETED>    (C) Consulting and coordinating with 
+                council agencies to develop prospective Energy Security 
+                Pacts and implement ongoing Energy Security Pacts, as 
+                appropriate.</DELETED>
+                <DELETED>    (D) Serving as the recipient for--
+                </DELETED>
+                        <DELETED>    (i) solicited proposals under 
+                        Energy Security Pacts; and</DELETED>
+                        <DELETED>    (ii) unsolicited proposals for 
+                        projects to be considered for inclusion in any 
+                        Energy Security Pact by national, regional, and 
+                        local governments and private 
+                        corporations.</DELETED>
+                <DELETED>    (E) Signing joint agency agreements on 
+                behalf of the Department of State, transferring or 
+                receiving appropriated funds from any department, 
+                agency, or independent establishment of the United 
+                States Government on behalf of the Department of State 
+                (with the consent of the head of such department, 
+                agency, or establishment) for the purpose of 
+                developing, implementing, or otherwise participating in 
+                an Energy Security Pact, including for use as a credit 
+                subsidy to provide loans.</DELETED>
+                <DELETED>    (F) Coordinating with other donor 
+                entities, including countries that are allies and 
+                partners of the United States, the Forum on Resource 
+                Geostrategic Engagement of the Department of State, and 
+                other multilateral fora, for purposes of deconflicting, 
+                augmenting, and leveraging, as appropriate, Energy 
+                Security Pact workplans with the development and 
+                financing activities performed by others.</DELETED>
+        <DELETED>    (3) Annual report required.--Not less frequently 
+        than annually until the date that is 5 years after the date of 
+        the enactment of this Act, the Director for Energy Security 
+        Pacts shall submit to the appropriate congressional committees, 
+        the Executive Office of the President, the National Security 
+        Council, and the Secretary a report describing--</DELETED>
+                <DELETED>    (A) the current status of activities 
+                authorized under this Act;</DELETED>
+                <DELETED>    (B) any obstacles to the implementation of 
+                such activities; and</DELETED>
+                <DELETED>    (C) any updates to the multiyear financial 
+                plan developed pursuant to section 5(d)(G).</DELETED>
+<DELETED>    (c) Country Pact Teams.--</DELETED>
+        <DELETED>    (1) In general.--The Secretary, in consultation 
+        with the Under Secretary and relevant Federal departments and 
+        agencies, shall designate a Country Pact Team for each Energy 
+        Security Pact.</DELETED>
+        <DELETED>    (2) Leadership; duties.--Each Country Pact Team 
+        shall--</DELETED>
+                <DELETED>    (A) be led by the Director for Energy 
+                Security Pacts, who shall regularly engage with the 
+                Energy Security Pacts Council on matters related to the 
+                Energy Security Pact; and</DELETED>
+                <DELETED>    (B) manage the day-to-day activities 
+                related to the development, negotiation, 
+                implementation, and monitoring of the Pact.</DELETED>
+<DELETED>    (d) Personnel.--</DELETED>
+        <DELETED>    (1) In general.--The Under Secretary or the Under 
+        Secretary's designee may--</DELETED>
+                <DELETED>    (A) detail staff to heads of council 
+                agencies with relevant sectoral, financial, or regional 
+                expertise for the express purpose of supporting the 
+                negotiation or implementation of an Energy Security 
+                Pact;</DELETED>
+                <DELETED>    (B) request from the heads of council 
+                agencies the detail of personnel to the Office of 
+                Energy Security Pacts with relevant sectoral, 
+                financial, or regional expertise, on a reimbursable 
+                basis, for the express purpose of supporting the 
+                negotiation or implementation of an Energy Security 
+                Pact; and</DELETED>
+                <DELETED>    (C) appoint, without regard to the 
+                provisions of sections 3309 through 3318 of title 5, 
+                United States Code, candidates directly to positions in 
+                the competitive service, as defined in section 2102 of 
+                that title.</DELETED>
+        <DELETED>    (2) Detailed employees.--Any employee detailed 
+        pursuant to a request made under paragraph (1)(B) shall remain, 
+        for the purpose of preserving such employee's allowances, 
+        privileges, rights, seniority, and other benefits, an employee 
+        of the agency from which detailed.</DELETED>
+<DELETED>    (e) Termination.--</DELETED>
+        <DELETED>    (1) New energy security pacts.--The authority to 
+        enter into new Energy Security Pacts shall terminate on the 
+        date that is 15 years after the date of the enactment of this 
+        Act.</DELETED>
+        <DELETED>    (2) Office; director; council.--The Office of 
+        Energy Security Pacts, the position of Director for Energy 
+        Security Pacts, and the Energy Security Pacts Council shall 
+        terminate after the final Energy Security Pact 
+        expires.</DELETED>
+<DELETED>    (f) Reports.--Not later than 180 days after the date of 
+the enactment of this Act, the Under Secretary shall submit to the 
+appropriate congressional committees a report that contains plans to 
+attract and retain diplomatic, policy, legal, and technical expertise 
+for civil service officers in the Office of Energy Security Pacts, 
+including career promotion tracks to supervisory and non-supervisory 
+GS-15 positions.</DELETED>
+
+<DELETED>SEC. 5. APPROVAL, ELIGIBILITY, AND ELEMENTS OF ENERGY SECURITY 
+              PACTS.</DELETED>
+
+<DELETED>    (a) Goal.--It shall be the goal of each Energy Security 
+Pact to increase reliable access to energy or electricity, including 
+that needed for production of critical minerals, for the United States 
+and the partner country to the Energy Security Pact, for the purpose of 
+stimulating economic growth, enabling follow-on private sector 
+investment, supporting the commercial competitiveness of United States 
+companies, or diversifying relevant supply chains.</DELETED>
+<DELETED>    (b) Initial Requirements.--</DELETED>
+        <DELETED>    (1) Recommendation; analysis.--Before entering 
+        into an Energy Security Pact--</DELETED>
+                <DELETED>    (A) the Pact shall be recommended by the 
+                Director for Energy Security Pacts and the Under 
+                Secretary and approved by the Secretary; and</DELETED>
+                <DELETED>    (B) the Director for Energy Security 
+                Pacts, in collaboration with the Energy Security Pacts 
+                Council and partner country, shall conduct a 
+                constraints analysis that identifies insufficiencies in 
+                the energy sector and supply-chain segments needed to 
+                strengthen the partner country's energy security, 
+                consistent with United States energy security risks and 
+                commercial opportunities.</DELETED>
+        <DELETED>    (2) Congressional notification.--Not later than 30 
+        days before entering into an Energy Security Pact, the Director 
+        for Energy Security Pacts shall--</DELETED>
+                <DELETED>    (A) notify and consult with the 
+                appropriate congressional committees regarding such 
+                Pact;</DELETED>
+                <DELETED>    (B) transmit to the appropriate 
+                congressional committees the text of such Pact; 
+                and</DELETED>
+                <DELETED>    (C) provide to the appropriate 
+                congressional committees an in-person briefing 
+                regarding such Pact.</DELETED>
+<DELETED>    (c) Eligibility.--A country is eligible for participation 
+in an Energy Security Pact if--</DELETED>
+        <DELETED>    (1)(A) the per capita income of the country is not 
+        greater than the World Bank's loan threshold; or</DELETED>
+        <DELETED>    (B) at the beginning of the year in which 
+        negotiations are initiated, the country is eligible for support 
+        from the World Bank's International Bank for Reconstruction and 
+        Development or International Development Association graduation 
+        process;</DELETED>
+        <DELETED>    (2) the country has been identified as 
+        strategically or commercially important for the United States 
+        by the Secretary or the President;</DELETED>
+        <DELETED>    (3) the Under Secretary determines that the 
+        country has the capacity and commitment to implement the Energy 
+        Security Pact; and</DELETED>
+        <DELETED>    (4) the country is not a foreign country of 
+        concern (as defined in section 10612(a) of the Research and 
+        Development, Competition, and Innovation Act (42 U.S.C. 
+        19221(a))).</DELETED>
+<DELETED>    (d) Energy Security Pact Elements.--</DELETED>
+        <DELETED>    (1) In general.--Each Energy Security Pact shall 
+        contain the following:</DELETED>
+                <DELETED>    (A) The constraints analysis conducted 
+                under subsection (b)(1)(B).</DELETED>
+                <DELETED>    (B) A demonstrated effort to integrate the 
+                national economic development strategy of the partner 
+                country.</DELETED>
+                <DELETED>    (C) Specific objectives that the partner 
+                country and the United States expect to achieve during 
+                the term of the Energy Security Pact, including--
+                </DELETED>
+                        <DELETED>    (i) increased energy production, 
+                        reliability, and affordability in the partner 
+                        country;</DELETED>
+                        <DELETED>    (ii) economic growth in the 
+                        partner country that may reduce the need for 
+                        foreign assistance;</DELETED>
+                        <DELETED>    (iii) improved access to energy, 
+                        in consultation with affected communities and 
+                        civil society; and</DELETED>
+                        <DELETED>    (iv) improved infrastructure that 
+                        enables access to critical minerals mining and 
+                        processing.</DELETED>
+                <DELETED>    (D) The responsibilities of the partner 
+                country and the United States in the achievement of 
+                such objectives.</DELETED>
+                <DELETED>    (E) Regular quantitative benchmarks to 
+                measure, as appropriate, progress toward achieving such 
+                objectives.</DELETED>
+                <DELETED>    (F) An identification of the intended 
+                impact of the activities carried out in accordance with 
+                the Energy Security Pact.</DELETED>
+                <DELETED>    (G) A multiyear financial plan, updated 
+                annually until the expiration of the term of the Energy 
+                Security Pact, that--</DELETED>
+                        <DELETED>    (i) estimates the amount of 
+                        contributions, commitments, and other 
+                        participation to be provided by council 
+                        agencies, the partner country, multilateral 
+                        development banks, and other development 
+                        finance institutions as applicable;</DELETED>
+                        <DELETED>    (ii) ensures that the Pact 
+                        incorporates and is complementary to 
+                        development programs administered by other 
+                        Federal departments and agencies, so that 
+                        United States funds are used to improve 
+                        feasibility for private sector investment to 
+                        further development goals;</DELETED>
+                        <DELETED>    (iii) identifies proposed 
+                        mechanisms to implement the plan and provide 
+                        oversight of the plan; and</DELETED>
+                        <DELETED>    (iv) describes how the 
+                        requirements described in this subsection will 
+                        be met, including the role of the private 
+                        sector in the achievement of such 
+                        requirements.</DELETED>
+                <DELETED>    (H) As appropriate, a description of the 
+                current and potential participation of other donors, 
+                including council agencies or countries that are allies 
+                and partners of the United States, in the achievement 
+                of the objectives described in subparagraph 
+                (C).</DELETED>
+                <DELETED>    (I) A description of how oversight and 
+                transparency of the foreign assistance provided through 
+                the Economic Resilience Initiative will be 
+                maintained.</DELETED>
+                <DELETED>    (J) As appropriate, a process or processes 
+                for considering--</DELETED>
+                        <DELETED>    (i) solicited proposals under the 
+                        Energy Security Pact; and</DELETED>
+                        <DELETED>    (ii) unsolicited proposals by 
+                        national, regional, and local governments and 
+                        private corporations.</DELETED>
+                <DELETED>    (K) A requirement that open, fair, 
+                competitive, and transparent procedures are used in the 
+                administration of grants or cooperative agreements or 
+                the procurement of goods and services for the 
+                accomplishment of objectives under the Energy Security 
+                Pact.</DELETED>
+                <DELETED>    (L) The strategy of the partner country to 
+                sustain progress made toward achieving the objectives 
+                described in subparagraph (C) after expiration of the 
+                Energy Security Pact.</DELETED>
+                <DELETED>    (M) A description of the role of council 
+                agencies in any design, implementation, and monitoring 
+                of programs and activities funded through the Energy 
+                Security Pact.</DELETED>
+                <DELETED>    (N) A description of any contribution, as 
+                appropriate, from the partner country relative to its 
+                national budget and taking into account the prevailing 
+                economic conditions, toward meeting the objectives 
+                described in subparagraph (C).</DELETED>
+        <DELETED>    (2) Prohibition on taxation.--In addition to the 
+        elements described in paragraph (1), each Energy Security Pact 
+        shall contain a provision stating that assistance provided by 
+        the United States under the Energy Security Pact shall be 
+        exempt from taxation by the government of the partner 
+        country.</DELETED>
+        <DELETED>    (3) Energy sources.--An Energy Security Pact shall 
+        not exclude, as a matter of policy, any specific type of energy 
+        or power generation.</DELETED>
+<DELETED>    (e) Notification Regarding Increase or Extension of 
+Assistance.--Not later than 15 days after making a determination and 
+before distributing funds to increase or extend assistance under an 
+Energy Security Pact with a partner country, the Secretary, acting 
+through the Director for Energy Security Pacts, shall submit to the 
+appropriate congressional committees a written notification that 
+contains the following:</DELETED>
+        <DELETED>    (1) A justification for the 
+        determination.</DELETED>
+        <DELETED>    (2) A detailed summary of the proposed increase 
+        in, or extension of, assistance under the Energy Security 
+        Pact.</DELETED>
+        <DELETED>    (3) A copy of the full text of the amendment to 
+        the Energy Security Pact.</DELETED>
+<DELETED>    (f) Duration.--The duration of an Energy Security Pact may 
+not exceed 10 years.</DELETED>
+<DELETED>    (g) Subsequent and Concurrent Pacts.--A partner country 
+that has entered into, and has in effect, an Energy Security Pact may 
+enter into, and concurrently have in effect, additional Energy Security 
+Pacts.</DELETED>
+<DELETED>    (h) Rule of Construction.--Nothing in this section shall 
+be construed to alter, supersede, or otherwise affect any authorities, 
+restrictions, or eligibility requirements existing on the date of the 
+enactment of this Act applicable to foreign assistance programs 
+administered by any Federal department or agency, including 
+determinations regarding the eligibility of countries for such 
+assistance made pursuant to the Foreign Assistance Act of 1961 (22 
+U.S.C. 2151 et seq.) or any other provision of law.</DELETED>
+
+<DELETED>SEC. 6. ENERGY SECURITY PACTS COUNCIL.</DELETED>
+
+<DELETED>    (a) Establishment.--Not later than 90 days after the date 
+of the enactment of this Act, the President shall establish an Energy 
+Security Pacts Council (in this section referred to as the ``Council'') 
+to coordinate and implement Energy Security Pacts.</DELETED>
+<DELETED>    (b) Chairperson.--The Council shall be chaired by the 
+Secretary.</DELETED>
+<DELETED>    (c) Composition.--The Council shall be composed of 
+principal officers of executive departments from the 
+following:</DELETED>
+        <DELETED>    (1) The United States International Development 
+        Finance Corporation.</DELETED>
+        <DELETED>    (2) The Department of Energy.</DELETED>
+        <DELETED>    (3) The United States Trade and Development 
+        Agency.</DELETED>
+        <DELETED>    (4) The Export-Import Bank of the United 
+        States.</DELETED>
+        <DELETED>    (5) The Department of Commerce.</DELETED>
+        <DELETED>    (6) The United States Trade 
+        Representative.</DELETED>
+        <DELETED>    (7) The Department of Defense.</DELETED>
+        <DELETED>    (8) The Department of State.</DELETED>
+        <DELETED>    (9) The Department of the Treasury.</DELETED>
+        <DELETED>    (10) The Millennium Challenge 
+        Corporation.</DELETED>
+        <DELETED>    (11) The Department of the Interior.</DELETED>
+        <DELETED>    (12) Any other Federal department, agency, or 
+        organization that the President determines to be 
+        appropriate.</DELETED>
+<DELETED>    (d) Vacancies.--When there is a vacancy in the office of a 
+principal officer of an executive department, the individual acting in 
+the capacity of principal officer shall serve as a member of the 
+Council until a new principal officer of the executive department is 
+appointed.</DELETED>
+<DELETED>    (e) Delegation.--The principal officer of an executive 
+department may delegate a senior official (as described in section 1(d) 
+of the State Department Basic Authorities Act of 1956 (22 U.S.C. 
+2651a(d)) or following other relevant agency guidance) to serve on the 
+Council, as appropriate.</DELETED>
+<DELETED>    (f) Meetings.--The Council shall meet not less frequently 
+than quarterly.</DELETED>
+<DELETED>    (g) Duties.--The Council shall--</DELETED>
+        <DELETED>    (1) coordinate Energy Security Pact-related 
+        activities of the council agencies;</DELETED>
+        <DELETED>    (2) make annual recommendations to the Director 
+        for Energy Security Pacts, taking into account the stated 
+        priorities of the National Security Council and the President, 
+        regarding the prioritization of countries eligible for Energy 
+        Security Pact negotiation; and</DELETED>
+        <DELETED>    (3) make recommendations to improve interagency 
+        collaboration for purposes of promoting energy security and 
+        United States national security interests abroad.</DELETED>
+<DELETED>    (h) Sunshine Act Compliance.--Meetings of the Council are 
+subject to section 552b of title 5, United States Code (commonly 
+referred to as the ``Government in the Sunshine Act'').</DELETED>
+
+<DELETED>SEC. 7. EVALUATION BY GOVERNMENT ACCOUNTABILITY 
+              OFFICE.</DELETED>
+
+<DELETED>    Not later than 2 years after the date of the enactment of 
+this Act, and annually thereafter until the final Energy Security Pact 
+expires, the Comptroller General of the United States shall submit to 
+Congress an evaluation of the efficiency and development impact of 
+projects supported by an Energy Security Pact.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Energy Security Pacts Act''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means--
+                    (A) the Committee on Foreign Relations and the 
+                Committee on Appropriations of the Senate; and
+                    (B) the Committee on Foreign Affairs and the 
+                Committee on Appropriations of the House of 
+                Representatives.
+            (2) Council agency.--The term ``council agency'' means a 
+        department, agency, or organization described in section 6(c).
+            (3) Critical mineral.--The term ``critical mineral'' means 
+        any mineral on the list of critical minerals required by 
+        section 7002(c)(3) of the Energy Act of 2020 (30 U.S.C. 
+        1606(c)(3)) on or after January 1, 2026.
+            (4) Director for energy security pacts.--The term 
+        ``Director for Energy Security Pacts'' means the Director for 
+        Energy Security Pacts described in section 4.
+            (5) Energy security pact.--The term ``Energy Security 
+        Pact'' means an Energy Security Pact described in section 3.
+            (6) Energy security pacts council.--The term ``Energy 
+        Security Pacts Council'' means the Energy Security Pacts 
+        Council established under section 6.
+            (7) Partner country.--The term ``partner country'' means a 
+        country eligible for participation in an Energy Security Pact.
+            (8) Reliable access to energy or electricity.--The term 
+        ``reliable access to energy or electricity'' means access to 
+        energy or electricity that enables the electric system to 
+        consistently meet demand through a combination of generation, 
+        forecasting, storage, and grid management tools available 
+        across all resources and technologies.
+            (9) Secretary.--The term ``Secretary'' means the Secretary 
+        of State.
+            (10) Senior united states government official.--The term 
+        ``senior United States Government official'' means--
+                    (A) any individual serving in a position at level I 
+                of the Executive Schedule under section 5312 of title 
+                5, United States Code; and
+                    (B) any individual serving as a presidential 
+                special envoy.
+            (11) Under secretary.--The term ``Under Secretary'' means 
+        the Under Secretary of State for Economic Growth, Energy, and 
+        the Environment.
+
+SEC. 3. AUTHORITY FOR ENERGY SECURITY PACTS.
+
+    (a) In General.--The Secretary may carry out an initiative to 
+establish multiyear agreements, to be known as ``Energy Security 
+Pacts'', with partner countries for the purpose of enhancing the energy 
+and economic security and stability of the United States and partner 
+countries, including through efforts to counter economic coercion 
+through the diversification of critical mineral and energy supply 
+chains.
+    (b) Assistance for the Development and Implementation of Pacts.--
+The Director for Energy Security Pacts may--
+            (1) enter into contracts for required technical support 
+        related to Energy Security Pacts;
+            (2) make grants to partner countries that meet eligibility 
+        requirements for United States foreign assistance for the 
+        purpose of building the administrative or technical capacity 
+        necessary to facilitate the development and implementation of 
+        an Energy Security Pact between the United States and such 
+        country; and
+            (3) lead Country Pact Teams, in accordance with section 
+        4(c), to carry out the implementation of Energy Security Pacts.
+    (c) Limitations and Conditions.--
+            (1) Prohibition on military assistance and training.--
+        Assistance under this section may not include military 
+        assistance or military training for a country.
+            (2) Condition on assistance relating to american 
+        competitiveness or production displacement.--Prior to funding a 
+        project pursuant to an Energy Security Pact, the Secretary, in 
+        consultation with other relevant departments and agencies, 
+        should conduct an assessment on whether the proposed project 
+        would undermine the competitiveness or displace production of 
+        relevant domestic suppliers.
+            (3) Prohibition on assistance relating to environmental, 
+        health, or safety hazards.--Assistance under this section may 
+        not be provided for any project that is likely to cause a 
+        significant environmental, health, or safety hazard.
+            (4) Foreign aid transparency and accountability act 
+        compliance.--None of the funds authorized to be appropriated or 
+        otherwise made available to carry out this Act may be obligated 
+        or expended for an Energy Security Pact unless the Secretary 
+        complies with the requirements of section 4 of the Foreign Aid 
+        Transparency and Accountability Act of 2016 (22 U.S.C. 2394c) 
+        with respect to the Pact and all activities associated with the 
+        Pact.
+            (5) Prohibition on assistance for certain entities.--None 
+        of the funds authorized to be appropriated or otherwise made 
+        available to carry out this Act may be obligated or expended to 
+        provide any grant, contract, or other financial assistance to 
+        an entity in which a senior United States Government official 
+        or an immediate family member (as defined in section 1128(j) of 
+        the Social Security Act (42 U.S.C. 1320a-7(j))) of such 
+        official holds any ownership interest or serves in any 
+        managerial, officer, director, or board capacity.
+            (6) Other prohibition.--Assistance under this section may 
+        not be used in any manner otherwise prohibited by any provision 
+        of law.
+
+SEC. 4. DIRECTOR OF ENERGY SECURITY PACTS.
+
+    (a) Director for Energy Security Pacts.--
+            (1) In general.--The activities described in this Act may 
+        be led by a Director for Energy Security Pacts, who may be--
+                    (A) appointed by the Secretary; and
+                    (B) responsible--
+                            (i) to the Under Secretary for all matters 
+                        pertaining to the administration and 
+                        implementation of Energy Security Pacts; and
+                            (ii) for such other related duties as the 
+                        Secretary may from time to time designate.
+            (2) Responsibilities.--In addition to the responsibilities 
+        described in paragraph (1), the Director for Energy Security 
+        Pacts should be responsible for supporting the coordination and 
+        implementation of the Energy Security Pacts Council, including 
+        for matters pertaining to the following:
+                    (A) Leading the development, negotiation, and 
+                management of Energy Security Pacts.
+                    (B) Consulting and coordinating with council 
+                agencies to develop prospective Energy Security Pacts 
+                and implement ongoing Energy Security Pacts, as 
+                appropriate.
+                    (C) Serving as the recipient for--
+                            (i) solicited proposals under Energy 
+                        Security Pacts; and
+                            (ii) unsolicited proposals for projects to 
+                        be considered for inclusion in any Energy 
+                        Security Pact by national, regional, and local 
+                        governments and private corporations.
+                    (D) Signing interagency agreements from 
+                departments, agencies, or independent establishments of 
+                the United States Government on behalf of the 
+                Department of State (with the consent of the head of 
+                such department, agency, or establishment) for the 
+                purpose of developing, implementing, or otherwise 
+                participating in an Energy Security Pact.
+                    (E) Coordinating with other donor entities, 
+                including countries that are allies and partners of the 
+                United States, the Forum on Resource Geostrategic 
+                Engagement of the Department of State, and other 
+                multilateral fora, for purposes of deconflicting, 
+                augmenting, and leveraging, as appropriate, Energy 
+                Security Pact workplans with the development and 
+                financing activities performed by others.
+            (3) Annual report required.--Not less frequently than 
+        annually until the date that is 5 years after the date of the 
+        enactment of this Act, the Director for Energy Security Pacts 
+        shall submit to the appropriate congressional committees, the 
+        Executive Office of the President, the National Security 
+        Council, and the Secretary a report describing--
+                    (A) the current status and expenditures of 
+                activities authorized under this Act;
+                    (B) any obstacles to the implementation of such 
+                activities; and
+                    (C) any updates to the multiyear financial plan 
+                developed pursuant to section 5(d)(G).
+    (b) Country Pact Teams.--
+            (1) In general.--The Secretary, in consultation with the 
+        Under Secretary and relevant Federal departments and agencies, 
+        may designate a Country Pact Team for each Energy Security 
+        Pact.
+            (2) Leadership; duties.--Each Country Pact Team shall--
+                    (A) be led by the Director for Energy Security 
+                Pacts, who may regularly engage with the Energy 
+                Security Pacts Council on matters related to the Energy 
+                Security Pact; and
+                    (B) manage the day-to-day activities related to the 
+                development, negotiation, implementation, and 
+                monitoring of the Pact.
+    (c) Personnel.--
+            (1) In general.--The Under Secretary or the Under 
+        Secretary's designee may--
+                    (A) upon request from the heads of relevant Federal 
+                departments and agencies, detail staff, on a 
+                reimbursable basis, to heads of council agencies with 
+                relevant sectoral, financial, or regional expertise for 
+                the express purpose of supporting the negotiation or 
+                implementation of an Energy Security Pact;
+                    (B) request from the heads of council agencies the 
+                detail of personnel to the Director of Energy Security 
+                Pacts with relevant sectoral, financial, or regional 
+                expertise, on a reimbursable basis, for the express 
+                purpose of supporting the negotiation or implementation 
+                of an Energy Security Pact; and
+                    (C) appoint, without regard to the provisions of 
+                sections 3309 through 3318 of title 5, United States 
+                Code, candidates directly to positions in the 
+                competitive service, as defined in section 2102 of that 
+                title.
+            (2) Detailed employees.--Any employee detailed pursuant to 
+        a request made under paragraph (1)(A) shall remain, for the 
+        purpose of preserving such employee's allowances, privileges, 
+        rights, seniority, and other benefits, an employee of the 
+        agency from which detailed.
+    (d) Termination.--
+            (1) New energy security pacts.--The authority to enter into 
+        new Energy Security Pacts shall terminate on the date that is 
+        15 years after the date of the enactment of this Act.
+            (2) Director; council.--The position of Director for Energy 
+        Security Pacts and the Energy Security Pacts Council shall 
+        terminate 30 days after the final Energy Security Pact expires.
+    (e) Reports.--Not later than 180 days after the date of the 
+enactment of this Act, the Under Secretary shall submit to the 
+appropriate congressional committees a report that contains plans to 
+attract and retain diplomatic, policy, legal, and technical expertise 
+for civil service officers to work with the Director of Energy Security 
+Pacts, including career promotion tracks to supervisory and non-
+supervisory GS-15 positions.
+
+SEC. 5. APPROVAL, ELIGIBILITY, AND ELEMENTS OF ENERGY SECURITY PACTS.
+
+    (a) Goal.--It shall be the goal of each Energy Security Pact to 
+increase reliable access to energy or electricity for the United States 
+and the partner country to the Energy Security Pact, for the purpose of 
+stimulating economic growth, promoting United States mineral production 
+where possible, enabling follow-on private sector investment, 
+supporting the commercial competitiveness of United States companies, 
+or diversifying relevant supply chains.
+    (b) Initial Requirements.--
+            (1) Recommendation; analysis.--Before entering into an 
+        Energy Security Pact--
+                    (A) the Pact shall be recommended by the Director 
+                for Energy Security Pacts and the Under Secretary and 
+                approved by the Secretary, after consultation with the 
+                United States Ambassador, or in the absence of an 
+                Ambassador, the Charge d'Affaires, for the partner 
+                country; and
+                    (B) the Director for Energy Security Pacts, in 
+                collaboration with the Energy Security Pacts Council 
+                and the partner country, shall conduct a constraints 
+                analysis that--
+                            (i) identifies insufficiencies in the 
+                        energy sector and supply-chain segments needed 
+                        to strengthen the partner country's energy 
+                        security, consistent with United States energy 
+                        security risks and commercial opportunities; 
+                        and
+                            (ii) includes an assessment of the partner 
+                        country's ability to address shared critical 
+                        mineral supply chain vulnerabilities.
+            (2) Congressional notification.--Not later than 30 days 
+        before entering into an Energy Security Pact, the Director for 
+        Energy Security Pacts shall--
+                    (A) notify and consult with the appropriate 
+                congressional committees regarding such Pact;
+                    (B) transmit to the appropriate congressional 
+                committees the text of such Pact and additional 
+                documentation that describes the implementation of such 
+                Pact; and
+                    (C) provide to the appropriate congressional 
+                committees an in-person briefing regarding such Pact.
+    (c) Eligibility.--A country is eligible for participation in an 
+Energy Security Pact if--
+            (1)(A) the per capita income of the country is not greater 
+        than the World Bank's loan threshold; or
+            (B) at the beginning of the year in which negotiations are 
+        initiated, the country is eligible for support from the World 
+        Bank's International Bank for Reconstruction and Development or 
+        International Development Association graduation process; and
+            (2)(A) the country has deposits of critical minerals 
+        strategically or commercially important for the United States; 
+        or
+            (B) United States adversary encroachment into the country's 
+        energy system poses a threat to the national security of the 
+        United States; and
+            (3) the country is not a covered nation (as defined in 
+        section 4872(f) of title 10, United States Code).
+    (d) Energy Security Pact Elements.--
+            (1) In general.--Each Energy Security Pact shall contain 
+        the following:
+                    (A) The constraints analysis conducted under 
+                subsection (b)(1)(B).
+                    (B) A demonstrated effort to integrate the national 
+                economic development strategy of the partner country.
+                    (C) Specific objectives that the partner country 
+                and the United States expect to achieve during the term 
+                of the Energy Security Pact, including--
+                            (i) increased energy production, 
+                        reliability, and affordability in the partner 
+                        country;
+                            (ii) economic growth in the partner country 
+                        that may reduce the need for foreign 
+                        assistance;
+                            (iii) improved access to energy, in 
+                        consultation with affected communities and 
+                        civil society; and
+                            (iv) improved infrastructure that enables 
+                        access to critical minerals mining and 
+                        processing.
+                    (D) The responsibilities of the partner country and 
+                the United States in the achievement of such 
+                objectives.
+                    (E) Regular quantitative benchmarks to measure, as 
+                appropriate, progress toward achieving such objectives.
+                    (F) An identification of the intended impact of the 
+                activities carried out in accordance with the Energy 
+                Security Pact.
+                    (G) A multiyear financial plan, updated annually 
+                until the expiration of the term of the Energy Security 
+                Pact, that--
+                            (i) estimates the amount of contributions, 
+                        commitments, and other participation to be 
+                        provided by council agencies, the partner 
+                        country, multilateral development banks, and 
+                        other development finance institutions as 
+                        applicable;
+                            (ii) ensures that the Pact incorporates and 
+                        is complementary to development programs 
+                        administered by other Federal departments and 
+                        agencies, so that United States funds are used 
+                        to improve feasibility for private sector 
+                        investment to further development goals;
+                            (iii) identifies proposed mechanisms to 
+                        implement the plan and provide oversight of the 
+                        plan; and
+                            (iv) describes how the requirements 
+                        described in this subsection will be met, 
+                        including the role of the private sector in the 
+                        achievement of such requirements.
+                    (H) As appropriate, a description of the current 
+                and potential participation of other donors, including 
+                council agencies or countries that are allies and 
+                partners of the United States, in the achievement of 
+                the objectives described in subparagraph (C).
+                    (I) A description of how oversight and transparency 
+                of the foreign assistance provided through the Energy 
+                Security Pact will be maintained.
+                    (J) As appropriate, a process or processes for 
+                considering--
+                            (i) solicited proposals under the Energy 
+                        Security Pact; and
+                            (ii) unsolicited proposals by national, 
+                        regional, and local governments and private 
+                        corporations.
+                    (K) A requirement that open, fair, competitive, and 
+                transparent procedures are used in the administration 
+                of grants or cooperative agreements or the procurement 
+                of goods and services for the accomplishment of 
+                objectives under the Energy Security Pact.
+                    (L) The strategy of the partner country to sustain 
+                progress made toward achieving the objectives described 
+                in subparagraph (C) after expiration of the Energy 
+                Security Pact.
+                    (M) A description of the role of council agencies 
+                in any design, implementation, and monitoring of 
+                programs and activities funded through the Energy 
+                Security Pact.
+                    (N) A description of any contribution, as 
+                appropriate, from the partner country relative to its 
+                national budget and taking into account the prevailing 
+                economic conditions, toward meeting the objectives 
+                described in subparagraph (C).
+            (2) Prohibition on taxation.--In addition to the elements 
+        described in paragraph (1), each Energy Security Pact shall 
+        contain a provision stating that assistance provided by the 
+        United States under the Energy Security Pact shall be exempt 
+        from taxation by the government of the partner country.
+            (3) Energy sources.--An Energy Security Pact shall not 
+        exclude, as a matter of policy, any specific type of energy or 
+        power generation.
+    (e) Notification Regarding Increase or Extension of Assistance.--
+Not later than 30 days after making a determination and before 
+distributing funds to increase or extend assistance under an Energy 
+Security Pact with a partner country, the Secretary shall submit to the 
+appropriate congressional committees a written notification that 
+contains the following:
+            (1) A justification for the determination.
+            (2) A detailed summary of the proposed increase in, or 
+        extension of, assistance under the Energy Security Pact.
+            (3) A copy of the full text of the amendment to the Energy 
+        Security Pact.
+    (f) Duration.--The duration of an Energy Security Pact shall not 
+exceed 10 years.
+    (g) Subsequent and Concurrent Pacts.--A partner country that has 
+entered into, and has in effect, an Energy Security Pact may enter 
+into, and concurrently have in effect, not more than one additional 
+Energy Security Pact.
+    (h) Rule of Construction.--Nothing in this section shall be 
+construed to alter, supersede, or otherwise affect any authorities, 
+restrictions, or eligibility requirements existing on the date of the 
+enactment of this Act applicable to foreign assistance programs 
+administered by any Federal department or agency, including 
+determinations regarding the eligibility of countries for such 
+assistance made pursuant to the Foreign Assistance Act of 1961 (22 
+U.S.C. 2151 et seq.) or any other provision of law.
+
+SEC. 6. ENERGY SECURITY PACTS COUNCIL.
+
+    (a) Establishment.--Not later than 90 days after the date of the 
+enactment of this Act, the President should establish an Energy 
+Security Pacts Council (referred to in this section as the ``Council'') 
+to coordinate and implement Energy Security Pacts.
+    (b) Chairperson.--The Council may be chaired by the Secretary.
+    (c) Composition.--The Council may be composed of principal officers 
+of executive departments from the following departments and agencies:
+            (1) The United States International Development Finance 
+        Corporation.
+            (2) The Department of Energy.
+            (3) The United States Trade and Development Agency.
+            (4) The Export-Import Bank of the United States.
+            (5) The Department of Commerce.
+            (6) The United States Trade Representative.
+            (7) The Department of Defense.
+            (8) The Department of State.
+            (9) The Department of the Treasury.
+            (10) The Millennium Challenge Corporation.
+            (11) The Department of the Interior.
+            (12) Any other Federal department, agency, or organization 
+        that the President determines to be appropriate.
+    (d) Vacancies.--When there is a vacancy in the office of a 
+principal officer of an executive department, the individual acting in 
+the capacity of principal officer shall serve as a member of the 
+Council until a new principal officer of the executive department is 
+appointed.
+    (e) Designation.--The principal officer of an executive department 
+may designate a senior official of such department to serve on the 
+Council, as appropriate.
+    (f) Meetings.--The Council should meet not less frequently than 
+quarterly.
+    (g) Duties.--The Council should--
+            (1) coordinate Energy Security Pact-related activities of 
+        the council agencies;
+            (2) make annual recommendations to the Director for Energy 
+        Security Pacts, taking into account the stated priorities of 
+        the National Security Council and the President, regarding the 
+        prioritization of countries eligible for Energy Security Pact 
+        negotiation; and
+            (3) make recommendations to improve interagency 
+        collaboration for purposes of promoting energy security and 
+        United States national security interests abroad.
+    (h) Sunshine Act Compliance.--Meetings of the Council are subject 
+to section 552b of title 5, United States Code (commonly referred to as 
+the ``Government in the Sunshine Act'').
+
+SEC. 7. EVALUATION BY GOVERNMENT ACCOUNTABILITY OFFICE.
+
+    Not later than 2 years after the date of the enactment of this Act, 
+and annually thereafter until the final Energy Security Pact expires, 
+the Comptroller General of the United States shall submit to Congress 
+an evaluation of the efficiency and development impact of projects 
+supported by an Energy Security Pact.
+                                                       Calendar No. 508
+
+119th CONGRESS
+
+  2d Session
+
+                                S. 4392
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To promote United States and allied energy and mineral security, and 
+                          for other purposes.
+
+_______________________________________________________________________
+
+                             July 27, 2026
+
+                       Reported with an amendment

@@ -1,0 +1,113 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8107 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 8107
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 9, 2026
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To require the establishment of a list identifying program areas and 
+administrative practices presenting the greatest risk to the integrity 
+     of Federal funds administered by States and local governments.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Government Audit and Accountability 
+of Federally Funded State-Administered Programs Act''.
+
+SEC. 2. FEDERALLY-FUNDED STATE-ADMINISTERED PROGRAMS VULNERABILITY 
+              ASSESSMENT.
+
+    (a) In General.--Not later than 2 years after the date of the 
+enactment of this Act, and periodically thereafter, the Comptroller 
+General of the United States shall submit to Congress an assessment of 
+program areas and administrative practices that present the greatest 
+risk to the integrity of Federal funds administered by State and local 
+governments and pass-through entities subject to audit under chapter 75 
+of title 31, United States Code.
+    (b) Contents.--Each assessment required by subsection (a) shall--
+            (1) identify program areas and administrative practices at 
+        the Federal, State, and local level that present systematic 
+        vulnerabilities in the administration of Federal funds by State 
+        and local governments, including practices that are more 
+        susceptible to waste, fraud, abuse, and improper payments;
+            (2) assess evidence-based best practices and strategies 
+        that have strengthened the integrity of Federal funds 
+        administered by State and local governments and reduced waste, 
+        fraud, and abuse in Federally-funded programs;
+            (3) assess program areas and administrative practices at 
+        the Federal, State, and local level that--
+                    (A) have demonstrated effectiveness in mitigating 
+                waste, fraud, abuse, and improper payments; or
+                    (B) have shown limited effectiveness in reducing 
+                such risks;
+            (4) identify Federal tools, resources, and technical 
+        assistance available to State and local governments and how 
+        such tools may be improved to prevent and mitigate the systemic 
+        vulnerabilities identified under paragraph (1); and
+            (5) include recommendations to Federal agencies and matters 
+        for consideration to Congress to address and improve the 
+        program areas and administrative practices identified under 
+        paragraph (1), including recommendations to improve eligibility 
+        determination and enrollment processes to mitigate risks.
+    (c) Sources.--
+            (1) Audit and related materials.--In carrying out the 
+        preparation of the assessment under subsection (a), the 
+        Comptroller General shall rely, to the extent practicable, on 
+        existing oversight, audit, and investigative materials to 
+        conduct an analysis of Federal funds administrated by State and 
+        local governments, which may include--
+                    (A) any finding of a Federal, State, or local 
+                auditor, comptroller, treasurer, inspector general, 
+                attorney general, or any other similar official with 
+                respect to the administration of such funds;
+                    (B) any audit required under section 7502 of title 
+                31, United States Code; and
+                    (C) any other publicly available Federal, State, or 
+                local oversight and program integrity data.
+            (2) Additional materials.--In preparing each assessment 
+        required by subsection (a), the Comptroller General may 
+        supplement the materials described in paragraph (1) with 
+        additional analysis and new audit work, including by drawing on 
+        prior and ongoing work, where such materials are insufficient 
+        to assess the program areas and administrative practices 
+        identified under subsection (b)(1).
+    (d) Form and Methodology.--The Comptroller General shall determine 
+the appropriate form and methodology for preparing and submitting each 
+assessment required by subsection (a).
+    (e) Definitions.--In this section:
+            (1) Improper payment.--The term ``improper payment'' has 
+        the meaning given that term in section 3351(4) of title 31, 
+        United States Code.
+            (2) State.--The term ``State'' has the meaning given that 
+        term in section 6720(a)(4) of title 31, United States Code.
+
+            Passed the House of Representatives June 8, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

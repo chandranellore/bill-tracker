@@ -1,0 +1,196 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5383 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5383
+
+To amend the Controlled Substances Act to schedule MGM-15 and MGM-16 as 
+     Schedule I Controlled substances, and to amend the controlled 
+    Substances Act to schedule synthetic 7-hydroxymitragynine, and 
+ Mitragynine Pseudoindoxyl, as a Schedule I above a specific threshold 
+under the Controlled Substances Act, and to expand enforcement actions 
+   against drug manufacturers and distributors of emerging synthetic 
+             opioids, commonly known as gas station heroin.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+               August 8 (legislative day, August 7), 2026
+
+  Mr. Moreno introduced the following bill; which was read twice and 
+               referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Controlled Substances Act to schedule MGM-15 and MGM-16 as 
+     Schedule I Controlled substances, and to amend the controlled 
+    Substances Act to schedule synthetic 7-hydroxymitragynine, and 
+ Mitragynine Pseudoindoxyl, as a Schedule I above a specific threshold 
+under the Controlled Substances Act, and to expand enforcement actions 
+   against drug manufacturers and distributors of emerging synthetic 
+             opioids, commonly known as gas station heroin.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``End Gas Station Heroin Act''.
+
+SEC. 2. SCHEDULING OF 7-HYDROXYMITRAGYNINE AND MITRAGYNINE 
+              PSEUDOINDOXYL.
+
+    Schedule I of section 202(c) of the Controlled Substances Act (21 
+U.S.C. 812(c)) is amended, in subsection (b), by adding at the end the 
+following:
+            ``(23)(A) 7-hydroxymitragynine (7-OH) and mitragynine 
+        pseudoindoxyl, including their salts, isomers, salts of 
+        isomers, esters, ethers, and synthetic analogs, whenever the 
+        existence of such forms is possible.
+            ``(B) This paragraph shall not apply to 7-
+        hydroxymitragynine or mitragynine pseudoindoxyl naturally 
+        occurring in Mitragyna speciosa Korth (kratom) or in a finished 
+        kratom product, provided that--
+                    ``(i) in the case of a solid, powdered, or 
+                encapsulated product, the concentration of 7-
+                hydroxymitragynine and mitragynine pseudoindoxyl, 
+                individually or in combination, does not exceed 1 
+                milligram per gram of product;
+                    ``(ii) in the case of a liquid product, the 
+                concentration of 7-hydroxymitragynine and mitragynine 
+                pseudoindoxyl, individually or in combination, does not 
+                exceed 1 milligram per milliliter of product; and
+                    ``(iii) the combined amount of 7-hydroxymitragynine 
+                and mitragynine pseudoindoxyl, including their salts, 
+                isomers, salts of isomers, esters, ethers, and 
+                synthetic analogs, does not exceed 1 part per 100 parts 
+                mitragynine by mass.
+            ``(C) For purposes of this paragraph, any 7-
+        hydroxymitragynine or mitragynine pseudoindoxyl that is 
+        synthesized, chemically converted, concentrated, enriched, 
+        isolated, or otherwise produced through manufacturing processes 
+        shall not qualify for the exemption described in subparagraph 
+        (B).''.
+
+SEC. 3. ENFORCEMENT AGAINST EMERGING SYNTHETIC OPIOIDS IN COMMERCIAL 
+              DISTRIBUTION.
+
+    (a) Treatment as a Schedule I Controlled Substance.--
+Notwithstanding any other provision of law, a covered emerging 
+synthetic opioid shall, solely for purposes of prohibiting and 
+enforcing against its knowing or intentional manufacture, importation, 
+exportation, distribution, dispensing, or possession with intent to 
+manufacture, import, export, distribute, or dispense, be treated as a 
+controlled substance in Schedule I of section 202(c) of the Controlled 
+Substances Act (21 U.S.C. 812(c)).
+    (b) Civil and Criminal Enforcement.--No person shall be subject 
+under this section to criminal or civil enforcement based solely on the 
+purchase, receipt, simple possession, or personal use of a covered 
+emerging synthetic opioid.
+    (c) Covered Emerging Synthetic Opioid.--For purposes of this 
+section, the term ``covered emerging synthetic opioid'' means a 
+substance that--
+            (1) is being manufactured, offered, advertised, sold, 
+        distributed, or otherwise introduced into commercial 
+        distribution, or is intended by the person engaging in the 
+        prohibited conduct to be introduced into commercial 
+        distribution;
+            (2) is an opioid receptor agonist, or partial agonist and, 
+        based on scientifically reliable evidence, demonstrates greater 
+        functional potency than morphine at the human mu-opioid 
+        receptor in a validated assay identified by regulation, or 
+        demonstrates greater analgesic or respiratory-depressant 
+        potency than morphine based on other scientifically reliable 
+        evidence;
+            (3) is produced through chemical synthesis or 
+        semisynthesis;
+            (4) is not the subject of an approved application under 
+        section 505 of the Federal Food, Drug, and Cosmetic Act (21 
+        U.S.C. 355);
+            (5) is intended for human consumption;
+            (6) is not otherwise listed in any schedule under section 
+        202 of the Controlled Substances Act (21 U.S.C. 812); and
+            (7) is not excluded under subsection (g).
+    (d) Covered Conduct.--This section shall apply only to the knowing 
+or intentional manufacture, distribution, or possession with intent to 
+manufacture or distribute a covered emerging synthetic opioid.
+    (e) No Simple Possession Enforcement.--No person may be 
+investigated, arrested, charged, prosecuted, or subjected to civil 
+penalties under this section solely for simple possession or personal 
+consumption of a covered emerging synthetic opioid. Nothing in this 
+subsection shall prohibit enforcement based on possession with intent 
+to manufacture, distribute, dispense, import, or export.
+    (f) Relationship to the Controlled Substance Analogue Enforcement 
+Act.--If a substance qualifies both as--
+            (1) a controlled substance analogue under section 102(32) 
+        of the Controlled Substances Act (21 U.S.C. 802(32)); and
+            (2) a covered emerging synthetic opioid under this section,
+the Attorney General may proceed under section 203 of the Controlled 
+Substances Act (21 U.S.C. 813), this section, or any other applicable 
+provision of Federal law. Nothing in this section shall expand or limit 
+the authority of a State attorney general or other State official under 
+State law.
+    (g) Exclusions.--The term ``covered emerging synthetic opioid'' 
+does not include--
+            (1) a substance approved as a drug for medical treatment 
+        under the Controlled Substances Act (21 U.S.C. 801 et seq.);
+            (2) a substance not intended for human consumption;
+            (3) a naturally occurring constituent of a plant, fungus, 
+        or other botanical material, or a constituent derived through 
+        brewing or extraction process of a natural plant, fungus, or 
+        other botanical material, unless the constituent has been 
+        intentionally, isolated, enriched, concentrated, chemically 
+        converted, or added to a product for human consumption;
+            (4) a substance possessed or transferred solely for 
+        legitimate scientific, medical, forensic, analytical, or law-
+        enforcement purposes; or
+            (5) a substance otherwise exempted by the Attorney General 
+        through regulation.
+    (h) Limitation to Commercial Conduct.--Enforcement under this 
+section may be based only on the quantity or portion of a substance 
+that is--
+            (1) introduced or intended to be introduced into commercial 
+        distribution; and
+            (2) connected to conduct described in subsection (a).
+The presence of the same substance outside commercial distribution, 
+including possession for authorized research, analytical testing, 
+forensic examination, or other noncommercial purposes, shall not 
+independently subject that substance or conduct to enforcement under 
+this section.
+    (i) Definitions.--For the purposes of this section--
+            (1) the term ``commercial distribution'' means the 
+        advertisement, offering for sale, sale, shipment, transfer for 
+        value, or distribution of a substance or product in or 
+        affecting interstate, intrastate, or foreign commerce;
+            (2) whether a substance is ``intended for human 
+        consumption'' shall be determined from all relevant facts and 
+        circumstances, potentially including labeling, advertising, 
+        dosage form, method of sale, representations by the seller, 
+        customary use, and evidence concerning the intended market;
+            (3) the term ``scientifically reliable evidence'' includes 
+        validated in vitro, animal, human, pharmacokinetic, 
+        pharmacodynamic, receptor-binding, functional-activity, or 
+        other scientifically accepted evidence identified by the 
+        Attorney General, in consultation with the Secretary of Health 
+        and Human Services; and
+            (4) the term ``semisynthesis'' means the chemical 
+        modification or conversion of a naturally occurring substance 
+        into a chemically distinct substance.
+                                 <all>

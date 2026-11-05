@@ -1,0 +1,167 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9372 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9372
+
+   To direct the Director of the National Institute of Standards and 
+ Technology to develop best practices for measuring data center energy 
+use, study data availability for the purpose of improving energy demand 
+           forecasting capabilities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 18, 2026
+
+    Mr. Subramanyam (for himself, Mr. Obernolte, and Mrs. Foushee) 
+ introduced the following bill; which was referred to the Committee on 
+                     Science, Space, and Technology
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To direct the Director of the National Institute of Standards and 
+ Technology to develop best practices for measuring data center energy 
+use, study data availability for the purpose of improving energy demand 
+           forecasting capabilities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Data Infrastructure Energy 
+Measurement and Standards Act''.
+
+SEC. 2. ACTIVITIES TO SUPPORT METROLOGY OF DATA CENTER ENERGY USE.
+
+    (a) Best Practices for Measuring Data Center Energy Use.--The 
+Director of the National Institute of Standards and Technology, in 
+consultation with the Secretary of Energy, shall carry out a 
+measurement research program (in this section referred to as the 
+``program'') to inform the development or improvement of best 
+practices, definitions, methodologies, procedures, and technical 
+standards for the measurement of energy and water use by data centers 
+and the workloads of such centers, including the measurement of energy 
+and water use resulting from training and inference of artificial 
+intelligence models or other compute intensive information processes.
+    (b) Activities.--In carrying out the program, the Director shall 
+carry out the following:
+            (1) Conduct research and testing to improve the accuracy, 
+        efficacy, timeliness, and reliability of the measurement of 
+        energy and water use by data centers and the workloads of such 
+        centers.
+            (2) Develop or identify best practices, guidelines, 
+        definitions, methodologies, and procedures for measuring and 
+        reporting energy and water use by data centers and the 
+        workloads of such centers, taking into consideration the 
+        following:
+                    (A) The type of workload and aggregate energy and 
+                water use by a given data center, including complex 
+                artificial intelligence workloads.
+                    (B) Temporal power consumption load profiles 
+                associated with data center energy use accounting for 
+                behind-the-meter generation, front-of-meter generation, 
+                and energy generation not provided to the electric grid 
+                on a facility-level basis.
+                    (C) Varying information technology system, power 
+                chain, and cooling configurations, including 
+                consideration of servers, storage, network, power 
+                transformation, distribution, and uninterruptible 
+                supply technologies.
+                    (D) Temporal variations in electricity loads due to 
+                variations in workloads, technology configurations, and 
+                data center locations, including local climate and 
+                resource factors.
+            (3) Study data needs for relevant research and energy and 
+        water demand forecasting, and relevant driving factors relating 
+        to such needs, including an identification of the following:
+                    (A) Existing gaps in the following:
+                            (i) Data collection.
+                            (ii) Data availability from public and non-
+                        public sources.
+                            (iii) Researcher access.
+                    (B) Risks related to the gaps identified in clauses 
+                (i) through (iii) of subparagraph (A), including the 
+                reliability of energy and water demand forecasts from 
+                different stakeholder perspectives.
+            (4) Support the development of standardized metrics and 
+        data sharing mechanisms that would help provide information to 
+        researchers and relevant stakeholders regarding data center 
+        energy and water use in such a way that promotes improved 
+        energy and water demand forecasting capabilities.
+            (5) Coordinate with the Secretary of Energy to carry out 
+        the following:
+                    (A) Ensure applicable metrics and data are managed, 
+                stewarded, and archived appropriately, and in 
+                accordance with the best practices described in 
+                paragraph (2).
+                    (B) Promote full and open exchange of such metrics 
+                and data at Federal and State levels, and with 
+                academia, industry, and other users, as practicable and 
+                appropriate.
+            (6) Coordinate with international partners, including 
+        international standards organizations, to maintain global data 
+        center energy measurement standards.
+    (c) Stakeholder Engagement.--In carrying out subsection (b), the 
+Director shall seek to engage with and convene representatives of 
+industry, academia, nonprofit organizations, standards development 
+organizations, civil society groups, and appropriate Federal 
+departments and agencies.
+    (d) Briefings.--Not later than one year after the date of the 
+enactment of this Act, and again not later than two years after such 
+date, the Director shall brief the Committee on Science, Space, and 
+Technology of the House of Representatives and the Committee on 
+Commerce, Science, and Transportation and the Committee on Energy and 
+Natural Resources of the Senate on the program.
+    (e) Authorization of Appropriations.--There are authorized to be 
+appropriated to the Director to carry out this section $10,000,000 for 
+each of fiscal years 2027 through 2029.
+    (f) Definitions.--In this section:
+            (1) Artificial intelligence.--The term ``artificial 
+        intelligence'' has the meaning given such term in section 5002 
+        of the National Artificial Intelligence Initiative Act of 2020 
+        (15 U.S.C. 9401).
+            (2) Artificial intelligence model.--The term ``artificial 
+        intelligence model'' means a software component of an 
+        information system that implements artificial intelligence 
+        technology and uses computational, statistical, or machine-
+        learning techniques to produce outputs from a defined set of 
+        inputs.
+            (3) Behind-the-meter generation.--The term ``behind-the-
+        meter generation'' means the generation or storage of energy, 
+        including electricity and fuels consumed in backup and onsite 
+        generation, using a system that operates on the customer side 
+        of the applicable utility meter.
+            (4) Data center.--The term ``data center'' means any 
+        facility that primarily contains electronic equipment used to 
+        process, store, or transmit digital information.
+            (5) Director.--The term ``Director'' means the Director of 
+        the National Institute of Standards and Technology.
+            (6) Front-of-meter generation.--The term ``front-of-meter 
+        generation'' means the generation of energy at a facility 
+        directly connected to a grid with the primary purpose of 
+        providing electricity to one or more offsite locations via such 
+        grid or utility meters with which such facility does not have 
+        an electrical connection.
+            (7) Information system.--The term ``information system'' 
+        has the meaning given such term in section 3502 of title 44, 
+        United States Code.
+                                 <all>

@@ -1,0 +1,125 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6618 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 6618
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To require the Administrator of the Federal Aviation Administration to 
+ conduct a study on drone incursions on wildfire suppression, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Wildfire Aerial Response Safety 
+Act''.
+
+SEC. 2. STUDY ON DRONE INCURSIONS ON WILDFIRE SUPPRESSION.
+
+    (a) Definitions.--In this section:
+            (1) Counter-UASsystem; unmanned aircraft system.--The terms 
+        ``counter-UAS system'' and ``unmanned aircraft system'' have 
+        the meanings given such terms in section 44801 of title 49, 
+        United States Code.
+            (2) Unmanned aircraft system incursion.--The term 
+        ``unmanned aircraft system incursion'' means the operation of 
+        an unmanned aircraft system within any airspace for which the 
+        Administrator of the Federal Aviation Administration has issued 
+        a temporary flight restriction because of a wildfire.
+    (b) Study Required.--The Administrator of the Federal Aviation 
+Administration, in consultation with the Secretary of the Interior and 
+the Secretary of Agriculture, acting through the Chief of the Forest 
+Service, shall conduct a study on the effects of unmanned aircraft 
+system incursions on wildfire suppression with respect to land managed 
+by the Department of the Interior or the Department of Agriculture.
+    (c) Study Contents.--In conducting the study required under 
+subsection (b), the Administrator shall--
+            (1) determine, for each of the 5 most recent calendar 
+        years--
+                    (A) the number of occurrences in which a unmanned 
+                aircraft system incursion has interfered with wildfire 
+                suppression; and
+                    (B) the estimated effect of each occurrence 
+                described in subparagraph (A) on--
+                            (i) the length of time required to achieve 
+                        complete suppression;
+                            (ii) any associated delay in the fielding 
+                        of aerial firefighting response units; and
+                            (iii) the amounts expended by the Federal 
+                        Government; and
+            (2) evaluate the feasibility and effectiveness of--
+                    (A) the dissemination of educational materials 
+                relating to the effects of unmanned aircraft system 
+                incursions on wildfire suppression operations; and
+                    (B) the deployment of approved counter-UAS systems 
+                by authorized entities as a means to detect, mitigate, 
+                and prevent unmanned aircraft system incursions during 
+                such operations.
+    (d) Report.--Not later than 18 months after the date of enactment 
+of this Act, the Administrator shall submit to the Committee on Energy 
+and Natural Resources, the Committee on Appropriations, and the 
+Committee on Commerce, Science, and Transportation of the Senate and 
+the Committee on Natural Resources, the Committee on Appropriations, 
+and the Committee on Transportation and Infrastructure of the House of 
+Representatives a report describing--
+            (1) the findings of the study required under subsection 
+        (b); and
+            (2) any recommendations relating to those findings.
+
+            Passed the House of Representatives March 24, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 6618
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To require the Administrator of the Federal Aviation Administration to 
+ conduct a study on drone incursions on wildfire suppression, and for 
+                            other purposes.

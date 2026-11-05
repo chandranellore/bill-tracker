@@ -1,0 +1,1924 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9086 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9086
+
+  To amend the Foreign Service Act of 1980 to modify and improve that 
+                                  Act.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              June 2, 2026
+
+ Mr. Lawler (for himself and Mr. Mast) introduced the following bill; 
+which was referred to the Committee on Foreign Affairs, and in addition 
+  to the Committee on Ways and Means, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Foreign Service Act of 1980 to modify and improve that 
+                                  Act.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Foreign Service 
+Modernization Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Reference.
+Sec. 3. Effect of amendments on conforming changes to tables of 
+                            contents.
+                      TITLE I--GENERAL PROVISIONS
+
+Sec. 101. Definitions.
+Sec. 102. Returning policy execution to diplomatic efforts.
+Sec. 103. Recruiting from nontraditional institutions of higher 
+                            education.
+                    TITLE II--MANAGEMENT OF SERVICE
+
+Sec. 201. Expeditionary diplomacy.
+Sec. 202. Additional authority.
+Sec. 203. Clarification of the role of Director General of the Foreign 
+                            Service.
+Sec. 204. Board of Examiners for the Service.
+Sec. 205. Cybersecurity, technology governance, and operational 
+                            coordination.
+                        TITLE III--APPOINTMENTS
+
+Sec. 301. Sense of Congress.
+Sec. 302. Foreign Service Pathway for Veterans Program.
+Sec. 303. Commitment in hiring process relating to participation in the 
+                            Foreign Service fellowship program.
+         TITLE IV--CLASSIFICATION OF POSITIONS AND ASSIGNMENTS
+
+Sec. 401. Protection of external training, education, and details.
+                    TITLE V--PROMOTION AND RETENTION
+
+Sec. 501. Joint duty requirement.
+Sec. 502. Timely publication and congressional notification of tenure 
+                            and promotion lists.
+Sec. 503. Matters relating to recruitment process of public members of 
+                            the Foreign Service selection boards.
+Sec. 504. Legislative branch experience.
+        TITLE VI--CAREER DEVELOPMENT, TRAINING, AND ORIENTATION
+
+Sec. 601. Access to Information Center.
+Sec. 602. List of critical foreign languages.
+Sec. 603. Use of world language skills.
+Sec. 604. Diplomatic security fellowship program.
+Sec. 605. Bureau of African Affairs staffing.
+Sec. 606. Contracting Officer's Representative and Agreement Officer's 
+                            representative training.
+Sec. 607. Training for Foreign Service Officers.
+Sec. 608. Crisis management and strategy leadership training.
+Sec. 609. Structured training framework and protected training periods.
+Sec. 610. Leadership training.
+Sec. 611. Training relating to critical minerals.
+Sec. 612. Training at consular posts.
+Sec. 613. Strengthening diplomatic security training standards.
+Sec. 614. Mandatory crisis leadership and emergency management training 
+                            program for senior personnel.
+Sec. 615. Cybersecurity, technology, and artificial intelligence 
+                            training.
+Sec. 616. Veterans Innovation Partnership Fellowship Program; placement 
+                            and conversion support.
+Sec. 617. Reviews of the Foreign Service career tracks.
+Sec. 618. Integration of Foreign Service recruitment into military 
+                            transition programs.
+                        TITLE VII--OTHER MATTERS
+
+Sec. 701. Tax residency for Foreign Service Officers.
+Sec. 702. Internships for part-time students.
+Sec. 703. Diplomatic Reserve Corps Pilot Program.
+
+SEC. 2. REFERENCE.
+
+    Except as otherwise expressly provided, whenever in this Act an 
+amendment or repeal is expressed in terms of an amendment to, or repeal 
+of, a section, chapter, title, or other provision, the reference shall 
+be considered to be made to a section, chapter, title, or other 
+provision, respectively, of the Foreign Service Act of 1980 (22 U.S.C. 
+3901 et seq.).
+
+SEC. 3. EFFECT OF AMENDMENTS ON CONFORMING CHANGES TO TABLES OF 
+              CONTENTS.
+
+    When an amendment in this Act to the Foreign Service Act of 1980 
+(22 U.S.C. 3901 et seq.) adds a section or larger organizational unit 
+to the Act, repeals or transfers a section or larger organizational 
+unit in the Act, or amends the designation or heading of a section or 
+larger organizational unit in the Act, that amendment also shall have 
+the effect of amending any table of contents or similar tabular entries 
+in the Act to alter the table to conform to the changes made by the 
+amendment.
+
+                      TITLE I--GENERAL PROVISIONS
+
+SEC. 101. DEFINITIONS.
+
+    Section 102 (22 U.S.C. 3902) is amended--
+            (1) by redesignating paragraphs (3) through (12) as 
+        paragraphs (4) through (13), respectively; and
+            (2) by inserting after paragraph (2) the following:
+            ``(3) `appropriate congressional committees' means--
+                    ``(A) the Committee on Foreign Affairs of the House 
+                of Representatives; and
+                    ``(B) the Committee on Foreign Relations of the 
+                Senate.''.
+
+SEC. 102. RETURNING POLICY EXECUTION TO DIPLOMATIC EFFORTS.
+
+    Section 104 (22 U.S.C. 3904) is amended--
+            (1) in paragraph (2), by striking ``and'' at the end;
+            (2) in paragraph (3), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) implement and execute the foreign policy of the 
+        United States through the conduct of diplomacy, the management 
+        of programs, and the advancement of United States interests 
+        consistent with policies established by the President and 
+        Secretary in accordance with this Act.''.
+
+SEC. 103. RECRUITING FROM NONTRADITIONAL INSTITUTIONS OF HIGHER 
+              EDUCATION.
+
+    Section 105 (22 U.S.C. 3905) is amended by adding at the end the 
+following:
+    ``(f) Recruiting From Nontraditional Institutions of Higher 
+Education.--
+            ``(1) Sense of congress.--It is the sense of Congress that 
+        the Service should actively recruit candidates from 
+        nontraditional institutions of higher education, including 
+        community colleges, junior colleges, career and technical 
+        colleges, and other open-access or workforce-oriented 
+        institutions.
+            ``(2) Outreach.--The Secretary should ensure that outreach, 
+        information sessions, and preparation resources related to the 
+        Foreign Service officer selection process and other entry 
+        programs are regularly conducted at nontraditional institutions 
+        of higher education. In carrying out this subsection, the 
+        Secretary may--
+                    ``(A) partner, where appropriate, with 
+                institutional career centers, faculty, and student 
+                organizations to expand awareness of Service careers;
+                    ``(B) leverage digital and hybrid outreach methods 
+                to reach students and alumni who may not be 
+                geographically near current recruitment hubs; and
+                    ``(C) collaborate with other Federal departments 
+                and agencies engaged in workforce outreach at 
+                nontraditional institutions of higher education.''.
+
+                    TITLE II--MANAGEMENT OF SERVICE
+
+SEC. 201. EXPEDITIONARY DIPLOMACY.
+
+    Section 207 (22 U.S.C. 3927) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by striking ``and'' at the 
+                end;
+                    (B) in paragraph (2), by striking the period at the 
+                end and inserting ``; and''; and
+                    (C) by adding at the end the following:
+            ``(3) shall exercise appropriate and effective risk 
+        management practices to encourage each relevant Government 
+        executive branch employee in such foreign country to regularly 
+        and meaningfully engage in expeditionary diplomacy with the 
+        population of such country.''; and
+            (2) by adding at the end the following:
+    ``(e) Tiger Team.--
+            ``(1) Establishment.--Not later than 90 days after the date 
+        of the enactment of this subsection, the Secretary shall 
+        establish a team (to be known as the `Tiger Team') to provide 
+        to the Secretary a plan to achieve the following:
+                    ``(A) Improve the capability, and willingness, of 
+                chiefs of mission, Regional Security Officers, and 
+                Regional Medical Officers to approve expeditionary 
+                diplomacy.
+                    ``(B) Improve the capability, and willingness, of 
+                members of the Foreign Service to regularly practice 
+                expeditionary diplomacy.
+            ``(2) Composition.--The Tiger Team shall consist of the 
+        following individuals from the Department, to be appointed by 
+        the Secretary:
+                    ``(A) A senior-level officer or employee who 
+                shall--
+                            ``(i) serve as the `Tiger Team Leader';
+                            ``(ii) be accountable for the activities of 
+                        the Tiger Team under this subsection; and
+                            ``(iii) not serve concurrently in another 
+                        assignment or position at the Department during 
+                        their tenure as Tiger Team Leader.
+                    ``(B) Not less than one officer or employee from 
+                each of the following offices:
+                            ``(i) The Under Secretary for Political 
+                        Affairs;
+                            ``(ii) The Bureau of Diplomatic Security;
+                            ``(iii) The Bureau of Administration;
+                            ``(iv) The Bureau of Diplomatic Technology;
+                            ``(v) The Bureau of Human Resources;
+                            ``(vi) The Bureau of Medical Services; and
+                            ``(vii) The Bureau of Overseas Building 
+                        Operations.
+                    ``(C) Not less than one individual who has 
+                international development experience and expertise;
+            ``(3) Congressional notification.--Not later than 90 days 
+        after the date of the enactment of this subsection, the 
+        Secretary shall notify Congress of the names and titles of the 
+        appointed to the Tiger Team under paragraph (2).
+            ``(4) Plan for expeditionary diplomacy.--
+                    ``(A) In general.--The plan required to be 
+                submitted by the Tiger Team shall include the 
+                following:
+                            ``(i) A description of the manner in which 
+                        the Secretary, working through the Tiger Team, 
+                        shall--
+                                    ``(I) assess the current state of 
+                                the Department's ability and 
+                                willingness to practice expeditionary 
+                                diplomacy;
+                                    ``(II) review previous and current 
+                                Department efforts and historical 
+                                recommendation reports, external and 
+                                internal, on expeditionary diplomacy;
+                                    ``(III) assess the current 
+                                challenges experienced by the 
+                                Department, chiefs of mission, and 
+                                members of the Service in practicing 
+                                expeditionary diplomacy; and
+                                    ``(IV) produce policy, regulations, 
+                                and legislative recommendations to 
+                                address such challenges.
+                            ``(ii) A timeline for implementing, 
+                        carrying out, and completing this plan by the 
+                        date required under subparagraph (B).
+                            ``(iii) A description of the additional 
+                        funding, personnel, or other resources of the 
+                        Department required to carry out the plan, 
+                        including any modification of applicable 
+                        statutory or administrative authorities.
+                    ``(B) Implementation.--The Secretary shall 
+                implement to the plan under this paragraph not later 
+                than the date that is 12 months after the date of the 
+                enactment of this subsection.
+            ``(5) Report.--
+                    ``(A) In general.--Not later than two years after 
+                the date of the enactment of this subsection, the Tiger 
+                Team shall submit to the appropriate congressional 
+                committees a report on the activities of the Tiger Team 
+                undertaken pursuant to this subsection. The report 
+                shall include the following:
+                            ``(i) A description of the challenges 
+                        related to expeditionary diplomacy identified, 
+                        including challenges identified by the 
+                        Comptroller General of the United States.
+                            ``(ii) A description of recommendations to 
+                        address such challenges, including the 
+                        resources, staffing, authorities, and 
+                        legislative changes required for 
+                        implementation.
+                            ``(iii) A timeline for the implementation 
+                        of such recommendations.
+                            ``(iv) A designation of an office 
+                        responsible for monitoring the implementation 
+                        of such recommendations following the 
+                        termination of the Tiger Team pursuant to 
+                        paragraph (6).
+                    ``(B) Implementation.--For the period of 90 days 
+                after the date on which the report is submitted, the 
+                Tiger Team shall oversee and monitor the implementation 
+                of recommendations submitted in such report.
+            ``(6) Termination.--The Secretary shall terminate the Tiger 
+        Team not later than the date that is 90 days after the date on 
+        which the final report required by paragraph (5) is 
+        submitted.''.
+
+SEC. 202. ADDITIONAL AUTHORITY.
+
+    Section 207(a)(1) (22 U.S.C. 3927(a)(1)) is amended by inserting 
+before the semicolon at the end the following: ``, Diplomatic Security 
+special agents assigned as Regional Security Officers shall support the 
+chief of mission in meeting security responsibilities for the United 
+States Government by serving as the principal security and lead law 
+enforcement representatives to chiefs of mission.''.
+
+SEC. 203. CLARIFICATION OF THE ROLE OF DIRECTOR GENERAL OF THE FOREIGN 
+              SERVICE.
+
+    Section 208 (22 U.S.C. 3928) is amended by striking the period at 
+the end of the first sentence and inserting the following: ``and shall 
+be appointed to serve concurrently as the Assistant Secretary for Human 
+Resources.''.
+
+SEC. 204. BOARD OF EXAMINERS FOR THE SERVICE.
+
+    Section 211 (22 U.S.C. 3931) is amended in the second sentence by 
+striking ``or training in the fields of testing'' and inserting 
+``academic study, background in diplomacy,''.
+
+SEC. 205. CYBERSECURITY, TECHNOLOGY GOVERNANCE, AND OPERATIONAL 
+              COORDINATION.
+
+    Chapter 2 of title I is amended by adding at the end the following:
+
+``SEC. 212. CYBERSECURITY, TECHNOLOGY GOVERNANCE, AND OPERATIONAL 
+              COORDINATION.
+
+    ``(a) In General.--The Secretary shall establish and maintain a 
+cybersecurity and technology governance framework to support Service 
+operations at United States missions abroad, including unified 
+authority, accountability, and coordination for the protection of 
+information systems, data, and mission technology.
+    ``(b) Roles and Responsibilities.--The framework required under 
+subsection (a) should--
+            ``(1) delineate the roles and responsibilities of the 
+        Bureau of Diplomatic Technology, the Bureau of Diplomatic 
+        Security, regional bureaus, and chiefs of mission with respect 
+        to--
+                    ``(A) cybersecurity policy and standards;
+                    ``(B) operational cybersecurity implementation;
+                    ``(C) technology lifecycle management, including 
+                hardware accountability and supply chain risk;
+                    ``(D) artificial intelligence governance and risk 
+                management;
+                    ``(E) incident detection and response;
+                    ``(F) vulnerability management; and
+                    ``(G) risk mitigation and reporting;
+            ``(2) establish clear lines of authority for cybersecurity 
+        and technology incident response and escalation, including at a 
+        post abroad;
+            ``(3) require coordination mechanisms between the Bureau of 
+        Diplomatic Technology and the Bureau of Diplomatic Security to 
+        ensure integration of cyber, physical, personnel, and supply 
+        chain security measures; and
+            ``(4) ensure that a chief of mission is informed of, and 
+        accountable for, the cybersecurity and technology posture at 
+        the post of such chief of mission, consistent with section 207.
+    ``(c) Secure Hardware and Supply Chain Protections.--The Secretary 
+shall ensure the implementation of policies governing--
+            ``(1) inventory control and accountability of Government-
+        issued hardware at a United States mission abroad;
+            ``(2) mitigation of foreign supply chain risks at United 
+        States missions abroad;
+            ``(3) inspection and validation of equipment before 
+        deployment at United States missions abroad; and
+            ``(4) procedures for handling equipment that is compromised 
+        or suspected to be compromised at United States missions 
+        abroad.
+    ``(d) Incident Response Protocols.--The Secretary shall ensure the 
+development and implementation of standardized cybersecurity and 
+technology incident response protocols for United States missions 
+abroad, including defined reporting timelines and inter-bureau 
+coordination requirements.
+    ``(e) Rule of Construction.--Nothing in this section may be 
+construed to limit the authority of a chief of mission under section 
+207 with respect to oversight of cybersecurity and technology posture 
+at a United States mission abroad.''.
+
+                        TITLE III--APPOINTMENTS
+
+SEC. 301. SENSE OF CONGRESS.
+
+    Section 304 (22 U.S.C. 3944) is amended by adding at the end the 
+following:
+    ``(c) Sense of Congress.--It is the sense of Congress that--
+            ``(1) detailed knowledge and requisite experience 
+        formulating and executing United States foreign policy, 
+        including a working understanding of Department operations and 
+        procedures, is vital for chiefs of mission, Assistant 
+        Secretaries of State, and other senior officials at the 
+        Department to successfully advance United States national 
+        security, and for managing the Federal workforce, in order to 
+        effectively assert and expand United States competitiveness and 
+        leadership abroad; and
+            ``(2) the People's Republic of China and other adversaries 
+        are rapidly expanding their global diplomatic presences and it 
+        is imperative that the Department is appropriately staffed by 
+        empowered, nonpartisan foreign policy professionals and 
+        thoroughly qualified and vetted political appointees, who work 
+        together to protect United States citizens and advance United 
+        States interests across the globe.''.
+
+SEC. 302. FOREIGN SERVICE PATHWAY FOR VETERANS PROGRAM.
+
+    Chapter 3 of title I (22 U.S.C. 3941 et seq.) is amended by adding 
+at the end the following:
+
+``SEC. 313. FOREIGN SERVICE PATHWAY FOR VETERANS PROGRAM.
+
+    ``(a) Establishment.--The Secretary shall establish a program, to 
+be known as the `Veterans and Foreign Service Pathway Program', to 
+recruit, prepare, and support qualified individuals for service in the 
+Service.
+    ``(b) Eligibility.--The program required by subsection (a) shall be 
+open to--
+            ``(1) veterans, as such term is defined in section 2108 of 
+        title 5, United States Code;
+            ``(2) members of the Armed Forces who are within one year 
+        of separation, retirement, or release from active duty in the 
+        Armed Forces.
+    ``(c) Matters To Be Included.--The program required by subsection 
+(a) shall include--
+            ``(1) targeted recruitment aligned to Service career 
+        tracks, including Diplomatic Security, security engineering, 
+        cybersecurity, medical, and other roles;
+            ``(2) mentorship and preparatory training for the Service 
+        application and assessment process;
+            ``(3) coordination with relevant Department offices to 
+        facilitate candidate readiness for Service entry requirements;
+            ``(4) outreach and engagement with military installations 
+        and transition programs; and
+            ``(5) coordination with existing fellowship and recruitment 
+        programs of the Department, including the Veterans Innovation 
+        Partnership Fellowship, to support pathways to Service 
+        employment.
+    ``(d) Streamlined Accession Pilot Program.--
+            ``(1) In general.--The Secretary is authorized to establish 
+        a pilot program to recruit and appoint qualified individuals 
+        described in subsection (b) into designated Service positions 
+        through streamlined hiring procedures.
+            ``(2) Covered positions.--The Secretary shall designate 
+        positions eligible under the pilot program, which may include 
+        the following:
+                    ``(A) Diplomatic Security special agent positions.
+                    ``(B) Diplomatic courier positions capped at 10 
+                percent annually.
+                    ``(C) Security engineering officer and security 
+                technical specialist positions.
+                    ``(D) Cybersecurity and technology-related 
+                positions.
+                    ``(E) Other Service positions identified by the 
+                Secretary as critical to mission readiness.
+    ``(e) Requirements.--The pilot program shall--
+            ``(1) maintain all applicable merit-based hiring principles 
+        and qualification standards; and
+            ``(2) provide for expedited processing, assessment, and 
+        onboarding of candidates.
+    ``(f) Coordination With Department of Defense Transition 
+Programs.--The Secretary, in coordination with the Secretary of 
+Defense, shall--
+            ``(1) integrate information on Service career 
+        opportunities, including Diplomatic Security roles, into the 
+        curricula and materials of the Transition Assistance Program of 
+        the Department of Defense;
+            ``(2) conduct regular outreach to transitioning 
+        servicemembers at military installations; and
+            ``(3) develop and maintain military occupational specialty 
+        crosswalks aligned to Service career tracks.
+    ``(g) Sunset.--The pilot program shall terminate on the date that 
+is five years after the date of enactment of this section.
+    ``(h) Rule of Construction.--Nothing in this section may be 
+construed to alter or diminish existing Service hiring standards or the 
+authority of the Secretary to determine qualifications for 
+appointment.''.
+
+SEC. 303. COMMITMENT IN HIRING PROCESS RELATING TO PARTICIPATION IN THE 
+              FOREIGN SERVICE FELLOWSHIP PROGRAM.
+
+    Chapter 3 of title I (22 U.S.C. 3941 et seq.), as amended by 
+section 302, is further amended by adding at the end the following:
+
+``SEC. 314. COMMITMENT IN HIRING PROCESS RELATING TO PARTICIPATION IN 
+              THE FOREIGN SERVICE FELLOWSHIP PROGRAM.
+
+    ``(a) In General.--The Secretary, with consideration of Department 
+needs, shall assess the fitness and suitability for hire of any 
+individual who--
+            ``(1) was selected for participation in a Foreign Service 
+        fellowship program administered or funded by the Department; 
+        and
+            ``(2) has successfully completed all educational and 
+        programmatic requirements of such fellowship program.
+    ``(b) Eligibility for Appointment.--An individual described in 
+subsection (a) shall remain eligible for appointment as a Service 
+officer, subject to--
+            ``(1) successful completion of applicable security, 
+        medical, and suitability requirements; and
+            ``(2) satisfaction of the appointment standards set forth 
+        in this Act.
+    ``(c) Prohibition on Arbitrary Withdrawal.--The Secretary shall 
+assess the fitness and suitability for service of any individual 
+described in subsection (a) without regard to--
+            ``(1) changes in workforce planning, hiring targets, or 
+        staffing levels; or
+            ``(2) administrative or policy changes occurring after the 
+        individual's selection for the fellowship program.
+    ``(d) Prioritizing Department Needs.--In all cases of hiring of 
+individuals described in subsection (a), the Secretary--
+            ``(1) shall make final hiring decisions based on the 
+        utility of the hire to the Department's mission; and
+            ``(2) shall weigh favorably the prior military service and 
+        other relevant experiences of such individuals with respect to 
+        fitness for service.
+    ``(e) Timing of Appointment.--The Secretary shall consider for 
+appointment all eligible individuals described in subsection (a) not 
+later than 12 months after completion of the fellowship's educational 
+requirements, unless the individual--
+            ``(1) requests a deferral; or
+            ``(2) is temporarily ineligible due to pending security, 
+        medical, or suitability determinations.
+    ``(f) Notification and Reporting.--If the Secretary delays the 
+assessment of the fitness and suitability for hire of an eligible 
+individual described in subsection (a) beyond the period specified in 
+subsection (f), the Secretary shall--
+            ``(1) provide written notice to the individual describing 
+        the reason for the delay not later than 15 days after the date 
+        on which the delay begins; and
+            ``(2) provide written notice to the Committee on Foreign 
+        Relations of the Senate and the Committee on Foreign Affairs of 
+        the House of Representatives describing the reason for the 
+        delay not later than 30 days after the date on which the delay 
+        begins.''.
+
+         TITLE IV--CLASSIFICATION OF POSITIONS AND ASSIGNMENTS
+
+SEC. 401. PROTECTION OF EXTERNAL TRAINING, EDUCATION, AND DETAILS.
+
+    Chapter 5 of title I (22 U.S.C. 3981 et seq.) is amended by adding 
+at the end the following:
+
+``SEC. 506. PROTECTION OF EXTERNAL TRAINING, EDUCATION, AND DETAILS.
+
+    ``(a) Definitions.--In this section--
+            ``(1) the term `external training or education' means 
+        training, education, or fellowship programs conducted by 
+        entities other than foreign affairs agencies, including--
+                    ``(A) other Federal departments or agencies;
+                    ``(B) the Legislative branch;
+                    ``(C) State, local, Tribal, or territorial 
+                governments;
+                    ``(D) international organizations;
+                    ``(E) accredited academic institutions; and
+                    ``(F) other entities approved by the head of the 
+                foreign affairs agency concerned; and
+            ``(2) the term `external detail' means a temporary 
+        assignment, fellowship, or detail to an entity described in 
+        paragraph (1).
+    ``(b) Authorization.--A member of the Service may, with the 
+approval of the head of the foreign affairs agency concerned, 
+participate in external training, education, or details when such 
+participation is determined to be in the interest of the United States.
+    ``(c) Uniform Career Protections.--A member of the Service 
+participating in an approved external training, education, or detail--
+            ``(1) shall retain Service status, grade, and appointment;
+            ``(2) shall continue to accrue time-in-class, time-in-
+        service, tenure eligibility, and retirement credit as if 
+        serving in a domestic assignment or an assignment in a foreign 
+        country;
+            ``(3) shall remain fully eligible for promotion, pay 
+        increases, tenure, and awards on the same basis as members not 
+        on such assignments;
+            ``(4) shall not be disadvantaged in assignments, bidding, 
+        performance evaluations, or career progression solely because 
+        of such participation; and
+            ``(5) shall not be required to resign, accept a limited 
+        appointment, or otherwise relinquish Service status as a 
+        condition of participation.
+    ``(d) Performance Evaluation Requirements.--Each foreign affairs 
+agency shall ensure that members on approved external training or 
+detail receive--
+            ``(1) timely and meaningful performance evaluations;
+            ``(2) evaluation standards and promotion precepts that 
+        recognize the nature and value of external service; and
+            ``(3) written guidance to supervisors outside foreign 
+        affairs agencies regarding evaluation responsibilities.
+    ``(e) Reentry and Assignment Rights.--Upon completion of an 
+approved external training or detail, a member--
+            ``(1) shall be eligible for reassignment to positions 
+        consistent with the member's grade and professional 
+        qualifications; and
+            ``(2) shall not be required to compete for reentry into the 
+        Service or otherwise be treated as a new entrant.
+    ``(f) Limitation on Waivers.--The protections of this section may 
+not be waived except by statute.
+    ``(g) Regulations.--Not later than one year after the date of the 
+enactment of this section, the head of each foreign affairs agency--
+            ``(1) shall issue regulations implementing this section, 
+        which shall be consistent across agencies to the maximum extent 
+        practicable.
+            ``(2) shall revise applicable regulations, evaluation 
+        precepts, and personnel policies to ensure full implementation 
+        of this section.
+    ``(h) Rule of Construction.--Nothing in this section may be 
+construed to conflict with the requirements of section 504 or the 
+regulations to implement such section.''.
+
+                    TITLE V--PROMOTION AND RETENTION
+
+SEC. 501. JOINT DUTY REQUIREMENT.
+
+    Section 601(c) (22 U.S.C. 4001(c)) is amended by adding at the end 
+the following:
+    ``(7) Promotions.--
+            ``(A) In general.--The opening of a promotion window, on or 
+        after the date that is five years after the date of enactment 
+        of this paragraph, of any Service officer, appointed under 
+        section 302(a)(1), who has general responsibility for carrying 
+        out the functions of the Service to the Senior Foreign Service 
+        should be contingent upon such individual completing at least 
+        one joint duty assignment.
+            ``(B) Exceptions.--The Secretary may--
+                    ``(i) identify circumstances under which the 
+                requirements under subparagraph (A) shall not apply, 
+                which may include that the individual proposed for 
+                promotion to the Senior Foreign Service--
+                            ``(I) has met all other requirements 
+                        applicable to such promotion; and
+                            ``(II) was unable to complete a joint duty 
+                        assignment because there was not a reasonable 
+                        opportunity for such individual to be assigned 
+                        to such a position; and
+                    ``(ii) exempt Foreign Service Medical Specialists 
+                who entered as a FS-01 rank and serve as a Regional 
+                Medical Officer from the requirements under 
+                subparagraph (A).
+            ``(C) Joint duty assignment defined.--In this paragraph, 
+        the term `joint duty assignment' means a tour of duty of not 
+        less than 12 months in--
+                    ``(i) a Federal department or agency other than the 
+                Department;
+                    ``(ii) the Congress, pursuant to a fellowship or 
+                detail program approved by the Secretary;
+                    ``(iii) an international organization of which the 
+                United States is a member, pursuant to a fellowship or 
+                detail program approved by the Secretary; or
+                    ``(iv) a State or local government.''.
+
+SEC. 502. TIMELY PUBLICATION AND CONGRESSIONAL NOTIFICATION OF TENURE 
+              AND PROMOTION LISTS.
+
+    Section 601 (22 U.S.C. 4001) is amended by adding at the end the 
+following:
+    ``(d) Requirement.--Not later than 90 days after the conclusion of 
+any Service tenure or promotion board whose recommendations require the 
+advice and consent of the Senate, the Secretary--
+            ``(1) should finalize the list of Service members 
+        recommended for tenure as well as Service officers and 
+        specialists recommended for promotion to and within the Senior 
+        Foreign Service; and
+            ``(2) transmit such list to the President for nomination 
+        consideration to the Senate.
+    ``(e) Expedient Processing.--It is the sense of Congress that the 
+Secretary should ensure that the administrative review, clearance, and 
+transmission of tenure and promotion recommendations are conducted in 
+an expeditious manner, and that no avoidable administrative delay 
+prevents compliance with the deadline established under subsection (a).
+    ``(f) Limited Exceptions.--The Secretary may delay publication of 
+an individual name beyond the period specified in subsection (a) only 
+if the delay is necessary due to an ongoing disciplinary, suitability, 
+or security investigation; and the affected officer is provided written 
+notice of the reason for such delay. Any delay under this subsection 
+should be limited to the minimum period necessary and shall not affect 
+the publication of the remaining list.
+    ``(g) Accountability.--If the Secretary fails to meet the 
+requirements of subsection (a), the Secretary shall, not later than 30 
+days after the expiration of the deadline, provide a briefing to the 
+Committee on Foreign Relations of the Senate and the Committee on 
+Foreign Affairs of the House of Representatives on the reasons for the 
+failure to meet such requirements and corrective actions taken to 
+prevent future delays.
+    ``(h) Rule of Construction.--Nothing in this section may be 
+construed to alter the constitutional role of the Senate in providing 
+advice and consent.''.
+
+SEC. 503. MATTERS RELATING TO RECRUITMENT PROCESS OF PUBLIC MEMBERS OF 
+              THE FOREIGN SERVICE SELECTION BOARDS.
+
+    (a) Prohibition on Nepotism.--Section 602 (22 U.S.C. 4002) is 
+amended by adding at the end the following:
+    ``(d) Prohibition on Nepotism in Recruitment Process.--
+            ``(1) In general.--No employee of the Department who is 
+        involved in, or has influence over, the recruitment, 
+        evaluation, or selection of public members of selection boards 
+        established under this section may refer, recommend, or 
+        otherwise facilitate the consideration of any individual with 
+        whom such employee has a personal connection.
+            ``(2) Personal connection defined.--In this section, the 
+        term `personal connection', with respect to an employee, 
+        includes--
+                    ``(A) a family member, including a spouse, domestic 
+                partner, parent, child, sibling, or any individual 
+                related by blood, marriage, or adoption, to the 
+                employee; and
+                    ``(B) any individual with whom the employee has a 
+                close personal relationship, including a friend, former 
+                colleague, or any other relationship that could 
+                reasonably give rise to an appearance of favoritism or 
+                bias.
+            ``(3) Disclosure.--
+                    ``(A) In general.--Any Office of Performance 
+                Evaluation employee or other personnel described in 
+                subsection (a) who becomes aware that an applicant for 
+                service as a public member of a selection board 
+                established under this section has a personal 
+                connection to such employee shall--
+                            ``(i) promptly disclose such relationship 
+                        in writing to the Director of the Office of 
+                        Performance Evaluation; and
+                            ``(ii) recuse himself or herself from any 
+                        further involvement in the recruitment, 
+                        evaluation, or selection of that applicant.
+                    ``(B) Recordkeeping.--The Department shall maintain 
+                written records of all disclosures and recusals made 
+                under this paragraph.
+            ``(4) Prohibition.--No applicant for service as a public 
+        member of a selection board established under this section may 
+        advance to the interview or selection stage if such applicant 
+        was referred, recommended, or otherwise introduced into the 
+        applicant pool by an employee in violation of this subsection.
+            ``(5) Administrative discipline.--Any employee who 
+        knowingly violates the terms and conditions of this subsection 
+        shall be subject to appropriate administrative discipline, in 
+        accordance with applicable law and regulations.''.
+    (b) Clarification of Recruitment Sources.--
+            (1) In general.--Section 602 (22 U.S.C. 4002), as amended 
+        by subsection (a), is further amended by adding at the end the 
+        following:
+    ``(e) Clarification of Recruitment Sources.--
+            ``(1) In general.--The Secretary is authorized to revise 
+        and standardize all contract request memoranda used for the 
+        appointment of public members to selection boards established 
+        under this section to ensure accuracy, transparency, and 
+        accountability in the recruitment process.
+            ``(2) Matters to be included.--Each contract request 
+        memorandum described in paragraph (1) shall include--
+                    ``(A) a clear description of the recruitment 
+                process through which the individual was identified and 
+                selected;
+                    ``(B) the specific recruitment source of the 
+                individual, including whether the individual was 
+                identified through formal outreach, open application, 
+                or word-of-mouth referral;
+                    ``(C) the name and position of any Department 
+                employee or other individual who referred, recommended, 
+                or otherwise facilitated the individual's entry into 
+                the recruitment process; and
+                    ``(D) any relevant documentation required under 
+                Department policies governing recruitment and 
+                selection.
+            ``(3) Additional matters to be included.--Each contract 
+        request memorandum described in paragraph (1) shall also 
+        include a signed written certification from the individual 
+        identified as the recruitment source stating that, to the best 
+        of that individual's knowledge, the individual selected for 
+        appointment--
+                    ``(A) is not a family member; and
+                    ``(B) does not have a close personal relationship 
+                that could reasonably give rise to an appearance of 
+                favoritism or bias.
+            ``(4) Forms and procedures.--The Secretary shall establish 
+        standardized forms and procedures for the certification 
+        required under paragraph (3).
+            ``(5) Limitation.--No contract for service as a public 
+        member of a selection board established under this section may 
+        be approved or executed unless the contract request memorandum 
+        complies with the requirements of this subsection.
+            ``(6) Recordkeeping.--The Department--
+                    ``(A) shall retain all contract request memoranda 
+                and associated certifications required under this 
+                subsection for three years; and
+                    ``(B) shall make such records available for review 
+                by appropriate oversight entities.''.
+            (2) Effective date.--Subsection (e) of section 602 (22 
+        U.S.C. 4002), as added by paragraph (1), shall apply to all 
+        contract request memoranda described in such subsection that 
+        are prepared on or after the date that is 180 days after the 
+        date of the enactment of this Act.
+    (c) Internal Controls for Word-of-Mouth Referrals.--
+            (1) In general.--Section 602 (22 U.S.C. 4002), as amended 
+        by subsections (a) and (b), is further amended by adding at the 
+        end the following:
+    ``(f) Internal Controls for Word-of-Mouth Referrals.--
+            ``(1) Policy.--The Director General of the Service, acting 
+        through the Office of Performance Evaluation, shall establish 
+        and implement a standardized, transparent, and consistently 
+        applied policy governing the use of `word-of-mouth referrals' 
+        in the recruitment of public members for selection boards 
+        established under this section.
+            ``(2) Matters to be included.--The policy required by 
+        paragraph (1) shall--
+                    ``(A) define the term `word-of-mouth referral' to 
+                include any informal or direct communication by 
+                Department personnel to an individual encouraging or 
+                inviting that individual to apply for service as a 
+                public member;
+                    ``(B) establish uniform procedures governing when 
+                and how such referrals may be made;
+                    ``(C) ensure that such referrals are conducted in a 
+                manner consistent with merit-based selection principles 
+                and applicable ethics requirements; and
+                    ``(D) prohibit the use of informal referrals in a 
+                manner that circumvents established recruitment or 
+                outreach processes.
+            ``(3) Documentation.--The Assistant Secretary shall require 
+        that all word-of-mouth referrals be documented in writing. Such 
+        documentation shall include--
+                    ``(A) the name of the Department employee making 
+                the referral;
+                    ``(B) the name of the individual referred;
+                    ``(C) the date and method of communication; and
+                    ``(D) a brief description of the nature of 
+                communication, including whether the individual was 
+                encouraged or invited to apply.
+            ``(4) Limitation.--No individual may advance in the 
+        recruitment process for service as a public member for a 
+        selection board established under this section unless the 
+        documentation required under this subsection has been completed 
+        and retained.
+            ``(5) Recordkeeping.--The Department shall maintain records 
+        of all word-of-mouth referrals in a centralized system to 
+        ensure transparency, accountability, and auditability for not 
+        less than three years, which shall be made available for review 
+        upon request by appropriate oversight entities.''.
+            (2) Effective date.--Subsection (f) of section 602 (22 
+        U.S.C. 4002), as added by paragraph (1), shall take effect on 
+        the date that is 180 days after the date of the enactment of 
+        this Act.
+
+SEC. 504. LEGISLATIVE BRANCH EXPERIENCE.
+
+    Section 603(b) (22 U.S.C. 4003(b)) is amended--
+            (1) in paragraph (8), by striking ``or'' at the end;
+            (2) in paragraph (9), by striking the period at the end and 
+        inserting ``; or''; and
+            (3) by adding at the end the following:
+            ``(10) experience with the Legislative branch, including 
+        fellowships in a congressional office or committee, or within 
+        the Bureau of Legislative Affairs of the Department.''.
+
+        TITLE VI--CAREER DEVELOPMENT, TRAINING, AND ORIENTATION
+
+SEC. 601. ACCESS TO INFORMATION CENTER.
+
+    Section 701 (22 U.S.C. 4021) is amended by adding at the end the 
+following:
+    ``(h) Access to Information Center.--
+            ``(1) In general.--The Director of the Overseas Briefing 
+        Center, in coordination with the Director of the National 
+        Foreign Affairs Training Center, shall provide the appropriate 
+        congressional committees with access to the Information Center 
+        and its materials, including digital and physical materials.
+            ``(2) Scheduling options.--Not later than two days after a 
+        request by the appropriate congressional committees for access 
+        to the Information Center and its materials under paragraph 
+        (1), the Director of the Overseas Briefing Center, in 
+        coordination with the Bureau of Legislative Affairs of the 
+        Department, shall provide to the congressional committees a 
+        list of options to schedule such access on a timely basis.''.
+
+SEC. 602. LIST OF CRITICAL FOREIGN LANGUAGES.
+
+    (a) In General.--Section 701 (22 U.S.C. 4021), as amended by 
+section 601, is further amended by adding at the end the following:
+    ``(i) List of Critical Foreign Languages.--
+            ``(1) In general.--Not later than 180 days after the date 
+        of the enactment of this subsection, and not less frequently 
+        than once every three years thereafter, the Secretary should 
+        designate, and make available to the Committee on Foreign 
+        Affairs of the House of Representatives and the Committee on 
+        Foreign Relations of the Senate, a list of critical foreign 
+        languages for purposes of this Act.
+            ``(2) Matters to be included.--For each critical foreign 
+        language designated pursuant to paragraph (1), the Secretary 
+        shall include information in the list describing--
+                    ``(A) minimum tested levels at which a member of 
+                the Service shall be considered to be proficient in the 
+                language; and
+                    ``(B) criteria for determining positions for which 
+                such critical foreign language capability is mission 
+                essential.
+            ``(3) Coordination.--In carrying out this subsection, the 
+        Secretary shall, to the maximum extent practicable, coordinate 
+        with the heads of other Federal departments and agencies that 
+        maintain foreign language capabilities, in order to promote 
+        interoperability, avoid duplication, and achieve cost savings 
+        to the taxpayer.
+            ``(4) Workforce planning.--The Secretary should incorporate 
+        critical foreign language capability planning into the career 
+        development, training, and assignment processes under this 
+        chapter, including through--
+                    ``(A) the use of training at the National Foreign 
+                Affairs Training Center;
+                    ``(B) the use of limited noncareer appointments and 
+                recall and reappointment authorities under sections 308 
+                and 309 to address temporary or surge requirements; and
+                    ``(C) the development of a surge reserve of rehired 
+                officers and other appropriately cleared individuals 
+                with critical foreign language capabilities who may be 
+                activated rapidly in response to crises.
+            ``(5) Critical foreign language defined.--In this 
+        subsection, the term `critical foreign language' means a 
+        foreign language identified by the Secretary, in consultation 
+        with the heads of other Federal departments and agencies, as 
+        appropriate--
+                    ``(A) as essential to the protection of United 
+                States national security interests, United States 
+                economic prosperity, and the protection of United 
+                States citizens abroad;
+                    ``(B) with respect to which required levels of 
+                proficiency are limited in the United States workforce 
+                relative to strategic needs and operational demand; and
+                    ``(C) as corresponding to category I, II, III, or 
+                IV languages, as specified in section 3911.2 of volume 
+                3 of the Foreign Affairs Manual (3 FAM 3911.2) or 
+                successor guidance, encompassing difficult, hard, and 
+                super hard languages that are less commonly taught or 
+                studied in the United States.''.
+    (b) Critical Foreign Language Requirement.--Section 702 (22 U.S.C. 
+4022) is amended by adding at the end the following:
+    ``(c) Critical Foreign Language Requirement.--In carrying out this 
+section, the Secretary shall ensure that policies for the instruction, 
+testing, and use of foreign languages explicitly support the 
+preservation of capabilities with respect to critical foreign languages 
+identified pursuant to section 701(i).''.
+
+SEC. 603. USE OF WORLD LANGUAGE SKILLS.
+
+    (a) In General.--Section 702 (22 U.S.C. 4022), as amended by 
+section 602(b), is further amended by adding at the end the following:
+    ``(d) Use of World Language Skills.--
+            ``(1) Requirement.--Any member of the Service who undergoes 
+        full-time, Department-funded language training for a period 
+        exceeding six months shall be required to serve no fewer than 
+        three consecutive tours in positions for which proficiency in 
+        such language is a documented requirement for the position.
+            ``(2) Timing of assignments.--The requirement under 
+        paragraph (1) shall commence with the first assignment 
+        immediately following the completion of the language training 
+        and shall continue without interruption, except as provided in 
+        paragraph (3).
+            ``(3) Waiver authority.--The Secretary may waive the 
+        requirement under paragraph (1) with respect to a member of the 
+        Service only if the Secretary certifies to the Committee on 
+        Foreign Affairs of the House of Representatives and the 
+        Committee on Foreign Relations of the Senate that--
+                    ``(A) the member has developed a medical condition 
+                preventing service at the required posts;
+                    ``(B) the member is assigned to a position of 
+                higher priority; or
+                    ``(C) there is no vacant position for which the 
+                member is qualified where the language skill is 
+                required.
+            ``(4) Consecutive tours defined.--The term `consecutive 
+        tours' refers to sequential assignments either overseas at 
+        posts where the trained language is the primary local or 
+        official language, or domestic assignments where the primary 
+        duties involve direct use of the trained language or the 
+        trained language is helpful to the completion of domestic 
+        assignment duties.''.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+apply to any member of the Service who begins language training on or 
+after the date that is 180 days after the date of the enactment of this 
+Act.
+
+SEC. 604. DIPLOMATIC SECURITY FELLOWSHIP PROGRAM.
+
+    Section 703 (22 U.S.C. 4023) is amended by adding at the end the 
+following:
+    ``(f) Diplomatic Security Fellowship Program.--
+            ``(1) In general.--The Secretary, acting through the 
+        Assistant Secretary for Diplomatic Security, shall administer a 
+        fellowship program to recruit, retain, train, and prepare 
+        qualified individuals for service within the Bureau of 
+        Diplomatic Security.
+            ``(2) Objectives.--The objectives of the fellowship program 
+        established under paragraph (1) shall be--
+                    ``(A) to leverage specialized skills relevant to 
+                the diplomatic security mission;
+                    ``(B) to provide structured training and mentorship 
+                for fellows; and
+                    ``(C) to support recruitment into a position within 
+                the Bureau of Diplomatic Security through the existing 
+                competitive hiring processes of the Department.''.
+
+SEC. 605. BUREAU OF AFRICAN AFFAIRS STAFFING.
+
+    Section 703 (22 U.S.C. 4023), as amended by section 604, is further 
+amended by adding at the end the following:
+    ``(g) Bureau of African Affairs Staffing.--The Secretary, in 
+consultation with the Assistant Secretaries for Human Resources and for 
+African Affairs, shall establish a program to facilitate and expedite 
+the hiring of qualified individuals with expertise on African countries 
+into the Service to fill positions at missions under the authority of 
+the Bureau of African Affairs and domestic positions under the Bureau 
+of African Affairs.''.
+
+SEC. 606. CONTRACTING OFFICER'S REPRESENTATIVE AND AGREEMENT OFFICER'S 
+              REPRESENTATIVE TRAINING.
+
+    Section 704 of the Foreign Service Act of 1980 (22 U.S.C. 4024) is 
+amended by adding at the end the following new subsection:
+    ``(d) Contracting Officer's Representative and Agreement Officer's 
+Representative Training.--
+            ``(1) In general.--The Secretary, acting through the Under 
+        Secretary for Foreign Assistance, is authorized to establish a 
+        program to recruit, train, and retain personnel serving as 
+        Contracting Officer's Representatives and Agreement Officer's 
+        Representatives for the Department, to ensure that the Bureau 
+        has sufficient personnel with the skills and expertise 
+        necessary to plan, implement, and manage United States foreign 
+        assistance operations and programs.
+            ``(2) Training.--Personnel recruited, trained, or retained 
+        under the program authorized by paragraph (1) shall receive 
+        training necessary to effectively oversee and administer 
+        foreign assistance instruments and disaster assistance 
+        operations, which may include training in procurement, grants 
+        and cooperative agreement oversight, logistics, financial 
+        management, monitoring and evaluation, and emergency response 
+        operations.''.
+
+SEC. 607. TRAINING FOR FOREIGN SERVICE OFFICERS.
+
+    (a) Antisemitism Training.--Section 708(a) (22 U.S.C. 4028(a)) is 
+amended--
+            (1) in paragraph (1)(B), by inserting before the semicolon 
+        ``, including instruction on identifying and addressing 
+        antisemitism, including contemporary forms of antisemitism and 
+        Holocaust distortion and denial''; and
+            (2) in paragraph (2)(B), in the first sentence, by 
+        inserting ``, the Office of the Special Envoy to Monitor and 
+        Combat Antisemitism, the Office of the Special Envoy for 
+        Holocaust Issues,'' after ``Training Center''.
+    (b) AUKUS Training.--Section 708 (22 U.S.C. 4028) is amended by 
+adding at the end the following:
+    ``(f) AUKUS Training.--The Secretary, with the assistance of other 
+relevant Federal officials, shall ensure that any member of the Service 
+who is assigned to a position in Australia or the United Kingdom or 
+that may be called upon to work on issues related to the enhanced 
+trilateral security partnership between Australia, the United Kingdom, 
+and the United States (referred to as the `AUKUS partnership', as that 
+term is defined in section 1321(2) of the National Defense 
+Authorization Act for Fiscal Year 2024 (Public Law 118-31; 22 U.S.C. 
+10401(2))) have access to training and briefings needed to coordinate 
+on the AUKUS partnership, including training on--
+            ``(1) Australia, United Kingdom, and United States 
+        governance infrastructure and policies related to the sale, 
+        development, production, and co-production of advanced defense 
+        technology;
+            ``(2) overview of AUKUS security pact Pillar I and Pillar 
+        II technologies, capabilities, and their strategic impetus; and
+            ``(3) workforce challenges and needs in the host country 
+        related to the AUKUS partnership.''.
+    (c) International Narcotics and Law Enforcement Training.--Section 
+708 (22 U.S.C. 4028), as amended by subsection (b), is further amended 
+by adding at the end the following:
+    ``(g) International Narcotics and Law Enforcement Training.--
+            ``(1) In general.--The Secretary, in consultation with the 
+        Assistant Secretary for International Narcotics and Law 
+        Enforcement Affairs (INL) and such other officials as the 
+        Secretary considers appropriate, may establish training courses 
+        on--
+                    ``(A) international narcotics control, including 
+                the mechanisms, legal authorities, and programmatic 
+                requirements applicable to assistance provided under 
+                INL's statutory authorities relating to international 
+                narcotics control and law enforcement assistance;
+                    ``(B) international law enforcement cooperation, 
+                including the use of bilateral and multilateral legal 
+                assistance frameworks;
+                    ``(C) countering transnational organized crime, 
+                money laundering, and other tools of illicit finance; 
+                and
+                    ``(D) anti-corruption efforts, including most 
+                effective methods of countering corruption and 
+                promoting the rule-of-law abroad.
+            ``(2) Required training.--Any member of the Service who is 
+        directly responsible for the administration, oversight, or 
+        management of assistance described in paragraph (1)(A) should 
+        receive training in the areas described in paragraph (1) prior 
+        to the beginning of service in such assignment or, if receiving 
+        such training prior to the beginning of service is not 
+        practicable, not later than one year after beginning such 
+        assignment.
+            ``(3) Consultation.--In developing the curriculum required 
+        under paragraph (1), the Secretary shall consult with--
+                    ``(A) the Bureau of International Narcotics and Law 
+                Enforcement Affairs;
+                    ``(B) the Office of the Legal Adviser; and
+                    ``(C) other relevant bureaus and offices of the 
+                Department as the Secretary determines appropriate.''.
+    (d) Foreign Scam Syndicates Training.--Section 708 (22 U.S.C. 
+4028), as amended by subsections (b) and (c), is further amended by 
+adding at the end the following:
+    ``(h) Foreign Scam Syndicates Training.--
+            ``(1) In general.--The Secretary may establish training for 
+        chiefs of mission, deputy chiefs of mission, and Foreign 
+        Service officers who will be assigned to a country that, as 
+        determined by the Secretary, is home to significant online scam 
+        activity targeting Americans, on appropriate training on 
+        matters related to online scam activity.
+            ``(2) Matters to be included.--The training required under 
+        paragraph (1)--
+                    ``(A) should address--
+                            ``(i) transnational criminal organizations 
+                        conducting the scams;
+                            ``(ii) online scam centers and human 
+                        trafficking inside such centers; and
+                            ``(iii) foreign government complicity and 
+                        corruption; and
+                    ``(B) should identify diplomatic methods to 
+                identify, prevent, and respond to such activities.''.
+    (e) Training for Chiefs of Mission on Defense Cooperation 
+Authorities.--Section 708 (22 U.S.C. 4028), as amended by subsections 
+(b), (c), and (d), is further amended by adding at the end the 
+following:
+    ``(i) Training for Chiefs of Mission on Defense Cooperation 
+Authorities.--
+            ``(1) In general.--The Secretary shall establish a training 
+        course for chiefs of mission on the authorities, requirements, 
+        and limitations applicable to defense cooperation programs that 
+        do not fall under the authority of the chief of mission.
+            ``(2) Matters to be included.--The training course required 
+        under paragraph (1) shall include instruction on--
+                    ``(A) the role of the chief of mission in providing 
+                concurrence for programs conducted under the 
+                authorities described in paragraph (1), including the 
+                scope of the chief of mission's role and procedures to 
+                request information from the Department of Defense 
+                prior to providing or withholding such concurrence;
+                    ``(B) the foreign policy implications of defense 
+                cooperation programs, including risks of mission creep 
+                and adverse effects on bilateral relationships; and
+                    ``(C) the relationship between defense cooperation 
+                programs and the chief of mission's responsibility for 
+                the direction, coordination, and supervision of all 
+                United States Government Executive branch activities, 
+                operations, and employees in the country to which such 
+                chief of mission exercises authority, pursuant to 
+                section 207.
+            ``(3) Pre-assignment training.--Any chief of mission 
+        assigned to a post at which a defense cooperation program 
+        described in paragraph (1) is in effect or proposed, as 
+        determined by the Secretary, should complete the training 
+        course established under paragraph (1) prior to the beginning 
+        of service at such post or, if completing such training prior 
+        to the beginning of service is not practicable, not later than 
+        180 days after beginning such service.
+            ``(4) Consultation.--In developing the curriculum required 
+        under paragraph (2), the Secretary shall consult with--
+                    ``(A) the Office of the Legal Adviser of the 
+                Department;
+                    ``(B) the Bureau of Political-Military Affairs of 
+                the Department; and
+                    ``(C) other offices and bureaus of the Department, 
+                as appropriate.''.
+    (f) Clerical Amendment.--The table of contents in section 2 is 
+amended by inserting after the item relating to section 707 the 
+following:
+
+``Sec. 708. Training for foreign service officers.''.
+
+SEC. 608. CRISIS MANAGEMENT AND STRATEGY LEADERSHIP TRAINING.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.) is amended by adding 
+at the end the following:
+
+``SEC. 709. CRISIS MANAGEMENT AND STRATEGY LEADERSHIP TRAINING.
+
+    ``All principal officers and Chiefs of Mission shall be required to 
+receive a post-specific brief by the Crisis Management and Strategy 
+Office at the Department Operations Center prior to departing the 
+District of Columbia on assignment.''.
+
+SEC. 609. STRUCTURED TRAINING FRAMEWORK AND PROTECTED TRAINING PERIODS.
+
+    (a) In General.--Chapter 7 (22 U.S.C. 4021 et seq.), as amended by 
+section 608, is further amended by adding at the end the following:
+
+``SEC. 710. STRUCTURED TRAINING FRAMEWORK AND PROTECTED TRAINING 
+              PERIODS.
+
+    ``(a) Structured Training Framework.--
+            ``(1) In general.--The Secretary is authorized to establish 
+        and maintain a structured training framework applicable at 
+        defined career milestones for members of the Service.
+            ``(2) Matters to be included.--Training under the 
+        structured training framework established under paragraph (1)--
+                    ``(A) shall be integrated into normal career 
+                progression;
+                    ``(B) shall reflect evolving foreign policy 
+                priorities, emerging threats, technological 
+                developments, national security requirements, and the 
+                President's National Security Strategy; and
+                    ``(C) shall be a mandatory and institutionalized 
+                component of Service career development.
+    ``(b) Protected Training Periods.--
+            ``(1) In general.--The Secretary shall ensure that 
+        protected training periods are built into the assignment and 
+        promotion cycle of members of the Service to permit completion 
+        of required training.
+            ``(2) Matters to be included.--Protected training periods 
+        required by paragraph (1)--
+                    ``(A) shall be treated as a standard component of 
+                service;
+                    ``(B) shall not be contingent solely upon post-
+                level staffing flexibility; and
+                    ``(C) shall be structured to ensure that 
+                operational demands do not routinely preclude required 
+                training.
+            ``(3) Coordination.--The Department shall plan workforce 
+        and assignment cycles to accommodate protected training periods 
+        required by paragraph (1) in a manner comparable to 
+        professional military education models within the Armed Forces.
+    ``(c) Scope of Training.--Training under the structured training 
+framework established under subsection (a) and protected training 
+periods under subsection (b) may include instruction in--
+            ``(1) national security, diplomatic security, and 
+        counterintelligence;
+            ``(2) cybersecurity, emerging technologies, and artificial 
+        intelligence;
+            ``(3) economic statecraft, sanctions, export controls, and 
+        trade policy;
+            ``(4) energy security and strategic resources;
+            ``(5) interagency coordination and crisis response;
+            ``(6) Fellowship opportunity outside of the Department;
+            ``(7) leadership and management; and
+            ``(8) such other subjects as the Secretary determines 
+        appropriate.
+    ``(d) Career Stage Training.--Training under the structured 
+training framework established under subsection (a) and protected 
+training periods under subsection (b) may include instruction in the 
+following:
+            ``(1) Entry-level: cohesion and rotations.
+            ``(2) Mid-level: leadership and interagency exposure.
+            ``(3) Pre-senior: professional development tours.
+            ``(4) Senior: capstone training.
+    ``(e) Evaluation Metrics.--The Secretary--
+            ``(1) shall establish metrics for evaluating the completion 
+        and effectiveness of training under the structured training 
+        framework established under subsection (a) and protected 
+        training periods under subsection (b); and
+            ``(2) shall ensure that instructors of such training 
+        certify such training for members of the Service upon 
+        satisfactory completion of such training.
+    ``(f) Strategic Planning Training.--Establish National Foreign 
+Affairs Training Center curriculum within one year including best 
+practices, challenges, and simulations.
+    ``(g) Periodic Review and Update.--The Secretary shall periodically 
+review and update requirements for training under the structured 
+training framework established under subsection (a) and protected 
+training periods under subsection (b) every four years to ensure 
+responsiveness to changes in the global operating environment.''.
+    (b) Promotion Eligibility and Training Requirement.--Section 601(c) 
+(22 U.S.C. 4001(c)), as amended by section 501, is further amended by 
+adding at the following:
+            ``(8) Promotion eligibility and training requirement.--
+                    ``(A) In general.--A member of the Service shall 
+                not be eligible for promotion to any class above FS-03 
+                or into the Senior Foreign Service unless--
+                            ``(i) the member has completed the 
+                        applicable training requirements established 
+                        under section 710; and
+                            ``(ii) the completion of such training 
+                        requirements is certified by the Director 
+                        General of the Service prior to consideration 
+                        by a promotion board with respect to the 
+                        proposed promotion.
+                    ``(B) Waiver authority.--The Secretary may waive 
+                the requirements of subparagraph (A) with respect to a 
+                member of the Service in the case of extraordinary 
+                circumstances if the Secretary approves such waiver in 
+                writing. The Secretary may not delegate the waiver 
+                authority under this subparagraph.''.
+
+SEC. 610. LEADERSHIP TRAINING.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608 and 609, is further amended by adding at the end the 
+following:
+
+``SEC. 711. LEADERSHIP TRAINING.
+
+    ``(a) Sense of Congress.--It is the sense of Congress that--
+            ``(1) effective leadership, including the management of 
+        personnel and resources, is essential to the execution of 
+        United States foreign policy and the management of United 
+        States missions abroad;
+            ``(2) Foreign Service Officers frequently assume 
+        supervisory and managerial responsibilities in complex, high-
+        risk environments; and
+            ``(3) mandatory leadership and management preparation 
+        enhances mission performance, accountability, workforce morale, 
+        and the responsible stewardship of public resources.
+    ``(b) In General.--Members of the Service shall receive appropriate 
+and comprehensive leadership training, including personnel and resource 
+management, prior to assuming a leadership assignment, including any 
+Service position of a duration of not less than one month that includes 
+supervisory, managerial, executive, or chief-of-section authority over 
+not fewer than one United States Government employee, eligible family 
+member employed at the mission, or locally employed staff person.
+    ``(c) Requirement.--A member of the Service may not assume a 
+leadership position as described in subsection (b) unless such a member 
+has successfully completed the leadership and management training 
+required under subsection (d) within the preceding three years.
+    ``(d) Leadership and Management Training.--
+            ``(1) In general.--The Secretary, acting through the 
+        Director of the National Foreign Affairs Training Center, shall 
+        establish a curriculum for tiered joint leadership and 
+        management training requirements appropriate to--
+                    ``(A) first-time supervisors;
+                    ``(B) mid-level managers;
+                    ``(C) senior leaders, including Deputy Chiefs of 
+                Mission, Chiefs of Mission, and Principal Officers; and
+                    ``(D) any other category the Secretary determines 
+                appropriate.
+            ``(2) Duration.--The leadership and management training 
+        required under paragraph (1) shall, at minimum, consist of at 
+        least one month of training per tier.
+            ``(3) Frequency and capacity.--The Secretary shall ensure 
+        that leadership and management training required under 
+        paragraph (1) is made available with sufficient frequency and 
+        capacity to prevent undue delay in assignments.
+    ``(e) Waiver Authority.--
+            ``(1) In general.--The Secretary may waive the leadership 
+        and management training required under subsection (d) on a 
+        temporary basis in emergent circumstances where a member of the 
+        Service must assume a supervisory, managerial, or leadership 
+        position immediately to ensure continuity of operations.
+            ``(2) Short-term waiver.--A waiver issued under paragraph 
+        (1) may permit a member of the Service to serve in a position 
+        described in paragraph (1) for a period not to exceed 30 days 
+        without having completed the required training.
+            ``(3) Extended temporary service.--In cases in which a 
+        member of the Service is expected to serve in a position 
+        described in paragraph (1) for a period exceeding 30 days, the 
+        chief of mission and the Director General of the Service shall 
+        coordinate to ensure that the member is scheduled to complete 
+        the required training for the position within a reasonable 
+        amount of time, not to exceed the date that is 60 days after 
+        the date on which the member assumes such position.
+            ``(4) Congressional notification.--Not later than 15 days 
+        after issuing a waiver under paragraph (1), the Secretary shall 
+        notify the appropriate congressional committees of such waiver, 
+        including the justification for the waiver and the expected 
+        duration of the assignment.
+    ``(f) Sunset.--This section shall take effect on the date that is 
+180 days after the enactment of this section.''.
+
+SEC. 611. TRAINING RELATING TO CRITICAL MINERALS.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, and 610, is further amended by adding at the end the 
+following:
+
+``SEC. 712. TRAINING RELATING TO CRITICAL MINERALS.
+
+    ``(a) People's Republic of China.--
+            ``(1) In general.--The Secretary, in consultation with the 
+        Under Secretary for Economic Affairs and the Director of the 
+        George P. Shultz National Foreign Affairs Training Center, 
+        shall establish an academic program focused on global supply 
+        chains and their relation to strategic competition with the 
+        People's Republic of China.
+            ``(2) Training requirements.--The academic program 
+        established under paragraph (1) shall be mandatory for--
+                    ``(A) entry-level Service officers identified as 
+                Economic Officers prior to the end of the second tour 
+                in the Department; and
+                    ``(B) Service officers identified as Economic 
+                Officers prior to deployment at a United States 
+                presence post abroad to fill a billet where the primary 
+                focus of the portfolio will be critical minerals or 
+                energy.
+            ``(3) Contents.--The academic program established under 
+        paragraph (1) shall include the following:
+                    ``(A) Instruction on international documents, 
+                treaties, and agreements relevant to global energy and 
+                critical mineral supply chains.
+                    ``(B) United States Government policies and 
+                strategies for mitigating vulnerabilities in global 
+                supply chains.
+                    ``(C) Basic geological knowledge about critical 
+                minerals.
+                    ``(D) Analysis of the effects of strategic 
+                competition, including with the People's Republic of 
+                China, on United States interests.
+                    ``(E) Regional- and country-specific instruction 
+                tailored to the resources, economy, and international 
+                trade relationships of the receiving country.
+                    ``(F) Practical guidance for officers to advance 
+                United States foreign policy objectives in diplomacy, 
+                trade negotiations, multilateral forums, and crisis 
+                scenarios related to supply chains.
+                    ``(G) Specialized training related to critical 
+                minerals as described in subsection (b).
+    ``(b) Critical Mineral-Specific Training Relating to Certain Other 
+Countries.--
+            ``(1) In general.--The Secretary shall require specialized 
+        training on critical minerals for Service officers identified 
+        as Economic Officers prior to deployment to United States 
+        presence posts in countries that--
+                    ``(A) produce, process, refine, or export 
+                significant quantities of critical minerals;
+                    ``(B) host critical mineral reserves of strategic 
+                importance to the United States; or
+                    ``(C) play a significant role in global critical 
+                mineral supply chains, including through 
+                transportation, processing, or downstream 
+                manufacturing.
+            ``(2) Contents.--The specialized training related to 
+        critical minerals required under paragraph (1) shall include 
+        the following:
+                    ``(A) An overview of United States critical 
+                minerals policy and interagency roles.
+                    ``(B) Basic geological knowledge of critical 
+                minerals and extraction processes.
+                    ``(C) Country- and region-specific analysis of 
+                critical mineral resources, governance, and market 
+                structures.
+                    ``(D) Geopolitical and national security 
+                implications of critical mineral supply chains.
+                    ``(E) Risk factors related to supply disruption, 
+                foreign ownership or control, corruption, and resource 
+                nationalism.
+                    ``(F) Tools and best practices for advancing United 
+                States commercial, economic security, and strategic 
+                objectives related to critical minerals through 
+                diplomatic engagement.''.
+
+SEC. 612. TRAINING AT CONSULAR POSTS.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, and 611, is further amended by adding at the 
+end the following:
+
+``SEC. 713. TRAINING AT CONSULAR POSTS.
+
+    ``(a) In General.--The Secretary shall require that each Service 
+officer, including temporary duty assignments and permanent change of 
+stations, assigned to perform consular duties complete mandatory, post-
+specific consular training--
+            ``(1) upon arrival at post, conducted concurrently with the 
+        performance of official duties through supervised, on-the-job, 
+        and practical instruction, and building upon the consular 
+        training received prior to departure to such post; and
+            ``(2) before independently adjudicating visas, or otherwise 
+        performing services for United States citizens.
+    ``(b) Training Requirement.--The training required under subsection 
+(a) shall--
+            ``(1) be conducted at post;
+            ``(2) have a duration of not less than four weeks, unless 
+        shortened by the Secretary based on demonstrated prior 
+        experience or exigent operational needs;
+            ``(3) be completed under the supervision of experienced 
+        consular officers designated by the chief of mission or 
+        principal officer;
+            ``(4) be documented as part of the officer's official 
+        training and assignment record; and
+            ``(5) be conducted by an individual at post with an 
+        equivalent or superior rank or responsibility level as the 
+        officer.
+    ``(c) Training Content.--The required training shall include 
+instruction and supervised practice in--
+            ``(1) country- and post-specific visa adjudication trends, 
+        risks, and fraud patterns;
+            ``(2) applicable immigration law, regulations, and 
+        Department guidance as applied at post;
+            ``(3) local processing procedures and workflow;
+            ``(4) use of consular information systems;
+            ``(5) coordination with locally employed staff and relevant 
+        host-nation entities;
+            ``(6) national security screening considerations; and
+            ``(7) quality assurance and error prevention measures.
+    ``(d) Limitation on Independent Adjudication.--A Service officer 
+may not independently adjudicate visas or perform unsupervised consular 
+functions until the officer has--
+            ``(1) completed the training required under subsection (b); 
+        or
+            ``(2) received a written waiver from the chief of mission 
+        or principal officer based on prior consular experience and 
+        demonstrated proficiency.
+    ``(e) Responsibilities.--
+            ``(1) Chiefs of mission and principal officers.--Chiefs of 
+        mission and Principal officers shall ensure compliance with the 
+        training requirements of this section at post.
+            ``(2) Consular section leadership.--Consular Section 
+        Leadership shall develop, maintain and update as necessary 
+        post-specific training plans of this section consistent with 
+        Department standards.
+            ``(3) Secretary.--The Secretary shall issue Department-wide 
+        guidance to standardize minimum expectations with respect to 
+        training under this section and provide for post-level 
+        flexibility.
+    ``(f) Performance and Workload Considerations.--The time spent by a 
+Service officer in required post-specific consular training--
+            ``(1) shall be considered official duty time; and
+            ``(2) shall not be treated as a negative factor in 
+        performance evaluations.
+    ``(g) Oversight.--The Secretary--
+            ``(1) shall periodically review compliance with the 
+        requirements of this section; and
+            ``(2) may take corrective action in cases in which training 
+        requirements are not being adequately implemented.''.
+
+SEC. 613. STRENGTHENING DIPLOMATIC SECURITY TRAINING STANDARDS.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, and 612, is further amended by adding at 
+the end the following:
+
+``SEC. 714. STRENGTHENING DIPLOMATIC SECURITY TRAINING STANDARDS.
+
+    ``(a) In General.--The Secretary of State, acting through the 
+Director of the National Foreign Affairs Training Center, shall 
+establish and maintain Department-wide standards for diplomatic 
+security training to ensure such training is mission-relevant, 
+integrated across threat vectors, and responsive to evolving risk 
+environments.
+    ``(b) Required Elements.--The training standards established 
+pursuant to subsection (a) shall--
+            ``(1) integrate physical security, counterintelligence, 
+        cybersecurity, technical security and countersurveillance, 
+        legal and use of force requirements, and fraud-related threats 
+        into a unified training framework;
+            ``(2) incorporate post-specific risk factors, including 
+        high-risk, high-threat environments;
+            ``(3) ensure consistency in training quality and 
+        requirements across bureaus, posts, and personnel categories; 
+        and
+            ``(4) be reviewed and updated not less frequently than once 
+        every three years.
+    ``(c) Coordination.--The Secretary shall ensure that the Bureau of 
+Diplomatic Security, the Bureau of Diplomatic Technology, the National 
+Foreign Affairs Training Center, and other relevant bureaus of the 
+Department coordinate in the establishment and implementation of 
+training standards under this section.''.
+
+SEC. 614. MANDATORY CRISIS LEADERSHIP AND EMERGENCY MANAGEMENT TRAINING 
+              PROGRAM FOR SENIOR PERSONNEL.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, 612, and 613, is further amended by adding 
+at the end the following:
+
+``SEC. 715 MANDATORY CRISIS LEADERSHIP AND EMERGENCY MANAGEMENT 
+              TRAINING PROGRAM FOR SENIOR PERSONNEL.
+
+    ``(a) In General.--The Secretary shall establish and implement a 
+mandatory crisis leadership and emergency management training program 
+for members of the Service assigned to senior leadership positions at 
+United States diplomatic and consular posts.
+    ``(b) Covered Positions.--The training program required by 
+subsection (a) applies to--
+            ``(1) chiefs of mission;
+            ``(2) deputy chiefs of mission;
+            ``(3) principal officers; and
+            ``(4) such other senior positions as the Secretary may 
+        designate.
+    ``(c) Condition of Assignment.--
+            ``(1) In general.--Except as provided in paragraph (2), an 
+        individual may not be assigned to a position described in 
+        subsection (b) unless the individual has successfully completed 
+        the training required under this section.
+            ``(2) Waiver.--The Secretary may waive the requirement 
+        under paragraph (1) on a case-by-case basis in exigent 
+        circumstances, except that an individual granted such a waiver 
+        shall complete the required training as soon as practicable 
+        after assignment.''.
+
+SEC. 615. CYBERSECURITY, TECHNOLOGY, AND ARTIFICIAL INTELLIGENCE 
+              TRAINING.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, 612, 613, and 614, is further amended by 
+adding at the end the following:
+
+``SEC. 716. CYBERSECURITY, TECHNOLOGY, AND ARTIFICIAL INTELLIGENCE 
+              TRAINING.
+
+    ``(a) In General.--The Secretary shall require each member of the 
+Service, including a career member, a career candidate, a non-career 
+appointee, a chief of mission, and a deputy chief of mission, to 
+complete, on an annual basis, training on cybersecurity, technology 
+use, and artificial intelligence governance.
+    ``(b) Matters To Be Included.--The training required under 
+subsection (a) shall include, at a minimum--
+            ``(1) cybersecurity hygiene and threat awareness;
+            ``(2) phishing, social engineering, and insider threat 
+        risks;
+            ``(3) safeguarding classified information and sensitive but 
+        unclassified information;
+            ``(4) secure handling, storage, and transportation of 
+        Government-issued hardware and electronic devices, including 
+        while assigned to a post abroad;
+            ``(5) requirements for the use of Department-approved 
+        software, cloud systems, and collaboration platforms;
+            ``(6) risks associated with the use of personal devices, 
+        removable media, and foreign telecommunications networks;
+            ``(7) reporting requirements for a suspected cyber incident 
+        or technology compromise;
+            ``(8) responsible use, security implications, and data 
+        protection requirements relating to artificial intelligence 
+        systems and automated tools;
+            ``(9) semiconductor supply chain security, technology 
+        dependency risks, and foreign sourcing vulnerabilities relevant 
+        to diplomatic operations and national security; and
+            ``(10) responsibilities of personnel under Department 
+        cybersecurity, technology management, and artificial 
+        intelligence governance policies.
+    ``(c) Role-Specific and Advanced Training.--The Secretary shall 
+establish enhanced cybersecurity and technology training requirements 
+for--
+            ``(1) a chief of mission and a deputy chief of mission, 
+        including training on post-level technology risk management and 
+        artificial intelligence oversight;
+            ``(2) senior bureau leadership, including governance 
+        responsibilities and technology risk accountability;
+            ``(3) personnel with system administrator or other 
+        privileged network access;
+            ``(4) personnel assigned to a high-risk or high-threat 
+        post;
+            ``(5) personnel serving in information technology, 
+        cybersecurity, artificial intelligence, data management, or 
+        security-related career tracks; and
+            ``(6) personnel responsible for the procurement, 
+        management, or oversight of an information technology system or 
+        an artificial intelligence tool.
+    ``(d) Pre-Assignment and Device Security Abroad.--The Secretary 
+shall ensure that a member of the Service assigned to a post abroad 
+receives pre-assignment training on--
+            ``(1) secure device usage in a foreign environment;
+            ``(2) counterintelligence risks associated with foreign 
+        infrastructure;
+            ``(3) secure communications practices; and
+            ``(4) protection of Government hardware from compromise, 
+        tampering, or unauthorized access.
+    ``(e) Integration Into Career Development.--The requirements under 
+this section shall be incorporated into pre-assignment training, 
+leadership training, tradecraft instruction, and professional 
+development programs under this chapter.
+    ``(f) Compliance and Accountability.--The Secretary shall ensure 
+that completion of required training under this section is tracked and 
+recorded and may consider such completion as part of performance 
+evaluations and eligibility for leadership assignments.''.
+
+SEC. 616. VETERANS INNOVATION PARTNERSHIP FELLOWSHIP PROGRAM; PLACEMENT 
+              AND CONVERSION SUPPORT.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, 612, 613, 614, and 615, is further amended 
+by adding at the end the following:
+
+``SEC. 717. VETERANS INNOVATION PARTNERSHIP FELLOWSHIP PROGRAM; 
+              PLACEMENT AND CONVERSION SUPPORT.
+
+    ``(a) In General.--The Secretary shall establish policies and 
+procedures to improve placement and hiring outcomes for participants in 
+the Veterans Innovation Partnership Fellowship, including structured 
+pathways to employment within the Department.
+    ``(b) Elements.--The policies and procedures required under 
+subsection (a) should include--
+            ``(1) designation of a bureau or office responsible for 
+        coordinating post-fellowship placement efforts;
+            ``(2) procedures to match a fellow with employment 
+        opportunities in the Service, as appropriate;
+            ``(3) guidance to bureaus on the use of existing hiring 
+        authorities to facilitate the conversion of a fellow into a 
+        permanent or term position;
+            ``(4) mentorship and career counseling for a fellow during 
+        and after the fellowship period;
+            ``(5) tracking and evaluation of conversion rates and 
+        employment outcomes; and
+            ``(6) procedures to facilitate placement of a fellow into a 
+        position under the Veterans and Foreign Service Pathway 
+        Program, where applicable.''.
+
+SEC. 617. REVIEWS OF THE FOREIGN SERVICE CAREER TRACKS.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, 612, 613, 614, 615, and 616, is further 
+amended by adding at the end the following:
+
+``SEC. 718. REVIEWS OF THE FOREIGN SERVICE CAREER TRACKS.
+
+    ``(a) In General.--The Secretary shall convene an independent 
+commission to review the structure, relevance, and effectiveness of the 
+Service's career tracks.
+    ``(b) Composition.--
+            ``(1) In general.--The commission shall be composed of 
+        individuals who are to be selected from--
+                    ``(A) the Department, including personnel other 
+                than those assigned to the Bureau of Human Resources;
+                    ``(B) other relevant Federal departments and 
+                agencies as the Secretary determines appropriate;
+                    ``(C) former Service officers;
+                    ``(D) academia; and
+                    ``(E) the private sector.
+            ``(2) Congressional selection.--The chair and ranking 
+        member of the Committee on Foreign Affairs of the House of 
+        Representatives and the Committee on Foreign Relations of the 
+        Senate shall each select one individual to be a member of the 
+        commission.
+            ``(3) Balanced perspective requirement.--Individuals shall 
+        be selected to be members of the commission to ensure a 
+        balanced perspective on diplomatic priorities, Department 
+        personnel needs, and evolving global challenges.
+    ``(c) Scope of Review.--The commission shall--
+            ``(1) assess the alignment of existing career tracks with 
+        current and anticipated United States diplomatic priorities, 
+        national security objectives, and global trends;
+            ``(2) evaluate recommendations to add, consolidate, 
+        eliminate, modify, or otherwise affect, career tracks of the 
+        Service; and
+            ``(3) consider any other matters related to career track 
+        structure, qualifications, standards, assignment processes, 
+        promotion precepts, track-specific training, or workforce 
+        planning that the commission determined relevant to the 
+        effectiveness of the Service.
+    ``(d) Report.--Not later than one year after the date on which the 
+commission is convened, the commission shall submit to the Secretary, 
+the Committee on Foreign Affairs of the House of Representatives, and 
+the Committee on Foreign Relations of the Senate a report containing--
+            ``(1) the findings and assessments under subsection (c);
+            ``(2) any recommendations for regulatory, or administrative 
+        action to improve the Service; and
+            ``(3) a description of the composition of the membership of 
+        the commission as required by subsection (b).
+    ``(e) Inapplicability of Other Law.--The provisions of chapter 10 
+of title 5, United States Code, and chapter 35 of title 44, United 
+States Code, shall not apply to either the composition or the operation 
+of the Commission.
+    ``(f) Sunset.--The commission shall terminate on the date that is 
+30 days after the date on which the report required by subsection (d) 
+has been submitted in accordance with such subsection.''.
+
+SEC. 618. INTEGRATION OF FOREIGN SERVICE RECRUITMENT INTO MILITARY 
+              TRANSITION PROGRAMS.
+
+    Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by 
+sections 608, 609, 610, 611, 612, 613, 614, 615, 616, and 617, is 
+further amended by adding at the end the following:
+
+``SEC. 719. INTEGRATION OF FOREIGN SERVICE RECRUITMENT INTO MILITARY 
+              TRANSITION PROGRAMS.
+
+    ``(a) In General.--The Secretary, in coordination with the 
+Secretary of Defense and the Secretary of Veterans Affairs, shall 
+establish a formal recruitment program within military transition 
+programs to support entry into the Service of veterans.
+    ``(b) Matters To Be Included.--The program required by subsection 
+(a) shall--
+            ``(1) provide information, guidance, and preparatory 
+        resources to facilitate participation in the Veterans and 
+        Foreign Service Pathway Program established under section 313; 
+        and
+            ``(2) support the development of a sustained pipeline of 
+        candidates aligned with workforce needs of the Department.
+    ``(c) Implementation.--In carrying out the program required by 
+subsection (a), the Secretary shall--
+            ``(1) integrate Service career information, including 
+        Diplomatic Security roles, into Transition Assistance Program 
+        curriculum and materials;
+            ``(2) conduct targeted outreach at military installations 
+        and transition centers;
+            ``(3) identify and refer qualified candidates to the 
+        program required by subsection (a) and any pilot hiring 
+        authority established under section 313; and
+            ``(4) provide pre-application guidance and onboarding 
+        support to prospective candidates.
+    ``(d) Rule of Construction.--Nothing in this section may be 
+construed to create a separate or noncompetitive hiring process for 
+members of the Armed Forces or veterans.''.
+
+                        TITLE VII--OTHER MATTERS
+
+SEC. 701. TAX RESIDENCY FOR FOREIGN SERVICE OFFICERS.
+
+    Chapter 9 of title I (22 U.S.C. 4081 et seq.) is amended by 
+inserting after section 906 the following:
+
+``SEC. 906A. TAX RESIDENCY FOR FOREIGN SERVICE OFFICERS.
+
+    ``(a) Preservation of Domicile.--A member of the Service shall 
+neither lose nor acquire a residence or domicile for purposes of 
+taxation with respect to the person, personal property, or income of 
+the member solely by reason of being absent from or present in any tax 
+jurisdiction of the United States in compliance with official orders 
+assigning the member to duty.
+    ``(b) Situs of Personal Property.--The personal property of a 
+member of the Service shall not be deemed to be located or present in, 
+or to have a situs for taxation in, any jurisdiction in which the 
+member is assigned pursuant to official orders.
+    ``(c) Definitions.--In this section--
+            ``(1) the term `personal property' includes motor vehicles; 
+        and
+            ``(2) the term `taxation' includes licenses, fees, or 
+        excises imposed with respect to motor vehicles and their use, 
+        if such license, fee, or excise is paid by the member in the 
+        member's State of domicile or residence.''.
+
+SEC. 702. INTERNSHIPS FOR PART-TIME STUDENTS.
+
+    Section 1202(c) (22 U.S.C. 4141a(c)) is amended--
+            (1) in paragraph (1), by striking ``Students enrolled full-
+        time in institutions of higher education'' and inserting 
+        ``Students enrolled, whether full-time or at least half-time, 
+        in institutions of higher education,''; and
+            (2) by adding at end the following:
+            ``(4) The Secretary shall, to the extent practicable, 
+        ensure that recruitment efforts include outreach to potential 
+        applicants enrolled at community colleges, vocational or 
+        technical institutions, and other nontraditional institutions 
+        of higher education.''.
+
+SEC. 703. DIPLOMATIC RESERVE CORPS PILOT PROGRAM.
+
+    (a) Establishment.--Not later than nine months after the date of 
+the enactment of this Act, the Secretary of State shall establish a 
+Diplomatic Reserve Corps Pilot Program (in this section referred to as 
+the ``Pilot Program'') in the Department of State to assess the 
+feasibility and effectiveness of maintaining a reserve cadre of trained 
+personnel available for temporary active service in support of foreign 
+affairs contingencies.
+    (b) Purpose.--The Pilot Program shall--
+            (1) provide a surge workforce to support diplomatic 
+        operations during crises, evacuations, armed conflicts, natural 
+        disasters, and other contingencies affecting United States 
+        interests abroad;
+            (2) assess recruitment, training, readiness, deployment, 
+        and retention requirements for a permanent Diplomatic Reserve 
+        Corps; and
+            (3) identify authorities, resources, and organizational 
+        structures necessary to sustain such a corps.
+    (c) Membership.--The Secretary of State may appoint to the Pilot 
+Program retired members of the Foreign Service.
+    (d) Initial Strength.--The Secretary of State shall recruit and 
+maintain not fewer than 250 members in the Pilot Program during the 
+first year of the Pilot Program and may increase membership by up to 
+250 additional members annually for the following three fiscal years.
+    (e) Reserve Corps Structure.--Of the members of the Pilot Program 
+appointed by the Secretary of State pursuant to subsection (c)--
+            (1) not more than 30 percent shall be appointed at ranks 
+        equivalent to salary class 1 and salary class 2 of the Foreign 
+        Service schedule; and
+            (2) those not appointed at ranks equivalent to salary class 
+        1 and salary class 2 of the Foreign Service schedule shall be 
+        appointed at ranks equivalent to salary class 3 and salary 
+        class 4 of the Foreign Service schedule.
+    (f) Training.--Members of the Pilot Program shall complete such 
+orientation, security, medical, and readiness training as the Secretary 
+of State determines appropriate, including training conducted through 
+the National Foreign Affairs Training Center, the Foreign Affairs 
+Security Training Center, and other Department of State facilities.
+    (g) Activation.--The Secretary of State may activate members of the 
+Pilot Program for temporary service in support of diplomatic 
+operations, crisis response, evacuation efforts, disaster response, 
+consular surge requirements, or other foreign affairs contingencies.
+    (h) Evaluation.--The Secretary of State shall establish readiness 
+standards and conduct annual evaluations of the training status and 
+availability for deployment of each member of the Pilot Program.
+    (i) Initial Plan to Congress.--Not later than six months after the 
+date of the enactment of this Act, the Secretary of State shall submit 
+to the Committee on Foreign Affairs of the House of Representatives and 
+the Committee on Foreign Relations of the Senate a report detailing the 
+Secretary's plans and timeline to establish, structure, and implement 
+the Pilot Program.
+    (j) Final Report to Congress.--
+            (1) In general.--Not later than three years after the 
+        establishment of the Pilot Program, the Secretary of State 
+        shall submit to the Committee on Foreign Affairs of the House 
+        of Representatives and the Committee on Foreign Relations of 
+        the Senate a report evaluating the Pilot Program and providing 
+        recommendations regarding establishment of a permanent 
+        Diplomatic Reserve Corps.
+            (2) Matters to be included.--The report required by 
+        paragraph (1) shall additionally include an assessment on 
+        expanding eligible appointment to the Diplomatic Reserve Corps 
+        to--
+                    (A) retired Civil Service employees of the 
+                Department of State;
+                    (B) retired employees of other Federal agencies 
+                possessing relevant skills and experience; and
+                    (C) qualified individuals from outside the Federal 
+                Government possessing critical language, regional, 
+                technical, medical, security, consular, management, or 
+                diplomatic expertise.
+    (k) Termination.--The Pilot Program shall terminate on the date 
+that is three after the date of the enactment of this Act, unless 
+reauthorized by Congress.
+                                 <all>

@@ -1,0 +1,126 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1901 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                S. 1901
+
+To address the effect of litigation on applications to export liquefied 
+                  natural gas, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 22, 2025
+
+ Mr. Cruz (for himself, Mr. Cornyn, Mr. Wicker, and Mr. Scott of South 
+   Carolina) introduced the following bill; which was read twice and 
+       referred to the Committee on Environment and Public Works
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To address the effect of litigation on applications to export liquefied 
+                  natural gas, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protect LNG Act of 2025''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Covered application.--The term ``covered application'' 
+        means an application for--
+                    (A) an authorization to export natural gas under 
+                section 3(a) of the Natural Gas Act (15 U.S.C. 
+                717b(a)); or
+                    (B) an authorization to site, construct, expand, or 
+                operate a covered facility under section 3(e) of the 
+                Natural Gas Act (15 U.S.C. 717b(e)).
+            (2) Covered facility.--The term ``covered facility'' means 
+        a liquefied natural gas facility for which a proposal to site, 
+        construct, expand, or operate is required to be approved by--
+                    (A) the Secretary; and
+                    (B)(i) the Federal Energy Regulatory Commission; or
+                    (ii) the Maritime Administration.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+
+SEC. 3. EFFECT OF LITIGATION ON APPLICATIONS TO EXPORT LIQUEFIED 
+              NATURAL GAS.
+
+    (a) Effect of Litigation.--A civil action relating to an 
+environmental review under the Natural Gas Act (15 U.S.C. 717 et seq.) 
+or the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et 
+seq.) with respect to a covered facility shall not affect the validity 
+of a permit, license, or approval issued to the covered facility that 
+is the subject of the civil action.
+    (b) Remand; Processing of Covered Applications.--If, in a civil 
+action described in subsection (a), the environmental review for a 
+permit, license, or approval issued to the covered facility that is the 
+subject of the civil action is found by the applicable court to violate 
+the Natural Gas Act (15 U.S.C. 717 et seq.) or the National 
+Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)--
+            (1) notwithstanding chapter 5 or 7 of title 5, United 
+        States Code (commonly referred to as the ``Administrative 
+        Procedure Act''), the applicable court shall not set aside or 
+        vacate the permit, license, or approval issued to the covered 
+        facility but instead remand the matter to the relevant Federal 
+        agency to resolve the violation; and
+            (2) the relevant Federal agency shall continue to process 
+        all covered applications.
+
+SEC. 4. ACTION ON COVERED APPLICATIONS.
+
+    (a) Judicial Review.--Except for review in the Supreme Court of the 
+United States, the court of appeals of the United States for the 
+circuit in which a covered facility is, or will be, located pursuant to 
+a covered application shall have original and exclusive jurisdiction 
+over any civil action for the review of an order issued by a Federal 
+agency with respect to the covered application.
+    (b) Expedited Review.--The applicable United States Court of 
+Appeals under subsection (a) shall--
+            (1) set any civil action brought under this subsection for 
+        expedited review; and
+            (2) set the action on the docket as soon as practicable 
+        after the filing date of the initial pleading.
+    (c) Transfer of Existing Actions.--In the case of a covered 
+application for which a petition for review has been filed as of the 
+date of enactment of this Act, the petition shall be--
+            (1) on a motion by the applicant, transferred to the court 
+        of appeals of the United States in which the covered facility 
+        that is the subject of the covered application is, or will be, 
+        located; and
+            (2) adjudicated in accordance with this section.
+    (d) Limitation on Claims.--Notwithstanding any other provision of 
+law, a claim arising under Federal law seeking judicial review of a 
+permit, license, or approval issued by a Federal agency for a covered 
+facility pursuant to a covered application shall be barred unless the 
+claim is filed not later than 90 days after publication of a notice in 
+the Federal Register announcing that the permit, license, or approval 
+is final pursuant to the law under which the agency action is taken, 
+unless a shorter time is specified in the Federal law pursuant to which 
+judicial review is allowed.
+    (e) Savings Clause.--Nothing in this section establishes a right to 
+judicial review or places any limit on filing a claim that a person has 
+violated the terms of a permit, license, or approval.
+                                 <all>

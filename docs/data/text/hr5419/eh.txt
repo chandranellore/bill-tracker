@@ -1,0 +1,165 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5419 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 5419
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+     To direct the Secretary of the Interior and the Secretary of 
+ Agriculture to develop a plan for ensuring timely review of broadband 
+            land use authorizations, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Enhancing Administrative Reviews for 
+Broadband Deployment Act''.
+
+SEC. 2. ENSURING TIMELY REVIEW OF BROADBAND LAND USE AUTHORIZATIONS.
+
+    (a) Study and Report.--
+            (1) Study.--The Secretaries concerned shall each conduct, 
+        with respect to the relevant covered department, a study to 
+        determine--
+                    (A) if there are programmatic or administrative 
+                barriers to the timely review of requests for broadband 
+                land use authorizations;
+                    (B) if there are revisions to rules or regulations 
+                that could be implemented to improve efficiency with 
+                respect to reviewing requests for broadband land use 
+                authorizations; and
+                    (C) if there are processes for prioritizing the 
+                review of requests for broadband land use 
+                authorizations.
+            (2) Report.--Not later than 1 year after the date of the 
+        enactment of this Act, the Secretaries concerned shall jointly 
+        submit to the appropriate congressional committees a report 
+        that--
+                    (A) describes the results of the studies conducted 
+                under paragraph (1), including any barriers, revisions, 
+                or processes identified under subparagraphs (A) through 
+                (C) of such paragraph; and
+                    (B) includes a plan for providing, with respect to 
+                the organizational units of the relevant covered 
+                departments, the staffing necessary to ensure timely 
+                review of broadband land use authorizations.
+    (b) Definitions.--In this section:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means the--
+                    (A) Committees on Natural Resources, Agriculture, 
+                and Energy and Commerce of the House of 
+                Representatives; and
+                    (B) Committees on Commerce, Science, and 
+                Transportation and Environment and Public Works of the 
+                Senate.
+            (2) Broadband land use authorization.--The term ``broadband 
+        land use authorization'' means an easement, right-of-way, 
+        lease, license, or other authorization--
+                    (A) provided by the Secretary of the Interior or 
+                the Secretary of Agriculture;
+                    (B) to locate or modify a communications facility 
+                on covered land; and
+                    (C) for the primary purpose of authorizing the 
+                occupancy and use of such covered land for 
+                communications use.
+            (3) Communications facility.--The term ``communications 
+        facility'' has the meaning given the term ``communications 
+        facility installation'' in section 6409(d) of the Middle Class 
+        Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(d)).
+            (4) Communications use.--The term ``communications use'' 
+        means the placement and operation of a communications facility.
+            (5) Covered land.--The term ``covered land'' means--
+                    (A) public lands; and
+                    (B) National Forest System land.
+            (6) National forest system.--The term ``National Forest 
+        System'' has the meaning given that term in section 11(a) of 
+        the Forest and Rangeland Renewable Resources Planning Act of 
+        1974 (16 U.S.C. 1609(a)).
+            (7) Organizational unit.--The term ``organizational unit'' 
+        means--
+                    (A) with respect to the Department of the 
+                Interior--
+                            (i) a State office of the Bureau of Land 
+                        Management;
+                            (ii) a district office of the Bureau of 
+                        Land Management; or
+                            (iii) a field office of the Bureau of Land 
+                        Management; and
+                    (B) with respect to the Department of Agriculture--
+                            (i) a regional office of the Forest 
+                        Service;
+                            (ii) a management unit of the Forest 
+                        Service; or
+                            (iii) a ranger district office of the 
+                        Forest Service.
+            (8) Public lands.--The term ``public lands'' has the 
+        meaning given that term in section 103 of the Federal Land 
+        Policy and Management Act of 1976 (43 U.S.C. 1702).
+            (9) Relevant covered department.--The term ``relevant 
+        covered department'' means--
+                    (A) with respect to the Secretary of the Interior, 
+                the Department of the Interior; and
+                    (B) with respect to the Secretary of Agriculture, 
+                the Department of Agriculture.
+            (10) Secretaries concerned.--The term ``Secretaries 
+        concerned'' means--
+                    (A) the Secretary of the Interior; and
+                    (B) the Secretary of Agriculture, acting through 
+                the Chief of the Forest Service.
+
+            Passed the House of Representatives March 3, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 5419
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+     To direct the Secretary of the Interior and the Secretary of 
+ Agriculture to develop a plan for ensuring timely review of broadband 
+            land use authorizations, and for other purposes.

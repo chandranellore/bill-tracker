@@ -1,0 +1,73 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 755 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 755
+
+ To amend the Energy Act of 2020 to include critical materials in the 
+        definition of critical mineral, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 28, 2025
+
+  Mr. Ciscomani (for himself, Mr. Hamadeh of Arizona, Mr. Crane, Mr. 
+Newhouse, Mr. Swalwell, Ms. Lee of Nevada, Mr. Stanton, Ms. Maloy, Mr. 
+   Horsford, Ms. Pettersen, and Mr. Biggs of Arizona) introduced the 
+    following bill; which was referred to the Committee on Natural 
+                               Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Energy Act of 2020 to include critical materials in the 
+        definition of critical mineral, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Critical Mineral Consistency Act of 
+2025''.
+
+SEC. 2. CRITICAL MATERIALS INCLUDED AS CRITICAL MINERALS.
+
+    Section 7002 of the Energy Act of 2020 (30 U.S.C. 1606) is 
+amended--
+            (1) in subsection (a)(3)(A), to read as follows:
+                    ``(A) In general.--The term `critical mineral' 
+                means--
+                            ``(i) any mineral, element, substance, or 
+                        material designated as critical by the 
+                        Secretary under subsection (c); or
+                            ``(ii) a critical material as determined by 
+                        the Secretary of Energy under paragraph 
+                        (2)(A).''; and
+            (2) in subsection (c)(5), by adding at the end the 
+        following:
+                    ``(C) Inclusion of critical materials.--Not later 
+                than 45 days after the date on which the Secretary of 
+                Energy determines a non-fuel mineral, element, 
+                substance, or material to be a critical material under 
+                subsection (a)(2)(A), the Secretary shall update the 
+                list of critical minerals published under paragraph (3) 
+                to include such critical material.''.
+                                 <all>

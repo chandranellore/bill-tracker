@@ -1,0 +1,308 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5199 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5199
+
+   To amend the Federal Power Act to clarify the jurisdiction of the 
+Federal Energy Regulatory Commission over the interconnection of large 
+    loads to the transmission system, to provide for standards and 
+   procedures for the interconnection of large loads, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 30, 2026
+
+ Mr. Heinrich introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Power Act to clarify the jurisdiction of the 
+Federal Energy Regulatory Commission over the interconnection of large 
+    loads to the transmission system, to provide for standards and 
+   procedures for the interconnection of large loads, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Guarding Ratepayers from Increased 
+Demand-costs Savings Act of 2026'' or the ``GRID Savings Act of 2026''.
+
+SEC. 2. LARGE LOAD INTERCONNECTION.
+
+    (a) In General.--Part II of the Federal Power Act (16 U.S.C. 824 et 
+seq.) is amended by adding at the end the following:
+
+``SEC. 224. LARGE LOAD INTERCONNECTION.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Bulk-power system.--The term `bulk-power system' has 
+        the meaning given the term in section 215(a).
+            ``(2) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(3) Covered large load.--
+                    ``(A) In general.--The term `covered large load' 
+                means a new or expanded nonresidential electric load, 
+                or a group of such loads under common ownership, 
+                control, or affiliation at a single site or at 
+                contiguous or adjacent sites sharing electric 
+                infrastructure (including phased development), that has 
+                an aggregate requested or projected peak electric 
+                demand of not less than 150 megawatts behind a single 
+                point of interconnection.
+                    ``(B) Combined configurations.--A load or group of 
+                loads described in subparagraph (A) shall be a covered 
+                large load without regard to whether it is proposed to 
+                be interconnected, studied, or served in combination 
+                with 1 or more generation or energy storage resources, 
+                and peak electric demand shall be measured without 
+                reduction for any such resource.
+            ``(4) Covered large-load customer.--The term `covered 
+        large-load customer' means a person that owns, controls, or 
+        operates a covered large load.
+            ``(5) Dedicated resource.--The term `dedicated resource' 
+        means a new or incremental generation resource, energy storage 
+        resource, or enforceable flexibility arrangement, including a 
+        resource located behind the meter of, co-located with, or 
+        proximate to and electrically deliverable to the applicable 
+        covered large load, that is dedicated to the covered large load 
+        and subject to 1 or more enforceable, metered commitments.
+            ``(6) Direct assignment facility.--The term `Direct 
+        Assignment Facility' means a facility, or any portion of a 
+        facility, that is--
+                    ``(A) constructed for the sole use or benefit of a 
+                particular covered large-load customer;
+                    ``(B) classified as a Direct Assignment Facility 
+                under the applicable tariff or service agreement 
+                accepted or approved by the Commission, consistent with 
+                the definition of the term `Direct Assignment 
+                Facilities' in the pro forma open access transmission 
+                tariff established by the Commission under section 
+                35.28 of title 18, Code of Federal Regulations (or a 
+                successor regulation), as adapted by the Commission for 
+                covered large loads; and
+                    ``(C) specified as a Direct Assignment Facility in 
+                the applicable tariff or service agreement accepted or 
+                approved by the Commission.
+            ``(7) Interconnection facility.--The term `Interconnection 
+        Facility' means a facility classified as an Interconnection 
+        Facility under the applicable tariff or service agreement 
+        accepted or approved by the Commission, consistent with the 
+        definition of the term `Interconnection Facilities' in the 
+        standard interconnection procedures and agreements established 
+        by the Commission under section 35.28 of title 18, Code of 
+        Federal Regulations (or a successor regulation), as adapted by 
+        the Commission for covered large loads.
+            ``(8) Network upgrade.--The term `Network Upgrade' means an 
+        addition, modification, or upgrade to the transmission system 
+        of a transmitting utility, at or beyond the point at which the 
+        Interconnection Facilities for a covered large load connect to 
+        that system, that is required to accommodate the 
+        interconnection of, or transmission service to serve, the 
+        covered large load, consistent with the definition of the term 
+        `Network Upgrades' in the standard interconnection procedures 
+        and agreements established by the Commission under section 
+        35.28 of title 18, Code of Federal Regulations (or a successor 
+        regulation), as adapted by the Commission for covered large 
+        loads.
+            ``(9) Stand alone network upgrade.--The term `Stand Alone 
+        Network Upgrade' means a Network Upgrade classified as a Stand 
+        Alone Network Upgrade under the applicable tariff or service 
+        agreement accepted or approved by the Commission, consistent 
+        with the definition of the term `Stand Alone Network Upgrades' 
+        in the standard interconnection procedures and agreements 
+        established by the Commission under section 35.28 of title 18, 
+        Code of Federal Regulations (or a successor regulation), as 
+        adapted by the Commission for covered large loads.
+    ``(b) Jurisdiction Over Large Load Interconnection.--
+            ``(1) In general.--The Commission shall have jurisdiction 
+        over the interconnection of any covered large load to 1 or more 
+        facilities used for the transmission of electric energy in 
+        interstate commerce.
+            ``(2) Treatment.--The interconnection described in 
+        paragraph (1) shall be--
+                    ``(A) subject to the requirements of this section 
+                and sections 205 and 206; and
+                    ``(B) considered to be a component of open access 
+                transmission service.
+            ``(3) Included matters.--The jurisdiction of the Commission 
+        under paragraph (1) includes--
+                    ``(A) flexible interconnection service, subject to 
+                enforceable operating limits;
+                    ``(B) provisional or phased interconnection 
+                service; and
+                    ``(C) the study and interconnection, separately or 
+                together, of a covered large load and any associated 
+                generation, energy storage, or verifiable load 
+                flexibility, including a dedicated resource.
+    ``(c) Rulemaking.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of this section, the Commission shall issue a final 
+        rule, applicable to each transmitting utility, establishing 
+        standards and procedures for the interconnection of covered 
+        large loads.
+            ``(2) Inclusions.--The rule under paragraph (1) shall 
+        include pro forma provisions and regionally tailored 
+        requirements.
+            ``(3) Threshold criteria.--The rule under paragraph (1) 
+        shall establish criteria and procedures for determining whether 
+        a load or group of loads is a covered large load.
+    ``(d) Required Standards and Procedures.--The rule issued under 
+subsection (c) shall establish standards and procedures governing each 
+of the following:
+            ``(1) Study process.--Timelines, readiness requirements, 
+        and study procedures for interconnection requests for covered 
+        large loads that--
+                    ``(A) protect other customers from the costs of 
+                speculative or duplicative requests;
+                    ``(B)(i) identify reasonable alternatives, 
+                including the services and configurations described in 
+                subsection (b)(3) and advanced transmission 
+                technologies;
+                    ``(ii) present the alternatives, with estimated 
+                costs and schedules, to the covered large-load 
+                customer; and
+                    ``(iii) permit the covered large-load customer to 
+                elect among the alternatives in accordance with the 
+                applicable tariff; and
+                    ``(C) provide for the services and configurations 
+                described in subsection (b)(3), at the election of the 
+                covered large-load customer, where consistent with 
+                reliable operation of the bulk-power system.
+            ``(2) Classification and allocation of transmission 
+        costs.--
+                    ``(A) Classification.--Criteria and procedures 
+                governing the classification of facilities as 
+                Interconnection Facilities, Direct Assignment 
+                Facilities, Network Upgrades, or Stand Alone Network 
+                Upgrades for a covered large load, consistent with the 
+                definitions in subsection (a), with each classification 
+                supported by the record of the applicable study.
+                    ``(B) Interconnection and direct assignment 
+                facilities.--A requirement that--
+                            ``(i) each applicable tariff or service 
+                        agreement identify the Interconnection 
+                        Facilities and Direct Assignment Facilities for 
+                        a covered large load; and
+                            ``(ii) 100 percent of the costs of those 
+                        facilities be--
+                                    ``(I) directly assigned to, and 
+                                fully borne by, the applicable covered 
+                                large-load customer; and
+                                    ``(II) paid or secured as provided 
+                                under paragraph (3).
+                    ``(C) Network upgrades.--Costs of Network Upgrades 
+                shall be allocated to covered large-load customers, and 
+                those costs shall be credited back against transmission 
+                service charges, in a manner that is consistent with 
+                the standard interconnection procedures and agreements 
+                established by the Commission under section 35.28 of 
+                title 18, Code of Federal Regulations (or a successor 
+                regulation), as adapted by the Commission for covered 
+                large loads.
+                    ``(D) Option to build.--A covered large-load 
+                customer may elect to construct its own Network 
+                Upgrades and Interconnection Facilities under an option 
+                to build, in a manner that is consistent with the 
+                standard interconnection procedures and agreements 
+                established by the Commission under section 35.28 of 
+                title 18, Code of Federal Regulations (or a successor 
+                regulation), as adapted by the Commission for covered 
+                large loads.
+            ``(3) Payment and financial security.--
+                    ``(A) In general.--Requirements for--
+                            ``(i) the payment of costs allocated to a 
+                        covered large-load customer; and
+                            ``(ii) financial security designed to 
+                        protect any customer from unrecovered costs if 
+                        a covered large load fails to proceed or 
+                        perform.
+                    ``(B) Requirements.--The provision of financial 
+                security described in subparagraph (A)(ii) shall not 
+                alter the final allocation of costs.
+            ``(4) Transparency.--Disclosure to the applicable covered 
+        large-load customer, each applicable State commission, and the 
+        Commission of--
+                    ``(A) the classification of, estimated and final 
+                costs of, allocation of costs for, and method of cost 
+                recovery for the facilities associated with a covered 
+                large load; and
+                    ``(B) the alternatives evaluated, subject to 
+                appropriate protection of critical electric 
+                infrastructure information (as defined in section 
+                215A(a)).
+            ``(5) Reliability.--Standards to ensure that the 
+        interconnection of covered large loads is consistent with 
+        current and future reliability standards (as defined in section 
+        215(a)).
+    ``(e) Voluntary Funding of Regional and Interregional Facilities.--
+            ``(1) In general.--Except as provided in paragraph (2), 
+        nothing in this section alters the allocation of the costs of 
+        transmission facilities selected in a regional or interregional 
+        transmission plan under a planning process accepted or approved 
+        by the Commission.
+            ``(2) Voluntary funding.--The Commission shall include in 
+        the rule issued under subsection (c) a mechanism to allow a 
+        covered large-load customer to voluntarily fund all or a 
+        portion of a transmission facility selected in a regional or 
+        interregional transmission plan under a planning process 
+        accepted or approved by the Commission that plans for the 
+        transmission needs of anticipated load growth in exchange for a 
+        Commission-defined right to transmission service enabled by the 
+        funded facility, subject to the conditions that such funding--
+                    ``(A) shall reduce the costs otherwise allocated 
+                pursuant a regional or interregional cost allocation 
+                method accepted or approved by the Commission;
+                    ``(B) shall not impact whether the transmission 
+                facility is selected under the rules of the Commission; 
+                and
+                    ``(C) except as provided in subparagraph (A), shall 
+                not impact how the costs of the transmission facility 
+                are allocated under the rules of the Commission.
+    ``(f) Savings Provisions.--
+            ``(1) Commission authority; pending proceedings.--Nothing 
+        in this section--
+                    ``(A) limits or impairs any authority of the 
+                Commission under any other provision of law; or
+                    ``(B) affects any proceeding pending before, or any 
+                order issued by, the Commission before the date of 
+                enactment of this section.
+            ``(2) ERCOT.--This section does not apply to ERCOT or an 
+        ERCOT utility (as those terms are defined in section 212(k)(2)) 
+        with respect to the transmission of electric energy occurring 
+        wholly within ERCOT.''.
+    (b) Conforming Amendments.--Section 201 of the Federal Power Act 
+(16 U.S.C. 824) is amended--
+            (1) in subsection (b)(2)--
+                    (A) in the first sentence, by striking ``and 222'' 
+                and inserting ``222, and 224''; and
+                    (B) in the second sentence, by striking ``or 222'' 
+                and inserting ``222, or 224''; and
+            (2) in subsection (e)--
+                    (A) by striking ``206(f),''; and
+                    (B) by striking ``or 222'' and inserting ``222, or 
+                224''.
+                                 <all>

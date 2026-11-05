@@ -1,0 +1,788 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8312 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8312
+
+To establish fraud prevention and program integrity functions and data 
+ sharing authorities within the Department of Treasury and a permanent 
+    governmentwide Inspector General for Fraud, Accountability, and 
+                   Recovery, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 15, 2026
+
+ Mr. Sessions introduced the following bill; which was referred to the 
+              Committee on Oversight and Government Reform
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish fraud prevention and program integrity functions and data 
+ sharing authorities within the Department of Treasury and a permanent 
+    governmentwide Inspector General for Fraud, Accountability, and 
+                   Recovery, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Fraud Prevention and Accountability 
+Act''.
+
+SEC. 2. ESTABLISHMENT OF FRAUD PREVENTION AND FINANCIAL INTEGRITY 
+              FUNCTIONS WITHIN THE DEPARTMENT OF THE TREASURY.
+
+    (a) In General.--Section 306 of title 31, United States Code, is 
+amended to read as follows:
+``Sec. 306. Fiscal Service
+    ``(a) The Bureau of the Fiscal Service is a service in the 
+Department of the Treasury.
+    ``(b) The head of the Bureau of the Fiscal Service is the Fiscal 
+Assistant Secretary appointed under section 301(d) of this title.
+    ``(c) The Bureau of the Fiscal Service, having as its head a 
+Commissioner, shall maintain the following functions related to 
+financial integrity, spending transparency, and preventing improper 
+payments resulting in financial loss to the government, and does not 
+include any investigative or law enforcement function, which, in 
+addition to any other duty the Secretary of the Treasury assigns--
+            ``(1) shall administer and operate the Do Not Pay system 
+        required under section 3354 in a manner that ensures that any 
+        data provided to the Secretary is used only for the purposes 
+        set forth under section 3354 in accordance with applicable law; 
+        and
+            ``(2) shall, in consultation with the Director of the 
+        Office of Management and Budget, establish and maintain a 
+        governmentwide data analysis program, utilizing the authorities 
+        outlined under section 6(c)(1) of the Federal Funding 
+        Accountability and Transparency Act (Public Law 109-282; 31 
+        U.S.C. 6101 note)--
+                    ``(A) to provide data sharing and analysis services 
+                to Federal agencies, States (with respect to any 
+                federally funded State-administered programs), and any 
+                nongovernmental entity administering or disbursing 
+                Federal funds, to detect fraud and prevent improper 
+                payments resulting in a financial loss to the 
+                government and, including by--
+                            ``(i) requiring each agency to share data 
+                        of known or suspected fraudulent entities and 
+                        transactions (resulting from internal agency 
+                        fraud prevention or detection investigations) 
+                        with the Department of the Treasury;
+                            ``(ii) requiring each agency to screen 
+                        their potential awardees and payees against the 
+                        centralized fraud database prior to award or 
+                        payment issuance;
+                            ``(iii) requiring each agency to screen 
+                        relevant cyber activity against the centralized 
+                        fraud database prior to allowing changes to 
+                        virtual identity or payment information;
+                            ``(iv) establishing governmentwide 
+                        standards for the collection, labeling, and 
+                        sharing of fraudulent payment data, to include 
+                        improper payments, with the Department of the 
+                        Treasury;
+                            ``(v) partnering with financial 
+                        institutions and industry to share best 
+                        practices and, where appropriate, data 
+                        regarding fraud patterns and results of 
+                        investigations into fraudulent activity; and
+                            ``(vi) providing identity, eligibility, 
+                        account, and vital event verification and 
+                        validation tools and analytical services to 
+                        agencies, as necessary and appropriate; and
+                    ``(B) that is capable of receiving (including in 
+                bulk data formats and through systems that facilitate 
+                real-time data access) any data asset, information, or 
+                record related to the administration of Federal 
+                programs (including federally funded State-administered 
+                programs) and disbursement of Federal funds under such 
+                programs, provided to the Secretary for secure and 
+                confidential use by the center or the Inspector General 
+                for Fraud, Accountability and Recovery (in accordance 
+                with any terms included in a written data sharing 
+                agreement between the Secretary and the Inspector 
+                General) to recognize and address patterns of 
+                fraudulent actors, information, and claims across such 
+                programs; and
+            ``(3) shall provide the Inspector General for Fraud, 
+        Accountability, and Recovery, access to such information 
+        technology, data assets, information, and records to support 
+        the functions and services of the Office of the Inspector 
+        General for Fraud, Accountability, and Recovery established 
+        under section 317, unless the Secretary determines that such 
+        access is not appropriate and notifies the appropriate 
+        congressional committees and the Office of such Inspector 
+        General in writing.
+    ``(d) The Secretary of the Treasury, in consultation with the 
+Director of the Office of Management and Budget, shall not later than 2 
+years after the establishment of this section, and on an annual basis 
+thereafter, submit, to the Committee on Oversight and Government Reform 
+of the House of Representatives and the Committee on Homeland Security 
+and Governmental Affairs of the Senate, a report, which may be included 
+as part of another report submitted to Congress by the Secretary, on 
+the implementation of the Program, including participation rates and an 
+assessment of the Program's effectiveness in reducing fraud and 
+preventing improper payments resulting in a financial loss to the 
+government.
+    ``(e) The Secretary of the Treasury may designate another officer 
+or employee of the Department to act as the Fiscal Assistant Secretary 
+when the Fiscal Assistant Secretary is absent or unable to serve or 
+when the office of Fiscal Assistant Secretary is vacant.''.
+    (b) Coordination in Designating Do Not Pay Databases.--Section 
+3354(b)(1)(B) of title 31, United States Code, is amended by inserting 
+``in coordination with the Secretary of the Treasury'' before ``in 
+consultation''.
+    (c) Amendment to Data Act of 2014 Data Analysis Center 
+Authorization.--Section 6(c)(1) of the Federal Funding Accountability 
+and Transparency Act (Public Law 109-282; 31 U.S.C. 6101 note) is 
+amended by striking ``may'' and inserting ``shall''.
+
+SEC. 3. ESTABLISHMENT OF INSPECTOR GENERAL FOR FRAUD, ACCOUNTABILITY, 
+              AND RECOVERY.
+
+    (a) Establishment of Inspector for Fraud, Accountability, and 
+Recovery.--Subchapter I of chapter 3 of title 31, United States Code, 
+is amended by adding at the end the following:
+``Sec. 317. Inspector General for Fraud, Accountability, and Recovery 
+              within the Department of the Treasury.
+    ``(a) Office of Inspector General.--There is established within the 
+Department of the Treasury, the Office of the Inspector General for 
+Fraud, Accountability, and Recovery.
+    ``(b) Appointment of Inspector General; Removal.--
+            ``(1) In general.--The head of the Office shall be the 
+        Inspector General for Fraud, Accountability, and Recovery, who 
+        shall be appointed by the President, by and with the advice and 
+        consent of the Senate.
+            ``(2) Nomination.--The nomination of the Inspector General 
+        shall be made without regard to political affiliation and 
+        solely on the basis of integrity and demonstrated ability in 
+        accounting, auditing, financial analysis, law, management 
+        analysis, public administration, or investigations.
+            ``(3) Removal.--The Inspector General shall be removable 
+        from office in accordance with the provisions of section 403(b) 
+        of title 5.
+            ``(4) Political activity.--For purposes of section 7324 of 
+        title 5, the Inspector General shall not be considered an 
+        employee who determines policies to be pursued by the United 
+        States in the nationwide administration of Federal law.
+            ``(5) Basic pay.--The annual rate of basic pay of the 
+        Inspector General shall be the annual rate of basic pay for an 
+        Inspector General under section 403(e) of title 5.
+            ``(6) Legal counsel.--The Inspector General for Fraud, 
+        Accountability, and Recovery shall, in accordance with 
+        applicable laws and regulations governing the civil service, 
+        obtain legal advice from a counsel either reporting directly to 
+        the Inspector General for Fraud, Accountability, and Recovery 
+        or another inspector general within the executive branch.
+    ``(c) Duties and Responsibilities.--
+            ``(1) In general.--It shall be the duty of the Inspector 
+        General, in accordance with section 404(b)(1) of title 5, to 
+        conduct, supervise, or coordinate oversight activities, 
+        including audits and investigations of the use of and the 
+        provision or award of covered funds, and the management by 
+        agency heads of any program established by the use of covered 
+        funds, with such related activities of the Inspector General to 
+        be considered civil or criminal law enforcement activities, 
+        including by--
+                    ``(A) providing support to agency Inspectors 
+                General, if requested by the agency Inspector General, 
+                in the oversight of covered funds in order to--
+                            ``(i) detect and prevent fraud, waste, 
+                        abuse, and mismanagement;
+                            ``(ii) identify major risks that cut across 
+                        programs and agency boundaries; and
+                            ``(iii) identify and promote best practices 
+                        and tools to prevent, detect, and respond to 
+                        fraud across covered funds; and
+                    ``(B) coordinating with relevant agency Inspectors 
+                General, the Department of Justice, and, as 
+                appropriate, the Fiscal Service to--
+                            ``(i) provide support in conducting 
+                        investigations, audits, and reviews relating to 
+                        covered funds, including through--
+                                    ``(I) the establishment or use of 
+                                an independent data analytics platform, 
+                                which shall incorporate to the extent 
+                                practicable and feasible the data 
+                                analytic platform maintained by the 
+                                Pandemic Response Accountability 
+                                Committee prior to the enactment of 
+                                this section;
+                                    ``(II) the sharing of data, tools, 
+                                and services;
+                                    ``(III) the development and 
+                                enhancement of data practices, 
+                                analysis, and visualization; and
+                                    ``(IV) any other appropriate means 
+                                as determined by the Inspector General 
+                                in coordination with relevant 
+                                Inspectors General from any agency that 
+                                expends or obligates covered funds;
+                            ``(ii) provide analytical products to 
+                        agencies to promote program integrity, prevent 
+                        improper payments, facilitate verification 
+                        efforts to ensure proper expenditure and 
+                        utilization of covered funds, and assist with 
+                        civil and criminal investigations or litigation 
+                        relating to fraud, waste, abuse and 
+                        mismanagement of covered funds;
+                            ``(iii) review the economy, efficiency, and 
+                        effectiveness in the administration of, and the 
+                        detection of fraud, waste, abuse, and 
+                        mismanagement in, programs and operations using 
+                        covered funds;
+                            ``(iv) as appropriate and practicable, 
+                        identify data assets and information records 
+                        collected, produced, and maintained by the 
+                        Office that can be securely provided through 
+                        data sharing agreements, including in bulk data 
+                        formats and through systems that facilitate 
+                        real-time data access, with the Secretary of 
+                        the Treasury to support the functions and 
+                        activities of the Fiscal Service and civil and 
+                        criminal investigations or litigation relating 
+                        to fraud, waste, abuse, and mismanagement of 
+                        covered funds; and
+                            ``(v) expeditiously report to the Attorney 
+                        General any instance in which the Inspector 
+                        General has reasonable grounds to believe there 
+                        has been a violation of Federal criminal law;
+                    ``(C) establish an advisory committee composed of 
+                other Inspectors General, with at least three 
+                representing an agency specified under section 901(b) 
+                of title 31, United States Code, and three from another 
+                agency, in accordance with the following:
+                            ``(i) General functions.--The advisory 
+                        committee may identify and prioritize cross-
+                        agency fraud risks and activities to prevent, 
+                        detect, and otherwise mitigate such risks, 
+                        including by reviewing--
+                                    ``(I) the economy, efficiency, and 
+                                effectiveness in the administration of, 
+                                and the detection of fraud, waste, 
+                                abuse, and mismanagement in, programs 
+                                and operations using covered funds; and
+                                    ``(II) whether there are 
+                                appropriate mechanisms for interagency 
+                                collaboration relating to the oversight 
+                                of covered funds, including 
+                                coordinating and collaborating to the 
+                                extent practicable with State and local 
+                                government entities.
+                            ``(ii) Recommendations.--The advisory 
+                        committee may, in coordination with the 
+                        Secretary of the Treasury and the Director of 
+                        the Office of Management and Budget, make 
+                        recommendations to agencies on measures to 
+                        prevent or address fraud, waste, abuse, and 
+                        mismanagement, and to mitigate major risks that 
+                        cut across programs and agency boundaries, 
+                        relating to covered funds.
+                            ``(iii) Preventing duplication in oversight 
+                        functions.--With a view to preventing 
+                        duplication in government functions and provide 
+                        for ongoing coordination of resources to 
+                        prevent fraud and improper payments in Federal 
+                        programs and spending the advisory committee 
+                        may--
+                                    ``(I) provide recommendations to 
+                                the Secretary of the Treasury to assist 
+                                the Secretary in making recommendations 
+                                under section 321(a)(11) of title 31; 
+                                and
+                                    ``(II) provide any such additional 
+                                recommendations in a timely manner to 
+                                the appropriate congressional 
+                                committees as the advisory committee 
+                                determines necessary and to ensure that 
+                                the definition of `covered funds' 
+                                established under section 317(l) of 
+                                title 31 is legislatively expanded, as 
+                                necessary;
+                    ``(D) the Inspector General may provide 
+                investigative support to prosecutive and enforcement 
+                authorities to protect program integrity and prevent, 
+                detect, and prosecute fraud of covered funds; and
+                    ``(E) coordinating the oversight and investigative 
+                activities with the Comptroller General of the United 
+                States, State and local government Inspectors General, 
+                and State and local auditors, as appropriate.
+            ``(2) Maintenance of systems.--The Inspector General shall 
+        establish, maintain, and oversee such systems, procedures, and 
+        controls as the Inspector General considers appropriate to 
+        discharge the duties of the Inspector General under paragraph 
+        (1).
+            ``(3) Technical assistance and data analytics support.--In 
+        addition to the duties of the Inspector General with respect to 
+        covered funds, for any Inspector General enumerated under 
+        section 424(b)(1) of title 5, the Inspector General may provide 
+        technical assistance to support independent oversight 
+        activities on a reimbursable or non-reimbursable basis provided 
+        that appropriate data privacy and security protection 
+        provisions are provided for in agreements to provide such 
+        technical assistance. Such technical assistance may include, 
+        but not be limited to the following:
+                    ``(A) Sharing data available to the Inspector 
+                General, as appropriate under a data sharing agreement.
+                    ``(B) Sharing and providing data analytics 
+                services.
+                    ``(C) Supporting the development of data analytics 
+                tools and capabilities.
+                    ``(D) Sharing of data analysis best practices.
+            ``(4) Additional duties and responsibilities.--In addition 
+        to the duties described in paragraphs (1) and (2), the duties 
+        and responsibilities of inspectors general under subsections 
+        (b) through (e) of section 404 of title 5, United States Code, 
+        shall apply to the Inspector General. However, such duties and 
+        responsibilities shall extend beyond the Department of the 
+        Treasury notwithstanding any reference to the establishment in 
+        such section.
+    ``(d) Powers and Authorities.--
+            ``(1) In general.--In carrying out the provisions of this 
+        section, the Inspector General shall have the authorities 
+        provided under section 406 of title 5, United States Code, 
+        except that the references to the establishment in section 406 
+        of such title are not limited to the Department of the 
+        Treasury, and references to `this chapter' in section 406 of 
+        such title shall include this section.
+            ``(2) Treatment of office.--The Office shall be considered 
+        to be an office described in section 406(f)(3) of title 5 and 
+        shall be exempt from an initial determination by the Attorney 
+        General under subsection (f)(2) of such section.
+            ``(3) Treatment of records.--In carrying out the duties and 
+        functions under this subsection with respect to the oversight 
+        of covered funds, the Office shall--
+                    ``(A) be considered to be conducting civil or 
+                criminal law enforcement activity for the purposes of 
+                section 552a(b)(7) of title 5; and
+                    ``(B) for the purposes of sections 552 and 552a of 
+                title 5, be considered to be a component which performs 
+                as its principal function an activity pertaining to the 
+                enforcement of criminal laws, and its records may 
+                constitute investigatory material compiled for law 
+                enforcement purposes.
+    ``(e) Personnel, Facilities, and Other Resources.--
+            ``(1) Appointment of officers and employees.--
+        Notwithstanding section 406(a)(7) of title 5, the Inspector 
+        General may exercise the authorities of subsections (b) through 
+        (i) of section 3161 of title 5 (without regard to subsections 
+        (a) or (b)(2) of that section) as if the Office of the 
+        Inspector General were a temporary organization, as defined in 
+        such section, to appoint such officers and employees as may be 
+        necessary for carrying out the duties of the Inspector General 
+        and to otherwise carry out the functions of the Office of the 
+        Inspector General under this section, including appointing an 
+        Assistant Inspector General for Investigations.
+            ``(2) Additional staff.--Upon the request of an Inspector 
+        General of an Office established under chapter 4 of title 5, 
+        the Inspector General may detail, on a nonreimbursable basis, 
+        any personnel of the Office to that Inspector General to assist 
+        in carrying out any audit, review, or investigation pertaining 
+        to the oversight of covered funds.
+            ``(3) Annuitants.--
+                    ``(A) In general.--The Office may employ an 
+                annuitant receiving an annuity from the Civil Service 
+                Retirement and Disability Fund for purposes of the 
+                oversight of covered funds.
+                    ``(B) Treatment of annuitants.--The employment of 
+                annuitants under this paragraph shall be subject to the 
+                provisions of section 9902(g) of title 5, as if the 
+                Office were the Department of Defense.
+            ``(4) Contracts.--The Inspector General may enter into 
+        contracts and other arrangements for audits, studies, analyses, 
+        and other services with public agencies and with private 
+        persons, and make such payments as may be necessary to carry 
+        out the duties of the Office.
+    ``(f) Requests for Information.--
+            ``(1) In general.--Upon request of the Inspector General 
+        for information or assistance from any department, agency, or 
+        other entity of the Federal Government, the head of that 
+        department, agency, or entity shall, to the extent practicable 
+        and not in contravention of any existing law, furnish that 
+        information or assistance to the Office, or an authorized 
+        designee.
+            ``(2) Refusal to provide requested information or 
+        assistance.--Whenever information or assistance requested by 
+        the Inspector General is, in the judgment of the Inspector 
+        General, unreasonably refused or not provided, the Inspector 
+        General shall immediately report the circumstances to the 
+        appropriate congressional committees.
+    ``(g) Reports.--
+            ``(1) Annual reports.--
+                    ``(A) In general.--Not later than 60 days after the 
+                date on which a Inspector General is confirmed, and 
+                once every year thereafter until the Inspector General 
+                is no longer serving in such position, the Inspector 
+                General shall submit to the appropriate committees of 
+                Congress a report summarizing the activities of the 
+                Inspector General.
+                    ``(B) Contents.--Each report submitted under 
+                subparagraph (A)--
+                            ``(i) shall include--
+                                    ``(I) for the period covered by the 
+                                report, a detailed statement the 
+                                activities conducted by the Inspector 
+                                General, including estimates of 
+                                fraudulent payments the Office helped 
+                                prevent and assisted in recovering or 
+                                prosecuting; and
+                                    ``(II) policy and legislative 
+                                recommendations to improve 
+                                governmentwide fraud and improper 
+                                payment prevention and payment and 
+                                program integrity improvements; and
+                            ``(ii) may include a classified annex.
+            ``(2) Periodic reports.--
+                    ``(A) Management alerts.--The Inspector General 
+                shall submit to the President and Congress, including 
+                the appropriate congressional committees, such periodic 
+                reports as may be necessary to notify the President and 
+                the Director of the Office of Management and Budget, 
+                and Congress of any potential program management, risk, 
+                or funding accountability, or payment integrity 
+                problems related to the use and provision or awarding 
+                of covered funds that require immediate attention by 
+                Federal agencies or Congress.
+                    ``(B) Update reports.--The Inspector General shall 
+                submit to Congress such other reports or provide such 
+                periodic updates on the work of the Office as the 
+                Inspector General considers appropriate on the use of 
+                covered funds including any recommended changes to the 
+                scope of covered funds under subsection (l)(2).
+            ``(3) Public availability.--The Inspector General shall 
+        publish on the website established under subsection (k) all 
+        reports submitted under this subsection.
+            ``(4) Redactions.--Any portion of a report submitted under 
+        this subsection may be redacted when made publicly available, 
+        if that portion would disclose information that is not subject 
+        to disclosure under sections 552 and 552a of this title, or is 
+        otherwise prohibited from disclosure by law.
+            ``(5) Rule of construction.--Nothing in this subsection may 
+        be construed to authorize the public disclosure of information 
+        that is--
+                    ``(A) specifically prohibited from disclosure by 
+                any other provision of law;
+                    ``(B) specifically required by Executive order to 
+                be protected from disclosure in the interest of 
+                national defense or national security or in the conduct 
+                of foreign affairs; or
+                    ``(C) a part of an ongoing criminal investigation.
+    ``(h) Funding, Transfer of Funds, Assets, and Obligations.--
+            ``(1) Funding.--Beginning in fiscal year 2035, and annually 
+        thereafter, there is authorized to be appropriated $10,000,000 
+        to the Office to carry out the duties and functions of this 
+        section.
+            ``(2) Transfer authority.--The Office may transfer funds 
+        appropriated to the Office for expenses to support 
+        administrative support services and audits, reviews, or other 
+        activities related to oversight of covered funds to any 
+        Inspector General Office and the Department of the Treasury.
+            ``(3) Transfer of assets and obligations.--
+                    ``(A) In general.--Upon the effective date of this 
+                section, the assets and obligations held by or 
+                available in connection with the Pandemic Response 
+                Accountability Committee established under section 
+                15010 of the CARES Act (Public Law 116-136; 134 Stat. 
+                533) shall be transferred to the Office. Upon the 
+                effective date of this section the Pandemic Response 
+                Accountability Committee may undertake all activities 
+                to enable such transfer of assets.
+                    ``(B) Assets defined.--In this paragraph, the term 
+                `assets' includes contracts, agreements (including data 
+                use agreements and memoranda of understanding), 
+                facilities, property, data, records, unobligated or 
+                unexpended balances of appropriations, personnel 
+                identified by the Chairperson and Executive Director of 
+                the Pandemic Response Accountability Committee pursuant 
+                to section 317(e)(1) of title 31, and other funds or 
+                resources.
+                    ``(C) Use of unexpended balances of 
+                appropriations.--Any unobligated and unexpended 
+                balances of appropriations and funds transferred 
+                pursuant to subparagraph (B) may be used to support the 
+                work of the Inspector General, regardless of the 
+                purpose of the original appropriation.
+    ``(i) Membership in Councils and Committees.--The Inspector General 
+shall be a member of the Council of the Inspectors General on Integrity 
+and Efficiency.
+    ``(j) Corrective Responses To Audit Problems.--Agency heads shall--
+            ``(1) take action to address deficiencies identified by a 
+        report or investigation of the Inspector General; or
+            ``(2) with respect to a deficiency identified under 
+        paragraph (1), certify to the appropriate congressional 
+        committees that they do not concur with the recommendation and 
+        no action is necessary, feasible, or appropriate.
+    ``(k) Website.--The Office shall establish and maintain a user-
+friendly, public-facing website--
+            ``(1) to foster greater accountability and transparency in 
+        the use of covered funds, including future supplemental relief 
+        and recovery funds as may be added to the definition of covered 
+        funds, which shall have a uniform resource locator that is 
+        descriptive and memorable;
+            ``(2) that shall be a centralized, governmentwide portal or 
+        gateway to key information relating to the oversight of covered 
+        funds, as appropriate, and to the extent practicable provide 
+        connections to other government websites with related anti-
+        fraud, improper payment, and oversight and accountability 
+        information; and
+            ``(3) provide information, including findings from the 
+        Office, agency Inspectors General, or State auditors as to the 
+        oversight of covered funds, including related audits, 
+        inspections, or other reports.
+    ``(l) Definitions.--In this section:
+            ``(1) Appropriate congressional committee.--The term 
+        `appropriate congressional committees' means the following:
+                    ``(A) The Committees on Appropriations of the 
+                Senate and the House of Representatives.
+                    ``(B) The Committee on Homeland Security and 
+                Governmental Affairs of the Senate.
+                    ``(C) The Committee on Oversight and Government 
+                Reform of the House of Representatives.
+                    ``(D) Any other relevant congressional committee of 
+                jurisdiction.
+            ``(2) Covered funds.--The term `covered funds' means the 
+        following:
+                    ``(A) Any funds, including loans or tax credits, 
+                that are made available in any form to any non-Federal 
+                entity or individual, under the following:
+                            ``(i) Division A or B of the CARES Act 
+                        (Public Law 116-136).
+                            ``(ii) The Coronavirus Preparedness and 
+                        Response Supplemental Appropriations Act, 2020 
+                        (Public Law 116-123).
+                            ``(iii) The Families First Coronavirus 
+                        Response Act (Public Law 116-127).
+                            ``(iv) The Paycheck Protection Program and 
+                        Health Care Enhancement Act (Public Law 116-
+                        139).
+                            ``(v) Division M or N of the Consolidated 
+                        Appropriations Act, 2021 (Public Law 116-260).
+                            ``(vi) The American Rescue Plan Act of 2021 
+                        (Public Law 117-2).
+                            ``(vii) Any loan guaranteed or made by the 
+                        Small Business Administration, including any 
+                        direct loan or guarantee of a trust 
+                        certificate, under the Small Business Act (15 
+                        U.S.C. 631 et seq.), the Small Business 
+                        Investment Act of 1958 (15 U.S.C. 661 et seq.), 
+                        or any other provision of law.
+                            ``(viii) Unemployment compensation, as 
+                        defined in section 85 of the Internal Revenue 
+                        Code of 1986.
+                            ``(ix) The Infrastructure Investment and 
+                        Jobs Act (Public Law 117-58).
+                            ``(x) Public Law 117-169 (commonly known as 
+                        the `Inflation Reduction Act').
+                            ``(xi) The Honoring our PACT Act of 2022 
+                        (Public Law 117-168).
+                            ``(xii) The CHIPS Act of 2022 (division A 
+                        of Public Law 117-167 (commonly known as the 
+                        `CHIPS and Science Act of 2022')).
+                            ``(xiii) The Act titled `An Act to provide 
+                        for reconciliation pursuant to title II of H. 
+                        Con. Res. 14' (Public Law 119-21).
+                    ``(B) A Federal award (as defined under section 
+                7501) in an amount not less than $50,000.
+                    ``(C) Any intramural payment made governmentwide 
+                for research activity.
+                    ``(D) Any emergency spending related to disaster 
+                relief or economic recovery.
+            ``(3) Inspector general.--The term `Inspector General' 
+        means the Inspector General for Fraud, Accountability, and 
+        Recovery.
+            ``(4) Office.--The term `Office' means the Office of the 
+        Inspector General for Fraud, Accountability, and Recovery.
+            ``(5) State.--The term `State' means each of the several 
+        States, the District of Columbia, each commonwealth, territory, 
+        or possession of the United States, and each federally 
+        recognized Indian Tribe.
+    ``(m) Rule of Construction.--Nothing in this section shall be 
+construed to--
+            ``(1) affect the independent authority of an Inspector 
+        General to determine whether to conduct an audit or 
+        investigation of covered funds; or
+            ``(2) require any Inspector General to provide funding to 
+        support the activities of the Office.''.
+    (b) Office of Management and Budget Directive.--On or before March 
+1, 2029, the Director of the Office of Management and Budget, in 
+coordination with the Secretary of the Treasury and the Inspector 
+General of Fraud, Accountability, and Recovery, shall issue a directive 
+to the head of each agency in the executive branch that disburses or 
+awards covered funds (as such term is defined section 317(n) of title 
+31, United States Code, as added by subsection (a)) that requires the 
+agency to identify and report opportunities to use the information 
+system and data analytics products of the Fiscal Service to detect and 
+prevent waste, fraud, abuse, and improper payments in expenditure of 
+covered funds to the Director and Secretary within 60 days after 
+receiving the directive.
+    (c) Transitional Provision.--
+            (1) In general.--Notwithstanding sections 403 and 3345 
+        through 3349 of title 5, United States Code, and section 
+        317(b)(1) of title 31, United States Code (as added by 
+        subsection (a)), the individual described in paragraph (2) 
+        shall temporarily perform the functions and duties of the 
+        Office of the Inspector General Fraud, Accountability, and 
+        Prevention in an acting capacity until such permanent Inspector 
+        General can be appointed under the process established by such 
+        section 317(b)(1).
+            (2) Individual described.--The individual described in this 
+        paragraph is--
+                    (A) the Chairperson of the Pandemic Response 
+                Accountability Committee established under section 
+                15010 of the CARES Act (Public Law 116-136; 134 Stat. 
+                533) (hereafter ``PRAC'') as of the date this section 
+                takes effect; or
+                    (B) if the position described in subparagraph (A) 
+                is vacant as of the date on which this section takes 
+                effect, the Executive Director of the PRAC.
+    (d) Transfer of Employees.--Each employee of the PRAC who is to be 
+transferred to the Office of the Inspector General of Fraud, 
+Accountability, and Recovery under section 317(h)(3) of title 31, 
+United States Code, as added by subsection (a), shall be appointed to 
+positions in such Office under terms and conditions of employment that 
+are substantively the same as the terms and conditions of employment 
+applicable to such employee as an employee of PRAC as of the day 
+immediately preceding the date on which this section takes effect.
+    (e) Table of Sections.--The table of sections for subchapter I of 
+chapter 3 of title 31, United States Code, is amended by adding at the 
+end the following:
+
+``317. Inspector General for Fraud, Accountability, and Recovery within 
+                            the Department of the Treasury.''.
+    (f) Effective Date.--This section, and the amendments made by this 
+section, shall take effect on December 31, 2028.
+
+SEC. 4. DATA SHARING FOR FRAUD PREVENTION AND PROGRAM INTEGRITY.
+
+    (a) Authority To Negotiate Data Sharing Agreements; Requirement To 
+Provide Future Legislative Recommendations to Congress.--Section 321(a) 
+of title 31, United States Code, is amended--
+            (1) in paragraph (8)(C), by striking ``and'' at the end;
+            (2) in paragraph (9), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by inserting at the end the following:
+            ``(10) enter into memoranda of understanding with the heads 
+        of other Federal agencies, including Offices of Inspector 
+        General and Federal law enforcement agencies, and private 
+        entities as may be appropriate and allowable under existing law 
+        to secure access to such data assets and information resources 
+        as may be appropriate for the Fiscal Service to use to--
+                    ``(A) prevent fraud and improper payments in 
+                Federal programs and spending;
+                    ``(B) support the activities and functions of the 
+                Do Not Pay Initiative;
+                    ``(C) beginning on December 31, 2028, support the 
+                activities and functions of the--
+                            ``(i) the Fiscal Service; and
+                            ``(ii) the Office of the Inspector General 
+                        for Fraud, Accountability, and Recovery 
+                        established under section 317, in coordination 
+                        with such Office;
+                    ``(D) provide such data to relevant Federal 
+                agencies for the identification, prevention, and 
+                reduction of waste, fraud, and abuse relating to 
+                Federal spending and use in the conduct of criminal and 
+                other investigations, as appropriate; and
+                    ``(E) in a manner that ensures any related data 
+                sharing agreements provide long term, reliable access 
+                to such data assets and information resources, provide 
+                the best value to the taxpayer by avoiding duplicative 
+                data sharing agreements, include appropriate privacy 
+                protections, and require, as appropriate, reimbursement 
+                to the Treasury for the reasonable cost of carrying out 
+                the agreement.
+            ``(11) with respect to any supplemental emergency disaster, 
+        pandemic, economic relief, or other such supplemental 
+        appropriations legislative measures totaling more than 
+        $100,000,000,000 in total funding being considered by Congress 
+        or any legislative measure establishing a new program with more 
+        than $100,000,000 in anticipated additional spending in a 
+        single fiscal year following the enactment of such legislative 
+        measure being considered by Congress, provide, in coordination 
+        with the Director of the Office of Management and Budget and 
+        the Office of the Inspector General for Fraud, Accountability, 
+        and Recovery, to the leadership of the House of Representatives 
+        and Senate, the Committees on Appropriations of the House of 
+        Representatives and Senate, the Committee on Homeland Security 
+        and Governmental Affairs of the Senate, and the Committee on 
+        Oversight and Government Reform of the House of Representatives 
+        any legislative recommendations on such measures to ensure 
+        that--
+                    ``(A) existing fraud prevention and oversight 
+                functions and entities of the Federal Government or are 
+                not supplanted or duplicated under such legislative 
+                measure, but are instead required to be used or 
+                expanded under such legislative measure;
+                    ``(B) any additional resources or authorities for 
+                such existing functions and entities are adequately 
+                provided for in such legislative measures in order to 
+                provide adequate fraud prevention and oversight of 
+                funds appropriated for and expended under such program; 
+                and
+                    ``(C) fraud prevention, payment integrity, and 
+                spending transparency best practices are implemented in 
+                such legislation to ensure that--
+                            ``(i) reporting obligations for Federal 
+                        fund recipients are harmonized governmentwide 
+                        and conditioned through legally enforceable 
+                        mechanisms prior to award; and
+                            ``(ii) any sub-recipients and sub-awardees 
+                        of Federal fund recipients are also included in 
+                        reporting obligations for such recipients for 
+                        the purposes of ensuring proper recipient 
+                        reporting and transparency on the use of 
+                        funds.''.
+    (b) Coordination and Duties of the Office of Management and 
+Budge.--Not later than 270 days after the date of the enactment of this 
+Act, the Director of the Office of Management and Budget, in 
+coordination with the Secretary of the Treasury, shall--
+            (1) update or revise as necessary any regulations, 
+        memorandum, circulars, or guidance documents to ensure the full 
+        and timely implementation of this section; and
+            (2) issue any necessary governmentwide guidance to Federal 
+        agencies to ensure the full and timely implementation of this 
+        section.
+
+SEC. 5. TERMINATION AND TRANSFER OF ASSETS OF PANDEMIC RESPONSE 
+              ACCOUNTABILITY COMMITTEE.
+
+    (a) Termination.--Section 15010(k) of the CARES Act (Public Law 
+116-136; 15 U.S.C. 9053) is amended by striking ``September 30, 2034'' 
+and inserting ``December 31, 2028''.
+    (b) Transfer of Assets.--On December 31, 2028, all the assets and 
+obligations held by or available in connection with the Pandemic 
+Response Accountability Committee shall be transferred to the Office of 
+the Inspector General for Fraud, Accountability, and Recovery 
+established under section 317 of title 31, United States Code, as added 
+by this Act.
+    (c) Technical Amendment.--On December 31, 2028, section 15010 of 
+the CARES Act (Public Law 116-136; 15 U.S.C. 9053) is repealed.
+    (d) Definition of Assets.--In this section, the term ``assets'' 
+includes contracts, agreements (including data use agreements and 
+memoranda of understanding), facilities, property, data, records, 
+unobligated or unexpended balances of appropriations, personnel 
+identified by the Chairperson and Executive Director of the Pandemic 
+Response Accountability Committee pursuant to section 317(e)(1) of 
+title 31, United States Code, as added by this Act, and other funds or 
+resources.
+                                 <all>

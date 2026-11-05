@@ -1,0 +1,67 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2541 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 2541
+
+To require the Nuclear Regulatory Commission to revise its regulations 
+   to protect patients from unintended exposure to radiation during 
+          nuclear medicine procedures, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 1, 2025
+
+Mr. Davis of North Carolina (for himself, Mr. Griffith, and Mr. Cline) 
+ introduced the following bill; which was referred to the Committee on 
+                          Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Nuclear Regulatory Commission to revise its regulations 
+   to protect patients from unintended exposure to radiation during 
+          nuclear medicine procedures, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear Medicine Clarification Act 
+of 2025''.
+
+SEC. 2. MEDICAL EVENT REPORTING OF UNINTENDED IRRADIATION.
+
+    (a) Revision of Regulations Required.--Not later than 120 days 
+after the date of enactment of this Act, the Nuclear Regulatory 
+Commission shall revise section 35.3045(a)(1) of title 10, Code of 
+Federal Regulations, by adding at the end the following:
+    ``(iv) A dose that is due to an extravasation and exceeds--
+    ``(A) 0.5 Sv (50 rem) dose equivalent to the 5 cubic centimeter 
+volume of tissue receiving the highest absorbed dose during residence 
+time; or
+    ``(B) 0.5 Sv (50 rem) shallow dose equivalent to the contiguous 10 
+square centimeters of skin receiving the highest absorbed dose during 
+residence time.''.
+    (b) Effective Date.--The revision required under subsection (a) 
+shall take effect on the date that is 18 months after the date of 
+enactment of this Act.
+                                 <all>

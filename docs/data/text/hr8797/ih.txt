@@ -1,0 +1,216 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8797 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8797
+
+    To amend title 10, United States Code, to authorize cooperative 
+    partnerships for mineral extraction activities at Army organic 
+          industrial base facilities, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 13, 2026
+
+  Mr. Moran introduced the following bill; which was referred to the 
+                      Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend title 10, United States Code, to authorize cooperative 
+    partnerships for mineral extraction activities at Army organic 
+          industrial base facilities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Army Organic Industrial Base Mineral 
+Partnerships Act of 2026''.
+
+SEC. 2. COOPERATIVE PARTNERSHIPS BETWEEN THE ARMY AND INDUSTRY FOR 
+              MINERAL EXTRACTION ACTIVITIES AT ARMY ORGANIC INDUSTRIAL 
+              BASE FACILITIES.
+
+    Section 7544 of title 10, United States Code, is amended--
+            (1) in subsection (b), by adding at the end the following:
+            ``(7) Mineral extraction operations and related support 
+        services carried out by a non-Army entity, including the 
+        recovery, processing, or handling of strategic or critical 
+        minerals, using land, facilities, infrastructure, waste 
+        streams, or byproducts under the control of the Army industrial 
+        facility.'';
+            (2) by redesignating subsections (i) and (j) as subsections 
+        (j) and (k), respectively;
+            (3) by inserting after subsection (h) the following:
+    ``(i) Special Rules for Mineral Extraction.--
+            ``(1) Environmental and other responsibilities.--Mineral 
+        extraction operations authorized under this section under a 
+        contract or cooperative arrangement with a non-Army entity 
+        shall be subject to--
+                    ``(A) all applicable Federal, State, and local 
+                environmental laws and regulations, including the 
+                National Environmental Policy Act of 1969 (42 U.S.C. 
+                4331 et seq.) and the Clean Air Act (42 U.S.C. 7401 et 
+                seq.); and
+                    ``(B) a requirement that the contract or 
+                cooperative arrangement--
+                            ``(i) provide that the non-Army entity 
+                        shall be responsible, to the maximum extent 
+                        permitted by law, for compliance with all 
+                        applicable environmental laws and for any 
+                        environmental mitigation, remediation, cleanup, 
+                        response, natural resource damages, or other 
+                        liability arising from or relating to such 
+                        mineral extraction operations, including 
+                        contamination discovered after the termination 
+                        of the contract or cooperative arrangement and 
+                        contamination migrating beyond the boundaries 
+                        of the facility involved;
+                            ``(ii) require the non-Army entity to 
+                        indemnify and hold harmless the United States 
+                        for obligations described in clause (i) to the 
+                        maximum extent permitted by law; and
+                            ``(iii) require the provision of adequate 
+                        financial assurance, performance bonding, 
+                        insurance, or other financial security 
+                        mechanisms sufficient to protect the interests 
+                        of the United States in the event of default, 
+                        insolvency, or bankruptcy of the non-Army 
+                        entity.
+            ``(2) Consideration and compensation.--
+                    ``(A) In general.--A contract or cooperative 
+                arrangement entered into under this section with a non-
+                Army entity that includes mineral extraction operations 
+                shall provide for the receipt by the Army of 
+                consideration that the Secretary of the Army determines 
+                to be reasonable in value, taking into account the 
+                nature and quantity of minerals recovered, the use of 
+                land, facilities, infrastructure, waste streams, or 
+                byproducts of the Army, and the costs and risks assumed 
+                by the non-Army entity.
+                    ``(B) Forms of consideration.--Consideration under 
+                subparagraph (A) may include, as determined appropriate 
+                by the Secretary of the Army--
+                            ``(i) cash payments;
+                            ``(ii) in-kind consideration, including 
+                        minerals, processed materials, equipment, 
+                        infrastructure improvements, or services;
+                            ``(iii) provision of equipment, tooling, 
+                        production capability enhancements, or other 
+                        industrial process improvements, or other 
+                        tangible industrial support that directly 
+                        support the mission, sustainment, or 
+                        modernization of the organic industrial base of 
+                        the Army; or
+                            ``(iv) any combination of the consideration 
+                        specified under clause (i) through (iii).
+                    ``(C) Use of funds.--Except as provided in 
+                subparagraph (E), and subject to applicable law, any 
+                cash amounts received by the Army under subparagraph 
+                (B)(i) may be retained and used, without further 
+                appropriation, for the operation, maintenance, 
+                modernization, environmental remediation, or mission 
+                support of Army industrial facilities.
+                    ``(D) Best interest determination.--The Secretary 
+                of the Army shall determine whether any consideration 
+                to be accepted under this paragraph is in the best 
+                interest of the Department of the Army and does not 
+                interfere with missions of the Army.
+                    ``(E) Army working capital fund facilities.--
+                            ``(i) In general.--In the case of an Army 
+                        industrial facility for which operations are 
+                        financed through the Army Working Capital Fund 
+                        established under section 2208 of this title, 
+                        any cash amounts received under subparagraph 
+                        (B)(i) shall be credited to the Army Working 
+                        Capital Fund, or to the appropriate working 
+                        capital fund activity or subaccount, and shall 
+                        be available for the purposes of such fund, 
+                        consistent with such section 2208.
+                            ``(ii) Use of funds.--Notwithstanding 
+                        subsections (k) and (o)(2)(A) of section 2208 
+                        of this title, amounts credited to the Army 
+                        Working Capital Fund under clause (i) may be 
+                        used for capital investments, including 
+                        military construction projects, directly 
+                        supporting facilities of the organic industrial 
+                        base of the Army.
+                    ``(F) No requirement for competitive sale.--The 
+                provision or receipt of minerals or other consideration 
+                under this paragraph shall not be subject to chapter 5 
+                of title 40 (relating to surplus property) if the 
+                Secretary determines that the contract or cooperative 
+                arrangement under this section is in the best interest 
+                of the Department of the Army.
+            ``(3) Mineral leasing act for acquired lands.--The 
+        requirements of the Mineral Leasing Act for Acquired Lands (30 
+        U.S.C. 351 et seq.) shall not apply to mineral extraction 
+        operations authorized under this section.
+            ``(4) Rules of construction.--Nothing in this section shall 
+        be construed--
+                    ``(A) to authorize an Army industrial facility, or 
+                any personnel of the Army, to directly engage in 
+                mineral extraction, drilling, or mining operations; or
+                    ``(B) to modify, supersede, or otherwise affect any 
+                existing contractual or administrative agreements 
+                between Federal agencies or between the United States 
+                and any non-governmental entity regarding subsurface 
+                rights.
+            ``(5) Annual report.--Not later than one year after the 
+        date of the enactment of the Army Organic Industrial Base 
+        Mineral Partnerships Act of 2026, and annually thereafter, the 
+        Secretary of the Army shall submit to the Committees on Armed 
+        Services of the Senate and the House of Representatives a 
+        report that--
+                    ``(A) identifies the number of contracts or 
+                cooperative arrangements entered into under this 
+                section that include mineral extraction operations; and
+                    ``(B) describes, in general terms, the types of 
+                strategic or critical minerals covered by such 
+                contracts or arrangements.''; and
+            (4) in subsection (k), as redesignated by paragraph (2), by 
+        adding at the end the following:
+            ``(6) The term `mineral extraction operations' means the 
+        removal, recovery, processing, or handling of minerals, and 
+        related support activities necessary to produce minerals from 
+        land, water, facilities, waste streams, or byproducts under the 
+        control of an Army industrial facility, including solid 
+        minerals, brines, and other naturally occurring mineral 
+        resources, and including associated infrastructure and 
+        environmental mitigation.
+            ``(7) The term `strategic or critical mineral' has the 
+        meaning given the term `strategic and critical materials' in 
+        section 12 of the Strategic and Critical Materials Stock Piling 
+        Act (50 U.S.C. 98h-3) and includes rare earth elements, 
+        lithium, titanium, nickel, and other minerals determined by the 
+        Secretary of the Army to be essential to national defense, 
+        energy security, or advanced manufacturing.
+            ``(8) The term `under the control of an Army industrial 
+        facility' means real property, facilities, infrastructure, 
+        waste streams, byproducts, or other resources that are under 
+        the administrative jurisdiction of the Secretary of the Army, 
+        including property assigned to a facility of the organic 
+        industrial base of the Army, and includes property subject to 
+        leases, licenses, permits, or other use agreements administered 
+        by the Secretary of the Army.''.
+                                 <all>

@@ -1,0 +1,86 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6724 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 6724
+
+ To amend title XVI of the Social Security Act to ensure stability in 
+        payments to Supplemental Security Income beneficiaries.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 15, 2025
+
+Mr. Rulli (for himself and Mr. Deluzio) introduced the following bill; 
+         which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend title XVI of the Social Security Act to ensure stability in 
+        payments to Supplemental Security Income beneficiaries.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protecting Supplemental Security 
+Income for Disaster Victims Act''.
+
+SEC. 2. DISREGARD OF PAYMENTS RECEIVED IN SETTLEMENT OF CERTAIN CLAIMS.
+
+    (a) Income Disregard.--Section 1612(b) of the Social Security Act 
+(42 U.S.C. 1382a(b)) is amended--
+            (1) by striking ``and'' at the end of paragraph (25);
+            (2) by striking the period at the end of paragraph (26) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(27) any amount received by such individual (or such 
+        spouse) in settlement of a claim of personal injury, physical 
+        sickness, or damage to, or depreciation of, property of such 
+        individual (or such spouse), including any amount so received, 
+        whether before, on, or after the date of the enactment of this 
+        paragraph, in settlement of the case styled In Re: East 
+        Palestine Train Derailment, CASE NO. 4:23-CV-00242, in the 
+        United States District Court for the Northern District of 
+        Ohio.''.
+    (b) Resource Disregard.--Section 1613(a) of such Act (42 U.S.C. 
+1382b(a)) is amended--
+            (1) by striking ``and'' at the end of paragraph (16);
+            (2) by striking the period at the end of paragraph (17) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(18) for the month of receipt and every month thereafter, 
+        any amount received by such individual (or such spouse) in 
+        settlement of a claim of personal injury, physical sickness, or 
+        damage to, or depreciation of, property of such individual (or 
+        such spouse), including any amount so received, whether before, 
+        on, or after the date of the enactment of this paragraph, in 
+        settlement of the case styled In Re: East Palestine Train 
+        Derailment, CASE NO. 4:23-CV-00242, in the United States 
+        District Court for the Northern District of Ohio.''.
+    (c) Effective Date.--The amendments made by this Act shall apply 
+with respect to benefits payable for months beginning on or after the 
+date of the enactment of this Act, except that, in the case of the 
+settlement specified in sections 1612(b)(27) and 1613(a)(18) of the 
+Social Security Act, the amendments shall also apply with respect to 
+benefits paid for months beginning before such date of enactment.
+                                 <all>

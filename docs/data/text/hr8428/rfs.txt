@@ -1,0 +1,143 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8428 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 8428
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 9, 2026
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To amend title 5, United States Code, to establish an antifraud and 
+ improper payment training program for Federal program administrators, 
+  to provide for the availability of such training to State and local 
+    entities administering Federally funded programs, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Federal Fraud Prevention Workforce 
+Training Act''.
+
+SEC. 2. ESTABLISHMENT OF ANTIFRAUD AND IMPROPER PAYMENT PREVENTION 
+              TRAINING PROGRAM.
+
+    (a) In General.--Chapter 41 of title 5, United States Code, is 
+amended by adding at the end the following new section:
+``Sec. 4122. Federal Government-wide antifraud and improper payment 
+              prevention training program
+    ``(a) Establishment.--The Secretary of the Treasury and the 
+Director of the Office of Management and Budget, in consultation with 
+the Director of the Office of Personnel Management, may establish and 
+maintain a Federal Government-wide program for antifraud and improper 
+payment prevention training (in this section referred to as the 
+`Program').
+    ``(b) Curriculum Requirements.--The Program shall include 
+comprehensive instruction on--
+            ``(1) identifying and assessing fraud and improper payment 
+        risks in Federal programs;
+            ``(2) implementing resources, including the Government 
+        Accountability Office's Framework for Managing Fraud Risks in 
+        Federal Programs and the Office of Management and Budget's 
+        Circular A-123 and its applicable appendices, the Department of 
+        the Treasury's Anti-Fraud Playbook, the National Institute of 
+        Standards and Technology Digital Identity Guidelines, and data 
+        analytics tools in agency program administration;
+            ``(3) using systems and resources maintained by the 
+        Department of the Treasury, including the Do Not Pay system 
+        established under 3354 of title 31, and any other payment, 
+        account, and payee validation programs (including government-
+        wide antifraud data sharing programs) and services to prevent 
+        and address fraud and improper payments in Federal programs;
+            ``(4) reporting mechanisms for suspected fraud, waste, and 
+        abuse; and
+            ``(5) the establishment and use of internal controls 
+        designed to prevent improper payments and fraud in Federal 
+        programs.
+    ``(c) Mandatory Participation.--
+            ``(1) In general.--The head of each agency shall ensure 
+        that any employee serving as a program administrator, program 
+        officer, financial administrator or manager, disbursement 
+        certifying official under section 3528 of title 31, auditing 
+        official, grants manager, or in a similar oversight capacity of 
+        Federal programs or Federal financial assistance completes the 
+        Program--
+                    ``(A) not later than 180 days after the date of 
+                appointment to such position or, for any employee 
+                occupying such a position on the effective date of this 
+                section pursuant to section 2(c) of the Federal Fraud 
+                Prevention Workforce Training Act, within 180 days of 
+                such effective date; and
+                    ``(B) not less frequently than once every 2 years 
+                thereafter.
+            ``(2) Certification.--The Director of the Office of 
+        Personnel Management shall provide a system for certifying 
+        completion of the Program and maintaining records of such 
+        certifications.
+    ``(d) Availability to State, Local, or Tribal-Administered 
+Programs.--
+            ``(1) In general.--The Secretary of the Treasury may make 
+        the Program available at no cost to employees or contractors of 
+        a State (defined in this subsection as any State of the United 
+        States, the District of Columbia, a territory or possession of 
+        the United States, or a federally recognized Indian Tribe) or 
+        local government who are responsible for the administration of 
+        Federally funded programs.
+            ``(2) Technical assistance.--The Secretary of the Treasury 
+        may provide technical assistance to such State or local 
+        governments to integrate the Program's standards into the 
+        respective administrative frameworks of such entities.
+    ``(e) Reporting.--Not later than 2 years after the date of the 
+enactment of the Federal Fraud Prevention Workforce Training Act and 
+annually thereafter, the Secretary of the Treasury and the Director of 
+the Office of Management and Budget, in consultation with the Director 
+of the Office of Personnel Management, shall submit, to the Committee 
+on Oversight and Government Reform of the House of Representatives and 
+the Committee on Homeland Security and Governmental Affairs of the 
+Senate, a report on the implementation of the Program, including 
+participation rates and an assessment of the Program's effectiveness in 
+reducing fraud and improper payments.''.
+    (b) Clerical Amendment.--The table of sections for such chapter is 
+amended by adding at the end the following:
+
+``4122. Federal Government-wide antifraud and improper payment 
+                            prevention training program.''.
+    (c) Effective Date.--
+            (1) In general.--Except as provided in paragraph (2), this 
+        Act and the amendments made by this Act shall take effect on 
+        the date that is 180 days after the date of the enactment of 
+        this Act.
+            (2) Regulations.--Not later than 180 days after the 
+        effective date in paragraph (1), the Secretary of the Treasury 
+        may prescribe such regulations as necessary to implement or 
+        administer the training program established under section 4122 
+        of title 5, United States Code, as added by subsection (a) of 
+        this section.
+
+            Passed the House of Representatives June 8, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

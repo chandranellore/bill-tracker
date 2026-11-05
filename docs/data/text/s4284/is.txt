@@ -1,0 +1,482 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4284 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4284
+
+To encourage the development and deployment of nuclear energy, and for 
+                            other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 14, 2026
+
+Mr. Lee (for himself and Mr. McCormick) introduced the following bill; 
+   which was read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To encourage the development and deployment of nuclear energy, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear Energy Innovation and 
+Deployment Act of 2026''.
+
+SEC. 2. DEPARTMENT OF ENERGY AUTHORITIES FOR NUCLEAR FACILITIES.
+
+    (a) Amendments.--
+            (1) Energy reorganization act of 1974.--
+                    (A) In general.--Section 202 of the Energy 
+                Reorganization Act of 1974 (42 U.S.C. 5842) is 
+                amended--
+                            (i) by striking the section designation and 
+                        heading and all that follows through 
+                        ``Notwithstanding'' in the matter preceding 
+                        paragraph (1) and inserting the following:
+
+``SEC. 202. LICENSING AND RELATED REGULATORY FUNCTIONS RESPECTING 
+              SELECTED DEPARTMENT OF ENERGY FACILITIES.
+
+    ``Notwithstanding'';
+                            (ii) in the matter preceding paragraph (1), 
+                        by striking ``Administration'' and inserting 
+                        ``Department of Energy'';
+                            (iii) by striking paragraphs (1) and (2);
+                            (iv) in paragraph (4), by striking 
+                        ``Administration'' and inserting ``Department 
+                        of Energy''; and
+                            (v) by redesignating paragraphs (3) through 
+                        (5) as paragraphs (1) through (3), 
+                        respectively.
+                    (B) Conforming amendments.--
+                            (i) Section 3134 of division C of the Strom 
+                        Thurmond National Defense Authorization Act for 
+                        Fiscal Year 1999 is amended--
+                                    (I) in subsection (b) (42 U.S.C. 
+                                5842 note; Public Law 105-261)--
+                                            (aa) by striking ``(42 
+                                        U.S.C. 7272)'' and inserting 
+                                        ``(50 U.S.C. 2513)''; and
+                                            (bb) by striking ``section 
+                                        202(5)'' and all that follows 
+                                        through the period at the end 
+                                        and inserting ``paragraph (3) 
+                                        of section 202 of the Energy 
+                                        Reorganization Act of 1974 (42 
+                                        U.S.C. 5842).''; and
+                                    (II) in subsection (c) (42 U.S.C. 
+                                5842 note; Public Law 105-261), by 
+                                striking ``section 202(5)'' and all 
+                                that follows through ``subsection 
+                                (a),'' and inserting ``paragraph (3) of 
+                                section 202 of the Energy 
+                                Reorganization Act of 1974 (42 U.S.C. 
+                                5842)''.
+                            (ii) Section 141(d) of the Nuclear Waste 
+                        Policy Act of 1982 (42 U.S.C. 10161(d)) is 
+                        amended, in the first sentence, by striking 
+                        ``section 202(3) of the Energy Reorganization 
+                        Act of 1974 (42 U.S.C. 5842(3))'' and inserting 
+                        ``paragraph (1) of section 202 of the Energy 
+                        Reorganization Act of 1974 (42 U.S.C. 5842)''.
+                            (iii) Section 148(c) of the Nuclear Waste 
+                        Policy Act of 1982 (42 U.S.C. 10168(c)) is 
+                        amended, in the first sentence, by striking 
+                        ``section 202(3) of the Energy Reorganization 
+                        Act of 1974 (42 U.S.C. 5842(3))'' and inserting 
+                        ``paragraph (1) of section 202 of the Energy 
+                        Reorganization Act of 1974 (42 U.S.C. 5842)''.
+            (2) Atomic energy act of 1954.--Section 110 a. of the 
+        Atomic Energy Act of 1954 (42 U.S.C. 2140(a)) is amended--
+                    (A) by striking ``Commission; or (2) the 
+                construction'' and all that follows through ``; or'' at 
+                the end of subsection a. and inserting the following: 
+                ``Nuclear Regulatory Commission or the Department of 
+                Energy;
+                    ``(2) the construction or operation of facilities, 
+                or the conduct of activities involving source material, 
+                byproduct material, or special nuclear material, under 
+                contract with and for the account of the Department of 
+                Energy at any location, including such facilities or 
+                activities sponsored by a person; or'';
+                    (B) by striking ``a license for (1) the 
+                processing,'' and inserting the following: ``a license 
+                for--
+                    ``(1) the processing,''; and
+                    (C) by adding at the end the following:
+                    ``(3) the construction or operation of commercial 
+                facilities and related activities, including the 
+                construction and operation of nuclear fuel cycle 
+                facilities, involving source material, byproduct 
+                material, or special nuclear material authorized and 
+                regulated by the Department of Energy--
+                            ``(A) on Federal land; or
+                            ``(B) for Federal purposes, including for 
+                        the purpose of the generation, sale, or 
+                        delivery of electricity to a Federal power 
+                        marketing agency (as defined in section 3 of 
+                        the Federal Power Act (16 U.S.C. 796)); or''.
+            (3) Energy policy act of 2005.--Section 958(g) of the 
+        Energy Policy Act of 2005 (42 U.S.C. 16278(g)) is amended by 
+        striking the subsection designation and heading and all that 
+        follows through ``Any activity'' in paragraph (2) and inserting 
+        the following:
+    ``(g) Financial Protection.--Any activity''.
+    (b) Regulatory Revision Required.--Not later than 1 year after the 
+date of enactment of this Act, the Nuclear Regulatory Commission shall 
+revise sections 30.12, 40.11, 50.11, and 70.11 of title 10, Code of 
+Federal Regulations, and such other applicable regulations as may be 
+identified by the Commission, to remove limitations on the statutory 
+authority of the Secretary of Energy with respect to activities 
+performed off of Federal Government-owned or Federal Government-
+controlled sites.
+    (c) Financial Protection.--Any activity carried out pursuant to 
+this section or an amendment made by this section that is authorized 
+and regulated by the Department of Energy and involves the risk of 
+public liability shall be subject to the financial protection or 
+indemnification requirements of section 170 d. of the Atomic Energy Act 
+of 1954 (42 U.S.C. 2210(d)) (commonly known as the ``Price-Anderson 
+Act'').
+
+SEC. 3. NUCLEAR ENERGY LAUNCH PAD.
+
+    Section 958 of the Energy Policy Act of 2005 (42 U.S.C. 16278) is 
+amended--
+            (1) by redesignating subsection (g) (as amended by section 
+        2(a)(3)) as subsection (h); and
+            (2) by inserting after subsection (f) the following:
+    ``(g) Nuclear Energy Launch Pad.--
+            ``(1) Definitions.--In this subsection:
+                    ``(A) Advanced nuclear technology.--The term 
+                `advanced nuclear technology' includes--
+                            ``(i) an advanced nuclear reactor; and
+                            ``(ii) a nuclear fuel cycle facility.
+                    ``(B) Assistant secretary.--The term `Assistant 
+                Secretary' means the Assistant Secretary for Nuclear 
+                Energy.
+                    ``(C) Eligible private entity.--The term `eligible 
+                private entity' means a private entity that the 
+                Assistant Secretary determines has an adequately mature 
+                design for, sufficient financial resources and 
+                expertise in, and a high chance of success in testing 
+                or demonstrating the commercial feasibility of advanced 
+                nuclear technologies.
+                    ``(D) Launch pad.--The term `Launch Pad' means the 
+                Nuclear Energy Launch Pad established by paragraph (2).
+                    ``(E) Nuclear energy launch pad zone.--The term 
+                `Nuclear Energy Launch Pad Zone' means a Nuclear Energy 
+                Launch Pad Zone designated by the Assistant Secretary 
+                under paragraph (3).
+            ``(2) Establishment.--There is established within the 
+        Office of Nuclear Energy a program, to be known as the `Nuclear 
+        Energy Launch Pad', as a component of the program under 
+        subsection (a).
+            ``(3) Nuclear energy launch pad zones.--
+                    ``(A) In general.--In carrying out the Launch Pad, 
+                the Assistant Secretary shall identify and designate 
+                secure, authorized areas of Federal land, including 
+                land owned or controlled by the Department and National 
+                Laboratory sites as Nuclear Energy Launch Pad Zones for 
+                the purpose of testing and demonstrating the commercial 
+                feasibility of advanced nuclear technologies by 
+                eligible private entities under authorities of the 
+                Department, including nuclear fuel cycle facilities 
+                necessary to support the testing and demonstration of 
+                other advanced nuclear technologies, to enable access 
+                to streamlined licensing opportunities and facilitate 
+                transition to commercial operation under Nuclear 
+                Regulatory Commission authorities after testing and 
+                demonstration activities are complete.
+                    ``(B) Additional pathways.--In addition to Nuclear 
+                Energy Launch Pad Zones designated under subparagraph 
+                (A), the Assistant Secretary shall, in carrying out the 
+                Launch Pad, provide a pathway for testing and 
+                demonstrating the commercial feasibility of advanced 
+                nuclear technologies by eligible private entities under 
+                the authorities of the Department at non-Federal sites, 
+                which, on completion of the pathway, shall also be 
+                designated as Nuclear Energy Launch Pad Zones.
+            ``(4) Responsibilities and development activities.--The 
+        Assistant Secretary shall ensure the success and acceleration 
+        of testing and demonstration projects within Nuclear Energy 
+        Launch Pad Zones by carrying out each of the following 
+        activities in Nuclear Energy Launch Pad Zones located on land 
+        owned or controlled by the Department and National Laboratory 
+        sites:
+                    ``(A) Basic infrastructure.--Providing to the 
+                extent practicable, basic access infrastructure to 
+                eligible private entities selected under paragraph 
+                (5)(A), including roads, electric power, water, and 
+                fiber optic communication connectivity.
+                    ``(B) Land characterization.--Carrying out land 
+                characterization and assessment activities through the 
+                program under subsection (a), as appropriate, necessary 
+                to facilitate accelerated deployment, including 
+                biological, cultural, and other environmental surveys 
+                required for the testing and demonstration of advanced 
+                nuclear technologies.
+            ``(5) Private entity solicitation and selection.--
+                    ``(A) Competitive process.--
+                            ``(i) In general.--The Assistant Secretary, 
+                        acting through the program under subsection 
+                        (a), shall solicit and select eligible private 
+                        entities for participation in the Launch Pad 
+                        through an advertised, competitive process 
+                        designed to select the most promising advanced 
+                        nuclear technologies.
+                            ``(ii) Initial solicitations.--Not later 
+                        than 180 days after the date of enactment of 
+                        the Nuclear Energy Innovation and Deployment 
+                        Act of 2026, the Assistant Secretary shall--
+                                    ``(I) finalize the competitive 
+                                process required under clause (i); and
+                                    ``(II) begin soliciting eligible 
+                                private entities pursuant to that 
+                                clause.
+                    ``(B) Agreements.--
+                            ``(i) In general.--The Assistant Secretary 
+                        shall seek to enter into flexible agreements 
+                        with eligible private entities selected under 
+                        subparagraph (A) to grant rights of use, 
+                        occupancy, and operation within Nuclear Energy 
+                        Launch Pad Zones.
+                            ``(ii) Inclusions.--An agreement under 
+                        clause (i) may take the form of--
+                                    ``(I) an enhanced use lease;
+                                    ``(II) a transaction authorized 
+                                under section 646(g) of the Department 
+                                of Energy Organization Act (42 U.S.C. 
+                                7256(g));
+                                    ``(III) a Strategic Partnership 
+                                Project agreement with the Department's 
+                                management and operations contractor 
+                                for a National Laboratory; or
+                                    ``(IV) any other contractual 
+                                instrument that the Assistant Secretary 
+                                determines appropriate for a given 
+                                project.
+            ``(6) Streamlined licensing pathways.--The Assistant 
+        Secretary shall seek to leverage the existing Department 
+        authorities for advanced nuclear technologies and the existing 
+        framework for coordination with the Nuclear Regulatory 
+        Commission, including the memorandum of understanding between 
+        the Department and the Nuclear Regulatory Commission relating 
+        to nuclear energy innovation and effective on October 7, 2019 
+        (including subsequent addenda to that memorandum), or, if 
+        necessary, may enter into a new memorandum of understanding to 
+        provide for expedited licensing pathways for advanced nuclear 
+        technologies that are tested or demonstrated under the Launch 
+        Pad.
+            ``(7) DoE authorities.--A facility constructed and operated 
+        under the Launch Pad for testing and demonstration purposes 
+        shall be considered to be under contract with and for the 
+        account of the Department for purposes of section 110 a. of the 
+        Atomic Energy Act of 1954 (42 U.S.C. 2140(a)).
+            ``(8) Non-federal cost responsibility.--Eligible private 
+        entities selected to participate in the Launch Pad under 
+        paragraph (5)(A) shall bear the full costs of design, 
+        construction, operation, and decommissioning of advanced 
+        nuclear technologies authorized under the Launch Pad.
+            ``(9) Financial assurance.--
+                    ``(A) In general.--The Assistant Secretary may 
+                require, as a condition of an agreement under paragraph 
+                (5)(B)(i), that an eligible private entity provide 
+                financial assurance in such form, amount, and duration 
+                as the Assistant Secretary determines appropriate to 
+                ensure the fulfillment of obligations to the Department 
+                in the event of abandonment, default, or other failure 
+                to perform.
+                    ``(B) Types of assurance; phased basis.--Financial 
+                assurance under this paragraph--
+                            ``(i) may include surety bonds, letters of 
+                        credit, insurance, parent company guarantees, 
+                        or other financial instruments acceptable to 
+                        the Assistant Secretary; and
+                            ``(ii) may be established on a phased basis 
+                        in accordance with project development 
+                        milestones, including to cover decommissioning, 
+                        site restoration, and related costs.
+            ``(10) Savings provision.--Nothing in this subsection 
+        limits or otherwise diminishes the statutory authority of the 
+        Secretary under the Atomic Energy Act of 1954 (42 U.S.C. 2011 
+        et seq.) or any other provision of law, including with respect 
+        to activities performed off of Federal Government-owned or 
+        Federal Government-controlled sites.''.
+
+SEC. 4. ROLE OF FEDERAL POWER MARKETING ADMINISTRATIONS WITH RESPECT TO 
+              NUCLEAR POWER.
+
+    (a) In General.--Section 302(a) of the Department of Energy 
+Organization Act (42 U.S.C. 7152) is amended--
+            (1) in paragraph (2)--
+                    (A) in the first sentence, by striking 
+                ``Administration, shall'' and inserting 
+                ``Administration shall''; and
+                    (B) in the second sentence, by striking ``in 
+                paragraphs (1) (A), (1) (B), (1) (C), and (1) (D)'' and 
+                inserting ``subparagraphs (A) through (C) of paragraph 
+                (1)'';
+            (2) in paragraph (3)--
+                    (A) in the first sentence, by striking ``in 
+                paragraphs (1) (E) and (1) (F)'' and inserting ``by 
+                subparagraphs (D) and (E) of paragraph (1)''; and
+                    (B) in the second sentence by striking ``(1) (E)'' 
+                and inserting ``(1)(D)''; and
+            (3) by adding at the end the following:
+            ``(4)(A) The Secretary may utilize the Federal power 
+        marketing administrations (including the Southeastern Power 
+        Administration, the Southwestern Power Administration, the 
+        Bonneville Power Administration, and the Western Area Power 
+        Administration) to purchase, transmit, or enter into contracts 
+        to market electric power generated by nuclear facilities.
+            ``(B) The authority provided under this paragraph shall be 
+        exercised in accordance with, and subject to, the authorities, 
+        limitations, and procedural requirements otherwise applicable 
+        to a Federal power marketing administration with respect to the 
+        acquisition of electric power resources under otherwise 
+        applicable law.''.
+    (b) Federal Power.--
+            (1) In general.--Unless expressly provided otherwise, any 
+        reference in any provision of Federal law (including 
+        regulations) to Federal power or electric energy generated at a 
+        Federal project shall be deemed to include electric energy 
+        generated by a nuclear facility to the extent that such 
+        electric energy is purchased, transmitted, or marketed by a 
+        Federal power marketing agency (as defined in section 3 of the 
+        Federal Power Act (16 U.S.C. 796)).
+            (2) Rule of construction.--Nothing in this subsection 
+        alters or supersedes the authorities, limitations, or 
+        procedural requirements applicable to a Federal power marketing 
+        administration with respect to the acquisition of electric 
+        power resources under otherwise applicable law.
+
+SEC. 5. ADVANCED REACTOR DEMONSTRATION PROGRAM.
+
+    Section 959A of the Energy Policy Act of 2005 is amended--
+            (1) by redesignating subsection (f) as subsection (g); and
+            (2) by inserting after subsection (e) the following:
+    ``(f) Office of Nuclear Energy.--
+            ``(1) In general.--The program established under subsection 
+        (b) shall be administered by the Office of Nuclear Energy of 
+        the Department.
+            ``(2) Deadline.--Not later than 30 days after the date of 
+        enactment of the Nuclear Energy Innovation and Deployment Act 
+        of 2026, the Secretary shall take such actions as are necessary 
+        to carry out paragraph (1).''.
+
+SEC. 6. SURPLUS PLUTONIUM FOR COMMERCIAL REACTORS.
+
+    (a) Establishment.--
+            (1) In general.--The Secretary of Energy shall establish 
+        within the Office of Nuclear Energy a milestone-based program 
+        to be known as the ``Surplus Plutonium for Commercial Reactors 
+        Program'' (in this section referred to as the ``Program''), 
+        which shall be headed by the Assistant Secretary for Nuclear 
+        Energy (in this section referred to as the ``Assistant 
+        Secretary'').
+            (2) Continuation of ongoing activities.--The Program shall 
+        include, and the Secretary shall continue to carry out, 
+        activities undertaken before the date of enactment of this Act 
+        to solicit, evaluate, select, or enter into agreements with 
+        industry for the processing, fabrication, or utilization of 
+        surplus plutonium for advanced nuclear reactor fuel.
+    (b) Duties.--
+            (1) In general.--In carrying out the Program, the Assistant 
+        Secretary, in collaboration with the Under Secretary for 
+        Nuclear Security and the Assistant Secretary for Environmental 
+        Management, shall--
+                    (A) utilize solicitations, requests for 
+                applications, expressions of interest, or other 
+                selection processes issued before, on, or after the 
+                date of enactment of this Act to identify, qualify, and 
+                select United States commercial nuclear fuel 
+                fabricators and other entities that have been deemed 
+                qualified by the Assistant Secretary, including having 
+                contracted fuel offtake (in this section referred to as 
+                ``participants''), to receive and utilize surplus 
+                plutonium for fabrication into fuel for advanced 
+                nuclear reactors;
+                    (B) enter into agreements with participants under 
+                the authority provided by section 646(g) of the 
+                Department of Energy Organization Act (42 U.S.C. 
+                7256(g)); and
+                    (C) distribute such plutonium to participants for 
+                processing and fabrication through a milestone-based 
+                program that requires participants to meet particular 
+                technical, security, and safeguards milestones, as 
+                agreed to by the Assistant Secretary and the Under 
+                Secretary for Nuclear Security, before a participant is 
+                awarded portions of material by the Department.
+            (2) Timeline.--The Assistant Secretary shall continue and, 
+        as necessary, complete activities under paragraph (1) as 
+        follows:
+                    (A) Not later than 180 days after the date of 
+                enactment of this Act, the Assistant Secretary shall 
+                complete the execution of initial agreements under 
+                paragraph (1)(B).
+                    (B) Not later than January 1, 2028, the Assistant 
+                Secretary shall commence distribution of material under 
+                paragraph (1)(C), subject to participants meeting the 
+                milestones required under the Program.
+                    (C) Not later than January 1, 2035, the Assistant 
+                Secretary shall complete distribution of material under 
+                paragraph (1)(C), subject to participants meeting the 
+                milestones required under the Program.
+    (c) Termination of Surplus Plutonium Dilute and Dispose Program.--
+Not later than 180 days after the date of enactment of this Act, the 
+Secretary of Energy shall--
+            (1) terminate the Surplus Plutonium Dilute and Dispose 
+        Program, except to the extent needed to dispose of material 
+        that presents a safety concern or is not of use to the Office 
+        of Nuclear Energy; and
+            (2) resume operations of HB Line at the Savannah River 
+        Site, South Carolina.
+    (d) Transfer.--
+            (1) In general.--Upon termination of the Surplus Plutonium 
+        Dilute and Dispose Program pursuant to subsection (c), any 
+        unobligated amounts previously appropriated or otherwise made 
+        available to the Department of Energy for the Surplus Plutonium 
+        Dilute and Dispose Program shall be transferred to the Office 
+        of Nuclear Energy, except to the extent such amounts are needed 
+        to complete processing and transfer of final disposition of 
+        previously downblended material.
+            (2) Use of funds.--The Assistant Secretary shall use the 
+        funds transferred pursuant to paragraph (1) carry out this 
+        section.
+    (e) Annual Briefing.--Not later than 1 year after the date of 
+enactment of this Act, and annually thereafter until such time the 
+Program is completed, the Assistant Secretary, in coordination with the 
+Under Secretary for Nuclear Security and the Assistant Secretary for 
+Environmental Management, shall provide to the Committee on Energy and 
+Natural Resources of the Senate, the Committee on Armed Services of the 
+Senate, the Committee on Energy and Commerce of the House of 
+Representatives, and the Committee on Armed Services of the House of 
+Representatives a briefing on the progress of the Program.
+    (f) Rule of Construction.--Nothing in this section shall be 
+construed to modify or otherwise affect the legal obligations of the 
+Department of Energy to the State of South Carolina.
+                                 <all>

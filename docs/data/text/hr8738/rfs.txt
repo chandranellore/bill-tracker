@@ -1,0 +1,61 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8738 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 8738
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 14, 2026
+
+    Received; read twice and referred to the Committee on Rules and 
+                             Administration
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+     To amend the Federal Election Campaign Act of 1971 to require 
+  electronic report filing for persons making certain electioneering 
+communications and to permit political committees to make disbursements 
+                          other than by check.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``FEC Administrative Improvements 
+Act''.
+
+SEC. 2. REQUIRING ELECTRONIC FILING.
+
+    Section 304(a)(11)(A)(i) of the Federal Election Campaign Act of 
+1971 (52 U.S.C. 30104(a)(11)(A)(i)) is amended by inserting ``or makes 
+electioneering communications'' after ``expenditures''.
+
+SEC. 3. PERMITTING POLITICAL COMMITTEES TO MAKE DISBURSEMENTS BY 
+              METHODS OTHER THAN CHECK.
+
+    Section 302(h)(1) of the Federal Election Campaign Act of 1971 (52 
+U.S.C. 30102(h)(1)) is amended by striking ``except by check drawn on 
+such accounts in accordance with this section'' and inserting ``except 
+from such accounts''.
+
+            Passed the House of Representatives July 13, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

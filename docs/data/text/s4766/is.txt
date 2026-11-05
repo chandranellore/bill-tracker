@@ -1,0 +1,146 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4766 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4766
+
+  To require the Secretary of Defense to establish a pilot program to 
+ evaluate the safety, quality, and qualification pathways of printable 
+      energetic feedstocks for controlled additive manufacturing 
+                             applications.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 11, 2026
+
+  Mr. Cornyn introduced the following bill; which was read twice and 
+              referred to the Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require the Secretary of Defense to establish a pilot program to 
+ evaluate the safety, quality, and qualification pathways of printable 
+      energetic feedstocks for controlled additive manufacturing 
+                             applications.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. PILOT PROGRAM ON SAFETY AND QUALIFICATION OF PRINTABLE 
+              ENERGETIC FEEDSTOCKS FOR ADDITIVE MANUFACTURING.
+
+    (a) Establishment.--The Secretary of Defense shall establish a 
+pilot program, to be carried out by the Under Secretary of Defense for 
+Research and Engineering, in coordination with the Capability Program 
+Executive, Ammunition and Energetics (or successor organization) and 
+appropriate service acquisition executives, to evaluate the safety, 
+quality, and qualification pathways of printable energetic feedstocks 
+for controlled additive manufacturing applications.
+    (b) Purpose.--The purposes of the pilot program are--
+            (1) to determine whether the use of printable energetic 
+        feedstocks can improve handling safety, process stability, lot-
+        to-lot consistency, and supply chain resilience relative to 
+        traditional energetics manufacturing and handling methods;
+            (2) to analyze the effect of printable energetic feedstocks 
+        with regards to logistics, including throughput, waste, defect 
+        rate, and constituent material availability versus state-of-
+        the-art legacy processes;
+            (3) to develop and validate new test and evaluation 
+        methods, if necessary, including metrology and digital quality 
+        assurance, if existing qualification pathways are insufficient 
+        to assess printable energetic feedstocks for Department of 
+        Defense use;
+            (4) to assess applicability of printable energetic 
+        feedstocks to existing or planned munition and energetics 
+        modernization efforts, consistent with explosive safety, 
+        security, and environmental requirements that provide advantage 
+        in performance or logistics; and
+            (5) to identify barriers to adoption, including 
+        infrastructure, standards, certification, and workforce 
+        requirements.
+    (c) Activities.--Activities under the pilot program may include--
+            (1) identification, assessment, and characterization of 
+        representative printable energetic feedstocks and their 
+        performance consistency under controlled conditions;
+            (2) development of qualification criteria and data packages 
+        to inform safety releases, waivers, or certifications as 
+        appropriate;
+            (3) limited demonstrations at Government facilities or 
+        contractor facilities that meet all applicable explosive safety 
+        and security requirements;
+            (4) development of nonproprietary standards, metrology 
+        approaches, and digital thread quality controls for printable 
+        energetic feedstocks; and
+            (5) analysis of operational effects via wargaming or 
+        mission or campaign modeling and experimental performance data.
+    (d) Comparative Safety Assessment Required.--As a core element of 
+the pilot program, the Secretary shall conduct a comparative assessment 
+of the safety of the use of printable energetic feedstocks relative to 
+traditional energetics manufacturing and handling, including, at a 
+minimum--
+            (1) hazards and risks associated with storage, transport, 
+        handling, and processing;
+            (2) sensitivity and response to credible stimuli (including 
+        thermal and mechanical stimuli) using appropriate test 
+        standards;
+            (3) process safety considerations, including potential 
+        failure modes and mitigations for controlled additive 
+        manufacturing workflows;
+            (4) accident and incident risk modeling (including 
+        qualitative and quantitative risk assessment where feasible); 
+        and
+            (5) recommended safety controls, facility requirements, and 
+        operational constraints for any future operational use.
+    (e) Safety and Security Requirements.--The Secretary shall ensure 
+that activities under the pilot program--
+            (1) are conducted only at facilities compliant with 
+        applicable explosive safety siting, storage, handling, and 
+        operating requirements;
+            (2) incorporate counter-diversion safeguards, inventory 
+        accountability, and chain-of-custody controls; and
+            (3) do not authorize dissemination of restricted 
+        manufacturing parameters outside approved Government and 
+        cleared-industry channels.
+    (f) Reporting.--Not later than 180 days after initiation of the 
+pilot program, and annually thereafter for the duration of the pilot 
+program, the Secretary shall submit to the congressional defense 
+committees a report that includes--
+            (1) pilot objectives, participants, test locations, and 
+        safety governance structure;
+            (2) test methodologies, standards used, and key safety and 
+        quality metrics;
+            (3) results of activities conducted under subsection (c), 
+        including identification, assessment, and characterization of 
+        representative printable energetic feedstocks, demonstrations, 
+        qualification criteria, data packages, and standards 
+        development;
+            (4) results of the comparative safety assessment required 
+        under subsection (d), including identified hazards, 
+        mitigations, and residual risk;
+            (5) an assessment of cost, schedule, and scalability 
+        relative to traditional energetics manufacturing and handling;
+            (6) recommended qualification and certification pathways, 
+        including any standards gaps; and
+            (7) any recommended legislative, regulatory, or resourcing 
+        actions required to enable safe adoption.
+    (g) Termination.--The pilot program shall terminate before the date 
+that is two years after the date of the enactment of this Act.
+                                 <all>

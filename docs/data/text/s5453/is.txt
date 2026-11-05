@@ -1,0 +1,377 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5453 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5453
+
+ To amend the Internal Revenue Code of 1986 to establish a tax credit 
+for installation of regionally significant electric power transmission 
+                                 lines.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 22, 2026
+
+ Mr. Heinrich introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to establish a tax credit 
+for installation of regionally significant electric power transmission 
+                                 lines.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Grid Resiliency Tax Credit Act''.
+
+SEC. 2. FINDINGS.
+
+    Congress finds the following:
+            (1) A robust electric power transmission system is critical 
+        to the economic, energy, and national security of the United 
+        States.
+            (2) The electric grid faces challenges from aging 
+        infrastructure and a need for increased electric power 
+        transmission capacity.
+            (3) The United States faces a pressing need to expand 
+        electric power transmission.
+            (4) Financial support for electric grid transmission 
+        buildout provides protection from electric rate increases that 
+        would otherwise apply to American consumers.
+            (5) Electric power transmission investments will--
+                    (A) improve resilience and lower costs by enabling 
+                access to diverse generation resources across the 
+                country;
+                    (B) increase the electric grid's ability to weather 
+                storms and wildfire by enabling access to financial 
+                support for grid resilience measures;
+                    (C) promote economic benefits and create new jobs 
+                in communities across the country; and
+                    (D) enhance electric grid reliability.
+
+SEC. 3. ESTABLISHMENT OF ELECTRIC POWER TRANSMISSION LINE CREDIT.
+
+    (a) In General.--Subpart E of part IV of subchapter A of chapter 1 
+of the Internal Revenue Code of 1986 is amended by inserting after 
+section 48E the following new section:
+
+``SEC. 48F. QUALIFIED ELECTRIC POWER TRANSMISSION LINE CREDIT.
+
+    ``(a) Allowance of Credit.--For purposes of section 46, the 
+qualified electric power transmission line credit for any taxable year 
+is an amount equal to 30 percent of the qualified investment for such 
+taxable year with respect to any qualified electric power transmission 
+line of the taxpayer.
+    ``(b) Qualified Investment.--
+            ``(1) In general.--For purposes of subsection (a), the 
+        qualified investment with respect to any qualified electric 
+        power transmission line for any taxable year is the sum of--
+                    ``(A) the basis of any qualified property placed in 
+                service by the taxpayer during such taxable year which 
+                is part of a qualified electric power transmission 
+                line, plus
+                    ``(B) the amount of any expenditures which are paid 
+                or incurred by the taxpayer for the construction, 
+                reconstruction, erection, or modification of qualified 
+                substation property in connection with a qualified 
+                electric power transmission line of the taxpayer.
+            ``(2) Qualified property.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `qualified property' means property--
+                            ``(i) which is--
+                                    ``(I) tangible personal property, 
+                                or
+                                    ``(II) other tangible property (not 
+                                including a building or its structural 
+                                components), but only if such property 
+                                is used as an integral part of the 
+                                qualified electric power transmission 
+                                line,
+                            ``(ii) with respect to which depreciation 
+                        (or amortization in lieu of depreciation) is 
+                        allowable, and
+                            ``(iii)(I) the construction, 
+                        reconstruction, or erection of which is 
+                        completed by the taxpayer, or
+                            ``(II) which is acquired by the taxpayer if 
+                        the original use of such property commences 
+                        with the taxpayer.
+                    ``(B) Included property.--For purposes of this 
+                subsection, the term `qualified property' shall 
+                include--
+                            ``(i) any conductors or cables, towers, 
+                        insulators, reactors, capacitors, circuit 
+                        breakers, static VAR compensators, static 
+                        synchronous compensators, power converters, 
+                        transformers, synchronous condensers, braking 
+                        resistors, and any other property which is part 
+                        of a substation, converter station, or 
+                        switchyard, and
+                            ``(ii) any property which increases the 
+                        capacity, efficiency, reliability, resilience, 
+                        or safety of a qualified electric power 
+                        transmission line.
+            ``(3) Qualified substation property.--For purposes of this 
+        subsection, the term `qualified substation property' means, 
+        with respect to a qualified electric power transmission line, 
+        any tangible property which--
+                    ``(A) is part of an addition, improvement, or 
+                upgrade at the point of connection (including at a 
+                substation) to a transmission or distribution system 
+                which is required to connect such line to such 
+                transmission or distribution system, and
+                    ``(B) is not described in paragraph (1)(A).
+            ``(4) Certain qualified progress expenditures rules made 
+        applicable.--Rules similar to the rules of subsections (c)(4) 
+        and (d) of section 46 (as in effect on the day before the 
+        enactment of the Revenue Reconciliation Act of 1990) shall 
+        apply for purposes of this section.
+    ``(c) Qualified Electric Power Transmission Line.--
+            ``(1) In general.--For purposes of this section, the term 
+        `qualified electric power transmission line' means a line used 
+        for the transmission of electric energy which is--
+                    ``(A) a qualified significant transmission line or 
+                a qualified generator tie line, and
+                    ``(B) either--
+                            ``(i) placed in service after December 31, 
+                        2026, or
+                            ``(ii)(I) in the case of a qualified 
+                        significant transmission line which is placed 
+                        in service before January 1, 2027, modified in 
+                        a manner that increases the transmission 
+                        capacity of such line by not less than 500 
+                        megawatts, or
+                            ``(II) in the case of a qualified generator 
+                        tie line, modified after December 31, 2026, in 
+                        a manner that increases the transmission 
+                        capacity of such line.
+            ``(2) Qualified significant transmission line.--
+                    ``(A) In general.--For purposes of this subsection, 
+                the term `qualified significant transmission line' 
+                means any electric power transmission line which--
+                            ``(i) has a transmission capacity of not 
+                        less than 500 megawatts,
+                            ``(ii) satisfies either of the requirements 
+                        described in subparagraph (B), and
+                            ``(iii) is part of a project described in 
+                        subparagraph (C) that transmits electricity--
+                                    ``(I) across a State boundary 
+                                (including any boundary as defined in 
+                                section 2(b) of the Submerged Lands Act 
+                                of 1953 (43 U.S.C. 1301(b))),
+                                    ``(II) between 2 or more 
+                                transmission planning subregions 
+                                identified in the most recent study 
+                                published pursuant to section 216(a)(1) 
+                                of the Federal Power Act (16 U.S.C. 
+                                824p(a)(1)) before the date on which 
+                                construction begins on the project,
+                                    ``(III) across or wholly within the 
+                                outer Continental Shelf (as defined in 
+                                section 2(a) of the Outer Continental 
+                                Lands Act (43 U.S.C. 1331(a))), or
+                                    ``(IV) for not less than 100 
+                                continuous miles.
+                    ``(B) Voltage requirements.--The requirements 
+                described in this subparagraph with respect to any 
+                electric power transmission line are the following:
+                            ``(i) Such transmission line is capable of 
+                        transmitting electricity at an alternating 
+                        current voltage of not less than 345 kilovolts 
+                        or direct current voltage of not less than 200 
+                        kilovolts.
+                            ``(ii) Such transmission line includes an 
+                        advanced transmission conductor and is capable 
+                        of transmitting electricity at a voltage of not 
+                        less than 100 kilovolts.
+                    ``(C) Project requirements.--For purposes of 
+                subparagraph (A)(iii), a project described in this 
+                subparagraph--
+                            ``(i) shall consist of 1 or more electric 
+                        power transmission lines that begin and end 
+                        with a substation, converter station, or 
+                        switchyard, and
+                            ``(ii) may be placed in service by more 
+                        than 1 taxpayer during more than 1 taxable 
+                        year.
+                    ``(D) Related definitions.--For purposes of 
+                subparagraph (B), the term `advanced transmission 
+                conductor' means an electric transmission conductor 
+                that demonstrates--
+                            ``(i) an improvement in ampacity over an 
+                        aluminum conductor steel-reinforced conductor 
+                        of similar construction of no less than 60 
+                        percent measured in terms of ampacity at 
+                        maximum continuous operating temperature under 
+                        continuous use,
+                            ``(ii) a direct current electrical 
+                        resistance, measured at 20 degrees Celsius, 
+                        that is 90 percent or less than that of an 
+                        aluminum conductor steel-reinforced conductor 
+                        of a similar construction, and
+                            ``(iii) no more sag than that of an 
+                        aluminum conductor steel-reinforced conductor 
+                        of a similar construction at maximum continuous 
+                        operating temperature.
+            ``(3) Qualified generator tie line.--For purposes of this 
+        subsection, the term `qualified generator tie line' means any 
+        electric power transmission line which--
+                    ``(A) is capable of transmitting electricity at a 
+                voltage of not less than 230 kilovolts, and
+                    ``(B) is primarily used to--
+                            ``(i) connect to or upgrade network 
+                        capacity for a new or expanded facility used to 
+                        generate electricity to an electric 
+                        transmission line, or
+                            ``(ii) to connect to, or upgrade network 
+                        capacity for, energy storage technology.
+            ``(4) Energy storage technology.--For purposes of this 
+        subsection, the term `energy storage technology' has the same 
+        meaning given such term under paragraph (6) of section 48(c), 
+        except that such paragraph shall be applied without regard to 
+        subparagraphs (A)(ii) and (D) thereof.
+    ``(d) Denial of Double Benefit.--A credit shall not be allowed 
+under this section for any qualified property or any qualified 
+substation property in connection with a qualified electric power 
+transmission line for which a credit is allowed under section 48 or 
+48E.
+    ``(e) Termination.--This section shall not apply to any property 
+the construction of which begins after December 31, 2036.''.
+    (b) Public Utility Property.--Paragraph (2) of section 50(d) of the 
+Internal Revenue Code is amended--
+            (1) by striking ``(as defined in section 48(c)(6))'' and 
+        inserting ``(as defined in section 48(c)(6), except that 
+        subparagraph (D) of such section shall not apply) or any 
+        qualified electric power transmission line (as defined by 
+        section 48F(c))'', and
+            (2) in subparagraph (B)--
+                    (A) by inserting ``or qualified electric power 
+                transmission line'' after ``each energy storage 
+                technology'', and
+                    (B) by inserting ``or the qualified electric power 
+                transmission line'' after ``the energy storage 
+                technology''.
+    (c) Elective Payment and Transfer of Credit.--
+            (1) Elective payment.--Section 6417 of the Internal Revenue 
+        Code of 1986 is amended--
+                    (A) in subsection (b), by adding at the end the 
+                following:
+            ``(13) The qualified electric power transmission line 
+        credit determined under section 48F.'', and
+                    (B) in subsection (d)(1)--
+                            (i) in subparagraph (A)--
+                                    (I) in clause (v), by striking 
+                                ``or'' at the end,
+                                    (II) in clause (vi), by striking 
+                                the period at the end and inserting ``, 
+                                or'', and
+                                    (III) by adding at the end the 
+                                following new clause:
+                            ``(vii) any Federal power marketing agency 
+                        (as defined in section 3 of the Federal Power 
+                        Act (16 U.S.C. 796)).'',
+                            (ii) in subparagraph (E), by striking 
+                        ``(C), or (D)'' each place it appears and 
+                        inserting ``(C), (D), or (E)'',
+                            (iii) by redesignating subparagraph (E) (as 
+                        amended by clause (ii)) as subparagraph (F), 
+                        and
+                            (iv) by inserting after subparagraph (D) 
+                        the following new subparagraph:
+                    ``(E) Election with respect to qualified electric 
+                power transmission line credit.--If a taxpayer other 
+                than an entity described in subparagraph (A) makes an 
+                election under this subparagraph with respect to any 
+                taxable year in which such taxpayer has made a 
+                qualified investment with respect to any qualified 
+                electric power transmission line (as defined in section 
+                48F), such taxpayer shall be treated as an applicable 
+                entity for purposes of this section for such taxable 
+                year, but only with respect to the credit described in 
+                subsection (b)(13).''.
+            (2) Transfer.--Section 6418(f)(1)(A) of the Internal 
+        Revenue Code of 1986 is amended by adding the following new 
+        clause:
+                            ``(xiii) The qualified electric power 
+                        transmission line credit under section 48F.''.
+            (3) Exempting direct payments from sequestration.--
+        Subsection (d) of section 255 of the Balanced Budget and 
+        Emergency Deficit Control Act of 1985 (2 U.S.C. 905) is amended 
+        by adding at the end the following new paragraph:
+            ``(3) Elective payment of applicable credits.--Payments 
+        made to taxpayers pursuant to elections under section 6417 of 
+        the Internal Revenue Code of 1986, or amounts treated as 
+        payments which are made by taxpayers under subsection (a) of 
+        such section, shall be exempt from reduction under any order 
+        issued under this part.''.
+    (d) Conforming Amendments.--
+            (1) Section 46 of the Internal Revenue Code of 1986 is 
+        amended--
+                    (A) by striking ``and'' at the end of paragraph 
+                (6),
+                    (B) by striking the period at the end of paragraph 
+                (7) and inserting ``, and'', and
+                    (C) by adding at the end the following new 
+                paragraph:
+            ``(8) the qualified electric power transmission line 
+        credit.''.
+            (2) Section 49(a)(1)(C) of such Code is amended--
+                    (A) by striking ``and'' at the end of clause (vii),
+                    (B) by striking the period at the end of clause 
+                (viii) and inserting ``, and'', and
+                    (C) by adding at the end the following new clause:
+                            ``(ix) the basis of any qualified electric 
+                        power transmission line under section 48F.''.
+            (3) Section 59A(b)(1)(B)(ii) of such Code is amended by 
+        striking ``plus'' at the end of subclause (I), by redesignating 
+        subclause (II) as subclause (III), and by inserting after 
+        subclause (I) the following new subclause:
+                                    ``(II) the credit allowed under 
+                                section 38 for the taxable year which 
+                                is properly allocable to the investment 
+                                credit determined under section 46, but 
+                                only to the extent properly allocable 
+                                to the qualified electric power 
+                                transmission line determined under 
+                                section 48F, plus''.
+            (4) Section 38(c)(4)(B) of such Code is amended--
+                    (A) by redesignating clauses (xi) and (xii) as 
+                clauses (xii) and (xiii), respectively, and
+                    (B) by inserting after clause (x) the following new 
+                clause:
+                            ``(xi) the credit determined under section 
+                        46 to the extent that such credit is 
+                        attributable to the qualified electric power 
+                        transmission line determined under section 
+                        48F,''.
+            (5) The table of sections for subpart E of part IV of 
+        subchapter A of chapter 1 of such Code is amended by inserting 
+        after the item relating to section 48E the following new item:
+
+``Sec. 48F. Qualified electric power transmission line credit.''.
+    (e) Effective Date.--The amendments made by this section shall 
+apply to property placed in service after December 31, 2026, and to 
+expenditures which are paid or incurred after such date.
+                                 <all>

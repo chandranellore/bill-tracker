@@ -1,0 +1,72 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6826 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 6826
+
+   To amend the Internal Revenue Code of 1986 to expand the advanced 
+         manufacturing production credit to include black mass.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           December 17, 2025
+
+ Mr. Vindman (for himself, Mr. Moylan, and Mr. Lawler) introduced the 
+ following bill; which was referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Internal Revenue Code of 1986 to expand the advanced 
+         manufacturing production credit to include black mass.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Critical Minerals Independence 
+Act''.
+
+SEC. 2. EXPANSION OF ADVANCED MANUFACTURING PRODUCTION CREDIT TO 
+              INCLUDE BLACK MASS.
+
+    (a) In General.--Section 45X(c)(5) of the Internal Revenue Code of 
+1986 is amended--
+            (1) in subparagraph (A), by adding at the end the following 
+        new clause:
+                            ``(iv) Black mass.'', and
+            (2) in subparagraph (B), by adding at the end the following 
+        new clause:
+                            ``(iv) Black mass.--The term `black mass' 
+                        means the intermediate, solid particulate 
+                        material produced by the mechanical or 
+                        pyrometallurgical processing of spent lithium-
+                        ion or similar electrochemical cells, 
+                        consisting predominantly of finely divided 
+                        cathode and anode active materials, including 
+                        lithium, nickel, cobalt, manganese, and 
+                        graphite, prior to any hydrometallurgical or 
+                        chemical purification that isolates individual 
+                        metals or compounds.''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to components produced and sold in taxable years beginning after 
+December 31, 2024.
+                                 <all>

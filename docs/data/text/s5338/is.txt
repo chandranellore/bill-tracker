@@ -1,0 +1,583 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5338 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5338
+
+    To amend the Energy Policy and Conservation Act to prohibit the 
+    Secretary of Energy from prescribing any new or amended energy 
+   conservation standards for a product that is not technologically 
+      feasible and economically justified, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 6, 2026
+
+    Mr. Lee introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Energy Policy and Conservation Act to prohibit the 
+    Secretary of Energy from prescribing any new or amended energy 
+   conservation standards for a product that is not technologically 
+      feasible and economically justified, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Energy Efficiency Reform Act of 
+2026''.
+
+SEC. 2. PROCEDURES, INTERPRETATIONS, AND POLICIES FOR CONSIDERATION OF 
+              NEW OR REVISED CONSERVATION STANDARDS AND TEST 
+              PROCEDURES.
+
+    (a) In General.--Not later than 270 days after the date of 
+enactment of this Act, the Secretary of Energy (referred to in this 
+section as the ``Secretary'') shall issue a final rule for the notice 
+of proposed rulemaking entitled ``Energy Conservation Program: 
+Procedures, Interpretations, and Policies for Consideration of New or 
+Revised Energy Conservation Standards and Test Procedures for Consumer 
+Products and Certain Commercial/Industrial Equipment'' (91 Fed. Reg. 
+42034; July 7, 2026).
+    (b) Required Contents.--The final rule issued under subsection (a) 
+shall retain, at a minimum, the procedural requirements set forth in 
+the notice of proposed rulemaking described in subsection (a) with 
+respect to--
+            (1) the binding nature of the Process Rule on the 
+        Department of Energy;
+            (2) mandatory comparative walk-up analysis for economic 
+        justification; and
+            (3) the requirement that a final test procedure be 
+        published at least 180 days before the proposition of an energy 
+        conservation standard for the same product.
+    (c) Failure To Comply.--
+            (1) In general.--If the Secretary fails to issue a final 
+        rule under subsection (a) by the deadline described in that 
+        subsection, effective on the day after that deadline--
+                    (A) the revisions to part 430 of title 10, Code of 
+                Federal Regulations, made by the final rules described 
+                in paragraph (2) are void; and
+                    (B) that part shall be in effect as if those 
+                revisions had not been made.
+            (2) Final rules described.--The final rules referred to in 
+        paragraph (1)(A) are the following:
+                    (A) The final rule of the Department of Energy 
+                entitled ``Energy Conservation Program for Appliance 
+                Standards: Procedures, Interpretations, and Policies 
+                for Consideration in New or Revised Energy Conservation 
+                Standards and Test Procedures for Consumer Products and 
+                Commercial/Industrial Equipment'' (86 Fed. Reg. 70892 
+                (December 13, 2021)).
+                    (B) The final rule of the Department of Energy 
+                entitled ``Energy Conservation Program for Appliance 
+                Standards: Procedures, Interpretations, and Policies 
+                for Consideration in New or Revised Energy Conservation 
+                Standards and Test Procedures for Consumer Products and 
+                Commercial/Industrial Equipment'' (89 Fed. Reg. 24340 
+                (April 8, 2024)).
+    (d) Limitation.--Effective beginning on the date that is 181 days 
+after the date of enactment of this Act, unless specifically authorized 
+by an Act of Congress, the Secretary may not make any revisions to part 
+430 of title 10, Code of Federal Regulations, that are substantially 
+dissimilar to--
+            (1) the final rule issued under subsection (a); or
+            (2) if that final rule is not issued, the notice of 
+        proposed rulemaking described in subsection (a).
+    (e) Force of Law.--Effective beginning on the date that is 181 days 
+after the date of enactment of this Act, appendix A to subpart C of 
+part 430 of title 10, Code of Federal Regulations (including any 
+revisions made to that appendix), shall have the force and effect of 
+law.
+    (f) Regulations Voided.--Effective on the date of enactment of this 
+Act, the following final rules shall be null and void:
+            (1) The final rule of the Department of Energy entitled 
+        ``Energy Conservation Program: Energy Conservation Standards 
+        for Consumer Furnaces'' (88 Fed. Reg. 87502 (December 18, 
+        2023)).
+            (2) The final rule of the Department of Energy entitled 
+        ``Energy Conservation Program: Energy Conservation Standards 
+        for Commercial Water Heating Equipment'' (88 Fed. Reg. 69686 
+        (October 6, 2023)).
+
+SEC. 3. SIGNIFICANT ENERGY SAVINGS DEFINITION.
+
+    Section 321 of the Energy Policy and Conservation Act (42 U.S.C. 
+6291) is amended by adding at the end the following:
+            ``(67) Significant energy savings.--
+                    ``(A) In general.--The term `significant energy 
+                savings' means a reduction, over a 30-year period, of 
+                not less than 10 percent in full fuel cycle energy use, 
+                as determined by the Secretary using the applicable 
+                test procedure required under this Act.
+                    ``(B) Full fuel cycle energy use.--For the purpose 
+                of subparagraph (A), full fuel cycle energy use 
+                includes all primary energy consumed in the extraction, 
+                processing, transportation, generation, transmission, 
+                and distribution of energy to the point of end-use.''.
+
+SEC. 4. REVOCATION OF STANDARDS AMENDMENTS REQUIREMENT.
+
+    (a) In General.--Section 325 of the Energy Policy and Conservation 
+Act (42 U.S.C. 6295) is amended--
+            (1) by redesignating paragraph (4) of subsection (m) as 
+        paragraph (7) of subsection (o), and moving the paragraph 
+        appropriately; and
+            (2) by striking subsection (m) and inserting the following:
+    ``(m) Reserved.--''.
+    (b) Conforming Amendment.--Section 345(e)(1)(A) of the Energy 
+Policy and Conservation Act (42 U.S.C. 6316(e)(1)(A)) is amended by 
+striking ``(m)'' and inserting ``(n)''.
+
+SEC. 5. PETITION FOR AN AMENDED STANDARD; PETITION TIMELINES.
+
+    Section 325(n) of the Energy Policy and Conservation Act (42 U.S.C. 
+6295(n)) is amended--
+            (1) in paragraph (2)--
+                    (A) by redesignating subparagraphs (A) through (C) 
+                as subclauses (I) through (III), respectively, and 
+                indenting appropriately;
+                    (B) in the undesignated matter following subclause 
+                (III) (as so redesignated), by striking ``The grant'' 
+                and inserting the following:
+                    ``(B) No presumption.--The grant''; and
+                    (C) by striking the paragraph designation and all 
+                that follows through ``criteria--'' in the matter 
+                preceding subclause (I) (as so redesignated) and 
+                inserting the following:
+            ``(2) Grant of petition.--
+                    ``(A) In general.--The Secretary shall grant a 
+                petition under paragraph (1)--
+                            ``(i) if the Secretary finds that the 
+                        petition contains clear and convincing evidence 
+                        of the need for an amended standard; and
+                            ``(ii) subject to the conditions that--''; 
+                        and
+            (2) in paragraph (5)(B), by striking ``3 years'' and all 
+        that follows through the period at the end and inserting ``at 
+        least 6 years after publication of the final rule establishing 
+        the standard.''.
+
+SEC. 6. CRITERIA FOR PRESCRIBING NEW OR AMENDED STANDARDS.
+
+    (a) In General.--Section 325(o) of the Energy Policy and 
+Conservation Act (42 U.S.C. 6295(o)) is amended--
+            (1) in paragraph (1), by striking ``The Secretary'' and 
+        inserting ``Except as provided in paragraph (2), the 
+        Secretary'';
+            (2) by redesignating paragraphs (2), (3), (4), (5), (6), 
+        and (7) (as added by section 4(a)(1)) as paragraphs (4), (5), 
+        (6), (7), (8), and (9), respectively;
+            (3) by inserting after paragraph (1) the following:
+            ``(2) Amended standard.--The Secretary may prescribe an 
+        amended standard that is less stringent than the previous 
+        standard or that results in an increased maximum allowable 
+        energy use if the Secretary demonstrates with clear and 
+        convincing evidence that the amended standard is necessary--
+                    ``(A) to ensure availability of reliable, safe, and 
+                economically accessible products;
+                    ``(B) to avoid undue burdens on small 
+                manufacturers, taking into consideration supply chain, 
+                technical feasibility, and cost impacts;
+                    ``(C) to prevent the unavailability in the United 
+                States of any covered product type (or class) of 
+                performance characteristics that are substantially the 
+                same as those generally available in the United States 
+                at the time that the prior standard was applicable; or
+                    ``(D) to prevent the influx into the United States 
+                of foreign market competitors.
+            ``(3) New product coverage determination.--The Secretary 
+        shall not--
+                    ``(A) amend a standard to include a new product 
+                type unless the Secretary has first made a new product 
+                coverage determination under subsection (q) or section 
+                322; or
+                    ``(B) issue or finalize a rulemaking under this 
+                section that addresses multiple product types with 
+                similar but different functions.'';
+            (4) in paragraph (4)(B) (as so redesignated)--
+                    (A) in clause (i)--
+                            (i) in the matter preceding subclause (I), 
+                        by striking ``receiving views and comments 
+                        furnished with respect to'' and inserting 
+                        ``providing public notice in the Federal 
+                        Register that includes at least 60 days for 
+                        public comment, and receiving such comments, 
+                        with respect to'';
+                            (ii) in subclause (I), by striking 
+                        ``impact'' and inserting ``impact, including 
+                        cumulative regulatory burdens,'';
+                            (iii) in subclause (V), by adding ``and'' 
+                        at the end;
+                            (iv) in subclause (VI), by striking ``; 
+                        and'' and inserting a period; and
+                            (v) by striking subclause (VII); and
+                    (B) by adding at the end the following:
+                            ``(iv) Defined consumer-valued 
+                        characteristics.--
+                                    ``(I) In general.--In determining 
+                                whether a standard is technologically 
+                                feasible, the Secretary shall, after 
+                                receiving comments, define `consumer-
+                                valued performance characteristics', 
+                                including reliability, product 
+                                lifetime, features, sizes, capacities, 
+                                installation and venting methods, fuel 
+                                types, technologies, materials, 
+                                volumes, and the ability to replace a 
+                                product without changes to existing 
+                                drainage and venting methods.
+                                    ``(II) Application.--The consumer-
+                                valued performance characteristics 
+                                defined under subclause (I) shall not 
+                                be eliminated or impacted by new or 
+                                amended standards.'';
+            (5) in paragraph (5) (as so redesignated)--
+                    (A) by redesignating subparagraphs (A) and (B) as 
+                clauses (i) and (ii), respectively, and indenting 
+                appropriately;
+                    (B) by striking the paragraph designation and all 
+                that follows through ``a test'' in clause (i) (as so 
+                redesignated) and inserting the following:
+            ``(5) Limitation on prescribing new or amended standards.--
+                    ``(A) In general.--The Secretary may not prescribe 
+                an amended or new standard under this section for a 
+                type (or class) of covered product if--
+                            ``(i) a test'';
+                    (C) in the undesignated matter following clause 
+                (ii) (as so redesignated), by striking ``For purposes 
+                of section 327, a determination under subparagraph 
+                (B)'' and inserting the following:
+                    ``(B) Determination as standard.--For purposes of 
+                section 327, a determination under subparagraph 
+                (A)(ii)''; and
+                    (D) by adding at the end the following:
+                    ``(C) Ties to china.--The Secretary may not 
+                prescribe a new or amended energy conservation standard 
+                under this section for a type (or class) of covered 
+                product unless the Secretary, not later than the date 
+                on which the standard is prescribed, publicly discloses 
+                each meeting relating to covered products, if any, held 
+                by the Secretary with any entity that, during the 5-
+                year period preceding that date--
+                            ``(i) has had substantial ties to the 
+                        People's Republic of China or the Chinese 
+                        Communist Party; and
+                            ``(ii) has manufactured, sold, or shipped 
+                        goods entering the United States that are of 
+                        that type (or class) of covered product.'';
+            (6) in paragraph (6) (as so redesignated), by striking the 
+        paragraph designation and all that follows through 
+        ``capacities,'' in the first sentence and inserting the 
+        following:
+            ``(6) Prohibition.--The Secretary shall not prescribe an 
+        amended or new standard under this section unless the Secretary 
+        finds (and publishes such finding) that, based on a 
+        preponderance of the evidence in the record, the standard will 
+        not result in the unavailability in the United States in any 
+        covered product type (or class) of performance characteristics 
+        (including reliability), product lifetime, features, sizes, 
+        capacities, installation methods, fuel types, technologies, 
+        materials,'';
+            (7) in paragraph (7) (as so redesignated), by striking the 
+        designation and all that follows through ``may'' and inserting 
+        the following:
+            ``(7) Limitation regarding major functions.--
+                    ``(A) Definition of major function.--In this 
+                paragraph, the term `major function', with respect to a 
+                covered product type, means a fundamental use or 
+                purpose of the covered product type, including the fuel 
+                type.
+                    ``(B) Limitation.--The Secretary shall not'';
+            (8) by striking paragraph (9) (as so redesignated) and 
+        inserting the following:
+            ``(9) Application to products.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B) or subsection (p)(4), an amendment 
+                prescribed under this subsection shall apply to covered 
+                products or equipment manufactured after the date that 
+                is 5 years after publication of the final rule 
+                establishing the applicable standard.
+                    ``(B) Compliance date.--No amended standard 
+                prescribed under this subsection may establish a 
+                compliance date for a covered product earlier than 10 
+                years after the compliance date of the most recent 
+                standard applicable to that covered product.''; and
+            (9) by adding at the end the following:
+            ``(10) Separate standards for vented products or equipment 
+        based on venting category.--
+                    ``(A) In general.--In any rulemaking to establish a 
+                new or amended energy conservation standard for any 
+                type (or class) of product or equipment described in 
+                subparagraph (D), the Secretary shall establish 
+                separate energy conservation standards for such type 
+                (or class) of product or equipment--
+                            ``(i) for each of the Category I, Category 
+                        II, Category III, and Category IV venting 
+                        categories, to the extent that such products or 
+                        equipment exist in the market; and
+                            ``(ii) that reflect the unique performance-
+                        related features of the relevant venting 
+                        category, including with respect to technology, 
+                        venting, installation, and performance.
+                    ``(B) Venting category determination.--In 
+                establishing energy conservation standards pursuant to 
+                this paragraph, the Secretary shall determine and label 
+                the venting category for each type (or class) of 
+                product or equipment described in subparagraph (D) in 
+                accordance with the requirements for venting category 
+                determination under the applicable standard of the 
+                American National Standards Institute.
+                    ``(C) Inapplicability of certain criteria.--
+                Paragraph (1) shall not apply with respect to any 
+                energy conservation standard established pursuant to 
+                this paragraph.
+                    ``(D) Applicability.--The type (or class) of 
+                product or equipment referred to in this paragraph are 
+                the following:
+                            ``(i) Any covered product--
+                                    ``(I) that is classified into any 
+                                of the Category I, Category II, 
+                                Category III, or Category IV venting 
+                                categories; and
+                                    ``(II) for which energy 
+                                conservation standards are applicable 
+                                under this part.
+                            ``(ii) Any covered equipment (as defined in 
+                        section 340)--
+                                    ``(I) that is classified into any 
+                                of the Category I, Category II, 
+                                Category III, or Category IV venting 
+                                categories; and
+                                    ``(II) for which energy 
+                                conservation standards are applicable 
+                                under this part.''.
+    (b) Conforming Amendments.--
+            (1) Section 321(33)(B)(i)(III) of the Energy Policy and 
+        Conservation Act (42 U.S.C. 6291(33)(B)(i)(III)) is amended by 
+        striking ``325(o)(4)'' and inserting ``325(o)(6)''.
+            (2) Section 325 of the Energy Policy and Conservation Act 
+        (42 U.S.C. 6295) is amended--
+                    (A) in subsection (e)(6)(E)(ii), by striking 
+                ``(m)(4)(A)(ii)'' and inserting ``(o)(9)(A)'';
+                    (B) in subsection (n)(2)(C), by striking 
+                ``(o)(2)(B)(i)(II)'' and inserting 
+                ``(o)(4)(B)(i)(II)''; and
+                    (C) in subsection (p)(2)(A)--
+                            (i) by striking ``(o)(2)'' and inserting 
+                        ``(o)(4)''; and
+                            (ii) by striking ``(o)(4)'' and inserting 
+                        ``(o)(6)''.
+
+SEC. 7. PROCEDURE FOR PRESCRIBING NEW OR AMENDED STANDARDS.
+
+    Section 325(p) of the Energy Policy and Conservation Act (42 U.S.C. 
+6295(p)) is amended--
+            (1) by redesignating paragraphs (1) through (4) as 
+        paragraphs (2) through (5), respectively; and
+            (2) by inserting before paragraph (2) (as so redesignated) 
+        the following:
+            ``(1) Not later than 1 year after the date of publication 
+        in the Federal Register of a final test procedure prescribed 
+        under section 323, if applicable, for a covered product 
+        specified in or classified pursuant to section 322, the 
+        Secretary may publish in the Federal Register a request for 
+        information or other preliminary rulemaking notice as to 
+        whether an energy conservation standard should be prescribed 
+        for such type (or class) of covered product.''.
+
+SEC. 8. PRODUCT CLASSES.
+
+    Section 325 of the Energy Policy Conservation Act (42 U.S.C. 6295) 
+is amended by striking subsection (q) and inserting the following:
+    ``(q) Product Classes.--
+            ``(1) Definition of performance-related feature.--In this 
+        subsection, the term `performance-related feature', with 
+        respect to a covered product, means a feature that--
+                    ``(A) measurably affects energy consumption, 
+                capacity, or another quantifiable characteristic 
+                relevant to energy use of that covered product; or
+                    ``(B) is already present in a subset of existing 
+                products or is commercially mature and highly 
+                considered by consumers when choosing among comparable 
+                products, including reliability, product lifetime, 
+                features, sizes, capacities, installation methods, fuel 
+                types, technologies, materials, compatibility with 
+                existing systems, including other common vented 
+                appliances, and volumes.
+            ``(2) Rule.--The Secretary shall issue a rule establishing 
+        1 or more product classes for covered products--
+                    ``(A) that consume a different kind of energy than 
+                the energy consumed by other covered products within 
+                that type (or class);
+                    ``(B)(i) that have a performance-related feature 
+                that other products within that type (or class) do not 
+                have; and
+                    ``(ii) the performance-related feature described in 
+                clause (i) of which justifies a higher or lower 
+                standard from the standard that applies (or will apply) 
+                to other products within that type (or class); or
+                    ``(C) that materially affect operating and venting 
+                conditions or energy consumption or use in a way that 
+                cannot be captured by adjustments to test procedures.
+            ``(3) Procedural requirements.--To establish a new product 
+        class under subparagraph (B) or (C) of paragraph (2), the 
+        Secretary shall--
+                    ``(A) publish a notice of proposed rulemaking in 
+                the Federal Register that--
+                            ``(i) defines the proposed product class 
+                        with precision, including function, 
+                        performance-related feature, and product 
+                        attribute; and
+                            ``(ii) demonstrates whether the 
+                        performance-related feature is imminently 
+                        feasible; and
+                    ``(B) allow a minimum public comment period of 60 
+                days.''.
+
+SEC. 9. REQUIREMENTS OF MANUFACTURERS.
+
+    Section 326 of the Energy Policy and Conservation Act (42 U.S.C. 
+6296) is amended--
+            (1) in subsection (b)--
+                    (A) by striking paragraph (4); and
+                    (B) by redesignating paragraph (5) as paragraph 
+                (4); and
+            (2) in subsection (d)--
+                    (A) by redesignating paragraph (3) as paragraph 
+                (6); and
+                    (B) by inserting after paragraph (2) the following:
+            ``(3) New, changed, or revoked models.--Information or 
+        reports required pursuant to this section shall be required 
+        only with respect to new, changed, or revoked models of covered 
+        products or test procedures to which a rule under section 324 
+        applies.
+            ``(4) Single submission.--
+                    ``(A) In general.--The Secretary shall coordinate 
+                with the Commission and the Administrator of the 
+                Environmental Protection Agency (referred to in this 
+                paragraph as the `Administrator') to eliminate 
+                duplication among the reporting requirements required 
+                under this section and identical information collected 
+                by the Commission and the Administrator under the 
+                Public Utility Regulatory Policies Act of 1978 (16 
+                U.S.C. 2601 et seq.) and the Clean Air Act (42 U.S.C. 
+                7401 et seq.), respectively, so that only a single 
+                submission with such information is required to be 
+                submitted to the Secretary under this section.
+                    ``(B) Administration.--In carrying out subparagraph 
+                (A), the Secretary shall, in coordination with the 
+                Commission and the Administrator--
+                            ``(i) ensure that data elements, 
+                        definitions, and reporting formats are 
+                        harmonized; and
+                            ``(ii) enable the secure sharing of 
+                        information among the Department of Energy, the 
+                        Commission, and the Environmental Protection 
+                        Agency.
+                    ``(C) Disputes.--The Secretary shall resolve 
+                disputes among the Commission, the Administrator, and 
+                the Secretary relating to carrying out this section.
+                    ``(D) Separate submissions.--The Commission and the 
+                Administrator may not require separate or additional 
+                submission requirements beyond the single submission 
+                required under subparagraph (A) unless--
+                            ``(i) those requirements are agreed to 
+                        pursuant to subparagraph (A); or
+                            ``(ii)(I) the information is necessary to 
+                        carry out an explicit statutory obligation; and
+                            ``(II) the requesting agency explains in 
+                        writing why the information cannot be obtained 
+                        through the requirements agreed to pursuant to 
+                        subparagraph (A).
+            ``(5) Manufacturer responsibility.--If a covered product or 
+        industrial equipment is a component in a finished product, the 
+        manufacturer of that component, not the manufacturer of the 
+        covered product, industrial equipment, or other finished 
+        product, shall be responsible for submitting information 
+        pursuant to this section.''.
+
+SEC. 10. EFFECTS ON OTHER LAW.
+
+    Section 327 of the Energy Policy and Conservation Act (42 U.S.C. 
+6297) is amended--
+            (1) in subsection (b), in the matter preceding paragraph 
+        (1), by striking ``Effective on'' and all that follows through 
+        ``any covered product'' and inserting ``Effective on the date 
+        the consumer product is specified in, or classified by the 
+        Secretary under, section 322 as a covered product''; and
+            (2) by adding at the end the following:
+    ``(h) Rule of Preemption on Fuel Use Restrictions.--State 
+restrictions on fuel use or requirements, including labeling, 
+applicable to or affecting the sale and use of covered products are 
+subject to and preempted under this section.
+    ``(i) General Rule of Preemption for Energy Conservation Standards 
+When Federal Standard Is Revoked for a Product.--
+            ``(1) In general.--No State regulation, or revision 
+        thereof, relating to energy efficiency, energy use, or water 
+        use of a covered product shall be effective even if the Federal 
+        standard relating to energy efficiency, energy use, or water 
+        use for that covered product has been revoked.
+            ``(2) Previous federal standard in effect.--On revocation 
+        of a Federal standard described in paragraph (1), the 
+        previously issued Federal standard shall be in effect.
+            ``(3) Rule of construction.--A revocation of a Federal 
+        standard described in paragraph (1) does not permit a State to 
+        fill the void of the revoked Federal standard--
+                    ``(A) by promulgating a new regulation, or revising 
+                an existing regulation; or
+                    ``(B) with a previously established State 
+                regulation.
+    ``(j) Applicability.--This section--
+            ``(1) applies to all State and local governments, including 
+        municipalities exercising home-rule authority, special 
+        districts, commissions, and agencies created by or under State 
+        law; and
+            ``(2) preempts any State or local law, code, or regulation, 
+        whether legislative or administrative in origin, that 
+        prohibits, directly or indirectly, the installation or use of a 
+        covered product or requires removal or substitution of a 
+        covered product based on--
+                    ``(A) its fuel source; or
+                    ``(B) the emission of any air pollutant (as defined 
+                in section 302 of the Clean Air Act (42 U.S.C. 
+                7602)).''.
+
+SEC. 11. DISTRIBUTION TRANSFORMERS.
+
+    Section 346 of the Energy Policy and Conservation Act (42 U.S.C. 
+6317) is amended by adding at the end the following:
+    ``(g) No New or Revised Standards for Distribution Transformers.--
+            ``(1) In general.--Beginning on the date of enactment of 
+        the Energy Efficiency Reform Act of 2026, the Secretary may not 
+        prescribe any new or amended energy conservation standard under 
+        part B or this part for distribution transformers, including 
+        those distribution transformers for which the Secretary 
+        prescribed testing requirements under subsection (a)(1) and 
+        low-voltage dry-type distribution transformers.
+            ``(2) Effect on existing standards.--Paragraph (1) does not 
+        affect any energy conservation standards prescribed under part 
+        B or this part before the date of enactment of the Energy 
+        Efficiency Reform Act of 2026.''.
+                                 <all>

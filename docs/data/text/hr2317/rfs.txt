@@ -1,0 +1,2284 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 2317 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 2317
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 15, 2026
+
+   Received; read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To provide for transfer of ownership of certain Federal lands in 
+northern Nevada, to authorize the disposal of certain Federal lands in 
+ northern Nevada for economic development, to promote conservation in 
+                northern Nevada, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Northern Nevada 
+Economic Development and Conservation Act of 2026''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                        TITLE I--DOUGLAS COUNTY
+
+Sec. 101. Purpose.
+Sec. 102. Definitions.
+                 Subtitle A--Land Conveyances and Sales
+
+Sec. 111. Conveyance to State of Nevada.
+Sec. 112. Conveyance to Douglas County, Nevada.
+Sec. 113. Sale of certain Federal land.
+Sec. 114. Open Space Recreation Area.
+                 Subtitle B--Tribal Cultural Resources
+
+Sec. 121. Transfer of land to be held in trust for Tribe.
+    Subtitle C--Resolution of Burbank Canyons Wilderness Study Area
+
+Sec. 131. Addition to National Wilderness Preservation System.
+Sec. 132. Administration.
+Sec. 133. Fish and wildlife management.
+Sec. 134. Release of wilderness study area.
+Sec. 135. Native American cultural and religious uses.
+       Subtitle D--Convey Forest Service Land for Public Purposes
+
+Sec. 141. Authority of Forest Service to convey to State or county for 
+                            public purposes.
+Sec. 142. Special use authorizations for recreation and other purposes.
+               TITLE II--INCLINE VILLAGE FIRE PROTECTION
+
+Sec. 201. Purpose.
+Sec. 202. Definitions.
+Sec. 203. Land conveyances for public purposes.
+       TITLE III--NORTHERN NEVADA FLOOD PROTECTION AND MANAGEMENT
+
+Sec. 301. Purpose.
+Sec. 302. Definitions.
+Sec. 303. Land conveyances for flood protection.
+             TITLE IV--CARSON CITY PUBLIC LANDS CORRECTION
+
+Sec. 401. Definitions.
+Sec. 402. Land conveyances.
+Sec. 403. Carson City street connector conveyance.
+Sec. 404. Amendment to reversionary interests.
+Sec. 405. Disposal of Federal land.
+Sec. 406. Transfer of land to the United States.
+Sec. 407. Disposition of proceeds.
+Sec. 408. Postponement; exclusion from sale.
+     TITLE V--PERSHING COUNTY ECONOMIC DEVELOPMENT AND CONSERVATION
+
+Sec. 501. Short title.
+Sec. 502. Definitions.
+Sec. 503. Findings.
+                  Subtitle A--Land Sales and Exchanges
+
+Sec. 511. Sale or exchange of eligible land.
+Sec. 512. Sale of encumbered land.
+Sec. 513. Disposition of proceeds.
+                      Subtitle B--Wilderness Areas
+
+Sec. 521. Additions to the National Wilderness Preservation System.
+Sec. 522. Administration.
+Sec. 523. Wildlife management.
+Sec. 524. Release of wilderness study areas.
+Sec. 525. Native American cultural and religious uses.
+                       TITLE VI--FEDERAL COMPLEX
+
+Sec. 601. Federal complex.
+                  TITLE VII--ELKO ECONOMIC DEVELOPMENT
+
+Sec. 701. Short title.
+Sec. 702. Definitions.
+Sec. 703. Land conveyances to the City of Elko.
+Sec. 704. Land conveyances to Elko County.
+                TITLE VIII--FERNLEY ECONOMIC DEVELOPMENT
+
+Sec. 801. Short title.
+Sec. 802. Land conveyances.
+              TITLE IX--CONVEYANCES TO THE CITY OF SPARKS
+
+Sec. 901. Definitions.
+Sec. 902. Conveyance of land for use as a public cemetery.
+Sec. 903. Conveyance of land for use as regional public parks.
+                      TITLE X--GENERAL PROVISIONS
+
+Sec. 1001. Administration of State water rights.
+Sec. 1002. Amendment to conveyance of Federal land in Storey County, 
+                            Nevada.
+Sec. 1003. Maps and legal descriptions.
+Sec. 1004. Minor errors.
+                    TITLE XI--GREENLINK WEST PROJECT
+
+Sec. 1101. Greenlink West Project.
+                    TITLE XII--JEAN PRISON TRANSFER
+
+Sec. 1201. Release of Federal reversionary land interests.
+
+                        TITLE I--DOUGLAS COUNTY
+
+SEC. 101. PURPOSE.
+
+    The purpose of this title is to promote conservation, improve 
+public land, and provide for sensible development in Douglas County, 
+Nevada, and for other purposes.
+
+SEC. 102. DEFINITIONS.
+
+    In this title:
+            (1) County.--The term ``County'' means Douglas County, 
+        Nevada.
+            (2) Map.--The term ``Map'' means the map entitled ``Douglas 
+        County Economic Development and Conservation Act'' and dated 
+        July 10, 2026.
+            (3) Public land.--The term ``public land'' has the meaning 
+        given the term ``public lands'' in section 103 of the Federal 
+        Land Policy and Management Act of 1976 (43 U.S.C. 1702).
+            (4) Secretary concerned.--The term ``Secretary concerned'' 
+        means--
+                    (A) with respect to National Forest System land, 
+                the Secretary of Agriculture (acting through the Chief 
+                of the Forest Service); and
+                    (B) with respect to land managed by the Bureau of 
+                Land Management, including land held in trust for the 
+                benefit of the Tribe, the Secretary of the Interior.
+            (5) State.--The term ``State'' means the State of Nevada.
+            (6) Tribe.--The term ``Tribe'' means the Washoe Tribe of 
+        Nevada and California.
+            (7) Wilderness.--The term ``Wilderness'' means the Burbank 
+        Canyons Wilderness designated by section 131(a).
+
+                 Subtitle A--Land Conveyances and Sales
+
+SEC. 111. CONVEYANCE TO STATE OF NEVADA.
+
+    (a) Conveyance.--Subject to valid existing rights, the Secretary 
+concerned shall convey to the State, without consideration and by 
+quitclaim deed, all right, title, and interest of the United States in 
+and to the land described in subsection (b).
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 67 acres of Forest Service land generally depicted as 
+``Lake Tahoe-Nevada State Park'' on the Map.
+    (c) Costs.--As a condition of the conveyance under subsection (a), 
+the State shall pay all costs associated with the conveyance, including 
+costs of surveys, appraisals, environmental response and restoration, 
+and administrative costs (including closing fees).
+    (d) Use of Land.--
+            (1) In general.--The land conveyed to the State under 
+        subsection (a) shall be used only for--
+                    (A) the conservation of wildlife or natural 
+                resources;
+                    (B) a public park; or
+                    (C) both.
+            (2) Facilities.--Any facility on the land conveyed under 
+        subsection (a) shall be constructed and managed in a manner 
+        consistent with the uses described in paragraph (1).
+    (e) Easements.--As a condition of conveyance of the land under 
+subsection (a), access easements for roads and trails shall be reserved 
+in the applicable deed at the discretion of the Secretary concerned.
+    (f) Survey.--The exact acreage and legal description of the land to 
+be conveyed under subsection (a) shall be determined by a survey 
+satisfactory to the Secretary concerned.
+    (g) Minor Errors.--The Secretary concerned, in consultation with 
+the State, may--
+            (1) make minor boundary adjustments to the land to be 
+        conveyed under subsection (a); and
+            (2) correct any minor errors in the map, acreage estimate, 
+        or legal description of the land to be conveyed under that 
+        subsection.
+    (h) Reversion.--If any portion of the land conveyed under 
+subsection (a) is used in a manner that is inconsistent with the uses 
+described in subsection (d), the land shall, at the discretion of the 
+Secretary concerned, revert to the United States.
+    (i) Additional Terms and Conditions.--With respect to the 
+conveyance of land under subsection (a), the Secretary concerned may 
+require such additional terms and conditions as the Secretary concerned 
+determines to be appropriate to protect the interests of the United 
+States.
+
+SEC. 112. CONVEYANCE TO DOUGLAS COUNTY, NEVADA.
+
+    (a) Definition of Federal Land.--In this section, the term 
+``Federal land'' means the approximately 7,777 acres of Federal land in 
+the County that is identified as ``Douglas County Land Conveyances'' on 
+the Map.
+    (b) Authorization of Conveyance.--Subject to valid existing rights 
+and notwithstanding the land use planning requirements of section 202 
+of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), 
+on receipt of a request from the County for the conveyance of the 
+Federal land, the Secretary concerned shall convey to the County, 
+without consideration, all right, title, and interest of the United 
+States in and to the Federal land.
+    (c) Costs.--The County shall pay any costs relating to the 
+conveyance authorized under subsection (b), including costs of surveys, 
+appraisals, environmental response and restoration, and administrative 
+costs (including closing fees).
+    (d) Use of Federal Land.--
+            (1) In general.--The Federal land conveyed under subsection 
+        (b)--
+                    (A) shall not be used by the County for purposes 
+                other than flood control, recreation, or any other 
+                public purpose consistent with the Act of June 14, 1926 
+                (commonly known as the ``Recreation and Public Purposes 
+                Act'') (43 U.S.C. 869 et seq.); and
+                    (B) shall not be disposed of by the County.
+            (2) Reversion.--If the Federal land conveyed under 
+        subsection (b) is used in a manner inconsistent with paragraph 
+        (1), the Federal land shall, at the discretion of the Secretary 
+        concerned, revert to the United States.
+    (e) Easements.--As a condition of conveyance of the Federal land 
+under subsection (b), access easements for roads and trails shall be 
+reserved in the applicable deed at the discretion of the Secretary 
+concerned.
+    (f) Survey.--The exact acreage and legal description of the Federal 
+land to be conveyed under subsection (b) shall be determined by a 
+survey satisfactory to the Secretary concerned.
+    (g) Minor Errors.--The Secretary concerned, in consultation with 
+the County, may--
+            (1) make minor boundary adjustments to the Federal land to 
+        be conveyed under subsection (b); and
+            (2) correct any minor errors in the map, acreage estimate, 
+        or legal description of the Federal land to be conveyed under 
+        that subsection.
+    (h) Additional Terms and Conditions.--With respect to the 
+conveyance under subsection (b), the Secretary of Agriculture may 
+require such additional terms and conditions as the Secretary of 
+Agriculture determines to be appropriate to protect the interests of 
+the United States.
+    (i) Acquisition of Federal Reversionary Interest.--
+            (1) Request.--The County may submit to the Secretary 
+        concerned a request to acquire the Federal reversionary 
+        interest in all or any portion of the Federal land conveyed 
+        under subsection (b), subject to the condition that the uses of 
+        that land are consistent with subsection (d)(1).
+            (2) Appraisal.--
+                    (A) In general.--On receipt of a request under 
+                paragraph (1), the Secretary concerned shall complete 
+                an appraisal of the Federal reversionary interest in 
+                the Federal land requested by the County.
+                    (B) Requirement.--The appraisal under subparagraph 
+                (A) shall be completed in accordance with--
+                            (i) the Federal Land Policy and Management 
+                        Act of 1976 (43 U.S.C. 1701 et seq.);
+                            (ii) the Uniform Appraisal Standards for 
+                        Federal Land Acquisitions; and
+                            (iii) the Uniform Standards of Professional 
+                        Appraisal Practice.
+            (3) Conveyance required.--
+                    (A) In general.--If, by the date that is 1 year 
+                after the date of completion of the appraisal under 
+                paragraph (2), the County submits to the Secretary 
+                concerned an offer to acquire the Federal reversionary 
+                interest requested under paragraph (1), the Secretary 
+                concerned, shall convey to the County the reversionary 
+                interest in the Federal land requested with 
+                consideration.
+                    (B) Consideration.--As consideration for the 
+                conveyance of the Federal reversionary interest 
+                conveyed under subparagraph (A), the County shall pay 
+                to the Secretary concerned an amount equal to the 
+                appraised value of the Federal reversionary interest, 
+                as determined under paragraph (2).
+                    (C) Costs of conveyance.--The County shall pay any 
+                costs relating to the conveyance of the Federal 
+                reversionary interest under subparagraph (A), including 
+                any costs for surveys, appraisals, and other 
+                administrative costs.
+            (4) Disposition of proceeds.--Any amounts collected under 
+        this subsection shall be disposed of in accordance with section 
+        113(n).
+    (j) Revocation of Orders.--Any public land order that withdraws any 
+parcel of the Federal land from appropriation or disposal under a 
+public land law shall be revoked to the extent necessary to permit 
+disposal of the parcel of Federal land.
+
+SEC. 113. SALE OF CERTAIN FEDERAL LAND.
+
+    (a) In General.--As soon as practicable after the date of enactment 
+of this Act, and notwithstanding sections 202 and 203 of the Federal 
+Land Policy and Management Act of 1976 (43 U.S.C. 1712, 1713), the 
+Secretary concerned shall, in accordance with the other provisions of 
+that Act and any other applicable law, and subject to valid existing 
+rights, conduct 1 or more sales of the parcels of Federal land 
+described in subsection (b) to qualified bidders.
+    (b) Description of Land.--The parcels of Federal land referred to 
+in subsection (a) are--
+            (1) the approximately 31.5 acres of public land generally 
+        depicted as ``Lands for Disposal'' on the Map; and
+            (2) certain Federal land selected in accordance with 
+        subsection (c) for potential disposal by the Secretary 
+        concerned through--
+                    (A) the Carson City Field Office Consolidated 
+                Resource Management Plan (including any subsequent 
+                amendments to that plan); or
+                    (B) the Federal Land Policy and Management Act of 
+                1976 (43 U.S.C. 1701 et seq).
+    (c) Joint Selection Required.--The Secretary concerned and the 
+County shall jointly select which parcels of Federal land to offer for 
+potential disposal under subsection (b)(2).
+    (d) Compliance With Local Planning and Zoning Laws.--Before 
+carrying out a sale of Federal land under subsection (a), the County 
+shall submit to the Secretary concerned a certification that qualified 
+bidders have agreed to comply with--
+            (1) County zoning ordinances; and
+            (2) any master plan for the area approved by the County.
+    (e) Survey.--The exact acreage and legal description of a parcel of 
+Federal land to be conveyed under subsection (a) shall be determined by 
+a survey satisfactory to the Secretary concerned.
+    (f) Minor Errors.--The Secretary concerned, in consultation with 
+the County, may--
+            (1) make minor boundary adjustments to the parcels of 
+        Federal land to be conveyed under subsection (a); and
+            (2) correct any minor errors in the map, acreage estimate, 
+        or legal description of the parcels of Federal land to be 
+        conveyed under that subsection.
+    (g) Easements.--As a condition of the conveyance of a parcel of 
+Federal land under subsection (a), access easements for roads and 
+trails shall be reserved in the applicable deed at the discretion of 
+the Secretary concerned.
+    (h) Additional Terms and Conditions.--With respect to a conveyance 
+of a parcel of Federal land under subsection (a), the Secretary 
+concerned may require such additional terms and conditions as the 
+Secretary concerned determines to be appropriate to protect the 
+interests of the United States.
+    (i) Method of Sale.--A sale of a parcel of Federal land under 
+subsection (a) shall be--
+            (1) through a competitive bidding process, unless otherwise 
+        determined by the Secretary concerned; and
+            (2) for not less than fair market value.
+    (j) Recreation and Public Purposes Act Conveyances.--
+            (1) In general.--Not later than 30 days before any parcel 
+        of Federal land that is identified for disposal by the Carson 
+        City Field Office Consolidated Resource Management Plan (or any 
+        amendment to that plan) is offered for sale under subsection 
+        (a), the State or County may elect to obtain the applicable 
+        parcel of Federal land for public purposes in accordance with 
+        the Act of June 14, 1926 (commonly known as the ``Recreation 
+        and Public Purposes Act'') (43 U.S.C. 869 et seq.).
+            (2) Retention.--Pursuant to an election made under 
+        paragraph (1), the Secretary concerned shall retain the parcel 
+        of Federal land subject to the election for conveyance to the 
+        State or County in accordance with the Act of June 14, 1926 
+        (commonly known as the ``Recreation and Public Purposes Act'') 
+        (43 U.S.C. 869 et seq.).
+            (3) Reversion.--If any parcel of Federal land conveyed to 
+        the State or County under paragraph (1) is used in a manner 
+        inconsistent with the Act of June 14, 1926 (commonly known as 
+        the ``Recreation and Public Purposes Act'') (43 U.S.C. 869 et 
+        seq.), the Federal land shall, at the discretion of the 
+        Secretary concerned, revert to the United States.
+    (k) Withdrawal.--
+            (1) In general.--Subject to valid existing rights and 
+        except as provided in paragraph (3), the Federal land described 
+        in subsection (b) is withdrawn from--
+                    (A) all forms of entry, appropriation, or disposal 
+                under the public land laws;
+                    (B) location, entry, and patent under the mining 
+                laws; and
+                    (C) disposition under all laws relating to mineral 
+                and geothermal leasing or mineral materials.
+            (2) Termination.--The withdrawal under paragraph (1) shall 
+        terminate--
+                    (A) on the date of sale or conveyance of title to 
+                the parcel of Federal land (including mineral rights) 
+                described in subsection (b) pursuant to this section; 
+                or
+                    (B) with respect to any parcel of Federal land 
+                described in subsection (b) that is not sold or 
+                exchanged, not later than 2 years after the date on 
+                which the parcel of Federal land was offered for sale 
+                under this section.
+            (3) Exception.--Paragraph (1)(A) shall not apply to--
+                    (A) a sale of a parcel of Federal land conducted in 
+                accordance with this section; or
+                    (B) an election by the County or the State to 
+                obtain a parcel of Federal land for public purposes 
+                under subsection (j)(1).
+    (l) Deadline for Sale.--
+            (1) In general.--Except as provided in paragraph (2), not 
+        later than 2 years after the date of enactment of this Act, if 
+        there are 1 or more qualified bidders for the land described in 
+        subsection (b)(1), the Secretary concerned shall offer the land 
+        for sale to the highest qualified bidder.
+            (2) Postponement; exclusion from sale.--At the request of 
+        the County, the Secretary concerned may temporarily postpone or 
+        exclude from sale under paragraph (1) all or a portion of the 
+        land described in subsection (b).
+    (m) Disposition of Proceeds.--Of the proceeds of a sale of a parcel 
+of Federal land under this section--
+            (1) 5 percent shall be disbursed to the State for use by 
+        the State for general education programs of the State;
+            (2) 10 percent shall be disbursed to the County for use by 
+        the County for general budgeting purposes; and
+            (3) 85 percent shall be deposited in a special account in 
+        the Treasury of the United States, to be known as the ``Douglas 
+        County Special Account'', which shall be available to the 
+        Secretary concerned without further appropriation and without 
+        fiscal year limitation--
+                    (A) to reimburse costs incurred by the Secretary 
+                concerned in preparing for the sale of the land 
+                described in subsection (b), including costs of 
+                surveys, appraisals, environmental response and 
+                restoration, and administrative costs (including 
+                closing fees);
+                    (B) to reimburse costs incurred by the Bureau of 
+                Land Management and the Forest Service in preparing 
+                for, and carrying out, the transfers of land to be held 
+                in trust by the United States under section 121; and
+                    (C) to acquire environmentally sensitive land or an 
+                interest in environmentally sensitive land in the 
+                County--
+                            (i) pursuant to the Douglas County Open 
+                        Space and Agricultural Lands Preservation 
+                        Implementation Plan, or any subsequent 
+                        amendment to the plan that is undertaken with 
+                        full public involvement; and
+                            (ii) for flood control purposes.
+    (n) Revocation of Orders.--Any public land order that withdraws any 
+parcel of Federal land described in subsection (b) from appropriation 
+or disposal under a public land law shall be revoked to the extent 
+necessary to permit disposal of that parcel of Federal land under this 
+section.
+
+SEC. 114. OPEN SPACE RECREATION AREA.
+
+    (a) Authorization of Conveyance.--As soon as practicable after the 
+date of enactment of this Act, and on the request of the County 
+submitted to the Secretary of Agriculture, the Secretary of Agriculture 
+shall convey to the County, without consideration and by quitclaim 
+deed, all right, title, and interest of the United States in and to the 
+Federal land described in subsection (b) to be used for recreation 
+purposes.
+    (b) Description of Land.--The Federal land referred to in 
+subsection (a) is the approximately 1,084 acres of land generally 
+depicted as ``Open Space Recreation Area'' on the Map.
+    (c) Costs.--The County shall pay any costs relating to the 
+conveyance authorized under subsection (a), including costs of surveys, 
+appraisals, environmental response and restoration, and administrative 
+costs (including closing fees).
+    (d) No Disposal.--A parcel of Federal land conveyed under 
+subsection (a) shall not be disposed of by the County.
+    (e) Survey.--The exact acreage and legal description of a parcel of 
+Federal land to be conveyed under subsection (a) shall be determined by 
+a survey satisfactory to the Secretary of Agriculture.
+    (f) Minor Errors.--The Secretary of Agriculture, in consultation 
+with the County, may--
+            (1) make minor boundary adjustments to a parcel of Federal 
+        land to be conveyed under subsection (a); and
+            (2) correct any minor errors in the map, acreage estimate, 
+        or legal description of a parcel of Federal land to be conveyed 
+        under that subsection.
+    (g) Easements.--As a condition of the conveyance of a parcel of 
+Federal land under subsection (a), access easements for roads and 
+trails shall be reserved in the applicable deed at the discretion of 
+the Secretary of Agriculture.
+    (h) Additional Terms and Conditions.--With respect to the 
+conveyance of a parcel of Federal land under subsection (a), the 
+Secretary of Agriculture may require such additional terms and 
+conditions as the Secretary of Agriculture determines to be appropriate 
+to protect the interests of the United States.
+    (i) Reversion.--If any parcel of Federal land conveyed under 
+subsection (a) is used in a manner inconsistent with this section, the 
+parcel of Federal land shall, at the discretion of the Secretary of 
+Agriculture, revert to the United States.
+
+                 Subtitle B--Tribal Cultural Resources
+
+SEC. 121. TRANSFER OF LAND TO BE HELD IN TRUST FOR TRIBE.
+
+    (a) Definition of Trust Land.--In this section, the term ``trust 
+land'' means--
+            (1) the land taken into trust under subsection (b); and
+            (2) any land taken into trust under subsection (c).
+    (b) Federal Land.--
+            (1) In general.--Subject to valid existing rights, all 
+        right, title, and interest of the United States in and to the 
+        land described in paragraph (2)--
+                    (A) is transferred to the Secretary of the 
+                Interior;
+                    (B) shall be held in trust by the United States for 
+                the benefit of the Tribe; and
+                    (C) shall be part of the reservation of the Tribe.
+            (2) Description of federal land.--The land referred to in 
+        paragraph (1) is the approximately 2,423 acres of Federal land 
+        depicted as ``BLM Land Held in Trust-Washoe Tribe'' and ``USFS 
+        Land Held in Trust-Washoe Tribe'' on the Map.
+            (3) Authority to transfer forest service land.--The 
+        Secretary of Agriculture shall have the authority to 
+        administratively transfer Forest Service land described in 
+        paragraph (2) to the Secretary of the Interior, to be held in 
+        trust for the benefit of the Tribe.
+    (c) Non-federal Land.--
+            (1) In general.--The Secretary of the Interior shall accept 
+        any conveyance of the 199 acres of non-Federal land depicted as 
+        ``Fee Lands Held in Trust-Washoe Tribe'' on the Map.
+            (2) Treatment.--On acceptance of a conveyance under 
+        paragraph (1), the land conveyed to the Secretary of the 
+        Interior under that paragraph--
+                    (A) shall be held in trust by the United States for 
+                the benefit of the Tribe; and
+                    (B) shall be part of the reservation of the Tribe.
+            (3) Requirement.--A conveyance under paragraph (1) shall be 
+        without consideration.
+    (d) Survey.--
+            (1) In general.--As soon as practicable after the date of 
+        enactment of this Act, the Secretary of the Interior shall 
+        complete a cadastral survey and accompanying legal description 
+        to establish the boundaries of the trust land.
+            (2) Federal register publication.--On the completion of the 
+        survey under paragraph (1), the Secretary of the Interior shall 
+        publish in the Federal Register a legal description of the 
+        trust land.
+    (e) Use of Trust Land.--
+            (1) Gaming.--The trust land shall not be eligible, or 
+        considered to have been taken into trust, for class II gaming 
+        or class III gaming (as those terms are defined in section 4 of 
+        the Indian Gaming Regulatory Act (25 U.S.C. 2703)).
+            (2) Thinning; landscape restoration.--
+                    (A) In general.--The Secretary of the Interior, in 
+                consultation and coordination with the Tribe, may carry 
+                out on the trust land any fuel reduction and other 
+                landscape restoration activities that are beneficial to 
+                the Tribe and the Bureau of Land Management, including 
+                the restoration of threatened or endangered species 
+                habitat.
+                    (B) Conservation benefits.--Activities carried out 
+                under subparagraph (A) include activities that provide 
+                conservation benefits to a species that--
+                            (i) is not listed as endangered or 
+                        threatened under section 4(c) of the Endangered 
+                        Species Act of 1973 (16 U.S.C. 1533(c)); but
+                            (ii) is--
+                                    (I) listed by a State as a 
+                                threatened or endangered species;
+                                    (II) a species of concern or 
+                                special status species; or
+                                    (III) a candidate for a listing as 
+                                an endangered or threatened species 
+                                under the Endangered Species Act of 
+                                1973 (16 U.S.C. 1531 et seq.).
+    (f) Water Rights.--Nothing in this section affects the allocation, 
+ownership, interest, or control, as in existence on the date of 
+enactment of this Act, of any water, water right, or any other valid 
+existing right held by the United States, an Indian Tribe, a State, or 
+a person.
+    (g) Rule of Construction.--Except as explicitly provided, nothing 
+in this section shall be construed to restrict Tribal use of lands 
+identified in this section.
+
+    Subtitle C--Resolution of Burbank Canyons Wilderness Study Area
+
+SEC. 131. ADDITION TO NATIONAL WILDERNESS PRESERVATION SYSTEM.
+
+    (a) Designation.--In furtherance of the purposes of the Wilderness 
+Act (16 U.S.C. 1131 et seq.), the approximately 12,392 acres of Federal 
+land managed by the Bureau of Land Management, as generally depicted on 
+the Map as ``Burbank Canyons Wilderness'' is designated as wilderness 
+and as a component of the National Wilderness Preservation System, to 
+be known as the ``Burbank Canyons Wilderness''.
+    (b) Boundary.--The boundary of any portion of the Wilderness that 
+is bordered by a road shall be not less than 100 feet from the 
+centerline of the road to allow public access.
+    (c) Map and Legal Description.--
+            (1) In general.--As soon as practicable after the date of 
+        enactment of this Act, the Secretary concerned shall prepare a 
+        map and legal description of the Wilderness.
+            (2) Effect.--The map and legal description prepared under 
+        paragraph (1) shall have the same force and effect as if 
+        included in this title, except that the Secretary concerned may 
+        correct any minor error in the map or legal description.
+            (3) Availability.--A copy of the map and legal description 
+        prepared under paragraph (1) shall be on file and available for 
+        public inspection in the appropriate offices of the Bureau of 
+        Land Management.
+    (d) Withdrawal.--Subject to valid existing rights, the Wilderness 
+is withdrawn from--
+            (1) all forms of entry, appropriation, or disposal under 
+        the public land laws;
+            (2) location, entry, and patent under the mining laws; and
+            (3) disposition under all laws relating to mineral and 
+        geothermal leasing or mineral materials.
+
+SEC. 132. ADMINISTRATION.
+
+    (a) Management.--Subject to valid existing rights, the Wilderness 
+shall be administered by the Secretary concerned in accordance with the 
+Wilderness Act (16 U.S.C. 1131 et seq.), except that--
+            (1) any reference in that Act to the effective date shall 
+        be considered to be a reference to the date of enactment of 
+        this Act; and
+            (2) any reference in that Act to the Secretary of 
+        Agriculture shall be considered to be a reference to the 
+        Secretary of the Interior.
+    (b) Livestock.--The grazing of livestock in the Wilderness, if 
+established before the date of enactment of this Act, shall be allowed 
+to continue, subject to such reasonable regulations, policies, and 
+practices as the Secretary concerned considers to be necessary in 
+accordance with--
+            (1) section 4(d)(4) of the Wilderness Act (16 U.S.C. 
+        1133(d)(4)); and
+            (2) the guidelines set forth in Appendix A of the report of 
+        the Committee on Interior and Insular Affairs of the House of 
+        Representatives accompanying H.R. 2570 of the 101st Congress 
+        (House Report 101-405).
+    (c) Incorporation of Acquired Land and Interests.--Any land or 
+interest in land within the boundaries of the Wilderness that is 
+acquired by the United States after the date of enactment of this Act 
+shall be added to, and administered as part of, the Wilderness.
+    (d) Adjacent Management.--
+            (1) In general.--Congress does not intend for the 
+        designation of the Wilderness to create a protective perimeter 
+        or buffer zone around the Wilderness.
+            (2) Nonwilderness activities.--The fact that nonwilderness 
+        activities or uses can be seen or heard from areas within the 
+        Wilderness shall not preclude the conduct of the activities or 
+        uses outside the boundary of the Wilderness.
+    (e) Military Overflights.--Nothing in this title restricts or 
+precludes--
+            (1) low-level overflights of military aircraft over the 
+        Wilderness, including military overflights that can be seen or 
+        heard within the wilderness area;
+            (2) flight testing and evaluation; or
+            (3) the designation or creation of new units of special use 
+        airspace, or the establishment of military flight training 
+        routes, over the Wilderness.
+    (f) Existing Airstrips.--Nothing in this title restricts or 
+precludes low-level overflights by aircraft utilizing airstrips in 
+existence on the date of enactment of this Act that are located within 
+5 miles of the proposed boundary of the Wilderness.
+    (g) Wildfire, Insect, and Disease Management.--In accordance with 
+section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), the 
+Secretary concerned may take any measures in the Wilderness that the 
+Secretary concerned determines to be necessary for the control of fire, 
+insects, and diseases, including, as the Secretary concerned determines 
+to be appropriate, the coordination of the activities with the State or 
+a local agency.
+    (h) Data Collection.--In accordance with the Wilderness Act (16 
+U.S.C. 1131 et seq.) and subject to such terms and conditions as the 
+Secretary concerned may prescribe, the Secretary concerned may 
+authorize the installation and maintenance of hydrologic, meteorologic, 
+or climatological collection devices in the Wilderness if the Secretary 
+concerned determines that the facilities, and access to the facilities, 
+are essential to flood warning, flood control, or water reservoir 
+operation activities.
+    (i) Water Rights.--
+            (1) Findings.--Congress finds that--
+                    (A) the Wilderness is located--
+                            (i) in the semiarid region of the Great 
+                        Basin; and
+                            (ii) at the headwaters of the streams and 
+                        rivers on land with respect to which there are 
+                        few, if any--
+                                    (I) actual or proposed water 
+                                resource facilities located upstream; 
+                                and
+                                    (II) opportunities for diversion, 
+                                storage, or other uses of water 
+                                occurring outside the land that would 
+                                adversely affect the wilderness values 
+                                of the land;
+                    (B) the Wilderness is generally not suitable for 
+                use or development of new water resource facilities; 
+                and
+                    (C) because of the unique nature of the Wilderness, 
+                it is possible to provide for proper management and 
+                protection of the wilderness and other values of land 
+                by means different from the means used in other laws.
+            (2) Purpose.--The purpose of this subsection is to protect 
+        the wilderness values of the Wilderness by means other than a 
+        federally reserved water right.
+            (3) Statutory construction.--Nothing in this title--
+                    (A) constitutes an express or implied reservation 
+                by the United States of any water or water rights with 
+                respect to the Wilderness;
+                    (B) affects any water rights in the State 
+                (including any water rights held by the United States) 
+                in existence on the date of enactment of this Act;
+                    (C) establishes a precedent with regard to any 
+                future wilderness designations;
+                    (D) affects the interpretation of, or any 
+                designation made under, any other Act; or
+                    (E) limits, alters, modifies, or amends any 
+                interstate compact or equitable apportionment decree 
+                that apportions water among and between the State and 
+                other States.
+            (4) Nevada water law.--The Secretary concerned shall follow 
+        the procedural and substantive requirements of State law in 
+        order to obtain and hold any water rights not in existence on 
+        the date of enactment of this Act with respect to the 
+        Wilderness.
+            (5) New projects.--
+                    (A) Definition of water resource facility.--
+                            (i) In general.--In this paragraph, the 
+                        term ``water resource facility'' means 
+                        irrigation and pumping facilities, reservoirs, 
+                        water conservation works, aqueducts, canals, 
+                        ditches, pipelines, wells, hydropower projects, 
+                        transmission and other ancillary facilities, 
+                        and other water diversion, storage, and 
+                        carriage structures.
+                            (ii) Exclusion.--In this paragraph, the 
+                        term ``water resource facility'' does not 
+                        include a wildlife guzzler.
+                    (B) Restriction on new water resource facilities.--
+                Except as otherwise provided in this title, on or after 
+                the date of enactment of this Act, neither the 
+                President nor any other officer, employee, or agent of 
+                the United States shall fund, assist, authorize, or 
+                issue a license or permit for the development of any 
+                new water resource facility within any wilderness area, 
+                including a portion of a wilderness area, that is 
+                located in the County.
+
+SEC. 133. FISH AND WILDLIFE MANAGEMENT.
+
+    (a) In General.--In accordance with section 4(d)(7) of the 
+Wilderness Act (16 U.S.C. 1133(d)(7)), nothing in this title affects or 
+diminishes the jurisdiction of the State with respect to fish and 
+wildlife management, including the regulation of hunting, fishing, and 
+trapping, in the Wilderness.
+    (b) Management Activities.--In furtherance of the purposes and 
+principles of the Wilderness Act (16 U.S.C. 1131 et seq.), the 
+Secretary concerned may conduct any management activities in the 
+Wilderness that are necessary to maintain or restore any fish or 
+wildlife population, or the habitats to support such a population, if 
+the activities are carried out--
+            (1) in a manner that is consistent with relevant wilderness 
+        management plans; and
+            (2) in accordance with--
+                    (A) the Wilderness Act (16 U.S.C. 1131 et seq.); 
+                and
+                    (B) appropriate policies, such as those set forth 
+                in Appendix B of the report of the Committee on 
+                Interior and Insular Affairs of the House of 
+                Representatives accompanying H.R. 2570 of the 101st 
+                Congress (House Report 101-405), including the 
+                occasional and temporary use of motorized vehicles and 
+                aircraft if the use, as determined by the Secretary 
+                concerned, would promote healthy, viable, and more 
+                naturally distributed wildlife populations that would 
+                enhance wilderness values with the minimal impact 
+                necessary to reasonably accomplish those tasks.
+    (c) Existing Activities.--Consistent with section 4(d)(1) of the 
+Wilderness Act (16 U.S.C. 1133(d)(1)) and in accordance with 
+appropriate policies such as those set forth in Appendix B of the 
+report of the Committee on Interior and Insular Affairs of the House of 
+Representatives accompanying H.R. 2570 of the 101st Congress (House 
+Report 101-405), the State may continue to use aircraft, including 
+helicopters, to survey, capture, transplant, monitor, and provide water 
+for wildlife populations in the Wilderness.
+    (d) Cooperative Agreement.--
+            (1) In general.--The State (including a designee of the 
+        State) may conduct wildlife management activities in the 
+        Wilderness--
+                    (A) in accordance with the terms and conditions 
+                specified in the cooperative agreement between the 
+                Secretary of the Interior and the State entitled 
+                ``Memorandum of Understanding between the Bureau of 
+                Land Management and the Nevada Department of Wildlife 
+                Supplement No. 9'' and signed November and December 
+                2003, including any amendments to the cooperative 
+                agreement agreed to by the Secretary of the Interior 
+                and the State; and
+                    (B) subject to all applicable laws (including 
+                regulations).
+            (2) References.--For the purposes of this subsection, any 
+        reference to ``Douglas County'' in the cooperative agreement 
+        described in paragraph (1)(A) shall be considered to be a 
+        reference to the Wilderness.
+
+SEC. 134. RELEASE OF WILDERNESS STUDY AREA.
+
+    (a) Finding.--Congress finds that, for purposes of section 603(c) 
+of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 
+1782(c)), the approximately 1,065 acres of public land in the Burbank 
+Canyons Wilderness study area not designated as wilderness by this 
+title has been adequately studied for wilderness designation.
+    (b) Release.--Any public land described in subsection (a) that is 
+not designated as wilderness by this title--
+            (1) is no longer subject to section 603(c) of the Federal 
+        Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)); and
+            (2) shall be managed in accordance with any applicable--
+                    (A) land management plans adopted under section 202 
+                of the Federal Land Policy and Management Act of 1976 
+                (43 U.S.C. 1712); and
+                    (B) cooperative conservation agreements in 
+                existence on the date of enactment of this Act.
+
+SEC. 135. NATIVE AMERICAN CULTURAL AND RELIGIOUS USES.
+
+    Nothing in this title alters or diminishes the treaty rights of any 
+Indian Tribe (as defined in section 4 of the Indian Self-Determination 
+and Education Assistance Act (25 U.S.C. 5304)).
+
+       Subtitle D--Convey Forest Service Land for Public Purposes
+
+SEC. 141. AUTHORITY OF FOREST SERVICE TO CONVEY TO STATE OR COUNTY FOR 
+              PUBLIC PURPOSES.
+
+    (a) In General.--Consistent with section 3(b) of Public Law 96-586 
+(commonly known as the ``Santini-Burton Act''; 94 Stat. 3381), and 
+subject to valid existing rights, on receipt of a request by the State 
+or County and subject to such terms and conditions as are satisfactory 
+to the Secretary of Agriculture, the Secretary shall convey the Forest 
+Service land or interests in Forest Service land described in 
+subsection (b) to the State or County, without consideration, to 
+protect the environmental quality and public recreational use of the 
+conveyed Forest Service land and manage consistent with Public Law 96-
+586 (commonly known as the ``Santini-Burton Act'' 94 Stat. 3381).
+    (b) Description of Land.--The land referred to in subsection (a) is 
+any Forest Service land that is located within the boundaries of the 
+area acquired under Public Law 96-586 (commonly known as the ``Santini-
+Burton Act''; 94 Stat. 3381) that is--
+            (1) unsuitable for Forest Service administration; and
+            (2) necessary for a public purpose.
+    (c) Use of Land.--A parcel of land conveyed pursuant to subsection 
+(a) shall--
+            (1) be managed by the State or County, as applicable--
+                    (A) to maintain undeveloped open space and to 
+                preserve the natural characteristics of the transferred 
+                land in perpetuity; and
+                    (B) to protect and enhance water quality, stream 
+                environment zones, and important wildlife habitat; and
+            (2) be used by the State or County, as applicable, for 
+        recreation or other public purposes including trails, 
+        trailheads, fuel reduction, flood control, and other 
+        infrastructure consistent with Public Law 96-586 (commonly 
+        known as the ``Santini-Burton Act''; 94 Stat. 3381).
+    (d) Reversion.--If a parcel of land transferred under subsection 
+(a) is used in a manner that is inconsistent with subsection (c) or 
+Public Law 96-586, the parcel of land shall, at the discretion of the 
+Secretary of Agriculture, revert to the United States.
+    (e) Costs.--Any costs associated with the conveyance under 
+subsection (a), including, but not limited to, costs of surveys, 
+appraisal, environmental response and restoration, and administrative 
+costs including closing fees, shall be paid by the State or county.
+    (f) Easements.--As a condition of conveyance of the land conveyed 
+under subsection (a), access easements for roads and trails shall be 
+reserved in the deed at the discretion of the Secretary of Agriculture.
+    (g) Survey.--The exact acreage and legal description of the land to 
+be conveyed shall be determined by a survey satisfactory to the 
+Secretary of Agriculture.
+    (h) Minor Errors.--The Secretary and the State or county may, by 
+mutual agreement, make minor boundary adjustments to the parcels of 
+Federal land to be conveyed under subsection (a) and correct any minor 
+errors in the map, acreage estimate, or legal description.
+    (i) Additional Terms and Conditions.--With respect to the 
+conveyance under subsection (a), the Secretary of Agriculture may 
+require such additional terms and conditions as the Secretary 
+determines to be appropriate to protect the interests of the United 
+States.
+
+SEC. 142. SPECIAL USE AUTHORIZATIONS FOR RECREATION AND OTHER PURPOSES.
+
+    (a) Issuance of Special Use Authorizations.--To the extent 
+practicable, not later than 1 year after the date on which the 
+Secretary of Agriculture receives a proposal and an application from 
+the County or a unit of local government in the County for the use of 
+the Federal land described in subsection (b), the Secretary of 
+Agriculture, in accordance with applicable law, shall--
+            (1) process the proposal and application of the County or 
+        unit of local government for a special use permit for 
+        recreation or other purposes; and
+            (2) if the proposal is accepted and the application is 
+        granted, authorize a permit consistent with applicable law for 
+        the use of the Federal land.
+    (b) Description of Land.--The Federal land referred to in 
+subsection (a) is the approximately 188 acres of Federal land in the 
+County generally depicted as ``Directed Special Use Permit'' on the 
+Map.
+    (c) Terms and Conditions.--With respect to any special use permit 
+issued under subsection (a), the Secretary of Agriculture may require 
+such terms and conditions as the Secretary of Agriculture determines to 
+be appropriate--
+            (1) to protect the interests of the United States; and
+            (2) to ensure compliance with applicable laws (including 
+        regulations) and agency directives.
+
+               TITLE II--INCLINE VILLAGE FIRE PROTECTION
+
+SEC. 201. PURPOSE.
+
+    The purpose of this title is to improve hazardous fuels management 
+and enhance public recreation through the conveyance of Federal land to 
+Incline Village General Improvement District in Nevada for public 
+purposes.
+
+SEC. 202. DEFINITIONS.
+
+    In this title:
+            (1) Secretary.--The term ``Secretary'' means the Secretary 
+        of Agriculture.
+            (2) District.--The term ``District'' means the Incline 
+        Village General Improvement District in the State of Nevada.
+
+SEC. 203. LAND CONVEYANCES FOR PUBLIC PURPOSES.
+
+    (a) Authorization of Conveyance.--In consideration of the District 
+assuming from the United States all liability for administration, care 
+and maintenance, within 365 days after the effective date of this 
+title, the Secretary shall convey to the District all right, title, and 
+interest of the United States in and to the parcels of Federal land 
+described in subsection (b) for public uses including fire risk 
+reduction activities, public recreation, and any other public purpose 
+consistent with Public Law 96-586 (commonly known as the ``Santini-
+Burton Act''; 94 Stat. 3381).
+    (b) Description of Federal Land.--The Federal land referred to in 
+subsection (a) is depicted on the map entitled ``Incline Village Fire 
+Protection Act Map'' and dated November 12, 2024.
+    (c) Costs.--Any costs relating to the conveyance authorized under 
+subsection (c), including, but not limited to costs of surveys, 
+appraisal, environmental response and restoration, and administrative 
+costs including closing fees, shall be paid by the District.
+    (d) Payment of Fair Market Value.--As consideration for the 
+conveyance of the Federal land described in subsection (b), the 
+District shall pay to the Secretary an amount equal to the fair market 
+value of the covered land, as determined--
+            (1) in accordance with the Federal Land Policy and 
+        Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+            (2) based on an appraisal that is conducted in accordance 
+        with--
+                    (A) the Uniform Appraisal Standards for Federal 
+                Land Acquisitions; and
+                    (B) the Uniform Standards of Professional Appraisal 
+                Practice.
+    (e) Easements.--As a condition of conveyance of the land conveyed 
+under subsection (a), access easements for roads and trails shall be 
+reserved in the deed at the discretion of the Secretary of Agriculture.
+    (f) Survey.--The exact acreage and legal description of the land to 
+be conveyed shall be determined by a survey satisfactory to the 
+Secretary of Agriculture.
+    (g) Minor Errors.--The Secretary in consultation with the City of 
+Reno may, make minor boundary adjustments to the parcels of Federal 
+land to be conveyed under subsection (a) and correct any minor errors 
+in the map, acreage estimate, or legal description.
+    (h) Additional Terms and Conditions.--With respect to the 
+conveyance under subsection (a), the Secretary of Agriculture may 
+require such additional terms and conditions as the Secretary 
+determines to be appropriate to protect the interests of the United 
+States.
+
+       TITLE III--NORTHERN NEVADA FLOOD PROTECTION AND MANAGEMENT
+
+SEC. 301. PURPOSE.
+
+    This purpose of this title is to convey certain Federal land along 
+the Truckee River in Nevada to the Truckee River Flood Management 
+Authority for the purpose of environmental restoration and flood 
+control management.
+
+SEC. 302. DEFINITIONS.
+
+    In this title:
+            (1) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior, including the Bureau of Land Management and 
+        the Bureau of Reclamation.
+            (2) TRFMA.--The term ``TRFMA'' means the Truckee River 
+        Flood Management Authority in the State of Nevada.
+
+SEC. 303. LAND CONVEYANCES FOR FLOOD PROTECTION.
+
+    (a) Authorization of Conveyance.--At the request of the TRFMA, the 
+Secretary shall convey to the TRFMA without consideration all right, 
+title, and interest of the United States in and to the parcels of 
+Federal land described in subsection (b) for the purposes of flood 
+attenuation, riparian restoration, and protection along the Truckee 
+River in Nevada. Upon conveyance, TRFMA shall coordinate with the 
+Bureau of Reclamation and with Storey County, as needed, in order to 
+provide easements at no cost for access and use to necessary 
+infrastructure located immediately south of the Truckee River and 
+Interstate 80.
+    (b) Description of Federal Land.--The Federal land referred to in 
+subsection (a) is depicted as ``flood control conveyances'' on the map 
+entitled ``Northern Nevada Economic Development and Conservation Act - 
+Conveyance to the Truckee River Flood Management Authority'' and dated 
+September 20, 2024.
+    (c) Costs.--Any costs relating to the conveyance authorized under 
+subsection (c), including any costs for surveys and other 
+administrative costs, shall be paid by the TRFMA.
+    (d) Reversion.--If the land conveyed under subsection (a) is used 
+in a manner inconsistent with subsection (a), the Federal land shall, 
+at the discretion of the Secretary, revert to the United States.
+
+             TITLE IV--CARSON CITY PUBLIC LANDS CORRECTION
+
+SEC. 401. DEFINITIONS.
+
+    (a) Secretary.--The term ``Secretary'' means--
+            (1) the Secretary of Agriculture with respect to land in 
+        the National Forest System; and
+            (2) the Secretary of the Interior with respect to other 
+        Federal land.
+    (b) City.--The term ``City'' means Carson City, Nevada.
+    (c) Carson City Federal Land Collaboration Committee.--The term 
+``Carson City Federal Land Collaboration Committee'' means a committee 
+comprised of--
+            (1) the City Manager;
+            (2) a designee of the City Manager; and
+            (3) not more than 3 members appointed by the Carson City 
+        Board of Supervisors to represent areas of Carson City's 
+        government, including the Parks, Recreation, and Open Space 
+        Department, the Community Development Department, Property 
+        Management.
+
+SEC. 402. LAND CONVEYANCES.
+
+    (a) Conveyance.--Subject to valid existing rights and 
+notwithstanding the land use planning requirements of section 202 of 
+the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), 
+the Secretary shall convey to the City all right, title, and interest 
+of the United States in and to the land described in subsection (b).
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 258 acres depicted as ``Lands to Acquire'' on the map 
+entitled ``Carson City OPLMA Lands'' and September 20, 2024.
+    (c) Costs.--Any costs relating to the conveyance under subsection 
+(a), including costs of surveys and administrative costs, shall be paid 
+by the City.
+    (d) Payment of Fair Market Value.--As consideration for the 
+conveyance of the covered land under subsection (a), Carson City shall 
+pay to the Secretary an amount equal to the fair market value of the 
+covered land, as determined--
+            (1) in accordance with the Federal Land Policy and 
+        Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+            (2) based on an appraisal that is conducted in accordance 
+        with--
+                    (A) the Uniform Appraisal Standards for Federal 
+                Land Acquisitions; and
+                    (B) the Uniform Standards of Professional Appraisal 
+                Practice.
+    (e) Sale or Lease of Land to Third Parties.--The City may enter 
+into an agreement to sell, lease, or otherwise convey all or part of 
+the land described in subsection (b).
+    (f) Conditions.--The City shall sell the land at fair market value, 
+and proceeds will be deposited in the account as described in section 
+407 of this title.
+
+SEC. 403. CARSON CITY STREET CONNECTOR CONVEYANCE.
+
+    (a) Authorization of Conveyance.--The Secretary concerned shall 
+convey to Carson City all right, title, and interest of the United 
+States in and to the parcels of Federal land managed by the Forest 
+Service described in subsection (c) for expansion of roadway.
+    (b) Requirements.--
+            (1) In general.--The conveyance of the covered land under 
+        this section shall be subject to valid existing rights.
+            (2) Payment of fair market value.--As consideration for the 
+        conveyance of the covered land under this section, Carson City 
+        shall pay to the Secretary an amount equal to the fair market 
+        value of the covered land, as determined--
+                    (A) in accordance with the Federal Land Policy and 
+                Management Act of 1976 (43 U.S.C. 1701 et seq.); and
+                    (B) based on an appraisal that is conducted in 
+                accordance with--
+                            (i) the Uniform Appraisal Standards for 
+                        Federal Land Acquisitions; and
+                            (ii) the Uniform Standards of Professional 
+                        Appraisal Practice.
+    (c) Description of Federal Land.--The Federal land referred to in 
+subsection (a) is depicted as ``Proposed Land Transfer'' on the map 
+entitled ``Carson City OPLMA Lands'' and dated February 28, 2019.
+    (d) Costs.--Any costs relating to the conveyance authorized under 
+subsection (a), including, but not limited to costs of surveys, 
+appraisal, environmental response and restoration, and administrative 
+costs including closing fees, shall be paid by the City.
+    (e) Public Safety Condition.--Within 90 days of the conveyance 
+authorized under subsection (a), Carson City, in consultation with the 
+Secretary, shall construct a crosswalk across South Curry Street to 
+allow for continued access to the United States Forest Service Carson 
+Ranger District Office.
+    (f) Survey.--The exact acreage and legal description of the land to 
+be conveyed shall be determined by a survey satisfactory to the 
+Secretary of Agriculture.
+    (g) Minor Errors.--The Secretary and in consultation with Carson 
+City may, make minor boundary adjustments to the parcels of Federal 
+land to be conveyed under subsection (a) and correct any minor errors 
+in the map, acreage estimate, or legal description.
+    (h) Additional Terms and Conditions.--With respect to the 
+conveyance under subsection (a), the Secretary of Agriculture may 
+require such additional terms and conditions as the Secretary 
+determines to be appropriate to protect the interests of the United 
+States.
+
+SEC. 404. AMENDMENT TO REVERSIONARY INTERESTS.
+
+    (a) Sale or Lease of Land to Third Parties.--Section 2601(b)(4) of 
+Public Law 111-11 (123 Stat. 1111) is amended by inserting after 
+subparagraph (D), the following:
+                    ``(E) Sale or lease of land to third parties.--The 
+                City may enter into an agreement to sell, lease, or 
+                otherwise convey all or part of the land described in 
+                subparagraph (D) to third parties for economic 
+                development, recreation or other public purposes 
+                consistent with the Act of June 14, 1926 (commonly 
+                known as the `Recreation and Public Purposes Act') (43 
+                U.S.C. 869 et seq.).''.
+    (b) Conditions.--The sale of any land under subsection (a) shall be 
+for not less than fair market value, and proceeds will be deposited in 
+the account as described in section 407 of this title.
+
+SEC. 405. DISPOSAL OF FEDERAL LAND.
+
+    (a) Disposal.--As soon as practicable after the date of enactment 
+of this Act, subject to valid existing rights and notwithstanding 
+sections 202 and 203 of the Federal Land Policy and Management Act of 
+1976 (43 U.S.C. 1712), the Secretary shall offer the land described in 
+subsection (b) for sale in accordance with this section.
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 28 acres depicted as ``Lands for BLM Disposal'' on 
+the map entitled ``Carson City OPLMA Lands'' and dated September 20, 
+2024.
+    (c) Method of Sale.--The sale of Federal land under subsection (a) 
+shall be--
+            (1) through a competitive bidding process, unless otherwise 
+        determined by the Secretary; and
+            (2) for not less than fair market value.
+    (d) Costs.--Any costs relating to the disposal under subsection 
+(a), including costs of surveys and administrative costs, shall be paid 
+by the party seeking to purchase such land.
+    (e) Conditions.--Upon disposal, the City shall retain--
+            (1) a public utility easement concurrent with Koontz Lane 
+        and Conti Drive, which provides waterlines and access to the 
+        water tank immediately east of the subject parcels; and
+            (2) an existing drainage easement for a future detention 
+        basin located on APN 010-152-06 depicted as ``Lands for BLM 
+        Disposal'' on the map entitled ``Carson City OPLMA Lands'' and 
+        dated September 20, 2024.
+
+SEC. 406. TRANSFER OF LAND TO THE UNITED STATES.
+
+    (a) Conveyance.--Not later than 1 year after the date of the 
+enactment of this Act, the City shall convey all right and title of the 
+land described in subsection (b) to the Secretary of the Interior.
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 17 acres depicted as ``Carson City Lands for 
+Disposal'' on the map entitled ``Carson City OPLMA Lands'' and dated 
+September 20, 2024.
+    (c) Disposal.--Subject to valid existing rights and notwithstanding 
+sections 202 and 203 of the Federal Land Policy and Management Act of 
+1976 (43 U.S.C. 1712), the Secretary shall conduct one or more sales of 
+the land described in subsection (b) to qualified bidders.
+    (d) Method of Sale.--The sale of Federal land under subsection (c) 
+shall be--
+            (1) through a competitive bidding process, unless otherwise 
+        determined by the Secretary; and
+            (2) for not less than fair market value.
+    (e) Costs.--
+            (1) Costs related to disposal.--Any costs relating to the 
+        disposal under subsection (c), including costs of surveys and 
+        administrative costs, shall be paid by the party entering into 
+        the disposal agreement with the Bureau of Land Management for 
+        the land described in subsection (b).
+            (2) Costs related to conveyance.--Any costs relating to the 
+        conveyance under subsection (a), including costs of surveys and 
+        administrative costs, shall be paid by the City.
+    (f) Conditions.--Upon disposal, the City shall retain--
+            (1) access and a public utility easement on APN 010-252-02 
+        for operation and maintenance of a municipal well; and
+            (2) a public right-of-way for Bennet Avenue.
+    (g) Hazardous Substances.--The costs of remedial actions relating 
+to hazardous substances on land acquired by the United States under 
+this section shall be paid by those entities responsible for the costs 
+under applicable law.
+
+SEC. 407. DISPOSITION OF PROCEEDS.
+
+    (a) Disposition of Proceeds.--The proceeds from the sale of land in 
+accordance with this title, and section 2601(e)(1)(B) of Public Law 
+111-11 (123 Stat. 1111(e)(1)(B)) shall be deposited in a special 
+account in the Treasury of the United States, to be known as the 
+``Carson City Special Account'', which shall be available to the 
+Secretary, without further appropriation and without fiscal year 
+limitation, for--
+            (1) the reimbursement of costs incurred by the Secretary in 
+        preparing for the sale of the land described in sections 402, 
+        404, and 405 of this title, and section 2601(d) of Public Law 
+        111-11 (123 Stat. 1111(e)(1)(B)), including--
+                    (A) the costs of surveys and appraisals; and
+                    (B) the costs of compliance with the National 
+                Environmental Policy Act of 1969 (42 U.S.C. 4321 et 
+                seq.) and sections 202 and 203 of the Federal Land 
+                Policy and Management Act of 1976 (43 U.S.C. 1712, 
+                1713);
+            (2) the conduct of wildlife habitat conservation and 
+        restoration projects, including projects that benefit the 
+        greater sage-grouse in the City;
+            (3) the development and implementation of comprehensive, 
+        cost-effective, multijurisdictional hazardous fuels reduction 
+        and wildfire prevention and restoration projects in the City;
+            (4) the acquisition of environmentally sensitive land or 
+        interest in environmentally sensitive land in Carson City, 
+        Nevada;
+            (5) capital improvements administered by the Bureau of Land 
+        Management and the Forest Service in the City; and
+            (6) educational activities in the City.
+    (b) Investment of Special Account.--Amounts deposited into the 
+Carson City Special Account--
+            (1) shall earn interest in an amount determined by the 
+        Secretary of the Treasury, based on the current average market 
+        yield on outstanding marketable obligations of the United 
+        States of comparable maturities; and
+            (2) may be expended by the Secretary in accordance with 
+        this section.
+    (c) Management of Special Account.--The management and procedures 
+of the Carson City Special Account shall be determined by an 
+intergovernmental agreement between the City and the Department of the 
+Interior's Bureau of Land Management.
+
+SEC. 408. POSTPONEMENT; EXCLUSION FROM SALE.
+
+    Section 2601(d)(6) of Public Law 111-11 (123 Stat. 1113) is amended 
+to read as follows:
+            ``(6) Deadline for sale.--Not later than 2 years after the 
+        date of the enactment of the Northern Nevada Economic 
+        Development and Conservation Act of 2026, if there is a 
+        qualified bidder(s) for the land described in subparagraphs (A) 
+        and (B) of paragraph (2), the Secretary of the Interior shall 
+        offer the land for sale to the highest qualified bidder.''.
+
+     TITLE V--PERSHING COUNTY ECONOMIC DEVELOPMENT AND CONSERVATION
+
+SEC. 501. SHORT TITLE.
+
+    This title may be cited as the ``Pershing County Economic 
+Development and Conservation Act''.
+
+SEC. 502. DEFINITIONS.
+
+    In this title:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means--
+                    (A) the Committee on Natural Resources of the House 
+                of Representatives; and
+                    (B) the Committee on Energy and Natural Resources 
+                of the Senate.
+            (2) County.--The term ``County'' means Pershing County, 
+        Nevada.
+            (3) Eligible land.--The term ``eligible land'' means any 
+        land (including both the surface and mineral estate) 
+        administered by the Director of the Bureau of Land Management--
+                    (A) that is within the area identified on the Map 
+                as ``Checkerboard Lands Resolution Area'' that is 
+                designated for disposal by the Secretary through--
+                            (i) the Winnemucca Consolidated Resource 
+                        Management Plan; or
+                            (ii) any subsequent amendment or revision 
+                        to the management plan that is undertaken with 
+                        full public involvement;
+                    (B) as land identified on the Map as ``Additional 
+                Lands Eligible for Disposal''; and
+                    (C) that is not encumbered land.
+            (4) Encumbered land.--The term ``encumbered land'' means 
+        any land administered by the Director of the Bureau of Land 
+        Management within the area identified on the Map as 
+        ``Checkerboard Lands Resolution Area'' that is encumbered by 
+        mining claims, millsites, or tunnel sites.
+            (5) Map.--The term ``Map'' means the map titled ``Pershing 
+        County Checkerboard Lands Resolution'' and dated July 8, 2024.
+            (6) Qualified entity.--The term ``qualified entity'' means, 
+        with respect to a portion of encumbered land--
+                    (A) the owner of a mining claim, millsite, or 
+                tunnel site located on a portion of the encumbered land 
+                on the date of the enactment of this Act; and
+                    (B) a successor in interest of an owner described 
+                in subparagraph (A).
+            (7) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+            (8) State.--The term ``State'' means the State of Nevada.
+            (9) Wilderness area.--The term ``Wilderness Area'' means a 
+        wilderness area designated by section 521(a).
+
+SEC. 503. FINDINGS.
+
+    Congress finds that--
+            (1) since the passage of the Act of July 1, 1862 (12 Stat. 
+        489, chapter 120; commonly known as the ``Pacific Railway Act 
+        of 1862''), under which railroad land grants along the Union 
+        Pacific Railroad right-of-way created a checkerboard land 
+        pattern of alternating public land and privately owned land, 
+        management of the land in the checkerboard area has been a 
+        constant source of frustration for the County government, 
+        private landholders in the County, and the Federal Government;
+            (2) management of Federal land in the checkerboard area has 
+        been costly and difficult for the Federal land management 
+        agencies, creating a disincentive to manage the land 
+        effectively;
+            (3) parcels of land within the checkerboard area in the 
+        County will not vary significantly in appraised value by acre 
+        due to the similarity of highest and best use in the County; 
+        and
+            (4) consolidation of appropriate land within the 
+        checkerboard area through sales and exchanges for development 
+        and Federal management will--
+                    (A) help improve the tax base of the County; and
+                    (B) simplify management for the Federal Government.
+
+                  Subtitle A--Land Sales and Exchanges
+
+SEC. 511. SALE OR EXCHANGE OF ELIGIBLE LAND.
+
+    (a) Authorization of Conveyance.--Notwithstanding sections 202, 
+203, 206, and 209 of the Federal Land Policy and Management Act of 1976 
+(43 U.S.C. 1712, 1713, 1716, 1719), as soon as practicable after the 
+date of the enactment of this Act, the Secretary, in accordance with 
+this subtitle and any other applicable law and subject to valid 
+existing rights, shall conduct sales or exchanges of the eligible land.
+    (b) Joint Selection Required.--After providing public notice, 
+before mass appraisal and environmental analysis, the Secretary and the 
+County shall jointly select parcels of eligible land to be offered for 
+sale or exchange under subsection (a).
+    (c) Method of Sale.--A sale of eligible land under subsection (a) 
+shall be--
+            (1) consistent with subsections (d) and (f) of section 203 
+        of the Federal Land Policy and Management Act of 1976 (43 
+        U.S.C. 1713);
+            (2) conducted through a competitive bidding process, under 
+        which adjoining landowners are offered the first option, unless 
+        the Secretary determines there are suitable and qualified 
+        buyers that are not adjoining landowners; and
+            (3) for not less than fair market value, based on an 
+        appraisal in accordance with subsection (f).
+    (d) Land Exchanges.--
+            (1) In general.--An exchange of eligible land under 
+        subsection (a) shall be consistent with subsection 206(a) of 
+        the Federal Land Policy and Management Act of 1976 (43 U.S.C. 
+        1716).
+            (2) Equal value exchange.--
+                    (A) In general.--The value of the eligible land and 
+                private land to be exchanged under subsection (a)--
+                            (i) shall be equal; or
+                            (ii) shall be made equal in accordance with 
+                        subparagraph (B).
+                    (B) Equalization.--
+                            (i) Surplus of eligible land.--With respect 
+                        to the eligible land and private land to be 
+                        exchanged under subsection (a), if the value of 
+                        the eligible land exceeds the value of the 
+                        private land, the value of the eligible land 
+                        and the private land shall be equalized by--
+                                    (I) by the owner of the private 
+                                land making a cash equalization payment 
+                                to the Secretary;
+                                    (II) adding private land to the 
+                                exchange; or
+                                    (III) removing eligible land from 
+                                the exchange.
+                            (ii) Surplus of private land.--With respect 
+                        to the eligible land and private land to be 
+                        exchanged under subsection (a), if the value of 
+                        the private land exceeds the value of the 
+                        eligible land, the value of the private land 
+                        and the eligible land shall be equalized by--
+                                    (I) by the Secretary making a cash 
+                                equalization payment to the owner of 
+                                the private land, in accordance with 
+                                section 206(b) of the Federal Land 
+                                Policy and Management Act of 1976 (43 
+                                U.S.C. 1716(b));
+                                    (II) adding eligible land to the 
+                                exchange; or
+                                    (III) removing private land from 
+                                the exchange.
+            (3) Adjacent land.--To the extent practicable, the 
+        Secretary shall seek to enter into agreements with one or more 
+        owners of private land adjacent to the eligible land for the 
+        exchange of the private land for the eligible land, if the 
+        Secretary determines that the exchange would consolidate 
+        Federal land ownership and facilitate improved Federal land 
+        management.
+            (4) Priority land exchanges.--In acquiring private land 
+        under this subsection, the Secretary shall give priority to the 
+        acquisition of private land in higher value natural resource 
+        areas in the County.
+    (e) Mass Appraisals.--
+            (1) In general.--Not later than 2 years after the date of 
+        the enactment of this Act, and every 5 years thereafter, the 
+        Secretary shall--
+                    (A) conduct a mass appraisal of eligible land to be 
+                sold or exchanged under this section;
+                    (B) prepare a valuation analysis for each land 
+                transaction under this section; and
+                    (C) make available to the public the results of the 
+                mass appraisals conducted under subparagraph (A).
+            (2) Public inspection and notice.--
+                    (A) Public inspection.--Not later than 30 days 
+                before the date of any sale or exchange of Federal land 
+                and non-Federal land under this act, all final 
+                appraisals and appraisal reviews for the land to be 
+                sold or exchanged shall be available for public review 
+                at the office of the State Director of the Bureau of 
+                Land Management in the Nevada State Office.
+                    (B) Notice.--The Secretary shall make available on 
+                the public website of the Secretary and shall publish 
+                in a newspaper of general circulation in Nevada, a 
+                notice that the appraisals conducted under this act are 
+                available for public inspection.
+            (3) Use.--The Secretary may use mass appraisals and 
+        evaluation analyses conducted under paragraph (1) to facilitate 
+        exchanges of eligible land for private land.
+            (4) Applicable law.--The appraisals under paragraph (1) 
+        shall be conducted in accordance with nationally recognized 
+        appraisal standards, including, as appropriate--
+                    (A) the Uniform Appraisal Standards for Federal 
+                Land Acquisitions; and
+                    (B) the Uniform Standards of Professional Appraisal 
+                Practice.
+            (5) Duration.--An appraisal conducted under paragraph (1) 
+        shall remain valid for 5 years after the date on which the 
+        appraisal is approved by the Secretary.
+    (f) Deadline for Sale or Exchange; Exclusions.--
+            (1) Deadline.--Not later than 2 years after the date on 
+        which the eligible land is jointly selected under subsection 
+        (b), the Secretary shall offer for sale or exchange the parcels 
+        of eligible land jointly selected under that subsection.
+            (2) Postponement or exclusion.--The Secretary or the County 
+        may postpone, or exclude from, a sale or exchange of all or a 
+        portion of the eligible land jointly selected under subsection 
+        (b) for emergency ecological or safety reasons.
+    (g) Withdrawal.--
+            (1) In general.--Subject to valid existing rights and 
+        mining claims, millsites, and tunnel sites, effective on the 
+        date on which a parcel of eligible land is jointly selected 
+        under subsection (b) for sale or exchange, that parcel is 
+        withdrawn from--
+                    (A) all forms of entry and appropriation under the 
+                public land laws, including the mining laws;
+                    (B) location, entry, and patent under the mining 
+                laws; and
+                    (C) operation of the mineral leasing and geothermal 
+                leasing laws.
+            (2) Termination.--The withdrawal of a parcel of eligible 
+        land under paragraph (1) shall terminate--
+                    (A) on the date of sale or, in the case of 
+                exchange, the conveyance of title of the parcel of 
+                eligible land under this section; or
+                    (B) with respect to any parcel of eligible land 
+                selected for sale or exchange under subsection (c) that 
+                is not sold or exchanged, not later than 2 years after 
+                the date on which the parcel was offered for sale or 
+                exchange under this section.
+    (h) Maps and Legal Descriptions.--
+            (1) In general.--As soon as practicable after the date of 
+        enactment of this Act, the Secretary shall finalize maps and 
+        legal descriptions of the parcels of eligible land to be sold 
+        or exchanged under this section.
+            (2) Survey.--The exact acreage and legal description of the 
+        eligible land to be sold or exchanged under this act shall be 
+        determined by a survey satisfactory to the Secretary and the 
+        County.
+            (3) Availability.--The maps and legal descriptions 
+        finalized under paragraph (1) shall be on file and available 
+        for public inspection in appropriate offices of the Bureau of 
+        Land Management.
+            (4) Corrections.--The Secretary and the County may, by 
+        mutual agreement--
+                    (A) make minor boundary adjustments to the eligible 
+                land to be sold or exchanged under this section; and
+                    (B) correct any minor errors, including clerical 
+                and typographical errors, on the Map or any maps, 
+                acreage estimates, or legal descriptions finalized 
+                under this subsection.
+
+SEC. 512. SALE OF ENCUMBERED LAND.
+
+    (a) Authorization of Conveyance.--Notwithstanding sections 202, 
+203, 206, and 209 of the Federal Land Policy and Management Act of 1976 
+(43 U.S.C. 1712, 1713, 1716, 1719), not later than 2 years after the 
+date of the enactment of this Act and subject to valid existing rights 
+held by third parties, the Secretary shall offer to convey to qualified 
+entities, for fair market value, the remaining right, title, and 
+interest of the United States, in and to the encumbered land.
+    (b) Costs of Sales to Qualified Entities.--As a condition of each 
+conveyance of encumbered land under this section, the qualified entity 
+shall pay all costs related to the conveyance of the encumbered land, 
+including the costs of surveys and other administrative costs 
+associated with the conveyance.
+    (c) Offer To Convey.--
+            (1) In general.--Not later than 1 year after the date on 
+        which the Secretary receives a fair market offer from a 
+        qualified entity for the conveyance of encumbered land, the 
+        Secretary shall accept the fair market value offer.
+            (2) Appraisal.--Fair market value of the interest of the 
+        United States in and to encumbered land shall be determined by 
+        an appraisal conducted in accordance with the Uniform Standards 
+        of Professional Appraisal Practice.
+    (d) Conveyance.--Not later than 2 years after the date of 
+acceptance by the Secretary of an offer from a qualified entity under 
+subsection (c)(1) and completion of a sale for all or part of the 
+applicable portion of encumbered land to the highest qualified entity, 
+the Secretary, by delivery of an appropriate deed, patent, or other 
+valid instrument of conveyance, shall convey to the qualified entity 
+all remaining right, title, and interest of the United States in and to 
+the applicable portion of the encumbered land.
+    (e) Merger.--Subject to valid existing rights held by third 
+parties, on delivery of the instrument of conveyance to the qualified 
+entity under subsection (d), the prior interests in the locatable 
+minerals and the right to use the surface for mineral purposes held by 
+the qualified entity under a mining claim, millsite, tunnel site, or 
+any other Federal land use authorization applicable to the encumbered 
+land included in the instrument of conveyance, shall merge with all 
+right, title, and interest conveyed to the qualified entity by the 
+United States under this section to ensure that the qualified entity 
+receives fee simple title to the purchased encumbered land.
+
+SEC. 513. DISPOSITION OF PROCEEDS.
+
+    (a) Disposition of Proceeds.--Of the proceeds from the sale of land 
+under this subtitle--
+            (1) 5 percent shall be disbursed to the State for use in 
+        the general education program of the State;
+            (2) 10 percent shall be disbursed to the County for use as 
+        determined through normal County budgeting procedures; and
+            (3) the remainder shall be deposited in a special account 
+        in the Treasury of the United States, to be known as the 
+        ``Pershing County Special Account'', which shall be available 
+        to the Secretary, without further appropriation and without 
+        fiscal year limitations for--
+                    (A) the acquisition of land from willing sellers 
+                (including interests in land) in the County--
+                            (i) within a wilderness area;
+                            (ii) that protects other environmentally 
+                        significant land;
+                            (iii) that secures public access to Federal 
+                        land for hunting, fishing, and other 
+                        recreational purposes; or
+                            (iv) that improves management of Federal 
+                        land within the area identified on the Map as 
+                        ``Checkerboard Lands Resolution Area''; and
+                    (B) the reimbursement of costs incurred by the 
+                Secretary in preparing for the sale or exchange of land 
+                under this subtitle.
+    (b) Investment of Special Account.--Any amounts deposited in the 
+special account established under subsection (a)(3)--
+            (1) shall earn interest in an amount determined by the 
+        Secretary of the Treasury, based on the current average market 
+        yield on outstanding marketable obligations of the United 
+        States of comparable maturities; and
+            (2) may be expended by the Secretary in accordance with 
+        this section.
+    (c) Reports.--
+            (1) In general.--Not later than September 30 of the fifth 
+        fiscal year after the date of the enactment of this Act, and 
+        every 5 fiscal years thereafter, the Secretary shall submit to 
+        the State, the County, and the appropriate congressional 
+        committees a report on the operation of the special account 
+        established under subsection (a)(3) for the preceding 5 fiscal 
+        years.
+            (2) Contents.--Each report submitted under paragraph (1) 
+        shall include, for the fiscal year covered by the report--
+                    (A) a statement of the amounts deposited into the 
+                special account;
+                    (B) a description of the expenditures made from the 
+                special account for the fiscal year, including the 
+                purpose of the expenditures;
+                    (C) recommendations for additional authorities to 
+                fulfill the purpose of the special account; and
+                    (D) a statement of the balance remaining in the 
+                special account at the end of the fiscal year.
+
+                      Subtitle B--Wilderness Areas
+
+SEC. 521. ADDITIONS TO THE NATIONAL WILDERNESS PRESERVATION SYSTEM.
+
+    (a) Additions.--In accordance with the Wilderness Act (16 U.S.C. 
+1131 et seq.), the following parcels of Federal land in the State are 
+designated as wilderness and as components of the National Wilderness 
+Preservation System:
+            (1) Cain mountain wilderness.--Certain Federal land managed 
+        by the Bureau of Land Management, comprising approximately 
+        12,339 acres, as generally depicted on the map entitled 
+        ``Proposed Cain Mountain Wilderness'' and dated February 9, 
+        2017, which, together with the Federal land designated as 
+        wilderness by sections 2905(b)(1)(C) and 2932(a)(1) of Public 
+        Law 117-263, shall be known as the ``Cain Mountain 
+        Wilderness''.
+            (2) Bluewing wilderness.--Certain Federal land managed by 
+        the Bureau of Land Management, comprising approximately 24,900 
+        acres, as generally depicted on the map entitled ``Proposed 
+        Bluewing Wilderness'' and dated February 9, 2017, which shall 
+        be known as the ``Bluewing Wilderness''.
+            (3) Selenite peak wilderness.--Certain Federal land managed 
+        by the Bureau of Land Management, comprising approximately 
+        22,822 acres, as generally depicted on the map entitled 
+        ``Proposed Selenite Peak Wilderness'' and dated February 9, 
+        2017, which shall be known as the ``Selenite Peak Wilderness''.
+            (4) Mount limbo wilderness.--Certain Federal land managed 
+        by the Bureau of Land Management, comprising approximately 
+        11,855 acres, as generally depicted on the map entitled 
+        ``Proposed Mt. Limbo Wilderness'' and dated February 9, 2017, 
+        which shall be known as the ``Mount Limbo Wilderness''.
+            (5) North sahwave wilderness.--Certain Federal land managed 
+        by the Bureau of Land Management, comprising approximately 
+        13,875 acres, as generally depicted on the map entitled 
+        ``Proposed North Sahwave Wilderness'' and dated February 9, 
+        2017, which shall be known as the ``North Sahwave Wilderness''.
+            (6) Grandfathers wilderness.--Certain Federal land managed 
+        by the Bureau of Land Management, comprising approximately 
+        35,339 acres, as generally depicted on the map entitled 
+        ``Proposed Grandfathers Wilderness'' and dated February 9, 
+        2017, which shall be known as the ``Grandfathers Wilderness''.
+            (7) Fencemaker wilderness.--Certain Federal land managed by 
+        the Bureau of Land Management, comprising approximately 14,942 
+        acres, as generally depicted on the map entitled ``Proposed 
+        Fencemaker Wilderness'' and dated February 9, 2017, which shall 
+        be known as the ``Fencemaker Wilderness''.
+    (b) Boundary.--The boundary of any portion of a Wilderness Area 
+that is bordered by a road shall be 100 feet from the centerline of the 
+road.
+    (c) Map and Legal Description.--
+            (1) In general.--As soon as practicable after the date of 
+        the enactment of this Act, the Secretary shall file a map and 
+        legal description of each Wilderness Area.
+            (2) Effect.--Each map and legal description prepared under 
+        paragraph (1) shall have the same force and effect as if 
+        included in this subtitle, except that the Secretary may 
+        correct clerical and typographical errors in the map or legal 
+        description.
+            (3) Availability.--Each map and legal description prepared 
+        under paragraph (1) shall be on file and available for public 
+        inspection in the appropriate offices of the Bureau of Land 
+        Management.
+            (4) Withdrawal.--Subject to valid existing rights, the 
+        Wilderness Areas are withdrawn from--
+                    (A) all forms of entry, appropriation, and disposal 
+                under the public land laws;
+                    (B) location, entry, and patent under the mining 
+                laws; and
+                    (C) disposition under all laws relating to mineral 
+                and geothermal leasing or mineral materials.
+
+SEC. 522. ADMINISTRATION.
+
+    (a) Management.--Subject to valid existing rights, the Wilderness 
+Areas shall be administered by the Secretary in accordance with the 
+Wilderness Act (16 U.S.C. 1131 et seq.), except that with respect to 
+the Wilderness Areas--
+            (1) any reference in that Act to the effective date shall 
+        be considered to be a reference to the date of the enactment of 
+        this Act; and
+            (2) any reference in that Act to the Secretary of 
+        Agriculture shall be considered to be a reference to the 
+        Secretary of the Interior.
+    (b) Livestock.--The grazing of livestock in the Wilderness Areas, 
+if established before the date of the enactment of this Act, shall be 
+allowed to continue, subject to such reasonable regulations, policies, 
+and practices as the Secretary considers to be necessary in accordance 
+with--
+            (1) section 4(d)(4) of the Wilderness Act (16 U.S.C. 
+        1133(d)(4)); and
+            (2) the guidelines set forth in Appendix A of the report of 
+        the Committee on Interior and Insular Affairs of the House of 
+        Representatives accompanying H.R. 2570 of the 101st Congress 
+        (House Report 101-405).
+    (c) Incorporation of Acquired Land and Interests.--Any land or 
+interest in land within the boundary of a Wilderness Area that is 
+acquired by the United States after the date of the enactment of this 
+Act shall be added to and administered as part of the Wilderness Area.
+    (d) Adjacent Management.--
+            (1) In general.--Congress does not intend for the 
+        designation of the Wilderness Areas to create protective 
+        perimeters or buffer zones around the wilderness areas.
+            (2) Nonwilderness activities.--The fact that nonwilderness 
+        activities or uses can be seen or heard from areas within a 
+        Wilderness Area shall not preclude the conduct of those 
+        activities or uses outside the boundary of the Wilderness Area.
+    (e) Military Overflights.--Nothing in this subtitle restricts or 
+precludes--
+            (1) low-level overflights of military aircraft over the 
+        Wilderness Areas, including military overflights that can be 
+        seen or heard within the Wilderness Areas;
+            (2) flight testing and evaluation; or
+            (3) the designation or creation of new units of special use 
+        airspace, or the establishment of military flight training 
+        routes, over the Wilderness Areas.
+    (f) Wildfire, Insect, and Disease Management.--In accordance with 
+section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)(1)), the 
+Secretary may take such measures in the Wilderness Areas as are 
+necessary for the control of fire, insects, and diseases (including, as 
+the Secretary determines to be appropriate, the coordination of the 
+activities with a State or local agency).
+    (g) Climatological Data Collection.--In accordance with the 
+Wilderness Act (16 U.S.C. 1131 et seq.) and subject to such terms and 
+conditions as the Secretary may prescribe, the Secretary may authorize 
+the installation and maintenance of hydrologic, meteorologic, or 
+climatological data collection devices in the Wilderness Areas if the 
+Secretary determines that the facilities and access to the facilities 
+are essential to flood warning, flood control, or water reservoir 
+operation activities.
+    (h) Water Rights.--
+            (1) Findings.--Congress finds that--
+                    (A) the Wilderness Areas are located--
+                            (i) in the semiarid region of the Great 
+                        Basin; and
+                            (ii) at the headwaters of the streams and 
+                        rivers on land with respect to which there are 
+                        few, if any--
+                                    (I) actual or proposed water 
+                                resource facilities located upstream; 
+                                and
+                                    (II) opportunities for diversion, 
+                                storage, or other uses of water 
+                                occurring outside the land that would 
+                                adversely affect the wilderness values 
+                                of the land;
+                    (B) the Wilderness Areas are generally not suitable 
+                for use or development of new water resource 
+                facilities; and
+                    (C) because of the unique nature of the Wilderness 
+                Areas, it is possible to provide for proper management 
+                and protection of the wilderness and other values of 
+                land in ways different from those used in other laws.
+            (2) Purpose.--The purpose of this section is to protect the 
+        wilderness values of the Wilderness Areas by means other than a 
+        federally reserved water right.
+            (3) Statutory construction.--Nothing in this subtitle--
+                    (A) constitutes an express or implied reservation 
+                by the United States of any water or water rights with 
+                respect to the Wilderness Areas;
+                    (B) affects any water rights in the State 
+                (including any water rights held by the United States) 
+                in existence on the date of the enactment of this Act;
+                    (C) establishes a precedent with regard to any 
+                future wilderness designations;
+                    (D) affects the interpretation of, or any 
+                designation made under, any other Act; or
+                    (E) limits, alters, modifies, or amends any 
+                interstate compact or equitable apportionment decree 
+                that apportions water among and between the State and 
+                other States.
+            (4) Nevada water law.--The Secretary shall follow the 
+        procedural and substantive requirements of State law in order 
+        to obtain and hold any water rights not in existence on the 
+        date of the enactment of this Act with respect to the 
+        Wilderness Areas.
+            (5) New projects.--
+                    (A) Definition of water resource facility.--
+                            (i) In general.--In this paragraph, the 
+                        term ``water resource facility'' means 
+                        irrigation and pumping facilities, reservoirs, 
+                        water conservation works, aqueducts, canals, 
+                        ditches, pipelines, wells, hydropower projects, 
+                        transmission and other ancillary facilities, 
+                        and other water diversion, storage, and 
+                        carriage structures.
+                            (ii) Exclusion.--In this paragraph, the 
+                        term ``water resource facility'' does not 
+                        include wildlife guzzlers.
+                    (B) Restriction on new water resource facilities.--
+                Except as otherwise provided in this subtitle, on and 
+                after the date of the enactment of this Act, neither 
+                the President nor any other officer, employee, or agent 
+                of the United States shall fund, assist, authorize, or 
+                issue a license or permit for the development of any 
+                new water resource facility within the Wilderness 
+                Areas.
+    (i) Temporary Telecommunications Device.--
+            (1) In general.--Nothing in this subtitle prevents the 
+        placement of a temporary telecommunications device for law 
+        enforcement or agency administrative purposes in the Selenite 
+        Peak Wilderness in accordance with paragraph (2).
+            (2) Additional requirements.--Any temporary 
+        telecommunications device authorized by the Secretary under 
+        paragraph (1) shall--
+                    (A) be carried out in accordance with--
+                            (i) the Wilderness Act (16 U.S.C. 1131 et 
+                        seq.); and
+                            (ii) all other applicable laws (including 
+                        regulations);
+                    (B) to the maximum practicable, be located in such 
+                a manner as to minimize impacts on the recreational and 
+                other wilderness values of the area; and
+                    (C) be for a period of not longer than 7 years.
+
+SEC. 523. WILDLIFE MANAGEMENT.
+
+    (a) In General.--In accordance with section 4(d)(7) of the 
+Wilderness Act (16 U.S.C. 1133(d)(7)), nothing in this subtitle affects 
+or diminishes the jurisdiction of the State with respect to fish and 
+wildlife management, including the regulation of hunting, fishing, and 
+trapping, in the Wilderness Areas.
+    (b) Management Activities.--In furtherance of the purposes and 
+principles of the Wilderness Act (16 U.S.C. 1131 et seq.), the 
+Secretary may conduct any management activities in the Wilderness Areas 
+that are necessary to maintain or restore fish and wildlife populations 
+and the habitats to support the populations, if the activities are 
+carried out--
+            (1) consistent with relevant wilderness management plans; 
+        and
+            (2) in accordance with--
+                    (A) the Wilderness Act (16 U.S.C. 1131 et seq.); 
+                and
+                    (B) appropriate policies, such as those set forth 
+                in Appendix B of the report of the Committee on 
+                Interior and Insular Affairs of the House of 
+                Representatives accompanying H.R. 2570 of the 101st 
+                Congress (House Report 101-405), including noxious weed 
+                treatment and the occasional and temporary use of 
+                motorized vehicles if the use, as determined by the 
+                Secretary, would promote healthy, viable, and more 
+                naturally distributed wildlife populations that would 
+                enhance wilderness values with the minimal impact 
+                necessary to reasonably accomplish those tasks.
+    (c) Existing Activities.--In accordance with section 4(d)(1) of the 
+Wilderness Act (16 U.S.C. 1133(d)(1)) and in accordance with 
+appropriate policies such as those set forth in Appendix B of the 
+Committee on Interior and Insular Affairs of the House of 
+Representatives accompanying H.R. 2570 of the 101st Congress (House 
+Report 101-405), the State may continue to use aircraft, including 
+helicopters, to survey, capture, transplant, monitor, and provide water 
+for wildlife populations.
+    (d) Wildlife Water Development Projects.--Subject to subsection 
+(e), the Secretary shall authorize structures and facilities, including 
+existing structures and facilities, for wildlife water development 
+projects, including guzzlers, in the Wilderness Areas if--
+            (1) the structures and facilities will, as determined by 
+        the Secretary, enhance wilderness values by promoting healthy, 
+        viable and more naturally distributed wildlife populations; and
+            (2) the visual impacts of the structures and facilities on 
+        the Wilderness Areas can reasonably be minimized.
+    (e) Cooperative Agreement.--
+            (1) In general.--The State, including a designee of the 
+        State, may conduct wildlife management activities in the 
+        Wilderness Areas--
+                    (A) in accordance with the terms and conditions 
+                specified in the cooperative agreement between the 
+                Secretary and the State entitled ``Memorandum of 
+                Understanding between the Bureau of Land Management and 
+                the Nevada Department of Wildlife Supplement No. 9'' 
+                and signed November and December 2003, including any 
+                amendments to the cooperative agreement agreed to by 
+                the Secretary and the State; and
+                    (B) subject to all applicable laws (including 
+                regulations).
+            (2) References.--For the purposes of this subsection, any 
+        references to Pershing County in the cooperative agreement 
+        described in paragraph (1)(A) shall be considered to be a 
+        reference to the Wilderness Areas.
+
+SEC. 524. RELEASE OF WILDERNESS STUDY AREAS.
+
+    (a) Finding.--Congress finds that, for the purposes of section 
+603(c) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 
+1782(c)), the approximately 48,600 acres of public land in the portions 
+of the China Mountain, Mt. Limbo, Selenite Mountains, and Tobin Range 
+wilderness study areas that have not been designated as wilderness by 
+section 521(a) of this subtitle and the portion of the Augusta 
+Mountains wilderness study area within the County that has not been 
+designated as wilderness by section 521(a) of this subtitle have been 
+adequately studied for wilderness designation.
+    (b) Release.--The public land described in subsection (a)--
+            (1) is no longer subject to section 603(c) of the Federal 
+        Land Policy and Management Act of 1976 (43 U.S.C. 1782(c)); and
+            (2) shall be managed in accordance with the applicable land 
+        use plans adopted under section 202 of the Federal Land Policy 
+        and Management Act of 1976 (43 U.S.C. 1712).
+
+SEC. 525. NATIVE AMERICAN CULTURAL AND RELIGIOUS USES.
+
+    (a) In General.--Nothing in this subtitle alters or diminishes the 
+treaty rights of any Indian tribe (as defined in section 4 of the 
+Indian Self-Determination and Education Assistance Act (25 U.S.C. 
+5304)).
+    (b) Cultural Uses.--Nothing in this subtitle precludes the 
+traditional collection of culturally significant and medicinal plants 
+in a Wilderness Area for personal, noncommercial use consistent with 
+the Wilderness Act (16 U.S.C. 1131 et seq.).
+
+                       TITLE VI--FEDERAL COMPLEX
+
+SEC. 601. FEDERAL COMPLEX.
+
+    (a) Establishment.--The Secretary of the Interior and Secretary of 
+Agriculture shall have the authority to establish on Federal lands 
+identified as ``Federal Complex'' on the map titled ``Proposed Federal 
+Complex'', and dated January 27, 2020, a Federal complex for--
+            (1) department agencies and operations for the Bureau of 
+        Land Management and the Forest Service;
+            (2) the Bureau of Land Management Nevada State Office;
+            (3) the Forest Service Humboldt-Toiyabe Headquarters;
+            (4) the United States Fish and Wildlife Service Reno Fish 
+        and Wildlife Office;
+            (5) the option for the Bureau of Reclamation to house the 
+        Lower Colorado Region Office, Boulder Canyon Operations and the 
+        Lahontan Basin Area Office;
+            (6) the Bureau of Indian Affairs Western Nevada Agency 
+        Office;
+            (7) the option for the Forest Service, the Carson Ranger 
+        District Office; and
+            (8) the option for the Bureau of Land Management, the 
+        Carson City District Office.
+    (b) Funding Sources.--
+            (1) Special accounts.--Ten percent of the total amount 
+        deposited in the Federal special accounts established under 
+        titles I, IV, and V of this Act shall be available to the 
+        Secretary of the Interior and Secretary of Agriculture for 
+        construction of the Federal complex.
+            (2) Secondary sources.--If the amount made available by 
+        paragraph (1) is insufficient to complete construction of the 
+        Federal complex, the Secretary of the Interior and Secretary of 
+        Agriculture may use other accounts available for the operation 
+        of the Bureau of Land Management, the Fish and Wildlife 
+        Service, the Bureau of Reclamation, the Bureau of Indian 
+        Affairs, and the Forest Service in Nevada to provide such 
+        additional amounts as may be necessary to complete construction 
+        of the Federal complex.
+
+                  TITLE VII--ELKO ECONOMIC DEVELOPMENT
+
+SEC. 701. SHORT TITLE.
+
+    This title may be cited as the ``Elko Economic Development Act''.
+
+SEC. 702. DEFINITIONS.
+
+    In this Act:
+            (1) City.--The term ``City'' means the City of Elko, 
+        Nevada.
+            (2) County.--The term ``County'' means Elko County, Nevada.
+            (3) Federal land identified for the city of elko.--The term 
+        ``Federal land identified for the City of Elko'' means the 
+        approximately 644 acres of federally owned land generally 
+        depicted on the map and indicating conveyance to the City of 
+        Elko.
+            (4) Federal land identified for elko county.--The term 
+        ``Federal land identified for Elko County'' means the 
+        approximately 3,475 acres of federally owned land generally 
+        depicted on the map and indicating conveyance to Elko County.
+            (5) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+
+SEC. 703. LAND CONVEYANCES TO THE CITY OF ELKO.
+
+    (a) Conveyance.--Subject to valid existing rights and at the 
+request of the City, the Secretary shall convey to the City, for fair 
+market value, all right, title, and interest of the United States in 
+and to the Federal land identified for conveyance to the City of Elko 
+on the map entitled ``Proposed Conveyance to the City of Elko, Nevada'' 
+and dated November 7, 2024.
+    (b) Appraisal.--The Secretary shall determine fair market value of 
+the Federal land identified for the City of Elko in accordance with the 
+Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701) and 
+based on an appraisal conducted in accordance with--
+            (1) the Uniform Appraisal Standards for Federal Land 
+        Acquisition; and
+            (2) the Uniform Standards of Professional Appraisal 
+        Practice.
+    (c) Costs.--As a condition of the conveyance of the Federal land 
+identified for the City of Elko under subsection (a), the City shall 
+pay--
+            (1) an amount equal to the appraised value determined in 
+        accordance with subsection (b); and
+            (2) all costs related to the conveyance, including all 
+        surveys, appraisals, and other administrative costs associated 
+        with the conveyance of the Federal land to the City.
+    (d) Disposition of Proceeds.--Any gross proceeds from the sale, 
+lease, or conveyance of Federal land identified for the City of Elko 
+under this section shall be deposited into the special account created 
+by the Southern Nevada Public Lands Management Act of 1998 (Public Law 
+105-263).
+
+SEC. 704. LAND CONVEYANCES TO ELKO COUNTY.
+
+    (a) Conveyance.--Subject to valid existing rights and at the 
+request of the County, the Secretary shall convey to the County, for 
+fair market value, all right, title, and interest of the United States 
+in and to the Federal land identified for Elko County on the map 
+entitled ``Conveyance to Elko County, Nevada'' and dated October 30, 
+2024.
+    (b) Appraisal.--The Secretary shall determine fair market value of 
+the Federal land identified for Elko County in accordance with the 
+Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701) and 
+based on an appraisal conducted in accordance with--
+            (1) the Uniform Appraisal Standards for Federal Land 
+        Acquisition; and
+            (2) the Uniform Standards of Professional Appraisal 
+        Practice.
+    (c) Costs.--As a condition of the conveyance of the Federal land 
+identified for Elko County under subsection (a), the City shall pay--
+            (1) an amount equal to the appraised value determined in 
+        accordance with subsection (b); and
+            (2) all costs related to the conveyance, including all 
+        surveys, appraisals, and other administrative costs associated 
+        with the conveyance of the Federal land to the City.
+    (d) Disposition of Proceeds.--Any gross proceeds from the sale, 
+lease, or conveyance of Federal land under this section shall be 
+deposited into the special account created by the Southern Nevada 
+Public Lands Management Act of 1998 (Public Law 105-263).
+
+                TITLE VIII--FERNLEY ECONOMIC DEVELOPMENT
+
+SEC. 801. SHORT TITLE.
+
+    This title may be cited as the ``Fernley Economic Development 
+Act''.
+
+SEC. 802. LAND CONVEYANCES.
+
+    (a) Conveyance.--Subject to valid existing rights and at the 
+request of the City, the Secretary shall convey to the City, for fair 
+market value, all right, title, and interest of the United States in 
+and to the Federal land.
+    (b) Appraisal.--The Secretary shall determine fair market value of 
+the Federal land in accordance with the Federal Land Policy and 
+Management Act of 1976 (43 U.S.C. 1701) and based on an appraisal 
+conducted in accordance with--
+            (1) the Uniform Appraisal Standards for Federal Land 
+        Acquisition; and
+            (2) the Uniform Standards of Professional Appraisal 
+        Practice.
+    (c) Costs.--As a condition of the conveyance of the Federal land 
+under subsection (a), the City shall pay--
+            (1) an amount equal to the appraised value determined in 
+        accordance with subsection (b); and
+            (2) all costs related to the conveyance, including all 
+        surveys, appraisals, and other administrative costs associated 
+        with the conveyance of the Federal land to the City.
+    (d) Disposition of Proceeds.--Any gross proceeds from the sale, 
+lease, or conveyance of Federal land under this section shall be 
+deposited into the special account created by the Southern Nevada 
+Public Lands Management Act of 1998 (Public Law 105-263).
+    (e) Definitions.--In this Act:
+            (1) City.--The term ``City'' means the City of Fernley, 
+        Nevada.
+            (2) Map.--The term ``map'' means the map entitled ``Fernley 
+        Economic Development Map'' and dated October 6, 2020.
+            (3) Federal land.--The term ``Federal land'' means the 
+        approximately 12,085 acres of federally owned land generally 
+        depicted within ``Fernley Land Conveyance Boundary'' on the 
+        map.
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+
+              TITLE IX--CONVEYANCES TO THE CITY OF SPARKS
+
+SEC. 901. DEFINITIONS.
+
+    In this title:
+            (1) City.--The term ``City'' means the City of Sparks, 
+        Nevada.
+            (2) Map.--The term ``Map'' means the map entitled ``Sparks 
+        Public Purpose Conveyances'' and dated April 15, 2020.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+
+SEC. 902. CONVEYANCE OF LAND FOR USE AS A PUBLIC CEMETERY.
+
+    (a) Conveyance.--Subject to valid and existing rights and 
+notwithstanding the land use planning requirements of section 202 of 
+the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), at 
+the request of the City, the Secretary shall convey to the City without 
+consideration all right, title, and interest of the United States in 
+and to the land described in subsection (b).
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 40 acres of land depicted as ``Cemetery Conveyance'' 
+on the Map.
+    (c) Costs.--Any costs relating to the conveyance under subsection 
+(a), including the costs of surveys and administrative costs, shall be 
+paid by the City.
+    (d) Use of Land.--The land conveyed under subsection (a) shall be 
+used only for a cemetery.
+
+SEC. 903. CONVEYANCE OF LAND FOR USE AS REGIONAL PUBLIC PARKS.
+
+    (a) Conveyance.--Subject to valid and existing rights and 
+notwithstanding the land use planning requirements of section 202 of 
+the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), at 
+the request of the City, the Secretary shall convey to the City without 
+consideration all right, title, and interest of the United States in 
+and to the land described in subsection (b).
+    (b) Description of Land.--The land referred to in subsection (a) is 
+the approximately 448.16 acres depicted as ``Golden Eagle Regional 
+Park'' and 266.04 acres depicted as ``Wedekind Regional Park'' on the 
+Map.
+    (c) Costs.--Any costs relating to the conveyance under subsection 
+(a), including the costs of surveys and administrative costs, shall be 
+paid by the City.
+    (d) Use of Land.--
+            (1) In general.--The land conveyed under subsection (a) 
+        shall be used only for public parks or other public purposes 
+        consistent with the Act of June 14, 1926 (commonly known as the 
+        ``Recreation and Public Purposes Act'') (44 Stat. 741, chapter 
+        578; 43 U.S.C. 869 et seq.).
+            (2) Reversion.--If any portion of the land conveyed under 
+        subsection (a) is used in a manner that is inconsistent with 
+        the use described in paragraph (1), the land shall revert, at 
+        the discretion of the Secretary, to the United States.
+
+                      TITLE X--GENERAL PROVISIONS
+
+SEC. 1001. ADMINISTRATION OF STATE WATER RIGHTS.
+
+    Nothing in this Act affects the allocation, ownership, interest, or 
+control, as in existence on the date of the enactment of this Act, of 
+any water, water right, or any other valid existing right held by the 
+United States, an Indian Tribe, a State, or a person.
+
+SEC. 1002. AMENDMENT TO CONVEYANCE OF FEDERAL LAND IN STOREY COUNTY, 
+              NEVADA.
+
+    Section 3009(d)(1)(B) of division B of the Carl Levin and Howard P. 
+``Buck'' McKeon National Defense Authorization Act for Fiscal Year 2015 
+(128 Stat. 3751) is amended by striking the period at the end and 
+inserting the following: ``; and the land generally depicted as `BLM 
+Owned County Request Transfer' on the map entitled `Restoring Storey 
+County', dated October 22, 2020.''.
+
+SEC. 1003. MAPS AND LEGAL DESCRIPTIONS.
+
+    (a) In General.--As soon as practicable after the date of enactment 
+of this Act, the Secretary concerned shall finalize maps and legal 
+descriptions of all land to be conveyed under this Act. The maps and 
+legal descriptions shall be on file and available for public inspection 
+in appropriate offices of the Bureau of Land Management or Forest 
+Service, as applicable.
+    (b) Corrections.--The Secretary concerned and the recipients of the 
+Federal land to be conveyed under this Act may, by mutual agreement--
+            (1) make minor boundary adjustments to the Federal land to 
+        be conveyed; and
+            (2) correct any minor errors, including clerical and 
+        typographical errors, on the maps, the acreage estimate, or the 
+        legal descriptions.
+
+SEC. 1004. MINOR ERRORS.
+
+    The Secretary in consultation with the State of Nevada may make 
+minor boundary adjustments to the parcels of Federal land to be 
+conveyed under all titles of this Act and correct any minor errors in 
+the map, acreage estimate, or legal description.
+
+                    TITLE XI--GREENLINK WEST PROJECT
+
+SEC. 1101. GREENLINK WEST PROJECT.
+
+    (a) Definitions.--In this section:
+            (1) Project.--The term ``Project'' means the Greenlink West 
+        Project described in--
+                    (A) the notice of intent of the Bureau of Land 
+                Management entitled ``Notice of Intent To Prepare an 
+                Environmental Impact Statement and Potential Resource 
+                Management Plan Amendments for the Greenlink West 
+                Project in Clark, Nye, Esmeralda, Mineral, Lyon, 
+                Storey, and Washoe Counties in Nevada'' (87 Fed. Reg. 
+                25658 (May 2, 2022)); and
+                    (B) the associated administrative record for the 
+                Greenlink West Project numbered DOI-BLM-NV-0000-2022-
+                0004-EIS.
+            (2) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior, acting through the Director of the Bureau of 
+        Land Management.
+            (3) Tribe.--The term ``Tribe'' means the Walker River 
+        Paiute Tribe.
+            (4) Walker lake parcel.--The term ``Walker Lake Parcel'' 
+        means the following land in Mineral County, Nevada:
+                    (A) All land held by the Bureau of Land Management 
+                in T. 11 N., R. 29 E., secs. 35 and 36, Mount Diablo 
+                Meridian.
+                    (B) All land held by the Bureau of Reclamation in 
+                T. 10 N., R. 30 E., secs. 4, 5, 6, 8, 9, 16, 17, 20, 
+                21, 28, 29, 32, and 33, Mount Diablo Meridian.
+                    (C) All land held by the Bureau of Land Management 
+                in T. 10.5 N., R. 30 E., secs. 31 and 32, Mount Diablo 
+                Meridian.
+    (b) Project Authorization; Right-of-Way.--If the Walker Lake Parcel 
+is taken into trust for the benefit of the Tribe on, before, or after 
+the date of enactment of this Act, the consent of the Tribe for the use 
+for the Project of the portion of the Walker Lake Parcel taken into 
+trust shall be deemed to have been obtained by the Secretary subject to 
+the following:
+            (1) The use of the Walker Lake Parcel land for the Project 
+        shall be subject to review under the pending proceeding under 
+        the National Environmental Policy Act of 1969 (42 U.S.C. 4321 
+        et seq.), which shall be modified--
+                    (A) to reflect the trust title of the Walker Lake 
+                Parcel; and
+                    (B) to address any other laws applicable to rights-
+                of-way on Tribal land, including any environmental, 
+                wildlife, conservation, historic preservation, and 
+                natural resources laws.
+            (2) As soon as practicable after the date on which the 
+        Walker Lake Parcel is taken into trust for the benefit of the 
+        Tribe, the Secretary shall approve a right-of-way agreement 
+        between the Tribe and the Project applicant before the 
+        commencement of construction and installation of the Project to 
+        address applicable provisions under part 169 of title 25, Code 
+        of Federal Regulations (or successor regulations), including, 
+        with respect to compensation paid to the Tribe, term, 
+        amendment, renewal, assignment, access rights, operation and 
+        maintenance, and an annual premium usage fee consistent with 
+        prevailing rates or standards to be paid directly to the Tribe, 
+        subject to the requirement that the Secretary and the Tribe 
+        shall exercise all authority under applicable law (including 
+        regulations) with respect to the use of, and compliance with, 
+        the right-of-way.
+
+                    TITLE XII--JEAN PRISON TRANSFER
+
+SEC. 1201. RELEASE OF FEDERAL REVERSIONARY LAND INTERESTS.
+
+    (a) Definitions.--In this section:
+            (1) Patent.--The term ``Patent'' means the serial patent 
+        numbered 27-80-0056, dated December 13, 1979, recorded in Clark 
+        County, Nevada, records in book 1178, instrument 1137147 (BLM 
+        Serial Number NVN 011732).
+            (2) State.--The term ``State'' means the State of Nevada.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+    (b) Release.--Subject to valid and existing rights, the Secretary 
+shall release, convey, or otherwise quitclaim to the State, in a form 
+recordable in local county records, and subject to the approval of the 
+State, after consultation, all right, title, and remaining interest of 
+the United States in and to the land that was conveyed to the State 
+pursuant to the Patent or any other law authorizing conveyance subject 
+to restrictions or reversionary interests retained by the United 
+States, on request by the State.
+    (c) Terms and Conditions.--A conveyance authorized by subsection 
+(b) shall be subject to the following terms and conditions:
+            (1) The State shall cover, or reimburse the Secretary for, 
+        the costs incurred by the Secretary to make the conveyance, 
+        including title searches, surveys, deed preparation, attorneys' 
+        fees, and similar expenses.
+            (2) By accepting the conveyances, the State agrees to 
+        indemnify and hold harmless the United States with regard to 
+        any boundary dispute relating to any parcel conveyed under this 
+        section.
+            (3) The State of Nevada, or its successors in interest, 
+        shall--
+                    (A) manage such lands in accordance with section 
+                47504 of title 49, United States Code (relating to 
+                airport and regulations promulgated pursuant to that 
+                section); and
+                    (B) section 744 of the FAA Reauthorization Act of 
+                2024 (Public Law 118-63) as appli-
+
+
+              
+
+                cable to the development of the proposed Southern 
+                Nevada Supplemental Airport.
+
+            Passed the House of Representatives September 14, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

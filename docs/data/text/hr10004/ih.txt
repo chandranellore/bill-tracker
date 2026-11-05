@@ -1,0 +1,80 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10004 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10004
+
+To amend title 10, United States Code, to incorporate requirements for 
+   data centers for the protection of water resources, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 30, 2026
+
+Ms. Scholten (for herself and Mr. Subramanyam) introduced the following 
+ bill; which was referred to the Committee on Oversight and Government 
+   Reform, and in addition to the Committee on Armed Services, for a 
+ period to be subsequently determined by the Speaker, in each case for 
+consideration of such provisions as fall within the jurisdiction of the 
+                          committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend title 10, United States Code, to incorporate requirements for 
+   data centers for the protection of water resources, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Defending Our Energy and Water 
+Act''.
+
+SEC. 2. DATA CENTER REQUIREMENTS FOR THE PROTECTION OF WATER RESOURCES.
+
+    (a) Minimum Requirements for New Data Centers.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Administrator of the Office of 
+        Electronic Government shall revise the minimum requirements for 
+        new data centers established pursuant to section 834(b) of the 
+        Carl Levin and Howard P. ``Buck'' McKeon National Defense 
+        Authorization Act for Fiscal Year 2015 (Public Law 113-291; 44 
+        U.S.C. 3601 note) to include requirements relating to 
+        protections for water resources at such data centers, including 
+        the use of the most water efficient cooling systems.
+            (2) Extension of sunset.--Section 834(e) of the Carl Levin 
+        and Howard P. ``Buck'' McKeon National Defense Authorization 
+        Act for Fiscal Year 2015 (Public Law 113-291; 44 U.S.C. 3601 
+        note) is amended by striking ``2026'' and inserting ``2031''.
+    (b)  Energy Efficiency Targets for Data Centers.--Section 
+2921(a)(1) of title 10, United States Code, is amended--
+            (1) in subparagraph (D), by striking ``and'' at the end;
+            (2) by redesignating subparagraph (E) as subparagraph (F); 
+        and
+            (3) by inserting after subparagraph (D) the following:
+                    ``(E) identify and integrate potential water 
+                efficiency technologies to enhance resiliency at the 
+                data center and minimize the effects of the data center 
+                operation on water resources; and''.
+                                 <all>

@@ -1,0 +1,534 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8467 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8467
+
+   To reform the Payment Integrity Information Act of 2019 to ensure 
+ executive agencies focus on fraud prevention, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 23, 2026
+
+  Mr. Palmer introduced the following bill; which was referred to the 
+              Committee on Oversight and Government Reform
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To reform the Payment Integrity Information Act of 2019 to ensure 
+ executive agencies focus on fraud prevention, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Zeroing Out Monetary Benefits 
+Improperly Expended Act'' or the ``ZOMBIE Act''.
+
+SEC. 2. REFORMS TO PAYMENT INTEGRITY INFORMATION ACT OF 2019.
+
+    (a) Definitions.--Section 3351 of title 31, United States Code, is 
+amended--
+            (1) in paragraph (2)--
+                    (A) in subparagraph (A)--
+                            (i) in clause (i)--
+                                    (I) by inserting ``information on'' 
+                                before ``improper payments'';
+                                    (II) by striking ``information 
+                                with'' and inserting ``resulting in 
+                                financial loss to the Government 
+                                with''; and
+                                    (III) by striking ``and'' at the 
+                                end; and
+                            (ii) by inserting after clause (ii) the 
+                        following new clause:
+                            ``(iii) published information on improper 
+                        payments resulting in financial loss to the 
+                        Government with the annual budget justification 
+                        of the executive agency for the most recent 
+                        fiscal year;'';
+                    (B) by redesignating subparagraphs (B) and (C) as 
+                clauses (iv) and (v), respectively (and by 
+                redesignating subparagraphs (D) through (F) as 
+                subparagraphs (B) through (D), respectively);
+                    (C) in subparagraph (A)(iv), as so redesignated, by 
+                striking ``if required, has'';
+                    (D) in subparagraph (A)(v), as so redesignated, by 
+                striking ``if required, publishes'' and inserting 
+                ``published'';
+                    (E) by striking subparagraph (B), as so 
+                redesignated; and
+                    (F) by redesignating subparagraphs (C) and (D), as 
+                so redesignated, as subparagraphs (B) and (C); and
+            (2) by adding at the end the following new paragraph:
+            ``(9) Financial loss to the government.--The term 
+        `financial loss to the Government'--
+                    ``(A) means any payment or part of a payment made 
+                in excess of the correct amount authorized by law that 
+                results in a financial loss to the Federal Government; 
+                and
+                    ``(B) does not include any payment or part of a 
+                payment made to the correct person or entity for the 
+                correct amount authorized by law but not made in 
+                accordance with certain administrative procedures 
+                applicable to the executive agency (excluding any such 
+                procedure necessary to establish eligibility or to 
+                verify that any payment or part of a payment was made 
+                in such correct amount).''.
+    (b) Estimates of Improper Payments Resulting in Financial Loss to 
+the Government and Reports on Actions to Reduce Such Payments.--Section 
+3352 of title 31, United States Code, is amended--
+            (1) in the heading--
+                    (A) by inserting ``resulting in financial loss to 
+                the Government'' before ``and reports''; and
+                    (B) by striking ``reduce improper payments'' and 
+                inserting ``reduce such payments'';
+            (2) in subsection (a)--
+                    (A) in paragraph (1)--
+                            (i) in subparagraph (A), by striking 
+                        ``periodically review all programs and 
+                        activities'' and inserting ``submit annually a 
+                        list of each program and activity required to 
+                        be reported on the Program Inventory under 
+                        section 1122''; and
+                            (ii) in subparagraph (B)--
+                                    (I) by striking ``all programs and 
+                                activities'' and inserting ``each 
+                                program and activity from each such 
+                                list''; and
+                                    (II) by striking ``(3)'' and 
+                                inserting ``(2)'';
+                    (B) by striking paragraph (2);
+                    (C) by redesignating paragraph (3) as paragraph 
+                (2); and
+                    (D) in paragraph (2), as so redesignated--
+                            (i) in subparagraph (A), by striking 
+                        ``improper payments and payments whose 
+                        propriety cannot be determined'' and inserting 
+                        ``improper payments resulting in financial loss 
+                        to the Government and payments lacking 
+                        sufficient documentation to determine whether 
+                        the payments result in financial loss to the 
+                        Government'';
+                            (ii) by redesignating subparagraphs (B) and 
+                        (C) as subparagraphs (D) and (E), respectively;
+                            (iii) by inserting after subparagraph (A) 
+                        the following new subparagraphs:
+                    ``(B) Development of risk assessment guidance.--Not 
+                later than 1 year after the date of the enactment of 
+                this Act, the Secretary of the Treasury shall develop 
+                risk assessment guidance to assess the risk of improper 
+                payments resulting in financial loss to the Government 
+                that addresses the following:
+                            ``(i) The likelihood of payment errors and 
+                        the magnitude of such errors that do not result 
+                        in financial loss to the Government.
+                            ``(ii) The likelihood of payment errors and 
+                        the magnitude of such errors that do result in 
+                        financial loss to the Government.
+                            ``(iii) A formula for estimating financial 
+                        loss to the Government.
+                            ``(iv) Relevant governmentwide documents 
+                        and best practices for managing improper 
+                        payments and mitigating fraud risks in Federal 
+                        programs, such as the document of the 
+                        Government Accountability Office entitled `A 
+                        Framework for Managing Fraud Risks in Federal 
+                        Programs' (or any successor document), as 
+                        applicable and appropriate.
+                    ``(C) Scope.--In preparing a list under paragraph 
+                (1)(A), the head of each executive agency shall 
+                require, within 6 months after issuing the risk 
+                assessment guidance, a risk assessment using the 
+                guidance developed under subparagraph (B) for each 
+                program or activity listed under paragraph (1)(A) for 
+                each--
+                            ``(i) existing programs or activities prior 
+                        to the next disbursement of Federal funds with 
+                        respect to the program or activity; and
+                            ``(ii) newly authorized programs and 
+                        activities prior to any disbursement of Federal 
+                        funds with respect to the program or 
+                        activity.'';
+                            (iv) in subparagraph (D), as so 
+                        redesignated--
+                                    (I) in the heading, by striking 
+                                ``Scope'' and inserting 
+                                ``Requirements'';
+                                    (II) in the matter preceding clause 
+                                (i)--
+                                            (aa) by striking ``In 
+                                        conducting a review under 
+                                        paragraph (1), the head of each 
+                                        executive agency shall'' and 
+                                        inserting ``Risk assessments 
+                                        are to be conducted on an 
+                                        ongoing basis, but no less 
+                                        frequently than once every 3 
+                                        years, and''; and
+                                            (bb) by inserting ``, 
+                                        including with respect to fraud 
+                                        in any program or activity 
+                                        listed under paragraph (1)(A) 
+                                        that causes improper payments 
+                                        resulting in financial loss to 
+                                        the Government'' before ``, 
+                                        such as'';
+                                    (III) in clause (x), by striking 
+                                ``data systems'' and inserting ``data 
+                                assets''; and
+                                    (IV) in clause (xi)--
+                                            (aa) by inserting ``or 
+                                        improper payments'' before ``as 
+                                        assessed''; and
+                                            (bb) by inserting ``, or 
+                                        any successor document'' after 
+                                        ``(commonly known as the `Green 
+                                        Book')''; and
+                            (v) in subparagraph (E), as so 
+                        redesignated--
+                                    (I) in the heading, by striking 
+                                ``Annual report'' and inserting 
+                                ``Reports'';
+                                    (II) in the matter preceding clause 
+                                (i), by striking ``Each executive 
+                                agency shall publish an annual report'' 
+                                and inserting ``Not less than once 
+                                every 3 years, the head of each 
+                                executive agency shall publish a 
+                                report'';
+                                    (III) in clause (i), by striking 
+                                ``; and'' and inserting a semicolon;
+                                    (IV) in clause (ii), by striking 
+                                the period at the end and inserting ``; 
+                                and''; and
+                                    (V) by adding at the end the 
+                                following new clause:
+                            ``(iii) a prioritized listing of risks 
+                        identified in subparagraph (D) associated with 
+                        each program and activity listed under 
+                        paragraph (1)(A) and any corresponding 
+                        financial and administrative control to 
+                        mitigate any such risk, including the use of 
+                        the Do Not Pay Initiative (or any successor 
+                        system) and any other system or data asset 
+                        maintained by the Secretary of the Treasury or 
+                        the Inspector General of the executive agency 
+                        to prevent fraud or improper payments resulting 
+                        in financial loss to the Government prior to 
+                        making an eligibility determination to receive 
+                        Federal funds with respect to any such program 
+                        or activity listed under paragraph (1)(A), 
+                        issuing an award, or requesting a payment.'';
+            (3) in subsection (b)--
+                    (A) in the heading, by inserting ``That Result in 
+                Financial Loss to the Government'' after ``Improper 
+                Payments'';
+                    (B) in paragraph (1)--
+                            (i) by redesignating subparagraphs (A) and 
+                        (B) as subparagraphs (B) and (C), respectively;
+                            (ii) by inserting before subparagraph (B), 
+                        as so redesignated, the following new 
+                        subparagraph:
+                    ``(A) review each statistically valid estimate 
+                developed under subsection (c)(1)(A) and make a 
+                recommendation to the head of the executive agency on 
+                whether the agency estimate should be reassessed and 
+                reestablished;'';
+                            (iii) in subparagraph (B)--
+                                    (I) by inserting ``and activities'' 
+                                after ``high-priority Federal 
+                                programs''; and
+                                    (II) by inserting ``that result in 
+                                financial loss'' after ``improper 
+                                payments'' each place it appears; and
+                            (iv) in subparagraph (C)--
+                                    (I) by striking ``(A)'' and 
+                                inserting ``(B)''; and
+                                    (II) by striking ``associated'' and 
+                                inserting ``and financial loss 
+                                associated''; and
+                    (C) in paragraph (2)--
+                            (i) in the heading, by inserting ``that 
+                        result in financial loss to the government'' 
+                        after ``improper payments'';
+                            (ii) in subparagraph (A), by striking 
+                        ``shall on an annual basis'' and inserting ``, 
+                        not less frequently than once every 3 years, 
+                        shall'';
+                            (iii) in subparagraph (B)--
+                                    (I) in clause (i)--
+                                            (aa) in subclause (I)--
+
+                                                    (AA) by inserting 
+                                                ``that result in 
+                                                financial loss to the 
+                                                Government'' after 
+                                                ``improper payments''; 
+                                                and
+
+                                                    (BB) by striking 
+                                                ``; and'' and inserting 
+                                                a semicolon;
+
+                                            (bb) in subclause (II), by 
+                                        inserting ``that result in 
+                                        financial loss to the 
+                                        Government, including by making 
+                                        it harder for fraudulent actors 
+                                        to exploit the program'' after 
+                                        ``improper payments''; and
+                                            (cc) by adding at the end 
+                                        the following new subclause:
+                                    ``(III) has taken or plans to take 
+                                to reduce the percentage of improper 
+                                payments that result in financial loss 
+                                to the Government;''; and
+                                    (II) by inserting after clause (i) 
+                                the following new clause (and 
+                                redesignating the succeeding clause 
+                                accordingly):
+                            ``(ii) shall include--
+                                    ``(I) an estimate of the total 
+                                amount of the payments that result in 
+                                financial loss to the Government;
+                                    ``(II) an estimate of the total 
+                                amount of the payments that do not 
+                                result in financial loss to the 
+                                Government;
+                                    ``(III) the percentage of payments 
+                                that result in financial loss to the 
+                                Government;
+                                    ``(IV) an assessment of the portion 
+                                of the total amount of payments that 
+                                result in financial loss to the 
+                                Government that are due to fraudulent 
+                                actions by the recipient of such 
+                                payments;
+                                    ``(V) the total amount of disbursed 
+                                payments; and
+                                    ``(VI) a description of resources 
+                                or legislative changes proposed to 
+                                improve or maintain the integrity of 
+                                the relevant program or activity; 
+                                and'';
+                            (iv) in subparagraph (E)(i)--
+                                    (I) in subclause (I), by striking 
+                                ``improper payment'' and inserting 
+                                ``improper payments that result in 
+                                financial loss''; and
+                                    (II) in subclause (II), by striking 
+                                ``improper payments'' and inserting 
+                                ``improper payments that result in 
+                                financial loss''; and
+                            (v) by amending subparagraph (F) to read as 
+                        follows:
+                    ``(F) Agency liaison designation and mandatory 
+                coordination meetings.--Not less frequently than once 
+                every fiscal year, the head of each executive agency 
+                with a high-priority Federal program or activity 
+                identified under paragraph (1)(B) shall designate a 
+                senior official of the executive agency to serve as the 
+                liaison of the executive agency for work under this 
+                subchapter who shall meet for a non-audit or 
+                investigative purpose with the Director of the Office 
+                of Management and Budget (or a designee of the 
+                Director), the Commissioner of the Bureau of the Fiscal 
+                Service of the Department of the Treasury (or a 
+                designee of the Commissioner), the Inspector General of 
+                the executive agency (or a designee of the Inspector 
+                General), and the Pandemic Response Accountability 
+                Committee established under section 15010 of the CARES 
+                Act (Public Law 116-136; 134 Stat. 533) (or any 
+                successor organization) to report on any action taken 
+                during the preceding fiscal year and any planned 
+                action, including any reform to any financial or 
+                administrative control, to prevent improper payments 
+                (with a focus on improper payments that lead to 
+                financial loss to the Government) and mitigate fraud in 
+                such program or activity.'';
+            (4) in subsection (c)--
+                    (A) in the heading, by inserting ``That Result in 
+                Financial Loss to the Government'' after ``Improper 
+                Payments'';
+                    (B) in paragraph (1)--
+                            (i) by amending subparagraph (A) to read as 
+                        follows:
+                    ``(A) develop a statistically valid estimate of 
+                improper payments that result in financial loss to the 
+                Government;'';
+                            (ii) by striking subparagraph (B); and
+                            (iii) by adding at the end the following 
+                        new subparagraphs:
+                    ``(B) include such estimate in the annual budget 
+                justification of the executive agency; and
+                    ``(C) revise such estimate if the head of the 
+                executive agency determines, which may be based on a 
+                recommendation from the Director in consultation with 
+                the Secretary of the Treasury and the Inspector General 
+                of the executive agency, that there is a need to 
+                reestablish the estimate of improper payments that 
+                result in financial loss to the Government due to--
+                            ``(i) a significant change, as determined 
+                        by the agency head, to the program or 
+                        activity's appropriation or authorization;
+                            ``(ii) newly establishing the program or 
+                        activity; or
+                            ``(iii) a recommendation from the agency 
+                        Inspector General in the annual compliance 
+                        report issued under section 3353(a).''; and
+                    (C) in paragraph (2)--
+                            (i) in subparagraph (A), by inserting 
+                        ``resulting in financial loss to the 
+                        Government,'' after ``improper payment''; and
+                            (ii) in subparagraph (B), by striking 
+                        ``improper payments'' before ``estimate'';
+            (5) in subsection (d)--
+                    (A) in the heading--
+                            (i) by striking ``Reduce'' and inserting 
+                        ``Reduce and Prevent''; and
+                            (ii) by inserting ``That Result in 
+                        Financial Loss to the Government'' after 
+                        ``Improper Payments'';
+                    (B) in the matter preceding paragraph (1)--
+                            (i) by inserting ``that result in financial 
+                        loss to the Government'' after ``estimated 
+                        improper payments''; and
+                            (ii) by striking ``reduce improper 
+                        payments'' and inserting ``reduce and prevent 
+                        such payments'';
+                    (C) in paragraph (1), by inserting ``that result in 
+                financial loss to the Government (including actions 
+                used to commit fraud)'' after ``improper payments'';
+                    (D) in paragraph (2)--
+                            (i) in the matter preceding subparagraph 
+                        (A), by inserting ``that result in financial 
+                        loss to the Government'' after ``in order to 
+                        reduce improper payments'';
+                            (ii) in subparagraph (B), by striking ``; 
+                        and'' and inserting a semicolon at the end;
+                            (iii) in subparagraph (C), by striking the 
+                        period at the end and inserting ``; and''; and
+                            (iv) by adding at the end the following new 
+                        subparagraph:
+                    ``(D) access to appropriate records and data 
+                assets, whether maintained by an executive agency, a 
+                State or local government, or a private sector 
+                organization;'';
+                    (E) in paragraph (5), by striking ``; and'' and 
+                inserting a semicolon at the end;
+                    (F) in paragraph (6), by striking the period at the 
+                end and inserting ``; and''; and
+                    (G) by adding at the end the following new 
+                paragraph:
+            ``(7) information on the progress of the executive agency 
+        with respect to--
+                    ``(A) implementing the financial and administrative 
+                controls required to be established under subsection 
+                (a)(2)(E)(iii);
+                    ``(B) implementing relevant governmentwide 
+                documents and best practices for managing improper 
+                payments and mitigating fraud risks in Federal 
+                programs, such as the document of the Government 
+                Accountability Office entitled `A Framework for 
+                Managing Fraud Risks in Federal Programs' (or any 
+                successor document), as applicable and appropriate, 
+                including with respect to the identification of--
+                            ``(i) any dedicated entity that leads the 
+                        fraud risk management activity of the executive 
+                        agency;
+                            ``(ii) responsibilities of such entity, 
+                        including any program or operation for which 
+                        the entity is responsible;
+                            ``(iii) capacity, including any 
+                        limitations, to strategically manage fraud 
+                        risks;
+                            ``(iv) any program or operation within the 
+                        executive agency for which there is not a 
+                        dedicated entity that leads fraud risk 
+                        management, along with a detailed justification 
+                        for not having such a dedicated entity; and
+                            ``(v) the status of implementing the 
+                        overarching concepts with associated leading 
+                        practices identified in such document entitled 
+                        `A Framework for Managing Fraud Risks in 
+                        Federal Programs' (or any such successor 
+                        document), as applicable and appropriate;
+                    ``(C) implementing the Office of Management and 
+                Budget Circular A-123, or any successor policy, with 
+                respect to leading practices for managing fraud and 
+                improper payments risk;
+                    ``(D) identifying fraud risks and vulnerabilities, 
+                including but not limited to payroll, beneficiary 
+                payments, grants, large contracts, and purchase and 
+                travel cards; and
+                    ``(E) establishing strategies, procedures, and 
+                other steps to prevent, detect, and respond to 
+                fraud.'';
+            (6) in subsection (e)--
+                    (A) in the matter preceding paragraph (1)--
+                            (i) by inserting ``that result in financial 
+                        loss to the Government,'' after ``With respect 
+                        to improper payments''; and
+                            (ii) by striking ``the improper payments'' 
+                        and inserting ``such payments'';
+                    (B) in paragraph (1), by inserting ``that result in 
+                financial loss to the Government,'' after ``improper 
+                payments''; and
+                    (C) in paragraph (2), by inserting ``that result in 
+                financial loss to the Government,'' after ``improper 
+                payments'';
+            (7) in subsection (f)(1)--
+                    (A) in the matter preceding subparagraph (A)--
+                            (i) by inserting ``that result in financial 
+                        loss to the Government'' after ``regarding 
+                        improper payments''; and
+                            (ii) by inserting ``such'' after 
+                        ``recover'';
+                    (B) in subparagraph (B)--
+                            (i) by inserting ``Government'' before 
+                        ``Reform''; and
+                            (ii) by striking ``and'' at the end; and
+                    (C) by inserting after subparagraph (B) the 
+                following new subparagraphs (and redesignating the 
+                succeeding subparagraph accordingly):
+                    ``(C) the Committee on the Budget of the Senate;
+                    ``(D) the Committee on the Budget of the House of 
+                Representatives;
+                    ``(E) the Committee on Appropriations of the 
+                Senate;
+                    ``(F) the Committee on Appropriations of the House 
+                of Representatives; and'';
+            (8) in subsection (g)--
+                    (A) in paragraph (1), by inserting ``and 
+                periodically thereafter,'' after ``Not later than 1 
+                year after the date of enactment of this section''; and
+                    (B) in paragraph (2)(B), by striking ``prepayment 
+                and postpayment'' and inserting ``pre-award and pre-
+                payment''; and
+            (9) in subsection (i)(2)--
+                    (A) in subparagraph (C), by striking ``25'' and 
+                inserting ``10''; and
+                    (B) in subparagraph (D), by striking ``25'' and 
+                inserting ``75''.
+                                 <all>

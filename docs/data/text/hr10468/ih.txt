@@ -1,0 +1,314 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10468 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10468
+
+    To provide financial and technical assistance to State utility 
+commissions to improve the oversight and regulation of energy utilities 
+ and ensure the provision of safe and reliable energy utility services 
+         at just and reasonable rates, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 16, 2026
+
+  Mr. Tonko introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To provide financial and technical assistance to State utility 
+commissions to improve the oversight and regulation of energy utilities 
+ and ensure the provision of safe and reliable energy utility services 
+         at just and reasonable rates, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``State Energy Oversight Act of 
+2026''.
+
+SEC. 2. STATE ENERGY OVERSIGHT PROGRAM.
+
+    (a) Establishment.--The Secretary shall establish a program to 
+provide financial and technical assistance to States and other entities 
+to support State utility commissions and other State agencies in the 
+oversight and regulation of the provision of safe and reliable electric 
+service and natural gas service at just and reasonable rates.
+    (b) Eligible Uses of Financial Assistance by States.--Financial 
+assistance made available to a State under the program established 
+under subsection (a) may be used to--
+            (1) improve the technical and administrative capacities and 
+        capabilities of a State utility commission, which may include--
+                    (A) supporting data collection and access to 
+                existing datasets, modeling, including access to 
+                modeling software and subscriptions utilized by energy 
+                utilities, and analysis in rate cases and other 
+                proceedings before the State utility commission;
+                    (B) hiring, training, and retaining staff of the 
+                State utility commission for the purposes of conducting 
+                work of a scientific, technical, engineering, 
+                mathematical, legal, accounting, or otherwise highly 
+                specialized or skilled nature; and
+                    (C) conducting analysis of energy affordability 
+                within the State, including participation in energy 
+                affordability programs, the percentage of gross 
+                household income spent on costs of electric service and 
+                natural gas service, and the financial impacts of such 
+                costs by income level and energy usage;
+            (2) improve transparency of and participation in rate cases 
+        and other proceedings before the State utility commission, 
+        including by supporting--
+                    (A) public education;
+                    (B) improved notification of potentially interested 
+                parties of State utility commission activities;
+                    (C) promotion of well-defined, public timelines and 
+                deadlines for rate cases and other proceedings before 
+                the State utility commission; and
+                    (D) administration of an office of public 
+                participation or other activities to support broader 
+                participation and awareness of rate cases and other 
+                proceedings before the State utility commission;
+            (3) support administration of an independent public 
+        advocate with the expertise and authority to intervene in rate 
+        cases and other proceedings before the State utility commission 
+        on behalf of residential and small business energy utility 
+        customers, which may include improving the technical capacities 
+        and capabilities of such advocates, and such an advocate may be 
+        administered--
+                    (A) as an independent State agency;
+                    (B) within the office of the State's attorney 
+                general;
+                    (C) as an independent office within the State 
+                utility commission; or
+                    (D) as an independent nonprofit organization 
+                selected by the State;
+            (4) support administration of an intervenor funding program 
+        to encourage participation of individuals and nonprofit 
+        organizations representing the interests of residential and 
+        small business energy utility customers in rate cases and other 
+        proceedings before the State utility commission, which may 
+        include improving the technical capacities and capabilities of 
+        such individuals and nonprofit organizations;
+            (5) develop and implement alternatives to existing rate 
+        design structures, which may include--
+                    (A) energy affordability programs, including 
+                percentage-of-income payment programs and arrears 
+                management programs; and
+                    (B) rate structures that better align energy 
+                utility incentives with customer outcomes, including 
+                performance-based rate structures that may seek to 
+                incentivize predetermined, measurable targets for peak 
+                demand reduction, energy efficiency, customer 
+                engagement and information access, affordability 
+                (including reductions in arrears or disconnections), 
+                customer enrollment in energy affordability or 
+                efficiency programs, or public policy goals of the 
+                State; and
+            (6) improve coordination among State agencies, energy 
+        utilities, community action agencies, and other relevant 
+        organizations to reduce barriers for residential and small 
+        business energy utility customers to access energy utility bill 
+        assistance, weatherization assistance, and other incentive 
+        programs.
+    (c) Allocation of Financial Assistance to States.--The Secretary 
+shall determine a formula to allocate financial assistance to States 
+under the program established under subsection (a), which may be--
+            (1) based on the population of each State, the amount of 
+        energy used in each State, the price of energy in each State, 
+        or the number of residential and small business energy utility 
+        customers within each State determined to have a high 
+        percentage of gross household income spent on energy utility 
+        costs or otherwise struggling with energy affordability, 
+        provided that each State receives not less than 1 percent of 
+        funding made available under this section; or
+            (2) adopted from an existing formula utilized by the 
+        Secretary to allocate financial assistance to States.
+    (d) Maintenance of Effort.--Each State receiving financial 
+assistance under the program established under subsection (a) shall 
+provide reasonable assurance to the Secretary that it has in effect 
+policies and procedures designed to assure that such financial 
+assistance will be used to supplement, and not to supplant, State and 
+other sources of funding for activities described in subsection (b).
+    (e) Reporting.--
+            (1) In general.--Each year, each State receiving financial 
+        assistance under the program established under subsection (a) 
+        shall report to the Secretary, at a time and in a manner 
+        prescribed by the Secretary, the following information:
+                    (A) The uses of financial assistance received under 
+                such program, including how assistance has been used 
+                to--
+                            (i) improve the technical and 
+                        administrative capacities and capabilities of 
+                        the relevant State utility commission;
+                            (ii) improve transparency of and 
+                        participation in rate cases and other 
+                        proceedings before the State utility 
+                        commission, including efforts to improve 
+                        outreach and engagement of residential and 
+                        small business energy utility customers;
+                            (iii) support the administration of an 
+                        office of public participation;
+                            (iv) support the administration of an 
+                        independent public advocate;
+                            (v) support the administration of an 
+                        intervenor funding program; and
+                            (vi) support the development of 
+                        alternatives to existing rate design 
+                        structures, including energy affordability 
+                        programs and performance-based rate structures.
+                    (B) A description of energy utility rates within 
+                the State, including average bills of electric service 
+                and natural gas service for residential and small 
+                business customers, disaggregated by rate class, 
+                average delivery and supply costs, average fixed charge 
+                costs, and authorized return on equity for each energy 
+                utility regulated by the State utility commission.
+                    (C) A description of the outcomes of recent rate 
+                cases and other proceedings before the State utility 
+                commission.
+                    (D) A description of efforts to make public 
+                hearings, workshops, and State utility commission 
+                meetings, as well as the outcomes of such proceedings, 
+                more accessible to residential and small business 
+                energy utility customers.
+                    (E) A description of the participation of public 
+                advocates and other intervenors representing the 
+                interests of residential and small business energy 
+                utility customers in rate cases and other proceedings 
+                before the State utility commission.
+                    (F) Information on the availability and use of 
+                incentives, arrears management programs, and other 
+                programs administered by the State, energy utilities in 
+                the State, or third-parties in the State to reduce the 
+                percentage of gross household income residential and 
+                small business energy utility customers spend on energy 
+                utility costs within such State.
+            (2) Public availability.--
+                    (A) Reports.--The Secretary shall ensure all 
+                reports submitted by States under this subsection are 
+                posted online and available to the public.
+                    (B) Database.--Based on the reports required by 
+                this subsection, the Secretary shall direct the 
+                Administrator of the Energy Information Administration 
+                to publish and maintain a national database of energy 
+                utility rates, disaggregated by rate class, including 
+                residential, commercial, industrial, and any other rate 
+                class established by the relevant State utility 
+                commission, that is updated not less than once per 
+                year. The Administrator of the Energy Information 
+                Administration shall, to the extent practicable, 
+                coordinate with existing data collection efforts of the 
+                Energy Information Administration to avoid duplication 
+                of reporting burdens on States and energy utilities.
+            (3) Failure to report.--Upon determining that a State 
+        receiving financial assistance under the program established 
+        under subsection (a) has failed to fulfill the reporting 
+        requirements of this subsection, the Secretary shall withhold 
+        future assistance to be allocated to such State under such 
+        program and redistribute future assistance to the remaining 
+        States.
+    (f) Technical Assistance.--
+            (1) In general.--In carrying out the program established 
+        under subsection (a), the Secretary shall provide information, 
+        recommendations, best practices, and other forms of technical 
+        assistance related to the consideration of rate cases, the 
+        design of rate structures, the design and implementation of 
+        energy affordability programs, and other matters that typically 
+        come before a State utility commission, to States, State 
+        utility commissions, energy utilities, and not-for-profit 
+        entities that own or operate distribution or transmission 
+        facilities to provide retail electric or natural gas services.
+            (2) Education and training of commissioners, commission 
+        employees, and public advocates.--
+                    (A) In general.--In carrying out the program 
+                established under subsection (a), the Secretary may 
+                provide financial assistance to nonprofit organizations 
+                that have experience in providing educational and 
+                training opportunities for State utility commission 
+                commissioners, State utility commission employees, or 
+                public advocates to support the development and 
+                delivery of educational programs, curricula, workshops, 
+                conferences, and other convenings to train State 
+                utility commission commissioners, State utility 
+                commission employees, or public advocates on issues 
+                that may include rate case analysis, utility cost-of-
+                service and rate design studies, analysis of 
+                appropriate return on equity, performance-based 
+                ratemaking, energy affordability, grid modernization, 
+                emerging energy technologies, and other issues that may 
+                come before a State utility commission.
+                    (B) Condition on assistance.--As a condition of 
+                receiving financial assistance under this paragraph, a 
+                nonprofit organization shall agree that any educational 
+                program, curriculum, workshop, conference, or other 
+                convening to be developed and delivered using such 
+                assistance will be developed and delivered without 
+                financial support from, or material direction or 
+                editorial control by, any entity regulated by a State 
+                utility commission, or by any trade association or 
+                other representative of such an entity.
+            (3) Fellowship program.--In carrying out the program 
+        established under subsection (a), the Secretary may provide 
+        financial assistance for recent graduates of academic 
+        institutions and energy professionals to temporarily work at 
+        State utility commissions, State energy offices, and public 
+        advocate offices to improve the technical and administrative 
+        capacities and capabilities of such State utility commissions 
+        and offices.
+            (4) Funding set-aside.--The Secretary shall set-aside 10 
+        percent of funding made available under this section for the 
+        purpose of carrying out this subsection.
+    (g) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary to carry out this section $50,000,000 for 
+each of fiscal years 2027 through 2031.
+    (h) Definitions.--In this section:
+            (1) Energy utility.--The term ``energy utility'' means--
+                    (A) a State regulated electric utility; and
+                    (B) a State regulated gas utility.
+            (2) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (3) State.--The term ``State'' means a State, the District 
+        of Columbia, Puerto Rico, or any territory or possession of the 
+        United States.
+            (4) State regulated electric utility.--The term ``State 
+        regulated electric utility'' has the meaning given such term in 
+        section 3(18) of the Public Utility Regulatory Policies Act of 
+        1978 (16 U.S.C. 2602(18)).
+            (5) State regulated gas utility.--The term ``State 
+        regulated gas utility'' has the meaning given such term in 
+        section 302(3) of the Public Utility Regulatory Policies Act of 
+        1978 (15 U.S.C. 3202(3)).
+            (6) State utility commission.--The term ``State utility 
+        commission'' means--
+                    (A) with respect to the regulation of a State 
+                regulated electric utility, a State regulatory 
+                authority (as defined in section 3(17) of the Public 
+                Utility Regulatory Policies Act of 1978 (16 U.S.C. 
+                2602(17))); and
+                    (B) with respect to the regulation of a State 
+                regulated gas utility, a State regulatory authority (as 
+                defined in section 302(8) of the Public Utility 
+                Regulatory Policies Act of 1978 (15 U.S.C. 3202(8))).
+                                 <all>

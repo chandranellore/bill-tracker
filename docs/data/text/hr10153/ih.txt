@@ -1,0 +1,110 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10153 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10153
+
+ To amend the Internal Revenue Code of 1986 to treat income earned by 
+       United States merchant mariners as foreign earned income.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            August 27, 2026
+
+  Mr. Fitzpatrick (for himself, Mr. Suozzi, Ms. Malliotakis, and Mr. 
+    Boyle of Pennsylvania) introduced the following bill; which was 
+              referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to treat income earned by 
+       United States merchant mariners as foreign earned income.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Mariner Tax Fairness Act''.
+
+SEC. 2. INCOME EARNED BY UNITED STATES MERCHANT MARINERS TREATED AS 
+              FOREIGN EARNED INCOME.
+
+    (a) In General.--Section 911(d) of the Internal Revenue Code of 
+1986 is amended by redesignating paragraphs (5) through (9) as 
+paragraphs (6) through (10), respectively, and by inserting after 
+paragraph (4) the following new paragraph:
+            ``(5) Special rules for united states merchant mariners.--
+                    ``(A) In general.--In the case of an individual who 
+                is a United States merchant mariner--
+                            ``(i) notwithstanding paragraph (1), such 
+                        individual shall be treated as a qualified 
+                        individual with respect to the days described 
+                        in subparagraph (B)(i)(II) during which such 
+                        individual was actively employed on a 
+                        qualifying vessel while such vessel was used in 
+                        the United States foreign trade, and in 
+                        applying subsections (b)(2)(A), (c)(1)(B)(ii), 
+                        and (c)(2)(A)(ii) with respect to such 
+                        individual, only such days shall be taken into 
+                        account, and
+                            ``(ii) notwithstanding subsection 
+                        (b)(1)(A), any earned income received by such 
+                        individual which is attributable to such 
+                        employment with respect to such days shall 
+                        (subject to subsection (b)(1)(B)) be treated as 
+                        foreign earned income.
+                    ``(B) Definitions.--For purposes of this 
+                paragraph--
+                            ``(i) United states merchant mariner.--The 
+                        term `United States merchant mariner' means any 
+                        individual who--
+                                    ``(I) is a citizen or resident of 
+                                the United States, and
+                                    ``(II) during any period of 12 
+                                consecutive months, is actively 
+                                employed on a qualifying vessel, while 
+                                such vessel is used in the United 
+                                States foreign trade, during at least 
+                                90 full days in such period.
+                            ``(ii) Qualifying vessel.--The term 
+                        `qualifying vessel' means a self-propelled (or 
+                        a combination self-propelled and non-self-
+                        propelled) United States flag vessel of not 
+                        less than 6,000 deadweight tons used 
+                        exclusively in the United States foreign trade.
+                            ``(iii) United states foreign trade.--The 
+                        term `United States foreign trade' has the 
+                        meaning given such term by section 1355(a)(7) 
+                        (determined by inserting `(or a possession 
+                        thereof)' after `United States').
+                            ``(iv) United states flag vessel.--The term 
+                        `United States flag vessel' has the meaning 
+                        given such term by section 1355(a)(5).''.
+    (b) Conforming Amendments.--
+            (1) Section 911(f)(1) of such Code is amended by striking 
+        ``subsection (d)(6)'' and inserting ``subsection (d)(7)''.
+            (2) Section 1411(d)(2) of such Code is amended by striking 
+        ``section 911(d)(6)'' and inserting ``section 911(d)(7)''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after the date of the enactment of 
+this Act.
+                                 <all>

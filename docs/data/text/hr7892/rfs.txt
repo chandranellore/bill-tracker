@@ -1,0 +1,187 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7892 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 7892
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 11, 2026
+
+     Received; read twice and referred to the Committee on Health, 
+                     Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Higher Education Act of 1965 to require to the Secretary 
+ of Education to use an identity fraud detection system to review each 
+FAFSA to determine whether the FAFSA presents a reasonable suspicion of 
+                            identity fraud.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``No Aid for Ghost Students Act of 
+2026''.
+
+SEC. 2. IDENTITY FRAUD DETECTION SYSTEM.
+
+    (a) Identity Fraud Detection System.--Section 483 of the Higher 
+Education Act of 1965 (20 U.S.C. 1090) is amended by adding at the end 
+the following:
+    ``(e) Identity Fraud Detection System.--
+            ``(1) In general.--In addition to, or in conjunction with, 
+        other verification processes carried out under this title, the 
+        Secretary shall--
+                    ``(A) use an identity fraud detection system to 
+                screen and assess each application submitted under this 
+                section on or after October 1, 2026, to determine 
+                whether the application presents a reasonable suspicion 
+                of identity fraud based on one or more indicators 
+                associated with suspected fraud risk; and
+                    ``(B) carry out notifications in accordance with 
+                paragraph (2).
+            ``(2) Notification of reasonable suspicion of identity 
+        fraud.--If the Secretary determines that an application 
+        submitted under this section presents a reasonable suspicion of 
+        identity fraud, the Secretary shall--
+                    ``(A) provide the applicant with notice--
+                            ``(i) of such determination;
+                            ``(ii) that the information described in 
+                        subparagraph (B) will be transmitted to each 
+                        institution of higher education designated by 
+                        the applicant in the application; and
+                            ``(iii) that the applicant is subject to 
+                        additional identity verification requirements 
+                        in accordance with section 487(a)(15)(B); and
+                    ``(B) transmit to each institution designated by 
+                the applicant in the application, a notice--
+                            ``(i) that such application presents a 
+                        reasonable suspicion of identity fraud; and
+                            ``(ii) that the applicant is subject to 
+                        additional identity verification requirements 
+                        to be carried out by the institution in 
+                        accordance with section 487(a)(15)(B), before 
+                        the institution may disburse Federal financial 
+                        aid under this title to such applicant.
+            ``(3) Congressional notices and report.--
+                    ``(A) Notices.--The Secretary shall submit to the 
+                authorizing committees--
+                            ``(i) not later than November 1, 2026, a 
+                        written description of the identity fraud 
+                        detection system required under this 
+                        subsection; and
+                            ``(ii) not later than 30 days after 
+                        implementing any substantial change to such 
+                        system, a written description and rationale for 
+                        such change.
+                    ``(B) Annual evaluation and report.--Not later than 
+                October 1, 2027, and annually thereafter, the Secretary 
+                shall conduct an evaluation of the effectiveness of the 
+                identity fraud detection system carried out under this 
+                subsection, and submit to the authorizing committees a 
+                report on the use and effectiveness of such system.
+            ``(4) Rule of construction.--Nothing in this subsection 
+        shall be construed to prohibit the Secretary from meeting the 
+        requirements of paragraph (1), in whole or in part, through a 
+        capability or system used by the Secretary on or before the 
+        date of enactment of the No Aid for Ghost Students Act of 
+        2026.''.
+    (b) Additional Verification Requirements.--
+            (1) Amendments.--Section 487(a)(15) of the Higher Education 
+        Act of 1965 (20 U.S.C. 1094(a)(15)) is amended--
+                    (A) by striking ``(15) The institution 
+                acknowledges'' and inserting ``(15)(A) The institution 
+                acknowledges''; and
+                    (B) by adding at the end the following new 
+                subparagraph:
+            ``(B) Beginning on October 1, 2026, the institution will 
+        not disburse Federal financial aid under this title to an 
+        applicant with an application under section 483 that presents a 
+        reasonable suspicion of identity fraud under section 483(e), 
+        unless the institution, directly or through a contracted third-
+        party service provider and in accordance with procedures 
+        established by the Secretary--
+                            ``(i) before the disbursement of such aid--
+                                    ``(I) determines that a reasonable 
+                                suspicion of identity fraud is not 
+                                present by confirming the identity of 
+                                such applicant using--
+                                            ``(aa) in-person identity 
+                                        verification;
+                                            ``(bb) live, synchronous 
+                                        audiovisual identity 
+                                        verification;
+                                            ``(cc) identity 
+                                        verification compliant with 
+                                        National Institute of Standards 
+                                        and Technology Identity 
+                                        Assurance Level 2 (NIST IAL2), 
+                                        or an equivalent successor;
+                                            ``(dd) any additional 
+                                        identity verification method 
+                                        approved by the Secretary that 
+                                        provides a level of identity 
+                                        assurance that is equal to or 
+                                        greater than the level of 
+                                        assurance provided by an 
+                                        identify verification method 
+                                        described in items (aa) through 
+                                        (cc); or
+                                            ``(ee) a combination of two 
+                                        or more of the verification 
+                                        methods described in items (aa) 
+                                        through (dd); and
+                                    ``(II) notifies the Secretary that 
+                                the identity of the applicant has been 
+                                verified; and
+                            ``(ii) maintains a record of such identity 
+                        verification.''.
+            (2) Guidelines on institutional verification procedures.--
+        Not later than October 1, 2026, the Secretary of Education 
+        shall establish guidelines with respect to identity 
+        verification procedures to be carried out by institutions of 
+        higher education under subparagraph (B) of section 487(a)(15) 
+        of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(15)), as 
+        amended by paragraph (1).
+
+SEC. 3. PROGRAM REVIEW PRIORITY CATEGORY.
+
+    Section 498A(a)(2) of the Higher Education Act of 1965 (20 U.S.C. 
+1099c-1(a)(2)) is amended--
+            (1) in subparagraph (E), by striking ``and'' at the end;
+            (2) by redesignating subparagraph (F) as subparagraph (G); 
+        and
+            (3) by inserting after subparagraph (E) the following:
+                    ``(F) institutions that have demonstrated a pattern 
+                of disbursing, on or after October 1, 2026, Federal 
+                financial aid under this title for an award year to 
+                students with an application under section 483 for such 
+                award year that presented a reasonable suspicion of 
+                identity fraud under section 483(e), except that the 
+                Secretary shall exclude any institution that 
+                demonstrates to the Secretary that the institution is 
+                in compliance with the requirements of section 
+                487(a)(15)(B); and''.
+
+            Passed the House of Representatives June 10, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

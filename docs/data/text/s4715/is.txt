@@ -1,0 +1,515 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4715 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4715
+
+To amend the Outer Continental Shelf Lands Act to establish fitness to 
+operate standards and decommissioning escrow accounts for offshore oil 
+               and gas operators, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 9, 2026
+
+Mr. Schiff (for himself and Mr. Padilla) introduced the following bill; 
+   which was read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Outer Continental Shelf Lands Act to establish fitness to 
+operate standards and decommissioning escrow accounts for offshore oil 
+               and gas operators, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Offshore Leasing Standards and 
+Accountability Act of 2026''.
+
+SEC. 2. FITNESS TO OPERATE STANDARDS FOR OIL AND GAS OPERATORS ON THE 
+              OUTER CONTINENTAL SHELF.
+
+    (a) In General.--The Outer Continental Shelf Lands Act (43 U.S.C. 
+1331 et seq.) is amended by adding at the end the following:
+
+``SEC. 34. FITNESS TO OPERATE STANDARDS FOR OFFSHORE OIL AND GAS 
+              ACTIVITIES.
+
+    ``(a) Requirement for Approvals.--Beginning on the date on which 
+the Secretary issues or revises regulations under subsection (b)(5), 
+the Secretary may not issue, extend the term of, or approve the 
+transfer of a lease, easement, or right-of-way for oil or gas 
+exploration, development, or production on the outer Continental Shelf 
+with respect to a recipient responsible party unless the recipient 
+responsible party is certified as fit to operate in accordance with 
+subsection (b).
+    ``(b) Certification of Fitness To Operate.--
+            ``(1) In general.--The Secretary shall certify a recipient 
+        responsible party as fit to operate based on--
+                    ``(A) the past compliance of the recipient 
+                responsible party, and any covered entity of the 
+                recipient responsible party, with Federal, State, and 
+                local environmental and safety laws and regulations, 
+                including deadlines and requirements related to 
+                environmental reclamation, decommissioning, and worker 
+                safety;
+                    ``(B) the financial solvency and capacity of the 
+                recipient responsible party, and any covered entity of 
+                the recipient responsible party, to weather market 
+                shocks and fulfill current and projected 
+                decommissioning liabilities; and
+                    ``(C) any other criteria with respect to the 
+                recipient responsible party, and any covered entity of 
+                the recipient responsible party, the Secretary may 
+                establish by regulation.
+            ``(2) Minimum qualifications.--The Secretary may not 
+        certify a recipient responsible party as fit to operate unless 
+        the recipient responsible party--
+                    ``(A) demonstrates, and the Secretary verifies, 
+                that--
+                            ``(i) the recipient responsible party, and 
+                        any covered entity of the recipient responsible 
+                        party, did not violate any deadline or 
+                        requirement of Federal, State, or local 
+                        environmental or safety laws or regulations 
+                        related to environmental reclamation, 
+                        decommissioning, or worker safety during the 
+                        period of 10 years ending on (as applicable) 
+                        the date on which the request for certification 
+                        was made or the date on which the Secretary 
+                        makes an assessment under paragraph (4)(B);
+                            ``(ii) the recipient responsible party, and 
+                        any covered entity of the recipient responsible 
+                        party, are not in violation of this Act or any 
+                        other Federal, State, or local environmental or 
+                        safety law or regulation, including with 
+                        respect to any overdue decommissioning orders 
+                        for oil and gas infrastructure located on the 
+                        outer Continental Shelf;
+                            ``(iii) the recipient responsible party, 
+                        and any covered entity of the recipient 
+                        responsible party, took timely and effective 
+                        corrective actions to address any worker safety 
+                        incidents, oil spills, or other unauthorized 
+                        pollutant discharges, and infrastructure 
+                        failures or disruptions disclosed under 
+                        paragraph (B)(iv);
+                            ``(iv) the recipient responsible party, and 
+                        any covered entity of the recipient responsible 
+                        party, do not owe any rentals, royalties, or 
+                        other fees for any Federal or State lease, 
+                        easement, or right-of-way;
+                            ``(v) a Federal or State authority did not 
+                        reduce the rate for royalties on oil or gas 
+                        produced under any Federal or State lease held 
+                        by the recipient responsible party, or any 
+                        covered entity of the recipient responsible 
+                        party, during the period of 10 years ending on 
+                        (as applicable) the date on which the request 
+                        for certification was made or the date on which 
+                        the Secretary makes an assessment under 
+                        paragraph (4)(B);
+                            ``(vi) the recipient responsible party, and 
+                        any parent company of the recipient responsible 
+                        party, possess an investment grade credit 
+                        rating from a nationally recognized statistical 
+                        rating organization, as such term is defined in 
+                        section 3(a)(62) of the Securities Exchange Act 
+                        of 1934;
+                            ``(vii) the recipient responsible party, 
+                        and any parent company of the recipient 
+                        responsible party, have not filed a petition 
+                        for bankruptcy under title 11, United States 
+                        Code, during the period of 10 years ending on 
+                        (as applicable) the date on which the request 
+                        for certification was made or the date on which 
+                        the Secretary makes an assessment under 
+                        paragraph (4)(B); and
+                            ``(viii) the recipient responsible party, 
+                        and any covered entity of the recipient 
+                        responsible party, have sufficient financial 
+                        capacity to--
+                                    ``(I) fulfill all current and 
+                                projected decommissioning liabilities, 
+                                including demonstration that the 
+                                liabilities disclosed under 
+                                subparagraph (B)(i)(I) are fully 
+                                collateralized or otherwise financially 
+                                secured;
+                                    ``(II) implement and maintain up-
+                                to-date risk mitigation technologies, 
+                                environmental protection measures, and 
+                                worker safety measures, including the 
+                                use of effective blow-out preventer 
+                                systems and well-control processes 
+                                pursuant to the requirements specified 
+                                in section 250.730 of title 30, Code of 
+                                Federal Regulations (or any successor 
+                                regulations); and
+                                    ``(III) support a sufficient amount 
+                                of staff needed for maintenance and 
+                                oversight of oil and gas infrastructure 
+                                on the outer Continental Shelf in 
+                                accordance with environmental, health, 
+                                and safety requirements; and
+                    ``(B) provides to the Secretary a disclosure of--
+                            ``(i) current and projected decommissioning 
+                        liabilities of the recipient responsible party, 
+                        and any covered entity of the recipient 
+                        responsible party, related to all leases, 
+                        easements, and rights-of-way administered by a 
+                        Federal or State authority, including--
+                                    ``(I) domestic and global oil and 
+                                gas decommissioning liabilities; and
+                                    ``(II) the value of decommissioning 
+                                obligations relative to the proven 
+                                value of oil and gas reserves of the 
+                                areas subject to such leases, 
+                                easements, and rights-of-way;
+                            ``(ii) past results of inspections of oil 
+                        and gas infrastructure operated by the 
+                        recipient responsible party and any covered 
+                        entity of the recipient responsible party;
+                            ``(iii) the number, length of ownership, 
+                        and decommissioning status of each non-
+                        producing oil and gas well located on an area 
+                        subject to a State or Federal oil and gas lease 
+                        held by the recipient responsible party or any 
+                        covered entity of the recipient responsible 
+                        party; and
+                            ``(iv) the number of worker safety 
+                        incidents, oil spills or other unauthorized 
+                        pollutant discharges, and infrastructure 
+                        failures or disruptions that have occurred on 
+                        areas subject to State and Federal oil and gas 
+                        leases held by the recipient responsible party, 
+                        or any covered entity of the recipient 
+                        responsible party, during the period of 15 
+                        years ending on (as applicable) the date on 
+                        which the request for certification was made or 
+                        the date on which the Secretary makes an 
+                        assessment under paragraph (4)(B).
+            ``(3) Initial request for certification.--A recipient 
+        responsible party may request to be certified as fit to operate 
+        pursuant to the process established by regulation under 
+        paragraph (5).
+            ``(4) Maintenance of certification.--
+                    ``(A) Requirement.--A certification that the holder 
+                of a lease, easement, or right-of-way for oil or gas 
+                exploration, development, or production on the outer 
+                Continental Shelf issued, extended, or transferred 
+                after the date on which the Secretary issues or revises 
+                regulations under paragraph (5) is fit to operate shall 
+                be maintained in accordance with subparagraph (B).
+                    ``(B) Annual compliance verification.--
+                            ``(i) In general.--The Secretary shall 
+                        annually assess whether each holder of a lease, 
+                        easement, or right-of-way described in 
+                        subparagraph (A) remains in compliance with 
+                        standards established pursuant to paragraph 
+                        (5).
+                            ``(ii) Suspension of certification.--If the 
+                        Secretary determines under subparagraph (A) 
+                        that a holder of a lease, easement, or right-
+                        of-way described in subparagraph (A) is not in 
+                        compliance with the standards established 
+                        pursuant to paragraph (5), the Secretary shall 
+                        suspend the certification and impose one or 
+                        more of the following penalties until such 
+                        holder complies with such standards:
+                                    ``(I) Suspend the applicable lease, 
+                                easement, or right-of-way pursuant to 
+                                section 5(a)(1).
+                                    ``(II) Issue fines or other civil 
+                                penalties.
+                                    ``(III) Require supplemental 
+                                financial assurance in an amount equal 
+                                to the total expected cost of 
+                                decommissioning.
+                                    ``(IV) Issue an order to the holder 
+                                of the lease, easement, or right-of-way 
+                                to commence decommissioning, including 
+                                a requirement that such entity develop 
+                                and submit a decommissioning plan 
+                                pursuant to section 250.1704 of title 
+                                30, Code of Federal Regulations (or 
+                                successor regulations), for approval by 
+                                the Secretary, and issue a notice to 
+                                any previous holders of the lease, 
+                                easement, or right-of-way to commence 
+                                joint and several liability 
+                                proceedings.
+            ``(5) Regulations.--Not later than 1 year after the date of 
+        enactment of this section, the Secretary shall issue or revise 
+        regulations to--
+                    ``(A) establish standards which the Secretary shall 
+                use to determine whether to certify a recipient 
+                responsible party as fit to operate;
+                    ``(B) establish a process for recipient responsible 
+                parties to request such certification; and
+                    ``(C) carry out any other requirements of this 
+                section.
+    ``(c) Report to Congress.--Not later than 1 year after the 
+Secretary issues or revises regulations under subsection (b)(5), and 
+annually thereafter, the Secretary shall submit to Congress a report 
+that includes--
+            ``(1) a summary of the most recent assessments made under 
+        subsection (b)(4)(B), including a list of--
+                    ``(A) each person that holds an active or inactive 
+                lease, easement, or right-of-way for oil or gas 
+                exploration, development, or production on the outer 
+                Continental Shelf that failed to meet any of the 
+                standards established pursuant to subsection (b)(5);
+                    ``(B) the specific standards for which the person 
+                is or was non-compliant, disaggregated by--
+                            ``(i) person; and
+                            ``(ii) lease, easement, and right-of-way; 
+                        and
+                    ``(C) enforcement actions taken by the Department 
+                of the Interior against each person identified under 
+                subparagraph (A);
+            ``(2) decommissioning cost estimates for each lease, 
+        easement, and right-of-way for oil or gas exploration, 
+        development, or production on the outer Continental Shelf, as 
+        calculated by the Secretary pursuant to section 5(k)(2), and 
+        any modifications to such estimates since the previous report; 
+        and
+            ``(3) the amount of funds currently held in each 
+        decommissioning escrow accounts established pursuant to section 
+        5(k).
+    ``(d) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary $30,000,000 for each of fiscal years 2027 
+through 2031 to carry out the requirements of this section.
+    ``(e) Definitions.--In this section:
+            ``(1) Covered entity.--The term `covered entity', with 
+        respect to a recipient responsible party, means--
+                    ``(A) any parent company of the recipient 
+                responsible party;
+                    ``(B) any subsidiary company of the recipient 
+                responsible party;
+                    ``(C) any entity that the recipient responsible 
+                party enters into a contract with to construct, 
+                develop, or operate a facility on the outer Continental 
+                Shelf; and
+                    ``(D) any entity that--
+                            ``(i) shares officers, directors, or key 
+                        managerial personnel with any entity specified 
+                        in subparagraph (A) or (B); or
+                            ``(ii) is a predecessor to any entity 
+                        specified in subparagraph (A) or (B).
+            ``(2) Decommissioning.--The term `decommissioning', with 
+        respect to oil and gas infrastructure on the outer Continental 
+        Shelf, means--
+                    ``(A) ending oil and gas operations;
+                    ``(B) permanently plugging all wells;
+                    ``(C) monitoring the efficacy of activities to end 
+                such operations, including monitoring the safety and 
+                soundness of plugged wells; and
+                    ``(D) returning the area subject to the lease, 
+                easement, or right-of-way to a condition that meets the 
+                environmental reclamation requirements of the 
+                Department of the Interior and any other Federal agency 
+                that has jurisdiction over such operations.
+            ``(3) Parent company.--The term `parent company' means a 
+        company that directly or indirectly controls another company.
+            ``(4) Recipient responsible party.--The term `recipient 
+        responsible party' means a person seeking the issuance, 
+        extension, or transfer of a lease, easement, or right-of-way 
+        for oil or gas exploration, development, or production on the 
+        outer Continental Shelf.
+            ``(5) Subsidiary company.--The term `subsidiary company'--
+                    ``(A) means any company that is owned or controlled 
+                directly or indirectly by another company; and
+                    ``(B) includes any subsidiary of the company that 
+                is so owned or controlled.''.
+    (b) Conforming Amendment.--Section 5(b) of the Outer Continental 
+Shelf Lands Act (43 U.S.C. 1334(b)) is amended by inserting ``, 
+including the regulations issued or revised under section 34 relating 
+to fitness to operate'' after ``regulations issued under this Act''.
+
+SEC. 3. DECOMMISSIONING ESCROW ACCOUNTS.
+
+    Section 5 of the Outer Continental Shelf Lands Act (43 U.S.C. 1334) 
+is amended by adding at the end the following:
+    ``(k) Escrow Account for Decommissioning Liability.--
+            ``(1) In general.--The holder of an oil and gas lease 
+        shall, in accordance with this subsection, make payments to an 
+        interest-bearing escrow account, established and administered 
+        by the Secretary, in order to fully meet the total cost of 
+        decommissioning the oil and gas infrastructure located on the 
+        area subject to the lease.
+            ``(2) Decommissioning cost estimate.--
+                    ``(A) In general.--For each oil and gas lease, the 
+                Secretary, or an independent third-party entity 
+                designated by the Secretary, shall calculate and 
+                periodically update a probabilistic estimate of the 
+                total cost of decommissioning existing and proposed oil 
+                and gas infrastructure, including platforms, wells, and 
+                pipelines, located on the area subject to such lease.
+                    ``(B) Initial estimate.--The Secretary, or the 
+                independent third-party, shall calculate an initial 
+                estimate of the total costs described in subparagraph 
+                (A) prior to the issuance of a new lease.
+                    ``(C) Reevaluation and updates.--The Secretary, or 
+                the independent third-party, shall reevaluate and, if 
+                necessary, update the estimate of the total costs 
+                described in subparagraph (A) at a minimum--
+                            ``(i) not less frequently than once every 2 
+                        years, to reflect any changes in such total 
+                        costs;
+                            ``(ii) prior to the approval of a 
+                        development and production plan pursuant to 
+                        section 25;
+                            ``(iii) prior to the end of the schedule 
+                        for payments established under paragraph (3); 
+                        and
+                            ``(iv) following the disbursal of funds 
+                        from the escrow accounts for a use approved 
+                        under paragraph (4).
+            ``(3) Payment schedule.--
+                    ``(A) In general.--The Secretary shall establish a 
+                mandatory schedule for payments required by paragraph 
+                (1).
+                    ``(B) Deadlines to establish schedules.--
+                            ``(i) New leases.--With respect to the 
+                        issuance, extension, or transfer of an oil and 
+                        gas lease after the date of enactment of this 
+                        subsection, the Secretary shall establish the 
+                        schedule for payments prior to such issuance, 
+                        extension, or transfer.
+                            ``(ii) Existing leases.--With respect to 
+                        any lease in effect as of the date of enactment 
+                        of this subsection, the Secretary shall 
+                        establish the schedule for payments by not 
+                        later than 1 year after such date of enactment.
+                    ``(C) Minimum payments by 5 years.--Each schedule 
+                of payments established under subparagraph (A) shall 
+                provide that the total amount of payments made to the 
+                escrow account by the date that is 5 years after the 
+                schedule is established be not less than the total 
+                decommissioning costs for all oil and gas 
+                infrastructure located on the area of the applicable 
+                lease.
+                    ``(D) Initial payments.--No lease may be issued, 
+                and no development and production plan may be approved 
+                under section 25, unless the recipient responsible 
+                party or leaseholder makes a payment to the escrow 
+                account in an amount equal to the greater of--
+                            ``(i) 25 percent of the average cost to 
+                        decommission oil and gas infrastructure located 
+                        on a typical lease at similar depths; and
+                            ``(ii) 25 percent of the total 
+                        decommissioning costs for all oil and gas 
+                        infrastructure proposed to be installed on the 
+                        area subject to the lease pursuant to the plan.
+                    ``(E) Lease extensions and transfers.--
+                            ``(i) Missed payments.--The Secretary may 
+                        not extend the term of, or approve the transfer 
+                        of, a lease if the holder of the lease owes any 
+                        outstanding payments to the escrow account.
+                            ``(ii) Adoption of payment schedule.--The 
+                        Secretary may not approve the transfer of a 
+                        lease unless the recipient responsible party 
+                        agrees to adopt the schedule for payments 
+                        established for the lease.
+                    ``(F) Adjustments.--The Secretary shall adjust a 
+                schedule for payments established under subparagraph 
+                (A) to reflect any update to the applicable cost 
+                estimate under paragraph (2)(C).
+                    ``(G) Supplemental financial assurances.--If the 
+                combined amount of the funds in an escrow account for a 
+                lease and any supplemental financial assurances 
+                provided by the holder of the lease exceeds the total 
+                decommissioning cost estimate calculated by the 
+                Secretary pursuant to paragraph (2), the Secretary 
+                shall correspondingly reduce the supplemental financial 
+                assurances required until the combined figure is 
+                equivalent to the decommissioning cost estimate.
+                    ``(H) Interest.--Any interest paid on funds in an 
+                escrow account established under paragraph (1) shall 
+                become part of the principal funds in the account.
+                    ``(I) Amounts from joint and several liability.--
+                All funds accrued from previous holders of an oil and 
+                gas lease as a result of joint and several liability 
+                for the purposes of decommissioning shall be deposited 
+                into the corresponding escrow account.
+                    ``(J) Return of remaining funds after 
+                decommissioning.--After decommissioning is complete, 
+                any funds remaining in an escrow account for a lease 
+                established under paragraph (1) shall be returned to 
+                any parties that made payments to the escrow account, 
+                excluding any amounts deposited pursuant to 
+                subparagraph (I), based on the proportion of the 
+                payments made by the respective party.
+            ``(4) Use of funds.--
+                    ``(A) In general.--The holder of a lease may only 
+                use funds in an escrow account established under 
+                paragraph (1)--
+                            ``(i) for the purposes of decommissioning 
+                        the oil and gas infrastructure located on the 
+                        area subject to the lease; and
+                            ``(ii) if the use is approved by the 
+                        Secretary.
+                    ``(B) No use as collateral.--No person may commit 
+                funds held in an escrow account established under 
+                paragraph (1) as collateral.
+            ``(5) Penalties.--If the required payments into an escrow 
+        account established under paragraph (1) are delinquent by more 
+        than 60 days, the Secretary shall--
+                    ``(A) raise the royalty rate for the applicable 
+                lease at a rate sufficient to recover the delinquent 
+                amount within 6 months and deposit the recovered amount 
+                into the applicable escrow account established under 
+                paragraph (1); or
+                    ``(B) suspend the lease, pursuant to section 
+                5(a)(2), until the holder of the lease provides the 
+                delinquent amount.
+            ``(6) Definitions.--In this subsection, the terms 
+        `decommissioning', `parent company', and `recipient responsible 
+        party' have the meanings given such terms, respectively, in 
+        section 34.''.
+
+SEC. 4. RESTRICTION ON TEMPORARY ABANDONMENT OF WELLS.
+
+    Section 5 of the Outer Continental Shelf Lands Act (43 U.S.C. 1334) 
+is amended by adding at the end the following:
+    ``(l) Restriction on Temporary Abandonment of Wells.--
+            ``(1) In general.--The Secretary--
+                    ``(A) may not approve the placement of an oil well 
+                in temporary abandonment status for a period longer 
+                than 3 years; and
+                    ``(B) may only approve such placement after 
+                submission and validation of an accompanying economic 
+                analysis verifying the potential for temporary 
+                abandonment to improve operational stability of the oil 
+                well or mitigate environmental impacts of operating the 
+                oil well.
+            ``(2) Extension.--Notwithstanding paragraph (1)(A), the 
+        Secretary may, on a one-time basis for an oil well, extend the 
+        maximum period the oil well may be placed in temporary 
+        abandonment status to 5 years if the Secretary determines such 
+        extension is necessary to ensure operational stability or 
+        environmental safety.''.
+                                 <all>

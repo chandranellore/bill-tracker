@@ -1,0 +1,65 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1526 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 1526
+
+   To amend title 28, United States Code, to limit the authority of 
+ district courts to provide injunctive relief, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           February 24, 2025
+
+     Mr. Issa (for himself, Mr. Van Orden, and Mr. Weber of Texas) 
+ introduced the following bill; which was referred to the Committee on 
+                             the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend title 28, United States Code, to limit the authority of 
+ district courts to provide injunctive relief, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``No Rogue Rulings Act'' as the 
+``NORRA''.
+
+SEC. 2. LIMITATION ON AUTHORITY OF UNITED STATES DISTRICT COURTS TO 
+              PROVIDE INJUNCTIVE RELIEF.
+
+    (a) In General.--Chapter 85 of title 28, United States Code, is 
+amended by adding at the end the following:
+``Sec. 1370. Limitation on authority to provide injunctive relief
+    ``Notwithstanding any other provision of law, no United States 
+district court shall issue any order providing for injunctive relief, 
+except in the case of such an order that is applicable only to limit 
+the actions of a party to the case before such district court with 
+respect to the party seeking injunctive relief from such district 
+court.''.
+    (b) Table of Sections.--The table of sections for such chapter is 
+amended by adding at the end the following:
+
+``1370. Limitation on authority to provide injunctive relief.''.
+                                 <all>

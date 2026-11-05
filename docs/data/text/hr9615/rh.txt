@@ -1,0 +1,156 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9615 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 717
+119th CONGRESS
+  2d Session
+                                H. R. 9615
+
+                          [Report No. 119-818]
+
+    To support the recycling and recovery of lithium-ion batteries.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              July 9, 2026
+
+Mrs. Miller-Meeks introduced the following bill; which was referred to 
+                  the Committee on Energy and Commerce
+
+                           September 14, 2026
+
+   Additional sponsors: Mr. Ruiz, Mr. Menendez, and Mrs. Harshbarger
+
+                           September 14, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+[For text of introduced bill, see copy of bill as introduced on July 9, 
+                                 2026]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To support the recycling and recovery of lithium-ion batteries.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Battery Recycling for America's 
+Competitive Economy Act'' or the ``BRACE Act''.
+
+SEC. 2. END OF LIFE LITHIUM-ION BATTERY MANAGEMENT.
+
+    (a) Definitions.--In this Act:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Environmental Protection Agency.
+            (2) Battery.--The term ``battery'' has the meaning given 
+        such term in section 273.9 of title 40, Code of Federal 
+        Regulations (or any successor regulations).
+            (3) Destination facility.--The term ``destination 
+        facility'' has the meaning given such term in section 273.9 of 
+        title 40, Code of Federal Regulations (or any successor 
+        regulations).
+            (4) Large quantity handler of universal waste.--The term 
+        ``large quantity handler of universal waste'' has the meaning 
+        given such term in section 273.9 of title 40, Code of Federal 
+        Regulations (or any successor regulations).
+            (5) Lithium-ion battery.--The term ``lithium-ion battery'' 
+        means a battery that uses the movement of lithium ions between 
+        two electrodes to store and release energy.
+    (b) Interim Requirements for Lithium-ion Batteries.--Until the date 
+on which the Administrator issues the rule pursuant to subsection (c), 
+in lieu of the requirements described in section 273.60(a) of title 40, 
+Code of Federal Regulations (or any successor regulations), a 
+destination facility that stores lithium-ion batteries prior to 
+recycling such lithium-ion batteries shall comply with--
+            (1) the requirements described in sections 273.33(a)(1), 
+        273.35, 273.36, and 273.37 of title 40, Code of Federal 
+        Regulations (or any successor regulations), which shall apply 
+        as if the destination facility were a large quantity handler of 
+        universal waste; and
+            (2) the requirements described in section 273.60(b) of 
+        title 40, Code of Federal Regulations (or any successor 
+        regulations), which shall apply as if the destination facility 
+        did not store the lithium-ion batteries prior to recycling such 
+        lithium-ion batteries.
+    (c) Universal Waste Rulemaking for Lithium-ion Batteries.--
+            (1) In general.--Not later than 18 months after the date of 
+        enactment of this Act, the Administrator shall issue a rule 
+        regarding the management of lithium-ion batteries as universal 
+        waste.
+            (2) Contents.--In issuing the rule pursuant to paragraph 
+        (1), the Administrator shall consider including in such rule, 
+        in addition to any other issue that arises as part of the 
+        notice and comment period for such rule, the following:
+                    (A) Universal waste requirements specially tailored 
+                for lithium-ion batteries.
+                    (B) Elements of the interim requirements for 
+                lithium-ion batteries specified in subsection (b), as 
+                appropriate.
+                    (C) Any additional regulatory changes to support 
+                the recycling of lithium-ion batteries and recovery of 
+                critical minerals, while maintaining protections for 
+                health and the environment.
+                    (D) Additional safety requirements needed to 
+                address gaps in existing protections.
+            (3) Rule of construction.--Nothing in this subsection shall 
+        be construed to limit any future rulemaking of the 
+        Environmental Protection Agency regarding lithium-ion 
+        batteries.
+
+SEC. 3. TECHNICAL UPDATES TO THE MERCURY-CONTAINING AND RECHARGEABLE 
+              BATTERY MANAGEMENT ACT.
+
+    Section 104(a) of the Mercury-Containing and Rechargeable Battery 
+Management Act (42 U.S.C. 14323(a)) is amended by striking ``the 
+regulations promulgated by the Environmental Protection Agency at 60 
+Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995'' and 
+inserting ``part 273 of title 40, Code of Federal Regulations (or any 
+successor regulations)''.
+                                                 Union Calendar No. 717
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 9615
+
+                          [Report No. 119-818]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+    To support the recycling and recovery of lithium-ion batteries.
+
+_______________________________________________________________________
+
+                           September 14, 2026
+
+  Reported with an amendment, committed to the Committee of the Whole 
+       House on the State of the Union, and ordered to be printed

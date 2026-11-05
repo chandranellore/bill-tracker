@@ -1,0 +1,107 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7128 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 7128
+
+To extend the Terrorism Risk Insurance Program, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            January 16, 2026
+
+  Mr. Flood (for himself and Mr. Garbarino) introduced the following 
+    bill; which was referred to the Committee on Financial Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To extend the Terrorism Risk Insurance Program, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``TRIA Program Reauthorization Act of 
+2026''.
+
+SEC. 2. EXTENSION.
+
+    Section 108(a) of the Terrorism Risk Insurance Act of 2002 (15 
+U.S.C. 6701 note) is amended by striking ``2027'' and inserting 
+``2034''.
+
+SEC. 3. IMPROVEMENTS TO CERTIFICATION PROCESS.
+
+    Section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 
+U.S.C. 6701 note) is amended--
+            (1) in subparagraph (B)--
+                    (A) in clause (i), by striking ``or'' at the end;
+                    (B) in clause (ii), by striking ``$5,000,000.'' and 
+                inserting ``$25,000,000; or''; and
+                    (C) by adding at the end the following:
+                            ``(iii) the Secretary did not certify such 
+                        act as an act of terrorism before the 
+                        expiration of the 90-day period following the 
+                        publication of a notice in the Federal Register 
+                        under subparagraph (D)(i).''; and
+            (2) by striking subparagraph (D) and inserting the 
+        following:
+                    ``(D) Notice requirements.--
+                            ``(i) In general.--The Secretary shall, not 
+                        later than 30 days after beginning the process 
+                        of determining whether to certify an act as an 
+                        act of terrorism, publish a notice in the 
+                        Federal Register that informs the public that 
+                        the Secretary is in the process of determining 
+                        whether to certify an act as an act of 
+                        terrorism.
+                            ``(ii) Additional notice permitted.--The 
+                        Secretary may, as the Secretary determines 
+                        appropriate, notify the public, through 
+                        publication in the Federal Register, or 
+                        otherwise, that an act is not being evaluated 
+                        by the Secretary to determine whether it should 
+                        be certified as an act of terrorism.''.
+
+SEC. 5. TECHNICAL AMENDMENTS.
+
+    (a) In General.--Section 103(e)(7)(E)(i) of the Terrorism Risk 
+Insurance Act of 2002 (15 U.S.C. 6701 note) is amended--
+            (1) in subclause (I)--
+                    (A) by striking ``2022'' and inserting ``2029''; 
+                and
+                    (B) by striking ``2024'' and inserting ``2031'';
+            (2) in subclause (II)--
+                    (A) by striking ``2023'' and inserting ``2030'';
+                    (B) by striking ``2029'' and inserting ``2036''; 
+                and
+                    (C) by striking ``2024'' and inserting ``2031''; 
+                and
+            (3) in subclause (III)--
+                    (A) by striking ``2029'' and inserting ``2036''; 
+                and
+                    (B) by striking ``2024'' and inserting ``2031''.
+    (b) Clarification.--The Terrorism Risk Insurance Act of 2002 (15 
+U.S.C. 6701 note) is amended by striking ``Terrorism Insurance 
+Program'' each place it appears and inserting ``Terrorism Risk 
+Insurance Program''.
+                                 <all>

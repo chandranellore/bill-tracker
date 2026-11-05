@@ -1,0 +1,113 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10918 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10918
+
+    To amend the Clean Air Act to prohibit the Administrator of the 
+     Environmental Protection Agency from requiring the continuous 
+ monitoring of the net heating value or related parameters of certain 
+          combustion control devices, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 29, 2026
+
+   Mr. Arrington (for himself, Mr. Rulli, and Mr. Goldman of Texas) 
+ introduced the following bill; which was referred to the Committee on 
+                          Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Clean Air Act to prohibit the Administrator of the 
+     Environmental Protection Agency from requiring the continuous 
+ monitoring of the net heating value or related parameters of certain 
+          combustion control devices, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Natural Gas Dominance Act''.
+
+SEC. 2. PROHIBITION ON REQUIRING CONTINUOUS NHV MONITORING.
+
+    (a) Standards of Performance for New Stationary Sources.--Section 
+111 of the Clean Air Act (42 U.S.C. 7411) is amended by adding at the 
+end the following:
+    ``(k) Crude Oil and Natural Gas Facilities.--
+            ``(1) Prohibition on requiring continuous nhv monitoring.--
+        In carrying out this section, the Administrator may not require 
+        the owner or operator of a crude oil and natural gas facility 
+        to continuously monitor the net heating value (or a related 
+        parameter) of a combustion control device, including a flare 
+        and enclosed combustion device.
+            ``(2) Net heating value defined.--In this subsection, the 
+        term `net heating value' means NHV<INF>cz</INF> or 
+        NHV<INF>dil</INF> (as each such term is defined in section 
+        63.670(m) of title 40, Code of Federal Regulations (as in 
+        effect on the date of enactment of this subsection)).''.
+    (b) Hazardous Air Pollutants.--Section 112(n)(4) of the Clean Air 
+Act (42 U.S.C. 7412(n)(4)) is amended by adding at the end the 
+following:
+                    ``(C) Prohibition on requiring continuous nhv 
+                monitoring.--
+                            ``(i) In general.--In carrying out this 
+                        section, the Administrator may not require the 
+                        owner or operator of an oil and gas exploration 
+                        or production well or a natural gas 
+                        transmission and storage facility to 
+                        continuously monitor the net heating value (or 
+                        a related parameter) of a combustion control 
+                        device, including a flare and enclosed 
+                        combustion device.
+                            ``(ii) Net heating value defined.--In this 
+                        subsection, the term `net heating value' means 
+                        NHV<INF>cz</INF> or NHV<INF>dil</INF> (as each 
+                        such term is defined in section 63.670(m) of 
+                        title 40, Code of Federal Regulations (as in 
+                        effect on the date of enactment of this 
+                        subparagraph)).''.
+
+SEC. 3. DURATION OF ROUTING TO FLARES OR CONTROL DEVICES BY CERTAIN 
+              WELLS.
+
+    (a) Prohibition on Reducing Maximum Allowed Duration During 
+Malfunctions or Safety Incidents.--The Administrator of the 
+Environmental Protection Agency may not promulgate a rule that reduces, 
+to a number of hours below 72 hours, the maximum number of hours that 
+an owner or operator of a well that is complying with paragraph (a) of 
+section 60.5391c, or paragraph (a) of section 60.5377b, of title 40, 
+Code of Federal Regulations (or any successor regulations), may 
+temporarily route associated gas to a flare or control device during a 
+malfunction or incident that endangers the safety of operator personnel 
+or the public.
+    (b) Allowed Duration During Service Interruptions.--The owner or 
+operator of a well complying with paragraph (a)(1) of section 60.5391c, 
+or paragraph (a)(1) of section 60.5377b, of title 40, Code of Federal 
+Regulations (or any successor regulations), may route associated gas to 
+a flare or control device for the duration of a temporary interruption 
+in service from the gathering or pipeline system, or an amount of time 
+that the Administrator of the Environmental Protection Agency 
+determines to be necessary that is no less than 90 days, whichever is 
+less.
+                                 <all>

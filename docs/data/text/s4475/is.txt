@@ -1,0 +1,994 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4475 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4475
+
+         To improve Federal permitting, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             April 30, 2026
+
+ Mr. McCormick introduced the following bill; which was read twice and 
+       referred to the Committee on Environment and Public Works
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+         To improve Federal permitting, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Unlock American Energy and Jobs Act 
+of 2026''.
+
+SEC. 2. ENERGY INFRASTRUCTURE UNDER THE FEDERAL WATER POLLUTION CONTROL 
+              ACT.
+
+    (a) State Certification Programs.--Section 401 of the Federal Water 
+Pollution Control Act (33 U.S.C. 1341) is amended--
+            (1) by striking the heading and section designation and all 
+        that follows through ``may be.'' at the end of subsection 
+        (a)(1) and inserting the following:
+
+``SEC. 401. CERTIFICATION.
+
+    ``(a) State Certifications.--
+            ``(1) Certification required.--
+                    ``(A) Definitions.--In this paragraph:
+                            ``(i) Certification application.--The term 
+                        `certification application' means a request 
+                        from an applicant for a certification described 
+                        in subparagraph (B).
+                            ``(ii) Certifying authority.--The term 
+                        `certifying authority', with respect to a 
+                        certification described in subparagraph (B), 
+                        means the applicable entity described in 
+                        subclause (I), (II), or (III) of subparagraph 
+                        (B)(i).
+                            ``(iii) Discharge.--The term `discharge', 
+                        without any qualification, means the discharge 
+                        of a pollutant from a point source.
+                    ``(B) Compliance with limitations.--
+                            ``(i) In general.--Any applicant for a 
+                        Federal license or permit to conduct an 
+                        activity, including the construction or 
+                        operation of facilities, that may result in a 
+                        discharge from a point source into the waters 
+                        of the United States shall provide the Federal 
+                        licensing or permitting agency a certification 
+                        that the discharge will comply with applicable 
+                        water quality requirements from--
+                                    ``(I) the State in which the 
+                                discharge originates or will originate;
+                                    ``(II) if appropriate, the 
+                                interstate water pollution control 
+                                agency with jurisdiction over the 
+                                waters of the United States at the 
+                                point where the discharge originates or 
+                                will originate; or
+                                    ``(III) if no State or interstate 
+                                water pollution control agency has the 
+                                authority to give such a certification, 
+                                the Administrator.
+                            ``(ii) Certification of no limitation and 
+                        standard.--
+                                    ``(I) In general.--In the case of 
+                                any activity described in clause (i) 
+                                for which there is not an applicable 
+                                effluent limitation or other limitation 
+                                under sections 301(b) and 302 and for 
+                                which there is not an applicable 
+                                standard under sections 306 and 307, 
+                                the certifying authority shall so 
+                                certify.
+                                    ``(II) Effect.--A certification 
+                                under subclause (I) does not satisfy 
+                                section 511(c).
+                            ``(iii) Certification required.--
+                                    ``(I) Construction prohibited until 
+                                certification.--Construction for which 
+                                a certification is required under this 
+                                subparagraph may not begin until the 
+                                certification has been obtained, unless 
+                                the requirement for the certification 
+                                has been waived in accordance with this 
+                                paragraph.
+                                    ``(II) Effect of denial.--If a 
+                                certifying authority denies a 
+                                certification application, the Federal 
+                                license or permit for which the 
+                                certification application was made may 
+                                not be granted.
+                            ``(iv) Scope of certification.--In 
+                        determining whether to issue a certification 
+                        under this subparagraph and in determining what 
+                        conditions to impose on a certification under 
+                        this subparagraph, a certifying authority may 
+                        only consider whether the point source 
+                        discharge for which the certification 
+                        application was made complies with applicable 
+                        water quality requirements.
+                    ``(C) Required procedures.--
+                            ``(i) Notice and hearings.--Each certifying 
+                        authority shall establish procedures for--
+                                    ``(I) public notice in the case of 
+                                all certification applications;
+                                    ``(II) to the extent the certifying 
+                                authority determines to be appropriate, 
+                                public hearings in connection with 
+                                specific certification applications; 
+                                and
+                                    ``(III) a prefiling meeting as 
+                                described in clause (ii).
+                            ``(ii) Prefiling meeting.--
+                                    ``(I) Request.--Before submitting a 
+                                certification application, the 
+                                prospective applicant may request a 
+                                prefiling meeting with the certifying 
+                                authority--
+                                            ``(aa) to ensure that the 
+                                        certifying authority receives 
+                                        early notification of projects 
+                                        for which a certification under 
+                                        subparagraph (B) is necessary; 
+                                        and
+                                            ``(bb) to discuss 
+                                        informational needs with the 
+                                        certifying authority before 
+                                        submitting the application.
+                                    ``(II) Response required.--If a 
+                                prospective applicant requests a 
+                                prefiling meeting with a certifying 
+                                authority pursuant to subclause (I), 
+                                the certifying authority shall--
+                                            ``(aa) respond to the 
+                                        request not later than 30 days 
+                                        after the date on which the 
+                                        request is received; and
+                                            ``(bb) hold the prefiling 
+                                        meeting with the prospective 
+                                        applicant by not later than 60 
+                                        days after the date on which 
+                                        the request is received.
+                            ``(iii) Denials of certification; 
+                        conditions on certification.--
+                                    ``(I) Denial requirement.--A 
+                                certifying authority may only deny a 
+                                certification application if the 
+                                certifying authority determines, based 
+                                on clear and convincing evidence, that 
+                                there is no modification to or 
+                                reasonable condition on the activities 
+                                of the applicant that could make it 
+                                possible for the activity to avoid 
+                                violating the applicable water quality 
+                                requirements.
+                                    ``(II) Requirements for 
+                                conditions.--A certifying authority may 
+                                include a condition in a certification 
+                                under this subparagraph that requires 
+                                an applicant to modify the activity of 
+                                the applicant only if the certifying 
+                                authority determines, based on clear 
+                                and convincing evidence, that the 
+                                modification is--
+                                            ``(aa) necessary for the 
+                                        activity to avoid violating the 
+                                        applicable water quality 
+                                        requirements;
+                                            ``(bb) the least burdensome 
+                                        of possible modifications for 
+                                        the applicant, taking into 
+                                        account--
+
+                                                    ``(AA) technical 
+                                                feasibility;
+
+                                                    ``(BB) cost;
+
+                                                    ``(CC) the purpose 
+                                                of the applicant in 
+                                                proposing the activity;
+
+                                                    ``(DD) impacts on 
+                                                the schedule for the 
+                                                activity; and
+
+                                                    ``(EE) commercial 
+                                                viability of the 
+                                                activity; and
+
+                                            ``(cc) consistent with the 
+                                        requirements of the Federal 
+                                        license or permit that is the 
+                                        subject of the certification.
+                                    ``(III) Individual licenses and 
+                                permits.--If a certifying authority 
+                                denies a certification application for 
+                                an individual license or permit, the 
+                                certifying authority shall provide to 
+                                the applicable Federal licensing or 
+                                permitting agency--
+                                            ``(aa) the specific 
+                                        applicable water quality 
+                                        requirements with which the 
+                                        discharge will not comply;
+                                            ``(bb) a statement 
+                                        explaining why the discharge 
+                                        will not comply with the 
+                                        identified applicable water 
+                                        quality requirements; and
+                                            ``(cc) if the denial is due 
+                                        to insufficient information, a 
+                                        description of the specific 
+                                        water quality data or 
+                                        information, if any, that would 
+                                        be needed to ensure that the 
+                                        discharge from the proposed 
+                                        project will comply with 
+                                        applicable water quality 
+                                        requirements.
+                                    ``(IV) General licenses or 
+                                permits.--If a certifying authority 
+                                denies a certification application for 
+                                a general license or permit, the 
+                                certifying authority shall provide to 
+                                the applicable Federal licensing or 
+                                permitting agency--
+                                            ``(aa) the specific 
+                                        applicable water quality 
+                                        requirements with which 
+                                        discharges that could be 
+                                        authorized by the general 
+                                        license or permit will not 
+                                        comply;
+                                            ``(bb) a statement 
+                                        explaining why discharges that 
+                                        could be authorized by the 
+                                        general license or permit will 
+                                        not comply with the identified 
+                                        applicable water quality 
+                                        requirements; and
+                                            ``(cc) if the denial is due 
+                                        to insufficient information, a 
+                                        description of the specific 
+                                        water quality data or 
+                                        information, if any, that would 
+                                        be needed to ensure that the 
+                                        range of discharges that could 
+                                        be authorized by the general 
+                                        license or permit from 
+                                        potential projects will comply 
+                                        with applicable water quality 
+                                        requirements.
+                            ``(iv) Review.--
+                                    ``(I) In general.--Not later than 
+                                60 days after the date on which a 
+                                Federal licensing or permitting agency 
+                                receives a notice described in clause 
+                                (iii) or a certification under 
+                                subparagraph (B) that includes 
+                                conditions to that certification, the 
+                                Federal licensing or permitting agency 
+                                shall complete a review of the process 
+                                undertaken by the certifying authority 
+                                in reviewing the applicable 
+                                certification application to determine 
+                                whether the certifying authority 
+                                established a reasonable period of time 
+                                within which to review that 
+                                certification application in accordance 
+                                with subparagraph (D)(ii).
+                                    ``(II) Denials.--If, after carrying 
+                                out a review under subclause (I) of the 
+                                process undertaken by a certifying 
+                                authority with respect to a denial of a 
+                                certification application, a Federal 
+                                licensing or permitting agency 
+                                determines that the certifying 
+                                authority did not, in determining the 
+                                reasonable period of time within which 
+                                to review the certification 
+                                application, consider all of the 
+                                factors described in subclause (I), 
+                                (II), or (III) of subparagraph (D)(ii), 
+                                the Federal licensing or permitting 
+                                agency shall--
+                                            ``(aa) deem the certifying 
+                                        authority to have failed to act 
+                                        on the certification 
+                                        application; and
+                                            ``(bb) pursuant to 
+                                        subparagraph (D)(iii), consider 
+                                        the requirement for a 
+                                        certification under 
+                                        subparagraph (B) waived.
+                                    ``(III) Conditions.--If, after 
+                                carrying out a review under subclause 
+                                (I) of the process undertaken by a 
+                                certifying authority with respect to 
+                                including conditions to a certification 
+                                under subparagraph (B), a Federal 
+                                licensing or permitting agency 
+                                determines that the certifying 
+                                authority did not, in determining the 
+                                reasonable period of time within which 
+                                to review the applicable certification 
+                                application, consider all of the 
+                                factors described in subclauses (I), 
+                                (II), and (III) of subparagraph 
+                                (D)(ii), the Federal licensing or 
+                                permitting agency shall consider the 
+                                certification conditions void.
+                    ``(D) Review period.--
+                            ``(i) In general.--A certifying authority 
+                        shall, subject to this subparagraph, issue to 
+                        the applicable Federal licensing or permitting 
+                        authority a final action on a certification 
+                        application within a reasonable period of time, 
+                        which--
+                                    ``(I) shall be determined by the 
+                                certifying authority by not later than 
+                                60 days after the date on which the 
+                                certification application is received 
+                                by the certifying authority; but
+                                    ``(II)(aa) shall begin on the date 
+                                on which the certification application 
+                                is received by the certifying 
+                                authority; and
+                                    ``(bb) shall not exceed 1 year from 
+                                the date on which the certifying 
+                                authority receives the certification 
+                                application.
+                            ``(ii) Determination of reasonable 
+                        period.--In determining the reasonable period 
+                        of time under clause (i)(I), a certifying 
+                        authority shall consider--
+                                    ``(I) the complexity of the project 
+                                described in the certification 
+                                application;
+                                    ``(II) the nature of any potential 
+                                discharge from that project; and
+                                    ``(III) the potential need for 
+                                additional study or evaluation of water 
+                                quality effects from the discharge.
+                            ``(iii) Failure to act within period.--If a 
+                        certifying authority fails or refuses to issue 
+                        a final action on a certification application 
+                        by the end of the reasonable period of time 
+                        established under this subparagraph, the 
+                        requirement for a certification under 
+                        subparagraph (B) shall be waived.
+                            ``(iv) No pausing or tolling.--The 
+                        reasonable period of time established for a 
+                        certification application under this 
+                        subparagraph may not be paused or tolled for 
+                        any reason.
+                    ``(E) Final action.--
+                            ``(i) In general.--After completion of the 
+                        reasonable period of time established under 
+                        subparagraph (D) and any review that may be 
+                        required under subparagraph (C)(iv) for a 
+                        certification application, the certifying 
+                        authority or Federal licensing or permitting 
+                        authority, as applicable, shall apply only 1 of 
+                        the following final actions to the 
+                        certification application:
+                                    ``(I) The certification application 
+                                is granted.
+                                    ``(II) The certification 
+                                application is granted with conditions.
+                                    ``(III) The certification 
+                                application is denied.
+                                    ``(IV) The certification 
+                                requirements under subparagraph (B) 
+                                have been waived in accordance with 
+                                this paragraph with respect to the 
+                                activity for which the certification 
+                                application was submitted.
+                            ``(ii) No other final actions.--No other 
+                        final action may apply to a certification 
+                        application except as described in clause (i).
+                    ``(F) Enforcement of conditions.--The Federal 
+                licensing or permitting authority to which a 
+                certification under this subsection was issued shall be 
+                responsible for enforcing any conditions included with 
+                that certification.'';
+            (2) in subsection (a) (as so amended)--
+                    (A) in paragraph (2), by striking ``(2) Upon 
+                receipt'' and inserting the following:
+            ``(2) Notice to administrator; effect on other states.--On 
+        receipt'';
+                    (B) in paragraph (3), by striking ``(3) The 
+                certification'' and inserting the following:
+            ``(3) Fulfillment of requirements.--The certification'';
+                    (C) in paragraph (4), by striking ``(4) Prior to'' 
+                and inserting the following:
+            ``(4) Review for compliance.--Prior to'';
+                    (D) in paragraph (5), by striking ``(5) Any 
+                Federal'' and inserting the following:
+            ``(5) Suspension and revocation.--Any Federal''; and
+                    (E) in paragraph (6), by striking ``(6) Except 
+                with'' and inserting the following:
+            ``(6) Applicability to certain facilities.--Except with'';
+            (3) in subsection (b), by striking ``(b) Nothing'' and 
+        inserting the following:
+    ``(b) Compliance With Other Provisions of Law Setting Applicable 
+Water Quality Requirements.--Nothing'';
+            (4) in subsection (c), by striking ``(c) In order'' and 
+        inserting the following:
+    ``(c) Authority of Secretary of the Army To Permit Use of Spoil 
+Disposal Areas by Federal Licensees or Permittees.--In order'';
+            (5) by striking subsection (d) and inserting the following:
+    ``(d) Limitations and Monitoring Requirements of Certification.--
+Any certification provided under this section shall set forth any 
+effluent limitations and other limitations and monitoring requirements 
+necessary to ensure that any discharge into navigable waters will 
+comply with applicable water quality requirements and shall become a 
+condition on any Federal license or permit subject to the provisions of 
+this section.''; and
+            (6) by adding at the end the following:
+    ``(e) Judicial Review.--
+            ``(1) Energy projects.--
+                    ``(A) Definition of affected certification 
+                action.--In this paragraph, the term `affected 
+                certification action' means a civil action for the 
+                judicial review of a certification under subsection 
+                (a)(1) for a Federal license or permit--
+                            ``(i) for the construction or operation of 
+                        a facility for--
+                                    ``(I) the transmission of electric 
+                                energy or energy fuels in interstate or 
+                                foreign commerce; or
+                                    ``(II) the transportation of carbon 
+                                dioxide (including pipelines or 
+                                associated infrastructure) in 
+                                interstate or foreign commerce; or
+                            ``(ii) from the Federal Energy Regulatory 
+                        Commission.
+                    ``(B) Jurisdiction.--
+                            ``(i) In general.--Notwithstanding section 
+                        19(d)(1) of the Natural Gas Act (15 U.S.C. 
+                        717r(d)(1)), an affected certification action 
+                        shall be filed in a court of appeals of the 
+                        United States--
+                                    ``(I) for the circuit in which the 
+                                applicant for certification under 
+                                subsection (a) is located or has its 
+                                place of business;
+                                    ``(II) for the circuit for the 
+                                State for which the affected 
+                                certification action applies; or
+                                    ``(III) for the District of 
+                                Columbia Circuit.
+                            ``(ii) Original and exclusive 
+                        jurisdiction.--The court of appeals in which an 
+                        affected certification action is filed pursuant 
+                        to clause (i) shall have original and exclusive 
+                        jurisdiction over the affected certification 
+                        action.
+                            ``(iii) Standing and filing deadline.--
+                        Notwithstanding any other provision of law, no 
+                        court shall have jurisdiction over an affected 
+                        certification action unless the affected 
+                        certification action has been filed not later 
+                        than 30 days after the date on which final 
+                        action was taken on the certification under 
+                        subsection (a) for which review was sought by--
+                                    ``(I) the applicant for the 
+                                underlying Federal license or permit; 
+                                or
+                                    ``(II) a person who has suffered, 
+                                or likely and imminently will suffer, 
+                                direct and irreparable economic harm 
+                                from the authorization, certification 
+                                under subsection (a), Federal license 
+                                or permit for which a certification 
+                                under subsection (a) was sought, or 
+                                activity for which that certification 
+                                was sought.
+                    ``(C) Expedited consideration.--
+                            ``(i) In general.--With respect to an 
+                        affected certification action, a court shall--
+                                    ``(I) set any petition for review 
+                                for expedited consideration; and
+                                    ``(II) subject to clause (ii), 
+                                issue a final decision not later than 
+                                120 days after the date on which the 
+                                affected certification action was 
+                                filed.
+                            ``(ii) Extension.--A court may extend the 
+                        120-day period under clause (i)(II) by not more 
+                        than 60 days if the court determines that 
+                        extraordinary circumstances exist that warrant 
+                        the extended period.
+                            ``(iii) Failure to comply with deadline.--
+                        With respect to an affected certification 
+                        action seeking review of a certification under 
+                        subsection (a)(1) the certification application 
+                        (as defined in subsection (a)(1)) for which was 
+                        granted, if a court fails to issue a final 
+                        decision on the affected certification action 
+                        by the end of the period described in clause 
+                        (i)(II) and, if applicable, extended under 
+                        clause (ii), the affected certification action 
+                        shall be dismissed with prejudice.
+            ``(2) Timeline for action.--If a Federal court remands a 
+        civil action for the judicial review of a certification under 
+        subsection (a)(1) for a Federal license or permit, the Federal 
+        court shall set and enforce a reasonable schedule and deadline, 
+        not to exceed 180 days from the date on which the Federal court 
+        remands the certification, for the certifying agency to act on 
+        the remand.
+    ``(f) Definition of Applicable Water Quality Requirements.--In this 
+section, the term `applicable water quality requirements' means the 
+applicable provisions of sections 301, 302, 303, 306, and 307.''.
+    (b) Permits for Dredged or Fill Material.--
+            (1) In general.--Section 404 of the Federal Water Pollution 
+        Control Act (33 U.S.C. 1344) is amended--
+                    (A) by striking the heading and section designation 
+                and all that follows through ``(a) The Secretary'' and 
+                inserting the following:
+
+``SEC. 404. PERMITS FOR DREDGED OR FILL MATERIAL.
+
+    ``(a) Discharge Into Navigable Waters at Specified Disposal 
+Sites.--
+            ``(1) In general.--The Secretary'';
+                    (B) in subsection (a)(1) (as so designated), in the 
+                second sentence--
+                            (i) by striking ``this subsection'' each 
+                        place it appears and inserting ``paragraph 
+                        (1)''; and
+                            (ii) by striking ``Not later than the 
+                        fifteenth day'' and inserting the following:
+            ``(2) Notice.--Not later than the 15th day'';
+                    (C) in subsection (c)--
+                            (i) in the third sentence--
+                                    (I) by striking ``his finding and 
+                                his reasons'' and inserting ``the 
+                                findings and reasons of the 
+                                Administrator''; and
+                                    (II) by striking ``The 
+                                Administrator'' and inserting the 
+                                following:
+            ``(4) Findings and reasoning.--The Administrator'';
+                            (ii) in the second sentence, by striking 
+                        ``Before making such determination'' and 
+                        inserting the following:
+            ``(3) Consultation.--Before making a determination under 
+        paragraph (1)'';
+                            (iii) by striking ``(c) The Administrator'' 
+                        and inserting the following:
+    ``(c) Prohibition of Specification of Areas as Disposal Sites.--
+            ``(1) In general.--Subject to paragraph (2), the 
+        Administrator''; and
+                            (iv) by inserting after paragraph (1) (as 
+                        so designated) the following:
+            ``(2) Limitation.--The Administrator may not prohibit the 
+        specification of a defined area as a disposal site, or 
+        otherwise deny or restrict the use of a defined area as a 
+        disposal site after a permit under this section for the area 
+        has been issued by the Secretary.'';
+                    (D) in subsection (e)--
+                            (i) in paragraph (1), in the second 
+                        sentence--
+                                    (I) by striking ``subsection (b)(1) 
+                                of this section, and (B) set forth'' 
+                                and inserting the following: 
+                                ``subsection (b)(1); and
+                            ``(ii) set forth'';
+                                    (II) by striking ``shall (A) be 
+                                based'' and inserting the following: 
+                                ``shall--
+                            ``(i) be based''; and
+                                    (III) by striking ``Any general'' 
+                                and inserting the following:
+                    ``(B) Requirements for issuance.--Any general'';
+                            (ii) by striking ``(e)(1) In carrying'' and 
+                        inserting the following:
+    ``(e) General Permits on State, Regional, or Nationwide Basis.--
+            ``(1) Permits authorized.--
+                    ``(A) In general.--In carrying'';
+                            (iii) in paragraph (2)--
+                                    (I) by striking ``(2) No general'' 
+                                and inserting the following:
+            ``(2) Term.--No general''; and
+                                    (II) by striking ``five years'' and 
+                                inserting ``10 years''; and
+                            (iv) by adding at the end the following:
+            ``(3) Considerations.--In determining the environmental 
+        effects of an activity under paragraph (1) or (2), the 
+        Secretary--
+                    ``(A) shall consider only the effects of any 
+                discharge of dredged or fill material resulting from 
+                the activity;
+                    ``(B) shall consider any effects of a discharge of 
+                dredged or fill material into fewer than 3 acres of 
+                navigable waters to be a minimal adverse environmental 
+                effect; and
+                    ``(C) may consider any effects of a discharge of 
+                dredged or fill material into 3 acres or more of 
+                navigable waters to be a minimal adverse environmental 
+                effect.
+            ``(4) Single and complete projects.--
+                    ``(A) Definition of single and complete project.--
+                            ``(i) In general.--In this paragraph, the 
+                        term `single and complete project', with 
+                        respect to a project for which the Secretary is 
+                        determining whether a general permit issued 
+                        under this subsection applies, means that 
+                        portion of the total project proposed or 
+                        accomplished by--
+                                    ``(I) a single owner or developer;
+                                    ``(II) a partnership of 1 or more 
+                                owners or developers; or
+                                    ``(III) an association of owners or 
+                                developers.
+                            ``(ii) Linear projects.--
+                                    ``(I) Definition.--In this clause, 
+                                the term `linear project' means a 
+                                project constructed for the purpose of 
+                                getting people, goods, energy, or 
+                                services from a point of origin to a 
+                                terminal point, which may involve 
+                                multiple crossings of 1 or more waters 
+                                of the United States at separate and 
+                                distant locations.
+                                    ``(II) General rule.--For purposes 
+                                of this paragraph, with respect to 
+                                projects described in clause (i) that 
+                                are linear projects--
+                                            ``(aa) the crossings of 
+                                        separate waters of the United 
+                                        States at a specific location 
+                                        shall be considered 1 single 
+                                        and complete project; but
+                                            ``(bb) each crossing of a 
+                                        single water of the United 
+                                        States shall be considered a 
+                                        separate single and complete 
+                                        project if those crossings are 
+                                        at separate and distant 
+                                        locations.
+                                    ``(III) Additional exclusions.--For 
+                                purposes of subclause (II), individual 
+                                channels in a braided stream or river, 
+                                individual arms of a large, 
+                                irregularly-shaped wetland or lake, and 
+                                other, similar bodies of water shall 
+                                not be considered to be separate waters 
+                                of the United States.
+                    ``(B) Requirement.--In determining whether a 
+                general permit issued under this subsection applies to 
+                an activity, the Secretary shall consider the estimated 
+                total of all losses of waters of the United States 
+                expected to result from the single and complete 
+                project.
+                    ``(C) Use of multiple permits.--The Secretary may 
+                combine 2 or more general permits issued under this 
+                subsection to authorize a single and complete project, 
+                but the same general permit issued under this 
+                subsection may not be used more than once for a single 
+                and complete project.
+            ``(5) Reissuance of nationwide permits.--In determining 
+        whether to reissue a general permit issued under this 
+        subsection on a nationwide basis--
+                    ``(A) no consultation with an applicable State 
+                pursuant to section 6(a) of the Endangered Species Act 
+                of 1973 (16 U.S.C. 1535(a)) is required;
+                    ``(B) no consultation with a Federal agency 
+                pursuant to section 7(a)(2) of that Act (16 U.S.C. 
+                1536(a)(2)) is required; and
+                    ``(C) for purposes of carrying out the National 
+                Environmental Policy Act of 1969 (42 U.S.C. 4321 et 
+                seq.) with respect to that reissuance, conducting an 
+                environmental assessment on a nationwide basis is 
+                sufficient for purposes of compliance with that Act.
+            ``(6) Nationwide permit for oil and natural gas 
+        pipelines.--Notwithstanding any other provision of this 
+        section, the Secretary shall maintain a nationwide permit for 
+        the activities required for the construction, maintenance, 
+        repair, operation, and removal of oil and natural gas pipelines 
+        and associated facilities that result in the loss of, with 
+        respect to waters of the United States, an area of fewer than 3 
+        acres for each single and complete project (as defined in 
+        paragraph (4)(A)), which shall be known as `nationwide permit 
+        12'.'';
+                    (E) in subsection (h)--
+                            (i) in paragraph (1), by adding at the end 
+                        the following:
+            ``(I) To issue permits not later than the date that is 1 
+        year after the date on which the State receives an application 
+        for the permit, which may not be paused or tolled for any 
+        reason.
+            ``(J) To ensure that, if the State does not issue a final 
+        action with respect to an application for a permit within the 
+        1-year period described in subparagraph (I), the application is 
+        considered to be approved.
+            ``(K) To carry out a programmatic review of the program 
+        annually to ensure that the program does not exceed the 
+        authority granted to the State under this section.''; and
+                            (ii) by adding at the end the following:
+    ``(6) Action Required.--
+            ``(A) In general.--A State with a permit program approved 
+        under this subsection shall issue a final action with respect 
+        to an application for a permit described in subsection (g)(1) 
+        not later than 1 year after the date of receipt of the 
+        application.
+            ``(B) Failure to act.--An application for a permit 
+        described in subsection (g)(1) submitted to a State with a 
+        permit program approved under this subsection shall be 
+        considered to be approved if the State fails to issue a final 
+        action with respect to the application by the end of the 1-year 
+        period described in subparagraph (A).
+            ``(C) No pausing or tolling.--The 1-year period described 
+        in subparagraph (A) may not be paused or tolled for any 
+        reason.'';
+                    (F) in subsection (s)(3), in the third sentence, by 
+                striking ``acton'' and inserting ``action'';
+                    (G) in subsection (t), by striking ``(t) Nothing'' 
+                and inserting the following:
+    ``(u) Savings Provision.--Nothing''; and
+                    (H) by inserting after subsection (s) the 
+                following:
+    ``(t) Judicial Review.--
+            ``(1) Statute of limitations.--
+                    ``(A) In general.--Notwithstanding any other 
+                provision of law, an action seeking judicial review of 
+                an individual or general permit issued under this 
+                section shall be filed not later than the date that is 
+                60 days after the date on which the permit was issued.
+                    ``(B) Savings provision.--Nothing in subparagraph 
+                (A) authorizes an action seeking judicial review of the 
+                structure of or authorization for a State permit 
+                program approved pursuant to this section.
+            ``(2) Timeline to act on remand.--If a Federal court 
+        remands a permit under this section, the Federal court shall 
+        set and enforce a reasonable schedule and deadline, which may 
+        not exceed 180 days from the date on which the Federal court 
+        remands the permit, for the issuer of the permit to act on that 
+        remand.''.
+            (2) Ratification of current permits.--Notwithstanding any 
+        other provision of law, each category of activities authorized 
+        by a general permit issued under section 404(e) of the Federal 
+        Water Pollution Control Act (33 U.S.C. 1344(e)) (including 
+        nationwide permit 12) or under section 10 of the Act of March 
+        3, 1899 (33 U.S.C. 403), that is in effect on the date of 
+        enactment of this Act shall, consistent with subparagraph (A) 
+        of section 404(e)(1) of the Federal Water Pollution Control Act 
+        (33 U.S.C. 1344(e)(1)), be considered to cause--
+                    (A) not more than minimal adverse environmental 
+                effects when actions authorized under those permits are 
+                carried out separately; and
+                    (B) not more than minimal cumulative adverse 
+                effects on the environment.
+            (3) Savings provision.--Nothing in this subsection or the 
+        amendments made by this subsection requires a State (including 
+        an Indian tribe that is treated as a State pursuant to section 
+        518(e) of the Federal Water Pollution Control Act (33 U.S.C. 
+        1377(e))) for which the Administrator of the Environmental 
+        Protection Agency has approved a permit program pursuant to 
+        subsections (g) and (h) of section 404 of the Federal Water 
+        Pollution Control Act (33 U.S.C. 1344) to seek reapproval of 
+        the permit program in accordance with those subsections.
+
+SEC. 3. LNG TERMINALS.
+
+    Section 3 of the Natural Gas Act (15 U.S.C. 717b) is amended--
+            (1) in subsection (e)(3)--
+                    (A) in subparagraph (A), by striking ``find'' and 
+                inserting ``finds'';
+                    (B) in subparagraph (B), in the matter preceding 
+                clause (i), by striking ``Before January 1, 2015, the'' 
+                and inserting ``The''; and
+                    (C) by striking subparagraph (C); and
+            (2) by adding at the end the following:
+    ``(g) Public Interest Finding.--In carrying out a finding of public 
+interest under subsection (a), the Commission may not consider any 
+environmental factors pursuant to the National Environmental Policy Act 
+of 1969 (42 U.S.C. 4321 et seq.).''.
+
+SEC. 4. NUCLEAR ENERGY LICENSING.
+
+    (a) Extension of License Terms for Commercial Reactors.--Section 
+103 c. of the Atomic Energy Act of 1954 (42 U.S.C. 2133(c)) is 
+amended--
+            (1) by striking ``c. Each such license'' and inserting the 
+        following:
+    ``c.(1) Except as provided in paragraph (2), each such license''; 
+and
+            (2) by adding at the end the following:
+    ``(2) In the case of a license issued under this section for a 
+utilization facility for the generation of electrical or thermal 
+energy, the period of the license shall not exceed 60 years from the 
+authorization to commence operations, and may be renewed on expiration 
+of that period.''.
+    (b) Early Site Permits.--Not later than 1 year after the date of 
+enactment of this Act, the Nuclear Regulatory Commission shall finalize 
+a rulemaking amending section 52.26 of title 10, Code of Federal 
+Regulations, to provide that--
+            (1) an early site permit issued after the date of enactment 
+        of this Act does not expire;
+            (2) an early site permit issued before the date of 
+        enactment of this Act shall, without further review or approval 
+        by the Nuclear Regulatory Commission, remain in effect 
+        indefinitely on the request of the permit holder or any other 
+        entity that references the early site permit in an application 
+        for a construction permit or combined license; and
+            (3) an early site permit, regardless of when the permit is 
+        issued, may be revoked only on a finding by the Nuclear 
+        Regulatory Commission, supported by clear and convincing 
+        evidence, that--
+                    (A) significant new information has arisen since 
+                the issuance of the early site permit with respect to 
+                the radiological, seismic, meteorological, hydrologic, 
+                geologic, or demographic characteristics of the site 
+                that was not considered during the original permitting 
+                proceeding and that renders the site unsuitable for the 
+                construction and operation of a nuclear power facility; 
+                or
+                    (B) revocation is necessary to ensure adequate 
+                protection of public health and safety or the common 
+                defense and security.
+    (c) Categorical Exclusion.--The construction and operation of a new 
+nuclear reactor at a site for which the Nuclear Regulatory Commission 
+has previously issued, or is currently reviewing an application for, a 
+construction permit, operating license, or combined license under the 
+Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) shall be 
+categorically excluded from the requirements of the National 
+Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+SEC. 5. JUDICIAL REVIEW UNDER NEPA.
+
+    Title I of the National Environmental Policy Act of 1969 is 
+amended--
+            (1) by redesignating section 112 (42 U.S.C. 4336f) as 
+        section 110A, and moving the section so as to appear after 
+        section 110; and
+            (2) by inserting after section 110A (as so redesignated) 
+        the following:
+
+``SEC. 110B. JUDICIAL REVIEW.
+
+    ``(a) Remand.--
+            ``(1) In general.--If a court holds, under section 
+        706(2)(A) of title 5, United States Code, that a final agency 
+        action does not comply with the requirements of this Act, the 
+        only remedy the court may order, notwithstanding chapter 7 of 
+        that title, is to remand, without vacatur or injunction, the 
+        final agency action to the Federal agency with--
+                    ``(A) specific instruction to correct the errors or 
+                deficiencies found by the court; and
+                    ``(B) a reasonable schedule and deadline to correct 
+                such errors or deficiencies, which may not exceed--
+                            ``(i) with respect to an order entered 
+                        before the date of enactment of this section, 
+                        the date that is 180 days after that date of 
+                        enactment; and
+                            ``(ii) with respect to an order entered on 
+                        or after the date of enactment of this section, 
+                        the date that is 180 days after the date on 
+                        which the order was entered.
+            ``(2) Continued effect of final agency action.--A final 
+        agency action remanded under paragraph (1) shall remain in 
+        effect while the Federal agency corrects any errors or 
+        deficiencies found by the court.
+    ``(b) Limitations on Claims.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, a claim relating to whether a final agency action complies 
+        with the requirements of this Act shall be barred unless--
+                    ``(A) the claim is filed not later than 150 days 
+                after the final agency action is made public, unless a 
+                shorter deadline is specified under Federal law;
+                    ``(B) in the case of a final agency action for 
+                which there was a public comment period on an 
+                environmental document, the claim--
+                            ``(i) is filed by a party that submitted a 
+                        substantive and unique comment during that 
+                        public comment period by the noticed comment 
+                        deadline for the environmental document and the 
+                        comment was sufficiently detailed to put the 
+                        applicable Federal agency on notice of the 
+                        issue on which the party seeks review; and
+                            ``(ii) concerns the same subject matter 
+                        raised in the comment submitted during the 
+                        public comment period;
+                    ``(C) the claim is filed by a party that has 
+                suffered or imminently will suffer direct harm from the 
+                final agency action; and
+                    ``(D) the claim does not challenge the 
+                establishment of a categorical exclusion.
+            ``(2) Supplemental environmental documents.--
+                    ``(A) In general.--If a Federal agency issues a 
+                supplemental environmental document in response to a 
+                court order remanding a final agency action, the 
+                deadline described in paragraph (1)(A) shall be the 
+                date on which the Federal agency makes public the 
+                agency action for which the supplemental environmental 
+                document is prepared.
+                    ``(B) Limitation.--A claim for review of a final 
+                agency action described in subparagraph (A) shall be 
+                limited to information contained in the final 
+                supplemental environmental document that was not 
+                contained in a previous environmental document for the 
+                final agency action.
+            ``(3) Actions for use of tribal trust resources.--
+                    ``(A) In general.--Except as provided in 
+                subparagraph (B), for any final agency action that 
+                authorizes or affects the use of land, minerals, or 
+                other resources held in trust at the time of the final 
+                agency action by the United States for the benefit of a 
+                federally recognized Indian Tribe, there shall be no 
+                administrative or judicial review of the final agency 
+                action based on a claim of failure to comply with the 
+                requirements of this Act.
+                    ``(B) Exception.--Subparagraph (A) shall not apply 
+                to actions for administrative or judicial review--
+                            ``(i) brought by the federally recognized 
+                        Indian Tribe for which the United States holds 
+                        the land, minerals, or other resources in 
+                        trust; or
+                            ``(ii) that involve reasonably foreseeable 
+                        effects of the final agency action that occur 
+                        outside the land, minerals, or other resources 
+                        held in trust by the United States for the 
+                        benefit of a federally recognized Indian Tribe.
+    ``(c) Deadline for Resolution.--
+            ``(1) In general.--A court shall issue a final judgment on 
+        a claim relating to whether a final agency action complies with 
+        the requirements of this Act--
+                    ``(A) as expeditiously as practicable; and
+                    ``(B) unless a shorter deadline is specified under 
+                Federal law, not later than the date that is 180 days 
+                after the date on which the agency record for the 
+                review is filed with the reviewing court, which shall 
+                be not more than 60 days after the filing of the claim.
+            ``(2) Accelerated deadlines.--Nothing in this subsection 
+        prevents a court from further expediting review of a claim 
+        relating to whether a final agency action complies with the 
+        requirements of this Act.
+            ``(3) Appeals.--
+                    ``(A) Filing.--
+                            ``(i) In general.--A notice of appeal of a 
+                        final judgment described in this subsection 
+                        shall be filed not later than 60 days after the 
+                        final judgment is issued.
+                            ``(ii) Remanded actions.--In the case of a 
+                        final agency action remanded under subsection 
+                        (a)(1), the Federal agency and, if applicable, 
+                        the applicant shall have the right to appeal 
+                        during the pendency of the remand.
+                    ``(B) Deadline for review.--A court shall issue a 
+                final decision on an appeal filed under subparagraph 
+                (A)--
+                            ``(i) as expeditiously as practicable; and
+                            ``(ii) not later than the date that is 180 
+                        days after the date on which the notice of the 
+                        appeal is filed.
+    ``(d) No Effect on Review of Compliance With Other Deadlines.--
+Nothing in this section affects the right to obtain review under 
+section 107(g)(3).''.
+                                 <all>

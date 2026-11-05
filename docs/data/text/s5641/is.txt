@@ -1,0 +1,157 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5641 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5641
+
+ To amend the Internal Revenue Code of 1986 to expand the meaning and 
+    eligibility of energy communities for purposes of the increased 
+   renewable electricity production and increased clean electricity 
+            investment credit rates, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 30, 2026
+
+ Mr. Scott of South Carolina introduced the following bill; which was 
+          read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Internal Revenue Code of 1986 to expand the meaning and 
+    eligibility of energy communities for purposes of the increased 
+   renewable electricity production and increased clean electricity 
+            investment credit rates, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Opportunities for Nuclear Energy 
+Investment Act''.
+
+SEC. 2. NUCLEAR COMMUNITIES DEFINITION AND APPLICABILITY.
+
+    (a) Definition of Nuclear Communities.--Clause (iv) of section 
+45(b)(11)(B) of the Internal Revenue Code of 1986 is amended to read as 
+follows:
+                            ``(iv) for purposes of any qualified 
+                        facility which is an advanced nuclear facility, 
+                        a metropolitan statistical area or non-
+                        metropolitan statistical area which has (or, at 
+                        any time during the period beginning after 
+                        December 31, 2009, had) 0.17 percent or 
+                        greater--
+                                    ``(I) direct employment related to 
+                                the advancement of nuclear power, 
+                                including employment related to--
+                                            ``(aa) an advanced nuclear 
+                                        facility,
+                                            ``(bb) advanced nuclear 
+                                        power research and development,
+                                            ``(cc) nuclear fuel cycle 
+                                        research, development, or 
+                                        production, including mining, 
+                                        enrichment, manufacture, 
+                                        storage, disposal, or recycling 
+                                        of nuclear fuel, and
+                                            ``(dd) the manufacturing or 
+                                        assembly of components used in 
+                                        an advanced nuclear facility, 
+                                        plus
+                                    ``(II) indirect or induced 
+                                employment related to the planning, 
+                                licensing, engineering, procurement, 
+                                site preparation, construction, and 
+                                commissioning of an advanced nuclear 
+                                facility.''.
+    (b) Special Rule for Beginning of Construction for Advanced Nuclear 
+Facilities.--Section 45(b)(11)(C) of such Code is amended by adding at 
+the end the following new clause:
+                            ``(iii) Special rule for beginning of 
+                        construction.--For purposes of this paragraph, 
+                        if construction of an advanced nuclear facility 
+                        begins in an area which, as of the date on 
+                        which construction of such facility begins, 
+                        satisfies the requirements under any clause in 
+                        subparagraph (B), such facility shall be deemed 
+                        to be located in an energy community for the 
+                        entirety of the 10-year period beginning on the 
+                        date the facility was originally placed in 
+                        service.''.
+    (c) Applicability of Definition of Nuclear Communities.--Section 
+48E(a)(3)(A)(i) of such Code is amended by striking ``, as applied 
+without regard to clause (iv) thereof''.
+    (d) Effective Dates.--
+            (1) Definition of nuclear communities.--Except as provided 
+        under paragraph (2), the amendments made by this section shall 
+        take effect as if included in section 70512(f)(1) of Public Law 
+        119-21.
+            (2) Applicability of definition of nuclear communities.--
+        The amendment made by subsection (c) shall take effect as if 
+        included in section 70512(f)(2) of Public Law 119-21.
+
+SEC. 3. EXPANSION OF ADVANCED MANUFACTURING PRODUCTION CREDIT TO 
+              INCLUDE DISTRIBUTION TRANSFORMERS AND LARGE POWER 
+              TRANSFORMERS.
+
+    (a) In General.--Section 45X of the Internal Revenue Code of 1986 
+is amended--
+            (1) in subsection (b)(1)--
+                    (A) in subparagraph (L)(ii), by striking ``and'' at 
+                the end,
+                    (B) in subparagraph (M), by striking the period at 
+                the end and inserting ``, and'', and
+                    (C) by adding at the end the following new 
+                subparagraph:
+                    ``(N) in the case of any distribution transformer 
+                or large power transformer, an amount equal to 10 
+                percent of the costs incurred by the taxpayer with 
+                respect to production of such transformer.'', and
+            (2) in subsection (c)--
+                    (A) in paragraph (1)(A)--
+                            (i) in clause (iv), by striking ``and'' at 
+                        the end,
+                            (ii) in clause (v), by striking the period 
+                        at the end and inserting ``, and'', and
+                            (iii) by adding at the end the following 
+                        new clause:
+                            ``(vi) any distribution transformer or 
+                        large power transformer.'', and
+                    (B) by adding at the end the following new 
+                paragraph:
+            ``(7) Transformers.--
+                    ``(A) Distribution transformer.--The term 
+                `distribution transformer' has the same meaning given 
+                such term under section 321(35) of the Energy Policy 
+                and Conservation Act (42 U.S.C. 6291(35)).
+                    ``(B) Large power transformer.--The term `large 
+                power transformer' means a device that functions to 
+                transfer electrical energy between 2 or more circuits 
+                through electromagnetic induction at the same or 
+                different voltage levels within and among the bulk-
+                power system (as defined in section 215(a) of the 
+                Federal Power Act (16 U.S.C. 824o(a))).''.
+    (b) Effective Date.--The amendments made by this section shall 
+apply to components produced and sold after the date which is 90 days 
+after the date of enactment of this Act.
+                                 <all>

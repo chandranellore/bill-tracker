@@ -1,0 +1,404 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9945 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9945
+
+   To accelerate the modernization of the national electric grid by 
+   supporting advanced conductors and related systems, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 23, 2026
+
+Mr. Whitesides (for himself, Mr. Harrigan, and Mr. Hamadeh of Arizona) 
+ introduced the following bill; which was referred to the Committee on 
+   Energy and Commerce, and in addition to the Committee on Ways and 
+ Means, for a period to be subsequently determined by the Speaker, in 
+   each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To accelerate the modernization of the national electric grid by 
+   supporting advanced conductors and related systems, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Lowering Energy Costs through Grid 
+Modernization Act''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Advanced conductor.--The term ``advanced conductor'' 
+        means a transmission conductor that--
+                    (A) provides at least 1.5 times the potential 
+                energy carrying capacity of an aluminum conductor, 
+                steel-reinforced (in this section referred to as 
+                ``ACSR'') transmission conductor;
+                    (B) has a direct current electrical resistance at 
+                least 10 percent lower than a traditional ACSR 
+                conductor of a similar diameter and weight; and
+                    (C) has at least 25 percent lower thermal sag than 
+                an ACSR transmission conductor of similar diameter and 
+                weight at maximum operating temperature.
+            (2) Categorical exclusion.--The term ``categorical 
+        exclusion'' has the meaning given such term in section 111 of 
+        the National Environmental Policy Act of 1969 (42 U.S.C. 
+        4336e).
+            (3) Reconductoring project.--The term ``reconductoring 
+        project'' means a project involving the replacement of existing 
+        conductors with advanced conductors predominantly within an 
+        existing cleared or permitted right-of-way.
+            (4) Right-of-way.--The term ``right-of-way'' means an 
+        easement, lease, permit, or license to occupy, use, or traverse 
+        public or private lands.
+            (5) Right-of-way optimization project.--The term ``right-
+        of-way optimization project'' means a project that plans, 
+        designs, and constructs electric transmission upgrades using 
+        advanced conductors predominantly within an existing cleared or 
+        permitted right-of-way.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+
+SEC. 3. TRANSMISSION MODERNIZATION STUDY.
+
+    (a) In General.--A transmission provider subject to transmission 
+planning required by the Federal Energy Regulatory Commission issuances 
+including Order No. 1920, as modified or clarified by Order Nos. 1920-A 
+and 1920-B, may, during each transmission planning process as required 
+under such orders, conduct a transmission modernization study that 
+evaluates the extent to which a right-of-way optimization project or 
+reconductoring project may result in economic and grid reliability 
+benefits.
+    (b) Requirements.--In the event a transmission provider conducts a 
+study under subsection (a), the transmission provider shall, in 
+conducting such study--
+            (1) describe in such study--
+                    (A) the extent to which right-of-way optimization 
+                or reconductoring projects have been evaluated to 
+                address congestion, capacity constraints, reliability 
+                risks, or resilience needs;
+                    (B) how implementing such projects compares to 
+                other transmission projects that address congestion, 
+                capacity constraints, reliability risks, or resilience 
+                needs; and
+                    (C) the potential economic and grid reliability 
+                benefits from implementing such projects; and
+            (2) consider risks relating to natural hazards and extreme 
+        weather events relevant to the applicable right-of-way, 
+        including wildfire, heat, storm, or icing risk information 
+        consistent with existing resilience planning practices.
+    (c) Submission and Publication.--A transmission provider that 
+conducts a study under subsection (a) shall submit to the Secretary the 
+results of such study, and make such results publicly available, except 
+for information designated as critical electric infrastructure 
+information, pursuant to section 215A of the Federal Power Act (16 
+U.S.C. 824o-1).
+
+SEC. 4. NATIONAL RECONDUCTORING PERFORMANCE INSIGHTS.
+
+    (a) Aggregated Insights.--The Secretary may publish aggregated 
+performance data on reconductoring outcomes and related grid 
+modernization activities, using publicly available sources or voluntary 
+submissions, without identifying specific facilities or operators. Such 
+aggregated information may include typical ranges of increased transfer 
+capability, reductions in transmission losses, changes in congestion or 
+curtailment, and indicative project timelines, provided that no 
+specific facility or operator is identified.
+    (b) Public Listing.--The Secretary may maintain a public web page 
+listing States, approximate in-service years, and general voltage 
+classes for right-of-way optimization and reconductoring projects, 
+using only existing tax credit documentation, publicly available 
+information, or voluntary submissions, and without identifying specific 
+facilities or operators.
+
+SEC. 5. NEPA REVIEW.
+
+    (a) In General.--The issuance of a Federal permit or other Federal 
+approval authorizing a covered project is deemed to be a categorical 
+exclusion under the National Environmental Policy Act of 1969 (42 
+U.S.C. 4321 et seq.), unless the Secretary or other relevant agency 
+head determines that extraordinary circumstances (as defined by 
+regulations issued by such Secretary or other relevant agency head, 
+respectively) apply to the covered project.
+    (b) Covered Project Defined.--In this section, the term ``covered 
+project'' means a right-of-way optimization project, or reconductoring 
+project, that--
+            (1) is in accordance with the integral elements listed at 
+        the start of appendix B to part 1021 of title 10, Code of 
+        Federal Regulations;
+            (2) incorporates the design and construction standards, 
+        control technologies, and best management practices that the 
+        Secretary or other relevant agency head determines to be 
+        appropriate; and
+            (3) may involve widening an existing right-of-way to meet 
+        current electrical standards if the widening remains within 
+        previously disturbed or developed lands and only extends into a 
+        small area beyond such lands as needed to comply with 
+        applicable electrical standards.
+
+SEC. 6. HIGH-PERFORMANCE TRANSMISSION PROPERTY ADDED TO CLEAN 
+              ELECTRICITY INVESTMENT CREDIT.
+
+    (a) In General.--Section 48E(a)(1) of the Internal Revenue Code of 
+1986 is amended--
+            (1) in subparagraph (A), by striking ``and'' at the end,
+            (2) in subparagraph (B), by striking the period at the end 
+        and inserting ``, and'', and
+            (3) by adding at the end the following new subparagraph:
+                    ``(C) any high-performance transmission 
+                property.''.
+    (b) Applicable Percentage.--Section 48E(a)(2) of such Code is 
+amended by adding at the end the following new subparagraph:
+                    ``(C) High-performance transmission property.--
+                Subject to paragraph (3)--
+                            ``(i) Base rate.--In the case of any high-
+                        performance transmission property which is not 
+                        described in clause (ii)(I) and does not 
+                        satisfy the requirements described in clause 
+                        (ii)(II), the applicable percentage shall be 6 
+                        percent.
+                            ``(ii) Alternative rate.--In the case of 
+                        any high-performance transmission property--
+                                    ``(I) with a capacity of less than 
+                                1 megawatt, or
+                                    ``(II) which--
+                                            ``(aa) satisfies the 
+                                        requirements of subsection 
+                                        (e)(3), and
+                                            ``(bb) with respect to the 
+                                        construction of such property, 
+                                        satisfies the requirements of 
+                                        subsection (e)(4),
+                                the applicable percentage shall be 30 
+                                percent.''.
+    (c) Increase in Credit Rate in Certain Cases.--
+            (1) Energy communities.--Section 48E(a)(3)(A) of such Code 
+        is amended--
+                    (A) in clause (i), by striking ``or with respect to 
+                energy storage technology'' and inserting ``, energy 
+                storage technology, or high-performance transmission 
+                property'', and
+                    (B) in clause (ii)--
+                            (i) in subclause (I), by striking ``or with 
+                        respect to energy storage technology described 
+                        in paragraph (2)(B)(i)'' and inserting ``, 
+                        energy storage technology described in 
+                        paragraph (2)(B)(i), or high-performance 
+                        transmission property described in paragraph 
+                        (2)(C)(i)'', and
+                            (ii) in subclause (II), by striking ``or 
+                        with respect to energy storage technology 
+                        described in paragraph (2)(B)(ii)'' and 
+                        inserting ``, energy storage technology 
+                        described in paragraph (2)(B)(ii), or high-
+                        performance transmission property described in 
+                        paragraph (2)(C)(ii)''.
+            (2) Domestic content.--Section 48E(a)(3)(B) of such Code is 
+        amended by striking ``or energy storage technology'' each place 
+        it appears and inserting ``, energy storage technology, or 
+        high-performance transmission property'' in each such place.
+    (d) Qualified Investment With Respect to High-Performance 
+Transmission Property Defined.--Section 48E of such Code is amended--
+            (1) by redesignating subsections (d) through (k) as 
+        subsections (e) through (l), respectively, and
+            (2) by inserting after subsection (c) the following new 
+        subsection:
+    ``(d) Qualified Investment With Respect to High-Performance 
+Transmission Property.--
+            ``(1) Qualified investment.--For purposes of subsection 
+        (a), the qualified investment with respect to high-performance 
+        transmission property for any taxable year is the basis of any 
+        high-performance transmission property placed in service by the 
+        taxpayer during such taxable year.
+            ``(2) High-performance transmission property.--
+                    ``(A) In general.--For purposes of this section, 
+                the term `high-performance transmission property' means 
+                property used in a right-of-way optimization project or 
+                a reconductoring project.
+                    ``(B) Installation expenses included.--For purposes 
+                of determining the credit under subsection (a), the 
+                term `high-performance transmission property' shall 
+                include amounts paid or incurred by the taxpayer for 
+                installation of such property.
+                    ``(C) Right-of-way optimization project and 
+                reconductoring project defined.--For purposes of 
+                subparagraph (A), the terms `right-of-way optimization 
+                project' and `reconductoring project' have the meaning 
+                given such terms, respectively, in section 2 of the 
+                Lowering Energy Costs through Grid Modernization Act.
+            ``(3) Material assistance from prohibited foreign 
+        entities.--The term `high-performance transmission property' 
+        shall not include any property the construction of which begins 
+        after December 31, 2025, if the construction of such property 
+        includes any material assistance from a prohibited foreign 
+        entity (as defined in section 7701(a)(52)).''.
+    (e) Restrictions Relating to Prohibited Foreign Entities.--Section 
+48E(e)(6)(B) of such Code, as redesignated by subsection (d), is 
+amended by striking ``or energy storage technology described in 
+subsection (c)(2)'' and inserting ``, energy storage technology 
+described in subsection (c)(2), or high-performance transmission 
+property described in subsection (d)(2)''.
+    (f) Credit Phase-Out.--Section 48E(f) of such Code, as redesignated 
+by subsection (d), is amended--
+            (1) by striking ``or energy storage technology'' each place 
+        it appears and inserting ``, energy storage technology, or 
+        high-performance transmission property'' in each such place, 
+        and
+            (2) by inserting ``or any high-performance transmission 
+        property'' after ``any energy storage technology''.
+    (g) Conforming Amendments.--
+            (1) Section 48E(a)(2) of such Code, as amended by the 
+        preceding provisions of this section, is amended--
+                    (A) by striking ``subsection (d)'' both places it 
+                appears and inserting ``subsection (e)'' in each such 
+                place,
+                    (B) by striking ``subsection (d)(3)'' both places 
+                it appears and inserting ``subsection (e)(3)'' in each 
+                such place, and
+                    (C) by striking ``subsection (d)(4)'' both places 
+                it appears and inserting ``subsection (e)(4)'' in each 
+                such place.
+            (2) Section 48E(k) of such Code, as redesignated by 
+        subsection (d), is amended by striking ``subsection (g)'' and 
+        inserting ``subsection (h)''.
+            (3) Section 48(e)(4)(D) of such Code is amended by striking 
+        ``section 48E(h)(4)(D)(ii)'' and inserting ``section 
+        48E(i)(4)(D)(ii)''.
+            (4) Section 49(a)(1)(C) of such Code is amended--
+                    (A) in clause (vii), by striking ``and'' at the 
+                end,
+                    (B) in clause (viii), by striking the period at the 
+                end and inserting ``, and'', and
+                    (C) by adding at the end the following new clause:
+                            ``(ix) the basis of any high-performance 
+                        transmission property under section 48E.''.
+            (5) Section 168(e)(3)(B)(viii) of such Code is amended by 
+        striking ``or any energy storage technology (as defined in 
+        subsection (c)(2) of such section)'' and inserting ``, any 
+        energy storage technology (as defined in subsection (c)(2) of 
+        such section), or any high-performance transmission property 
+        (as defined in subsection (d)(2) of such section)''.
+            (6) Section 7701(a)(51) of such Code is amended--
+                    (A) in subparagraph (D)--
+                            (i) in clause (i)(II)(aa), by striking ``or 
+                        energy storage technology'' and inserting ``, 
+                        energy storage technology, or high-performance 
+                        transmission property'', and
+                            (ii) in clause (ii)--
+                                    (I) in subclause (I)(aa), by 
+                                striking ``or energy storage'' and 
+                                inserting ``energy storage technology, 
+                                or high-performance transmission 
+                                property'',
+                                    (II) in subclause (II)--
+                                            (aa) in item (aa), by 
+                                        inserting ``or any high-
+                                        performance transmission 
+                                        property produced by the 
+                                        taxpayer'' before the comma at 
+                                        the end, and
+                                            (bb) in item (ee), by 
+                                        striking ``or energy storage 
+                                        technology'' and inserting ``, 
+                                        energy storage technology, or 
+                                        high-performance transmission 
+                                        property'', and
+                                    (III) in subclause (III)--
+                                            (aa) by striking ``, energy 
+                                        storage technology,'' each 
+                                        place it appears and inserting 
+                                        ``, energy storage technology, 
+                                        high-performance transmission 
+                                        property,'' in each such place,
+                                            (bb) by striking ``any 
+                                        energy storage technology,'' 
+                                        and inserting ``any energy 
+                                        storage technology, any high-
+                                        performance transmission 
+                                        property,'', and
+                                            (cc) by striking ``or 
+                                        energy storage technology'' and 
+                                        inserting ``, energy storage 
+                                        technology, or high-performance 
+                                        transmission property'', and
+                    (B) in subparagraph (I), by adding at the end the 
+                following new clause:
+                            ``(vii) High-performance transmission 
+                        property.--The term `high-performance 
+                        transmission property' has the same meaning 
+                        given such term under section 48E(d)(2).''.
+            (7) Section 7701(a)(52) of such Code is amended--
+                    (A) in subparagraph (A), by striking ``or energy 
+                storage technology'' and inserting ``, energy storage 
+                technology, or high-performance transmission 
+                property'',
+                    (B) in subparagraph (B)--
+                            (i) in clause (ii), by inserting ``or high-
+                        performance transmission property'' after 
+                        ``energy storage technology'', and
+                            (ii) in the subparagraph heading, by 
+                        striking ``and energy storage technology'' and 
+                        inserting ``, energy storage technology, and 
+                        high-performance transmission property'',
+                    (C) in subparagraph (D)--
+                            (i) in clause (i)--
+                                    (I) by striking ``or energy storage 
+                                technology'' each place it appears and 
+                                inserting ``, energy storage 
+                                technology, or high-performance 
+                                transmission property'' in each such 
+                                place, and
+                                    (II) in the clause heading, by 
+                                striking ``and energy storage 
+                                technology'' and inserting ``, energy 
+                                storage technology, and high-
+                                performance transmission property'',
+                            (ii) in clause (iii)(II), by striking ``or 
+                        energy storage technology'' and inserting ``, 
+                        energy storage technology, or high-performance 
+                        transmission property'', and
+                            (iii) in clause (v)(II), by striking ``or 
+                        energy storage technology'' and inserting ``, 
+                        energy storage technology, or high-performance 
+                        transmission property'', and
+                    (D) in subparagraph (E), by adding at the end the 
+                following new clause:
+                            ``(v) High-performance transmission 
+                        property.--The term `high-performance 
+                        transmission property' has the same meaning 
+                        given such term under section 48E(d)(2).''.
+    (h) Effective Date.--The amendments made by this section shall 
+apply to property placed in service in taxable years beginning after 
+the date of the enactment of this Act.
+    (i) Regulations.--Not later than 18 months after the date of the 
+enactment of this Act, the Secretary of the Treasury shall issue such 
+regulations or other guidance, or amend existing guidance, as may be 
+necessary or appropriate to carry out this section and the amendments 
+made by this section.
+                                 <all>

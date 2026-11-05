@@ -1,0 +1,92 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6267 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 6267
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             March 25, 2026
+
+    Received; read twice and referred to the Committee on Commerce, 
+                      Science, and Transportation
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To direct the Comptroller General of the United States to conduct a 
+ study on the impediments to digital documentation and verification in 
+           the aviation supply chain, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Aviation Supply Chain Safety and 
+Security Digitization Act of 2025''.
+
+SEC. 2. INTEGRITY OF AEROSPACE PARTS DOCUMENTATION.
+
+    (a) Study.--The Comptroller General of the United States shall 
+conduct a study on the impediments to the use of digital documentation 
+and verification in the aviation supply chain to aid in identifying 
+falsified documentation and counterfeit parts.
+    (b) Contents.--In conducting the study under subsection (a), the 
+Comptroller General shall evaluate the challenges of--
+            (1) manufacturers, repairs stations, air carriers, aircraft 
+        lessors, aircraft brokers, parts brokers, and other supply 
+        chain participants to adopting the use of digital authorized 
+        release certificates, including FAA Form 8130-3;
+            (2) the aviation industry in utilizing digital verification 
+        and authentication tools;
+            (3) establishing standardized documentation in the aviation 
+        industry; and
+            (4) transitioning the Federal Aviation Administration 
+        from--
+                    (A) legacy paper-based records to digital 
+                documentation; and
+                    (B) physical to digital signatures.
+    (c) Report.--
+            (1) In general.--Not later than 1 year after the date of 
+        enactment of this Act, the Comptroller General shall submit to 
+        the Committee on Transportation and Infrastructure of the House 
+        of Representatives and the Committee on Commerce, Science, and 
+        Transportation of the Senate a report containing the results of 
+        the study conducted under subsection (a).
+            (2) Recommendations.--The Comptroller General shall include 
+        in the report submitted under paragraph (1)--
+                    (A) recommendations on--
+                            (i) ways to encourage each organization in 
+                        the aviation industry, regardless of the size 
+                        of such organization, to adopt the use of 
+                        digital forms and authentication tools; and
+                            (ii) how to accelerate the adoption of 
+                        digital documentation by the Federal Aviation 
+                        Administration; and
+                    (B) any other recommendations the Comptroller 
+                General determines appropriate.
+    (d) Response of Secretary of Transportation.--Not later than 120 
+days after submission of the report required under paragraph (c), the 
+Secretary of Transportation shall respond to any recommendations in 
+such report directed to the Department of Transportation or any office 
+of the Department.
+
+            Passed the House of Representatives March 24, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

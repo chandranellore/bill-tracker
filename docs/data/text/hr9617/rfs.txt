@@ -1,0 +1,126 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9617 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 9617
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 16, 2026
+
+ Received; read twice and referred to the Committee on Environment and 
+                              Public Works
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Solid Waste Disposal Act to direct the Administrator of 
+ the Environmental Protection Agency to coordinate a National Critical 
+           Mineral Recovery Strategy, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Coordinating and Harnessing 
+America's Recovery of Minerals Act'' or the ``CHARM Act''.
+
+SEC. 2. NATIONAL CRITICAL MINERAL RECOVERY STRATEGY.
+
+    (a) In General.--Subtitle B of the Solid Waste Disposal Act (42 
+U.S.C. 6911 et seq.) is amended by adding at the end the following new 
+section:
+
+``SEC. 2009. NATIONAL CRITICAL MINERAL RECOVERY STRATEGY.
+
+    ``(a) Strategy.--
+            ``(1) In general.--The Administrator shall, in consultation 
+        with the heads of other Federal agencies that the Administrator 
+        determines to be relevant, develop and carry out a National 
+        Critical Mineral Recovery Strategy (in this section referred to 
+        as the `Strategy') for the purpose of coordinating Federal 
+        efforts to recover critical minerals from discarded materials.
+            ``(2) Purpose.--In developing the Strategy under paragraph 
+        (1), the Administrator, in consultation with the heads of other 
+        Federal agencies described in paragraph (1), shall--
+                    ``(A) identify programs administered by, and 
+                authorities of, the Administrator that relate to the 
+                recovery of critical minerals from discarded materials;
+                    ``(B) identify programs administered by, and 
+                authorities of, the other relevant Federal agencies 
+                that relate to the recovery of critical minerals from 
+                discarded materials;
+                    ``(C) identify, and consider for inclusion in the 
+                Strategy, opportunities that expand the recovery of 
+                critical minerals, as well as that address legal, 
+                technological, and other barriers to recovering such 
+                critical minerals from discarded materials;
+                    ``(D) identify, and consider for inclusion in the 
+                Strategy, opportunities to recover critical minerals 
+                from discarded materials that are mining waste or 
+                residuals or metal processing waste;
+                    ``(E) identify discarded materials that are 
+                potential sources of critical minerals;
+                    ``(F) identify potential critical minerals that may 
+                be in discarded materials;
+                    ``(G) evaluate the role of recovered critical 
+                minerals, and the sources from which such critical 
+                minerals were recovered from discarded materials, in 
+                strengthening domestic supply chains of critical 
+                minerals; and
+                    ``(H) identify opportunities to recover critical 
+                minerals from discarded materials in a manner that 
+                minimizes risk to human health and the environment.
+    ``(b) Report.--
+            ``(1) In general.--Not later than 2 years after the date of 
+        enactment of this section, and every 2 years thereafter, the 
+        Administrator shall transmit to the Committee on Energy and 
+        Commerce of the House of Representatives and Committee on 
+        Environment and Public Works of the Senate, and make publicly 
+        available, a report that contains the Strategy and a 
+        description of activities carried out pursuant to subsection 
+        (a).
+            ``(2) Inclusion.--The Administrator shall include in the 
+        report transmitted under paragraph (1) a description of--
+                    ``(A) any actions taken by the Administrator to 
+                facilitate the recovery of critical minerals from 
+                discarded materials pursuant to the Strategy;
+                    ``(B) any actions taken by another Federal agency, 
+                in coordination with the Administrator, to facilitate 
+                the recovery of critical minerals from discarded 
+                materials pursuant to the Strategy;
+                    ``(C) any ongoing or planned actions by the 
+                Administrator to facilitate the recovery of critical 
+                minerals from discarded materials pursuant to the 
+                Strategy; and
+                    ``(D) any recommendations for legislation to 
+                support the developing and carrying out of the 
+                Strategy.
+    ``(c) Critical Mineral Defined.--In this section, the term 
+`critical mineral' has the meaning given such term in section 
+7002(a)(3) of the Energy Act of 2020 (30 U.S.C. 1606(c)(3)).''.
+    (b) Conforming Amendment.--The table of contents contained in 
+section 1001 of the Solid Waste Disposal Act is amended by inserting 
+after the item relating to section 2008 the following:
+
+``Sec. 2009. National Critical Mineral Recovery Strategy.''.
+
+            Passed the House of Representatives September 15, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

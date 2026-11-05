@@ -1,0 +1,91 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 1735 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                S. 1735
+
+  To require certain agencies to include a page on the website of the 
+    agency relating to permit applications, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 13, 2025
+
+Mr. Scott of Florida (for himself, Ms. Ernst, Mr. Tillis, Mr. Sullivan, 
+Mr. Justice, Mr. Sheehy, and Mrs. Britt) introduced the following bill; 
+which was read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require certain agencies to include a page on the website of the 
+    agency relating to permit applications, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Permitting Transparency and 
+Accountability Act''.
+
+SEC. 2. PERMIT APPLICATION STATUS.
+
+    (a) Definitions.--In this section:
+            (1) Agency.--The term ``agency'' has the meaning given the 
+        term in section 551 of title 5, United States Code.
+            (2) Covered agency.--The term ``covered agency'' means an 
+        agency that issues permits.
+            (3) Permit.--The term ``permit'' has the meaning given the 
+        term ``license'' in section 551 of title 5, United States Code.
+            (4) Reviewing agency.--The term ``reviewing agency'' means 
+        an agency that, with respect to a permit--
+                    (A) does not issue the permit; and
+                    (B)(i) reviews the application for the permit; or
+                    (ii) engages in any step of the process relating to 
+                the issuance of the permit.
+    (b) Requirement.--
+            (1) In general.--The head of each covered agency shall 
+        include on the website of the covered agency a webpage that 
+        displays information relating to the status of an application 
+        for a permit issued by the covered agency.
+            (2) Required information.--The information included on a 
+        webpage developed under paragraph (1) shall include, with 
+        respect to an application for a permit issued by a covered 
+        agency--
+                    (A) a description of the stages completed by the 
+                covered agency or any reviewing agency in the 
+                application review process;
+                    (B) the duration in number of days of each stage 
+                described in subparagraph (A);
+                    (C) the status of the application, including the 
+                duration in number of days the application has remained 
+                at the current stage of the application review process;
+                    (D) contact information for each individual 
+                reviewing the application within the covered agency or 
+                any reviewing agency;
+                    (E) a description of the stages in the application 
+                review process required to be completed before the 
+                covered agency makes a determination with respect to 
+                the application; and
+                    (F) an estimated timeline for a determination with 
+                respect to the application.
+                                 <all>

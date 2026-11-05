@@ -1,0 +1,151 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8248 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8248
+
+To amend the Federal Power Act to allow a person to construct or modify 
+   an electric transmission facility in a national interest electric 
+transmission corridor if the person self-certifies certain information 
+  to the Federal Energy Regulatory Commission, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 13, 2026
+
+ Mr. Gottheimer (for himself and Mr. Lawler) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Power Act to allow a person to construct or modify 
+   an electric transmission facility in a national interest electric 
+transmission corridor if the person self-certifies certain information 
+  to the Federal Energy Regulatory Commission, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Grid Expansion and Reliability 
+Act''.
+
+SEC. 2. SITING OF INTERSTATE ELECTRIC TRANSMISSION FACILITIES.
+
+    Section 216 of the Federal Power Act (16 U.S.C. 824p) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1), by striking ``Secretary of 
+                Energy (referred to in this section as the 
+                `Secretary')'' and inserting ``Federal Energy 
+                Regulatory Commission''; and
+                    (B) in paragraphs (2), (3), and (4), by striking 
+                ``Secretary'' each place it appears and inserting 
+                ``Federal Energy Regulatory Commission'';
+            (2) by striking subsections (b) and (d) and inserting the 
+        following:
+    ``(b) Self Certification Prior to Construction or Modification of 
+Electric Transmission Facilities.--
+            ``(1) In general.--Beginning on the date on which 
+        regulations are issued under paragraph (3), any person may 
+        construct or modify an electric transmission facility located 
+        in a national interest electric transmission corridor 
+        designated under subsection (a) if such person certifies the 
+        information described in paragraph (2).
+            ``(2) Information described.--The information described in 
+        this paragraph is the following:
+                    ``(A) The exact legal name, title, mailing address, 
+                and principal place of business of the person who will 
+                construct or modify the electric transmission facility.
+                    ``(B) Whether the person who will construct or 
+                modify the electric transmission facility is an 
+                individual or corporation, and if the person is a 
+                corporation, the State under the laws of which such 
+                corporation is organized.
+                    ``(C) A concise description of any existing 
+                operations of the person who will construct or modify 
+                the electric transmission facility.
+                    ``(D) A concise description of the electric 
+                transmission facility to be constructed or modified, 
+                including the dates on which such construction or 
+                modification is expected to begin and be completed.
+                    ``(E) A table of contents that lists each document 
+                included in the certification.
+            ``(3) Regulations.--Not later than 365 days after the date 
+        of enactment of the Grid Expansion and Reliability Act, the 
+        Federal Energy Regulatory Commission shall issue regulations to 
+        carry out this subsection.
+    ``(c) Annual Audits and Reports.--
+            ``(1) Audits.--The Federal Energy Regulatory Commission 
+        shall annually audit each certification made under subsection 
+        (b) to determine whether the certification included the 
+        information required by paragraph (2) of such subsection.
+            ``(2) Reports.--Not later than 365 days after the date of 
+        enactment of the Grid Expansion and Reliability Act, and 
+        annually thereafter, the Federal Energy Regulatory Commission 
+        shall submit to Congress a report describing--
+                    ``(A) the efficacy of the certification process 
+                under subsection (b) for authorizing the construction 
+                and modification of electric transmission facilities;
+                    ``(B) any issues that result from such process; and
+                    ``(C) recommendations for how to improve such 
+                process through additional legislation or regulation, 
+                if needed.'';
+            (3) in subsection (e)(1)--
+                    (A) by striking ``a permit under subsection (b) for 
+                electric transmission facilities to be located'' and 
+                inserting ``a person authorized pursuant to subsection 
+                (b) to construct or modify an electric transmission 
+                facility'';
+                    (B) by striking ``the permit holder'' each place it 
+                appears and inserting ``such person''; and
+                    (C) by striking ``and, in the determination of the 
+                Commission, the permit holder has made good faith 
+                efforts to engage with landowners and other 
+                stakeholders early in the applicable permitting 
+                process'' and inserting ``permitting process'';
+            (4) in subsection (h)--
+                    (A) by striking ``Secretary'' each place it appears 
+                and inserting ``Federal Energy Regulatory Commission'';
+                    (B) in paragraph (2), by striking ``Department of 
+                Energy'' and inserting ``Federal Energy Regulatory 
+                Commission''; and
+                    (C) in paragraph (9)--
+                            (i) by striking subparagraph (A); and
+                            (ii) by redesignating subparagraphs (B) and 
+                        (C) as subparagraphs (A) and (B), respectively; 
+                        and
+            (5) in subsection (i)--
+                    (A) in paragraph (2), by striking ``Secretary'' and 
+                inserting ``Federal Energy Regulatory Commission''; and
+                    (B) in paragraph (4)--
+                            (i) by inserting ``Federal Energy 
+                        Regulatory'' before ``Commission'';
+                            (ii) by striking ``Secretary'' and 
+                        inserting ``Federal Energy Regulatory 
+                        Commission''; and
+                            (iii) by striking ``in disagreement'' and 
+                        all that follows through ``subsection (a).'' 
+                        and inserting the following: ``in disagreement 
+                        about the siting of transmission facilities 
+                        within any State that is a party to the 
+                        compact.''.
+                                 <all>

@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "bill-tracker", "runtimeExecutable": "py", "runtimeArgs": ["-3.12", "-m", "http.server", "8790", "--directory", "docs"], "port": 8790 }
+  ]
+}

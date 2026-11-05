@@ -1,0 +1,166 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 6633 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 6633
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To establish a best-available transmission conductor standard for 
+   certain transmission projects under the Federal Power Act and to 
+ provide for presumptions regarding cost recovery for such conductors.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``High-Capacity Grid Act''.
+
+SEC. 2. BEST-AVAILABLE TRANSMISSION CONDUCTOR CLASS.
+
+    The Federal Power Act is amended by inserting after section 223 (16 
+U.S.C. 824w) the following:
+
+``SEC. 224. USE OF BEST-AVAILABLE TRANSMISSION CONDUCTORS.
+
+    ``(a) Use of Best-available Transmission Conductors.--In exercising 
+its authority under sections 205 and 206, the Commission shall require 
+that public utilities use transmission conductors that are designated 
+as part of the best-available transmission conductor class when 
+carrying out covered projects.
+    ``(b) Regulations.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of this section, the Commission shall issue 
+        regulations to carry out this section.
+            ``(2) Inclusions.--In issuing regulations under paragraph 
+        (1), the Commission shall--
+                    ``(A) establish, in consultation with the Secretary 
+                of Energy, a methodology to designate, as part of the 
+                best-available transmission conductors class, 
+                transmission conductors that--
+                            ``(i) provide the greatest feasible and 
+                        commercially available energy-carrying capacity 
+                        at a given voltage level;
+                            ``(ii) provide the highest feasible and 
+                        commercially available electrical efficiency at 
+                        that voltage level; and
+                            ``(iii) provide the greatest feasible and 
+                        commercially available level of mechanical 
+                        performance, taking into account relevant 
+                        factors, including reliability, safety, and 
+                        affordability;
+                    ``(B) using such methodology, designate 
+                transmission conductors as part of the best-available 
+                transmission conductor class;
+                    ``(C) establish filing requirements for public 
+                utilities to demonstrate compliance with the 
+                regulations, including (as applicable) such information 
+                and data the Commission determines necessary to 
+                demonstrate project-specific impacts described in 
+                subparagraph (D); and
+                    ``(D) provide that the requirement to use 
+                transmission conductors that are designated as part of 
+                the best-available transmission conductor class not 
+                apply--
+                            ``(i) to carrying out any covered project 
+                        for which a public utility, prior to the date 
+                        of enactment of this section, has--
+                                    ``(I) filed for any State or 
+                                Federal permit required to carry out 
+                                the covered project; or
+                                    ``(II) procured any transmission 
+                                conductors;
+                            ``(ii) to the emergency replacement or 
+                        repair of transmission facilities necessary to 
+                        restore service following a natural disaster, 
+                        act of terrorism, or other event designated as 
+                        an emergency by a relevant Federal or State 
+                        authority;
+                            ``(iii) if such use would negatively impact 
+                        safety or violate a reliability standard; or
+                            ``(iv) if the public utility carrying out 
+                        the covered project demonstrates such use would 
+                        significantly increase the cost per kilowatt-
+                        hour of electricity without providing a 
+                        material and commensurate increase to capacity, 
+                        efficiency, or mechanical performance.
+    ``(c) Periodic Review and Updates.--The Commission may, to reflect 
+improvements in technology, periodically review and update--
+            ``(1) the methodology for designating transmission 
+        conductors as part of the best-available transmission conductor 
+        class; and
+            ``(2) the designation of transmission conductors as part of 
+        the best-available transmission conductor class.
+    ``(d) Definitions.--In this section:
+            ``(1) Best-available transmission conductor class.--The 
+        term `best-available transmission conductor class' means a 
+        class of transmission conductors that are designated as part of 
+        the class pursuant to this section.
+            ``(2) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(3) Covered project.--The term `covered project' means--
+                    ``(A) the construction of a new transmission 
+                facility subject to the jurisdiction of the Commission 
+                under section 201(b) that includes a transmission 
+                conductor; or
+                    ``(B) any major (as determined by the Commission) 
+                modification, upgrade, replacement, or reconductoring 
+                of an existing transmission conductor subject to such 
+                jurisdiction.
+            ``(4) Reliability standard.--The term `reliability 
+        standard' has the meaning given such term in section 215.''.
+
+            Passed the House of Representatives September 15, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 6633
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To establish a best-available transmission conductor standard for 
+   certain transmission projects under the Federal Power Act and to 
+ provide for presumptions regarding cost recovery for such conductors.

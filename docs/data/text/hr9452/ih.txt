@@ -1,0 +1,925 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9452 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9452
+
+ To implement reforms to the budget and appropriations process in the 
+           House of Representatives, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 24, 2026
+
+Mr. Womack (for himself, Mr. Peters, Mr. Case, Mr. Huizenga, Mr. Cole, 
+ Mr. Rogers of Kentucky, Mr. Davis of North Carolina, Mr. Panetta, Mr. 
+Calvert, Mr. Sessions, Mr. Shreve, and Mr. Fleischmann) introduced the 
+following bill; which was referred to the Committee on the Budget, and 
+in addition to the Committee on Rules, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To implement reforms to the budget and appropriations process in the 
+           House of Representatives, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Budgeting for a 
+Better America Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+                  TITLE I--BIENNIAL BUDGET RESOLUTIONS
+
+Sec. 101. Purposes.
+Sec. 102. Definitions.
+Sec. 103. Revision of timetable.
+Sec. 104. Biennial concurrent resolutions on the budget.
+Sec. 105. Committee allocations.
+Sec. 106. Revision of biennial budget.
+Sec. 107. Additional amendments to the Congressional Budget Act of 1974 
+                            to effectuate biennial budgeting.
+Sec. 108. Reconciliation process.
+Sec. 109. Amendments to the Rules of the House of Representatives to 
+                            effectuate biennial budgeting.
+Sec. 110. Rulemaking authority.
+Sec. 111. Effective date.
+   TITLE II--NATIONAL COMMISSION ON FISCAL RESPONSIBILITY AND REFORM
+
+Sec. 201. Establishment of Commission.
+Sec. 202. Consideration of commission recommendations.
+Sec. 203. Expedited consideration of proposed joint resolution.
+                        TITLE III--OTHER MATTERS
+
+Sec. 301. Views and estimates of committees.
+Sec. 302. Analysis of long-term unfunded obligations.
+Sec. 303. Annual supplemental budget submission by the President.
+Sec. 304. Hearing on the fiscal state of the Nation.
+Sec. 305. New Member orientation training.
+Sec. 306. Modernizing Committees on the Budget.
+
+                  TITLE I--BIENNIAL BUDGET RESOLUTIONS
+
+SEC. 101. PURPOSES.
+
+    Paragraph (2) of section 2 of the Congressional Budget and 
+Impoundment Control Act of 1974 is amended to read as follows:
+            ``(2) to facilitate the determination biennially of the 
+        appropriate level of Federal revenues and expenditures by the 
+        Congress;''.
+
+SEC. 102. DEFINITIONS.
+
+    Section 3 of the Congressional Budget and Impoundment Control Act 
+of 1974 (2 U.S.C. 622) is amended--
+            (1) in paragraph (4), by striking ``for a fiscal year'' 
+        each place it appears and inserting ``for a biennium''; and
+            (2) by adding at the end the following new paragraphs:
+            ``(12) The term `direct spending' has the meaning given to 
+        such term in section 250(c)(8) of the Balanced Budget and 
+        Emergency Deficit Control Act of 1985.
+            ``(13) The term `biennium' means any period of 2 
+        consecutive fiscal years beginning with an even-numbered fiscal 
+        year.
+            ``(14) The term `budget year' has the meaning given that 
+        term in section 250(c)(12) of the Balanced Budget and Emergency 
+        Control Act of 1985.''.
+
+SEC. 103. REVISION OF TIMETABLE.
+
+    Section 300 of the Congressional Budget Act of 1974 (2 U.S.C. 631) 
+is amended to read as follows:
+
+                              ``timetable
+
+    ``Sec. 300. The timetable with respect to the congressional budget 
+process for any Congress is as follows:
+
+
+                                                 ``First Session
+On or before:                             Action to be completed:
+First Monday in February................  President submits budget.
+February 15.............................  Congressional Budget Office submits report to Budget Committees.
+March 1.................................  Committees submit views and estimates to Budget Committees.
+April 1.................................  Senate Budget Committee reports biennial budget.
+May 1...................................  Congress completes action on the biennial budget.
+May 15..................................  Appropriation bills may be considered in the House of Representatives.
+June 10.................................  House Appropriations Committee reports last annual appropriation bill.
+October 1...............................  First fiscal year of the biennium begins.
+ 
+
+
+
+                                                ``Second Session
+On or before:                             Action to be completed:
+First Monday in February................  President submits budget.
+February 15.............................  Congressional Budget Office submits report to Budget Committees.
+June 10.................................  House Appropriations Committee reports last annual appropriation bill.
+October 1...............................  Second fiscal year of the biennium begins.''.
+ 
+
+SEC. 104. BIENNIAL CONCURRENT RESOLUTIONS ON THE BUDGET.
+
+    (a) Contents of Resolution.--Section 301(a) of the Congressional 
+Budget Act of 1974 (2 U.S.C. 632(a)) is amended--
+            (1) by striking ``On or before April 15'' and all that 
+        follows through ``the following:'' and inserting the following: 
+        ``On or before May 1 of each odd-numbered calendar year, the 
+        Congress shall complete action on a concurrent resolution on 
+        the budget for the biennium beginning on October 1 of that 
+        calendar year. The concurrent resolution shall set forth 
+        appropriate levels for each fiscal year in the biennium and for 
+        at least each fiscal year in the next 2 bienniums for the 
+        following--'';
+            (2) in paragraph (6)--
+                    (A) by striking ``for the fiscal year'' and 
+                inserting ``for each fiscal year in the biennium''; and
+                    (B) by striking ``and'' at the end;
+            (3) in paragraph (7)--
+                    (A) by striking ``for the fiscal year'' and 
+                inserting ``for each fiscal year in the biennium''; and
+                    (B) by striking the period at the end and inserting 
+                a semicolon;
+            (4) by adding after paragraph (7) the following:
+            ``(8) subtotals of new budget authority and outlays for 
+        nondefense discretionary spending; defense discretionary 
+        spending; direct spending; and net interest;
+            ``(9) the ratio of the public debt to the estimated gross 
+        domestic product and the ratio of the deficit to the estimated 
+        gross domestic product; and
+            ``(10) the total outlays and total revenue losses from tax 
+        expenditures.''; and
+            (5) by adding at the end of the matter following paragraph 
+        (8) (as added by subparagraph (D)) the following: ``The 
+        concurrent resolution on the budget for a biennium shall 
+        include procedures for adjusting spending and revenue levels, 
+        committee allocations, and other amounts in the resolution 
+        during the second session of a Congress to reflect an updated 
+        baseline that will be used for scoring purposes.''.
+    (b) Additional Matters in Concurrent Resolution.--Section 301(b) of 
+the Congressional Budget Act of 1974 (2 U.S.C. 632(b)) is amended--
+            (1) in paragraph (3), by striking ``for such fiscal year'' 
+        and inserting ``for either fiscal year in such biennium'';
+            (2) in paragraph (8), by striking ``and'' at the end;
+            (3) in paragraph (9), by striking the period at the end and 
+        inserting ``; and''; and
+            (4) by adding at the end the following:
+            ``(10) include total combined outlays and revenues for tax 
+        expenditures.''.
+    (c) Hearings and Report.--Section 301(e) of the Congressional 
+Budget Act of 1974 (2 U.S.C. 632(e)) is amended--
+            (1) in paragraph (1), by striking ``fiscal year'' and 
+        inserting ``biennium''; and
+            (2) in paragraph (3)--
+                    (A) by striking ``and'' at the end of subparagraph 
+                (D);
+                    (B) by striking the period at the end of 
+                subparagraph (D) and inserting ``; and''; and
+                    (C) by adding at the end the following:
+                    ``(F) the difference between the true tax liability 
+                owed to the Federal Government and the amount of tax 
+                paid voluntarily and on time.''.
+    (d) Goals for Reducing Unemployment.--Section 301(f) of the 
+Congressional Budget Act of 1974 (2 U.S.C. 632(f)) is amended by 
+striking ``fiscal year'' each place it appears and inserting 
+``biennium''.
+    (e) Economic Assumptions.--Section 301(g)(1) of the Congressional 
+Budget Act of 1974 (2 U.S.C. 632(g)(1)) is amended by striking ``for a 
+fiscal year'' and inserting ``for a biennium''.
+    (f) Section Heading.--The section heading of section 301 of the 
+Congressional Budget Act of 1974 (2 U.S.C. 632) is amended by striking 
+``annual adoption of'' and inserting ``adoption of biennial''.
+
+SEC. 105. COMMITTEE ALLOCATIONS.
+
+    Section 302 of the Congressional Budget Act of 1974 (2 U.S.C. 633) 
+is amended--
+            (1) in subsection (a)(1)--
+                    (A) by striking ``for that period of fiscal years'' 
+                and inserting ``for all fiscal years covered by the 
+                resolution''; and
+                    (B) by striking ``only for the fiscal year of that 
+                resolution'' and inserting ``only for each fiscal year 
+                of the biennium'';
+            (2) in subsection (c)--
+                    (A) by striking ``subsection (a)'' and inserting 
+                ``subsection (a)(1)'';
+                    (B) by striking ``for a fiscal year'' and inserting 
+                ``for a budget year''; and
+                    (C) by striking ``for that fiscal year'' and 
+                inserting ``for that budget year'';
+            (3) in subsection (f)(1)--
+                    (A) by striking ``for a fiscal year''; and
+                    (B) by striking ``the first fiscal year'' and 
+                inserting ``either fiscal year of the biennium of that 
+                resolution''; and
+            (4) in subsection (f)(2)(A), by--
+                    (A) striking ``the first fiscal year'' and 
+                inserting ``either fiscal year of the biennium of that 
+                resolution''; and
+                    (B) striking ``the total of fiscal years'' and 
+                inserting ``the total of all fiscal years covered by 
+                the resolution''.
+
+SEC. 106. REVISION OF BIENNIAL BUDGET.
+
+    Section 304 of the Congressional Budget Act of 1974 (2 U.S.C. 635) 
+is amended to read as follows:
+
+    ``permissible revisions of concurrent resolutions on the budget
+
+    ``Sec. 304. At any time after the concurrent resolution on the 
+budget has been agreed to pursuant to section 301 and before the end of 
+the biennium, the two Houses may adopt a concurrent resolution that 
+revises or reaffirms the most recently agreed to concurrent resolution 
+on the budget. Any concurrent resolution that revises or reaffirms the 
+most recently agreed to concurrent resolution on the budget shall be 
+considered under the procedures set forth in section 305.''.
+
+SEC. 107. ADDITIONAL AMENDMENTS TO THE CONGRESSIONAL BUDGET ACT OF 1974 
+              TO EFFECTUATE BIENNIAL BUDGETING.
+
+    (a) Enforcement of Section 303.--Section 303 of the Congressional 
+Budget Act of 1974 (2 U.S.C. 634) is amended--
+            (1) in subsection (a)--
+                    (A) by striking ``for a fiscal year'' and inserting 
+                ``for a biennium''; and
+                    (B) by striking ``the first fiscal year covered by 
+                that resolution'' and inserting ``either fiscal year of 
+                that biennium'';
+            (2) in subsection (b)(1)(B), by striking ``the fiscal 
+        year'' and inserting ``the biennium''; and
+            (3) in subsection (c)--
+                    (A) in paragraph (1)--
+                            (i) by striking ``for a fiscal year'' and 
+                        inserting ``for a biennium''; and
+                            (ii) by striking ``for that year'' each 
+                        place it appears and inserting ``for each year 
+                        of that biennium''; and
+                    (B) in paragraph (2), by striking ``after the year 
+                the allocation referred to in that paragraph is made'' 
+                and inserting ``after the years the allocations 
+                referred to in that paragraph are made''.
+    (b) Section 305.--Subsections (a)(3) and (b)(3) of section 305 of 
+the Congressional Budget Act of 1974 (2 U.S.C. 636) are amended by 
+striking ``for a fiscal year''.
+    (c) Section 311 Point of Order.--
+            (1) In the house of representatives.--Section 311(a)(1) of 
+        the Congressional Budget Act of 1974 (2 U.S.C. 642(a)) is 
+        amended--
+                    (A) by striking ``for a fiscal year'';
+                    (B) by striking ``the first fiscal year'' each 
+                place it appears and inserting ``either of the first 
+                two fiscal years covered by such resolution''; and
+                    (C) by striking ``that first fiscal year'' and 
+                inserting ``either of the first two fiscal years''.
+            (2) In the senate.--Section 311(a)(2) of the Congressional 
+        Budget Act of 1974 (2 U.S.C. 642(a)(2)) is amended--
+                    (A) in subparagraph (A), by striking ``for the 
+                first fiscal year'' and inserting ``for either of the 
+                first two fiscal years''; and
+                    (B) in subparagraph (B)--
+                            (i) by striking ``that first fiscal year'' 
+                        the first place it appears and inserting 
+                        ``either of the first two fiscal years''; and
+                            (ii) by striking ``that first fiscal year 
+                        and the ensuing fiscal years'' and inserting 
+                        ``all fiscal years''.
+            (3) Social security levels.--Section 311(a)(3) of the 
+        Congressional Budget Act of 1974 (2 U.S.C. 642(a)(2)) is 
+        amended by--
+                    (A) striking ``for the first fiscal year'' and 
+                inserting ``for either of the first two fiscal years''; 
+                and
+                    (B) striking ``that fiscal year and the ensuing 
+                fiscal years'' and inserting ``all fiscal years''.
+
+SEC. 108. RECONCILIATION PROCESS.
+
+    Section 310(a) of the Congressional Budget Act of 1974 (2 U.S.C. 
+641(a)) is amended--
+            (1) in the matter before paragraph (1), by striking ``A 
+        concurrent'' and all that follows through ``shall'' and 
+        inserting ``A concurrent resolution on the budget for a 
+        biennium shall, for each fiscal year of the biennium'';
+            (2) in paragraph (1)(A), by striking ``for such fiscal 
+        year'' and inserting ``for each fiscal year of the biennium'';
+            (3) in paragraph (1)(C), by striking ``such fiscal year'' 
+        and inserting ``each fiscal year of the biennium''; and
+            (4) in paragraph (1)(D), by striking ``such fiscal year'' 
+        and inserting ``each fiscal year of the biennium''.
+
+SEC. 109. AMENDMENTS TO THE RULES OF THE HOUSE OF REPRESENTATIVES TO 
+              EFFECTUATE BIENNIAL BUDGETING.
+
+    (a) Clause 4(a)(4) of rule X of the Rules of the House of 
+Representatives is amended by striking ``any allocations'' and 
+inserting ``its allocations for the budget year'' and by striking 
+``fiscal year'' and inserting ``biennium''.
+    (b) Clause 4(b)(2) of rule X of the Rules of the House of 
+Representatives is amended by striking ``for each fiscal year''.
+    (c) Clause 4(b) of rule X is amended by striking ``and'' at the end 
+of subparagraph (5), by striking the period and inserting ``; and'' at 
+the end of subparagraph (6), and by adding at the end the following new 
+subparagraph:
+            ``(7) use the second session of each Congress to study 
+        issues with long-term budgetary and economic implications.''.
+    (d) Clause 4(f) of rule X is amended--
+            (1) by striking ``fiscal year'' the first place it appears 
+        and inserting ``biennium'';
+            (2) by striking ``that fiscal year'' and inserting ``each 
+        fiscal year in such ensuing biennium''; and
+            (3) in subparagraph (1) by striking ``six weeks after the 
+        submission of the budget by the President'' and inserting 
+        ``March 1''.
+    (e) Clause 3(d)(1)(A) of rule XIII is amended by striking ``five'' 
+both places it appears and inserting ``six''.
+
+SEC. 110. RULEMAKING AUTHORITY.
+
+    Sections 109 and 306 are enacted by the Congress--
+            (1) as an exercise of the rulemaking power of the House of 
+        Representatives, and as such they shall be considered as part 
+        of the rules of the House and such rules shall supersede other 
+        rules only to the extent that they are inconsistent therewith; 
+        and
+            (2) with full recognition of the constitutional right of 
+        the House to change such rules at any time, in the same manner, 
+        and to the same extent as in the case of any other rule of the 
+        House.
+
+SEC. 111. EFFECTIVE DATE.
+
+    This title and the amendments made by this title shall take effect 
+immediately before noon January 3, 2027.
+
+   TITLE II--NATIONAL COMMISSION ON FISCAL RESPONSIBILITY AND REFORM
+
+SEC. 201. ESTABLISHMENT OF COMMISSION.
+
+    (a) Establishment.--Not later than 30 days after the date of the 
+enactment of this Act, there shall be established within the 
+legislative branch a commission to be known as the National Commission 
+on Fiscal Responsibility and Reform (referred to in this title as the 
+``Commission'').
+    (b) Membership.--
+            (1) Composition of commission.--A Commission shall be 
+        composed of 18 members of whom--
+                    (A) six members shall be appointed by the 
+                President, comprised equally of 3 members from each 
+                political party;
+                    (B) three members shall be appointed by the 
+                majority leader of the Senate, from among current 
+                Members of the Senate;
+                    (C) three members shall be appointed by the Speaker 
+                of the House of Representatives, from among current 
+                Members of the House of Representatives;
+                    (D) three members shall be appointed by the 
+                minority leader of the Senate, from among current 
+                Members of the Senate; and
+                    (E) three members shall be appointed by the 
+                minority leader of the House of Representatives, from 
+                among current Members of the House of Representatives.
+            (2) Initial appointments.--Initial appointments to the 
+        Commission shall be made not later than 60 days after the 
+        establishment of the Commission.
+            (3) Vacancy.--A vacancy on the Commission shall be filled 
+        in the same manner as the initial appointment.
+    (c) Co-Chairpersons.--From among the members appointed under 
+paragraph (1), the President shall designate 2 members, who shall not 
+be of the same political party, to serve as Co-Chairpersons of the 
+Commission.
+    (d) Qualifications.--Members appointed to the Commission shall have 
+significant depth of experience and responsibilities in matters 
+relating to government service, fiscal policy, economics, Federal 
+agency management or private sector management, public administration, 
+and law.
+    (e) Duties.--
+            (1) In general.--The Commission shall identify policies to 
+        improve the fiscal situation in the medium term and to achieve 
+        fiscal sustainability over the long term.
+            (2) Requirements.--In carrying out paragraph (1), the 
+        Commission shall--
+                    (A) propose recommendations designed to achieve an 
+                annual 3 percent deficit to gross domestic product by 
+                the end of the 10-year period beginning on the date on 
+                which the Commission is established; and
+                    (B) propose recommendations that meaningfully 
+                improve the long-term fiscal outlook, including changes 
+                to address the growth of entitlement spending and the 
+                gap between the projected revenues and expenditures of 
+                the Federal Government.
+    (f) Reports.--
+            (1) In general.--
+                    (A) Final report.--Not later than 1 year after the 
+                date on which members are appointed to the Commission 
+                under subsection (b), the Commission shall vote on the 
+                approval of a final report containing the 
+                recommendations required under subsection (e).
+                    (B) Interim reports.--At any time after the date on 
+                which members are appointed and prior to voting on the 
+                approval of a final report under subparagraph (A), the 
+                Commission may vote on the approval of an interim 
+                report containing such recommendations described in 
+                subsection (e) as the Commission may provide.
+            (2) Approval of report.--The Commission may only issue a 
+        report under this subsection if--
+                    (A) the report is approved by not less than 12 
+                members of the Commission; and
+                    (B) of the members approving the report, at least 4 
+                are members of the same political party to which the 
+                Speaker of the House of Representatives belongs and at 
+                least 4 are members of the same political party to 
+                which the minority leader of the House of 
+                Representatives belongs.
+            (3) Submission of report to congress.--Each report approved 
+        under this subsection shall be submitted to Congress and made 
+        available to the public.
+    (g) Powers of the Commission.--
+            (1) Hearings.--The Commission may hold such hearings, sit 
+        and act at such times and places, take such testimony, and 
+        receive such evidence as the Commission considers advisable to 
+        carry out the duties of the Commission described in subsection 
+        (e).
+            (2) Information from federal agencies.--The Commission may 
+        secure directly from any Federal agency such information as the 
+        Commission considers necessary to carry out the duties of the 
+        Commission described in subsection (e). Upon request from the 
+        Co-Chairpersons of the Commission, the head of the Federal 
+        agency shall provide the information requested to the 
+        Commission.
+            (3) Postal services.--The Commission may use the United 
+        States mail in the same manner and under the same conditions as 
+        other departments and agencies of the Federal Government.
+            (4) Website.--
+                    (A) Contents.--The Commission shall establish a 
+                website that shall contain--
+                            (i) the recommendations required under 
+                        subsection (e); and
+                            (ii) the records of attendance of the 
+                        members of the Commission for each meeting of 
+                        the Commission.
+                    (B) Date of publication.--The Commission shall 
+                publish a recommendation or record of attendance 
+                described under subparagraph (A) on the website 
+                established under such subparagraph not later than 72 
+                hours after the conclusion of the meeting at which such 
+                recommendation is made or at which such record of 
+                attendance is taken.
+    (h) Assistance of Other Legislative Branch Entities.--
+            (1) Government accountability office.--The Comptroller 
+        General shall provide technical assistance to the Commission, 
+        as the Commission conducts the work of the Commission, on the 
+        findings and recommendations of the Government Accountability 
+        Office.
+            (2) Congressional budget office.--The Director of the 
+        Congressional Budget Office shall provide technical assistance 
+        to the Commission, as the Commission conducts the work of the 
+        Commission, on the findings and recommendations of the 
+        Congressional Budget Office.
+            (3) Joint committee on taxation.--The chair of the Joint 
+        Committee on Taxation shall provide technical assistance to the 
+        Commission, as the Commission conducts the work of the 
+        Commission, on the findings and recommendations of the Joint 
+        Committee on Taxation.
+    (i) Personnel Matters.--
+            (1) In general.--Members of the Commission shall serve 
+        without any additional compensation.
+            (2) Travel expenses.--Members of the Commission shall be 
+        allowed travel expenses, including per diem in lieu of 
+        subsistence, at rates authorized for employees of agencies 
+        under subchapter I of chapter 57 of title 5, United States 
+        Code, while away from their homes or regular places of business 
+        in the performance of services for the Commission.
+            (3) Staff.--
+                    (A) In general.--The Co-Chairpersons of the 
+                Commission, may without regard to the civil service 
+                laws and regulations, appoint and terminate an 
+                executive director and such other additional personnel 
+                as may be necessary to enable the Commission to perform 
+                its duties. The employment of an executive director 
+                shall be subject to confirmation by the Commission.
+                    (B) Compensation.--The Co-Chairpersons of the 
+                Commission may fix the compensation of the executive 
+                director and other personnel without regard to the 
+                provisions of chapter 51 and subchapter III of chapter 
+                53 of title 5, United States Code, relating to the 
+                classification of positions and General Schedule pay 
+                rates, except that the rate of pay for the executive 
+                director and other personnel may not exceed the rate 
+                payable for level V of the Executive Schedule under 
+                section 5613 of such title.
+            (4) Detail of government employees.--Any Federal Government 
+        employee may be detailed to the Commission without 
+        reimbursement, and such detail shall be without interruption or 
+        loss of civil service status or privilege.
+            (5) Procurement of temporary and intermittent services.--
+        The Co-Chairpersons of each Commission may procure temporary 
+        and intermittent services under section 3109(b) of title 5, 
+        United States Code, at rates for individuals which do not 
+        exceed the daily equivalent of the annual rate of basic pay 
+        prescribed for level V of the Executive Schedule under section 
+        5316 of such title.
+    (j) Termination of the Commission.--The Commission established 
+shall terminate 30 days after the date on which the Commission submits 
+the final report of the Commission under subsection (f).
+    (k) Rules of Construction.--Nothing in this title shall be 
+construed to--
+            (1) impair or otherwise affect--
+                    (A) authority granted by law to an executive 
+                department, agency, or the head thereof; or
+                    (B) functions of the Director of the Office of 
+                Management and Budget relating to budgetary, 
+                administrative, or legislative proposals; or
+            (2) create any right or benefit, substantive or procedural, 
+        enforceable at law or in equity by any party against the United 
+        States, its departments, agencies, or entities, its officers, 
+        employees, or agents, or any other person.
+    (l) Authorization of Appropriations.--
+            (1) In general.--There are authorized to be appropriated to 
+        the Commission such sums as may be necessary to carry out this 
+        title.
+            (2) Availability.--Any sums appropriated under paragraph 
+        (1) shall remain available, without fiscal year limitation, 
+        until expended.
+    (m) Federal Agency Defined.--The term ``Federal agency'' means an 
+establishment in the executive, legislative, or judicial branch of the 
+Federal Government.
+
+SEC. 202. CONSIDERATION OF COMMISSION RECOMMENDATIONS.
+
+    (a) Submission of Proposed Joint Resolution.--Not later than 60 
+days after the date on which the Commission submits a report to 
+Congress under section 201(f)(3), the Commission shall transmit to 
+Congress a proposed joint resolution consisting of legislative language 
+to implement the recommendations contained in such report.
+    (b) Requirements for Preparation of Proposed Joint Resolution.--
+            (1) Consultation with congress.--
+                    (A) In general.--The Commission may not transmit a 
+                proposed joint resolution under subsection (a) until 
+                after the Co-Chairpersons of the Commission complete 
+                consultation with Congress in accordance with this 
+                paragraph.
+                    (B) Consultation with committees.--The Co-
+                Chairpersons shall consult with the chairman and 
+                ranking minority member of each relevant committee of 
+                the Senate or of the House of Representatives regarding 
+                the contents of a proposed joint resolution.
+                    (C) Requirements for consultation.--The 
+                consultation required under subparagraph (B) shall 
+                provide the opportunity for the chairman and ranking 
+                member of each relevant committee of the Senate or of 
+                the House of Representatives to provide--
+                            (i) recommendations for alternative means 
+                        of addressing the recommendations contained in 
+                        the Commission report; and
+                            (ii) recommendations regarding which 
+                        recommendations contained in the Commission 
+                        report should not be addressed in the proposed 
+                        joint resolution.
+                    (D) Relevant committees.--The relevant committees 
+                of the Senate and the House of Representatives for 
+                purposes of this paragraph shall be--
+                            (i) determined by the Co-Chairpersons; and
+                            (ii) based on the content of the proposed 
+                        joint resolution.
+            (2) Consultation with gao and cbo.--The Co-Chairpersons 
+        shall prepare a proposed joint resolution transmitted under 
+        subsection (a) in consultation with the Comptroller General of 
+        the United States and the Director of the Congressional Budget 
+        Office.
+    (c) Contents of Special Message.--A joint resolution transmitted 
+under subsection (a) shall--
+            (1) specify recommendations outlined in the Commission 
+        report that are excluded from the proposed joint resolution;
+            (2) detail why the recommendations described in paragraph 
+        (1) were excluded from the proposed joint resolution;
+            (3) specify recommendations outlined in the Commission 
+        report that are included in the proposed joint resolution; and
+            (4) identify programs included in the Commission report 
+        that should be eliminated or consolidated.
+    (d) Transmittal.--The Co-Chairpersons shall submit the joint 
+resolution to the Secretary of the Senate if the Senate is not in 
+session and to the Clerk of the House of Representatives if the House 
+is not in session.
+    (e) Public Availability.--The Co-Chairpersons shall make a copy of 
+the proposed joint resolution publicly available, including publicly 
+available on a website of the Commission, and shall publish in the 
+Federal Register a notice of the message and information on how it can 
+be obtained.
+
+SEC. 203. EXPEDITED CONSIDERATION OF PROPOSED JOINT RESOLUTION.
+
+    (a) Qualifying Legislation.--
+            (1) In general.--Only a Commission joint resolution shall 
+        be entitled to expedited consideration under this section.
+            (2) Definition.--In this section, the term ``Commission 
+        joint resolution'' means a joint resolution which consists 
+        solely of the text of the proposed joint resolution submitted 
+        by the Commission under section 202(a).
+    (b) Consideration in the House of Representatives.--
+            (1) Introduction.--A Commission joint resolution may be 
+        introduced in the House of Representatives (by request)--
+                    (A) by the majority leader of the House of 
+                Representatives, or by a Member of the House of 
+                Representatives designated by the majority leader of 
+                the House of Representatives, on the next legislative 
+                day after the date on which the President submits the 
+                proposed joint resolution under section 402(a); or
+                    (B) if the Commission joint resolution is not 
+                introduced under subparagraph (A), by any Member of the 
+                House of Representatives on any legislative day 
+                beginning on the legislative day after the legislative 
+                day described in subparagraph (A).
+            (2) Referral and reporting.--Any committee of the House of 
+        Representatives to which a Commission joint resolution is 
+        referred shall report the Commission joint resolution to the 
+        House of Representatives without amendment not later than 10 
+        legislative days after the date on which the Commission joint 
+        resolution was so referred. If a committee of the House of 
+        Representatives fails to report a Commission joint resolution 
+        within that period, it shall be in order to move that the House 
+        of Representatives discharge the committee from further 
+        consideration of the Commission joint resolution. Such a motion 
+        shall not be in order after the last committee authorized to 
+        consider the Commission joint resolution reports it to the 
+        House of Representatives or after the House of Representatives 
+        has disposed of a motion to discharge the Commission joint 
+        resolution. The previous question shall be considered as 
+        ordered on the motion to its adoption without intervening 
+        motion except 20 minutes of debate equally divided and 
+        controlled by the proponent and an opponent. If such a motion 
+        is adopted, the House of Representatives shall proceed 
+        immediately to consider the Commission joint resolution in 
+        accordance with paragraphs (3) and (4). A motion to reconsider 
+        the vote by which the motion is disposed of shall not be in 
+        order.
+            (3) Proceeding to consideration.--After the last committee 
+        authorized to consider a Commission joint resolution reports it 
+        to the House of Representatives or has been discharged (other 
+        than by motion) from its consideration, it shall be in order to 
+        move to proceed to consider the Commission joint resolution in 
+        the House of Representatives. Such a motion shall not be in 
+        order after the House of Representatives has disposed of a 
+        motion to proceed with respect to the Commission joint 
+        resolution. The previous question shall be considered as 
+        ordered on the motion to its adoption without intervening 
+        motion. A motion to reconsider the vote by which the motion is 
+        disposed of shall not be in order.
+            (4) Consideration.--The Commission joint resolution shall 
+        be considered as read. All points of order against the 
+        Commission joint resolution and against its consideration are 
+        waived. The previous question shall be considered as ordered on 
+        the Commission joint resolution to its passage without 
+        intervening motion except 2 hours of debate equally divided and 
+        controlled by the proponent and an opponent and 1 motion to 
+        limit debate on the Commission joint resolution. A motion to 
+        reconsider the vote on passage of the Commission joint 
+        resolution shall not be in order.
+            (5) Vote on passage.--The vote on passage of the Commission 
+        joint resolution shall occur not later than 3 legislative days 
+        after the date on which the last committee authorized to 
+        consider the Commission joint resolution reports it to the 
+        House of Representatives or is discharged.
+    (c) Expedited Procedure in the Senate.--
+            (1) Introduction in the senate.--A Commission joint 
+        resolution may be introduced in the Senate (by request)--
+                    (A) by the majority leader of the Senate, or by a 
+                Member of the Senate designated by the majority leader 
+                of the Senate, on the next legislative day after the 
+                date on which the Commission submits the proposed joint 
+                resolution under section 202(a); or
+                    (B) if the Commission joint resolution is not 
+                introduced under subparagraph (A), by any Member of the 
+                Senate on any day on which the Senate is in session 
+                beginning on the day after the day described in 
+                subparagraph (A).
+            (2) Committee consideration.--A Commission joint resolution 
+        introduced in the Senate under paragraph (1) shall be jointly 
+        referred to the committee or committees of jurisdiction, which 
+        committees shall report the Commission joint resolution without 
+        any revision and with a favorable recommendation, an 
+        unfavorable recommendation, or without recommendation, not 
+        later than 10 session days after the date on which the 
+        Commission joint resolution was so referred. If any committee 
+        to which a Commission joint resolution is referred fails to 
+        report the Commission joint resolution within that period, that 
+        committee shall be automatically discharged from consideration 
+        of the Commission joint resolution, and the Commission joint 
+        resolution shall be placed on the appropriate calendar.
+            (3) Proceeding.--Notwithstanding rule XXII of the Standing 
+        Rules of the Senate, it is in order, not later than 2 days of 
+        session after the date on which a Commission joint resolution 
+        is reported or discharged from all committees to which the 
+        Commission joint resolution was referred, for the majority 
+        leader of the Senate or the designee of the majority leader to 
+        move to proceed to the consideration of the Commission joint 
+        resolution. It shall also be in order for any Member of the 
+        Senate to move to proceed to the consideration of the 
+        Commission joint resolution at any time after the conclusion of 
+        such 2-day period. A motion to proceed is in order even though 
+        a previous motion to the same effect has been disagreed to. All 
+        points of order against the motion to proceed to the Commission 
+        joint resolution are waived. The motion to proceed is not 
+        debatable. The motion is not subject to a motion to postpone. A 
+        motion to reconsider the vote by which the motion is agreed to 
+        or disagreed to shall not be in order. If a motion to proceed 
+        to the consideration of the Commission joint resolution is 
+        agreed to, the Commission joint resolution shall remain the 
+        unfinished business until disposed of. All points of order 
+        against a Commission joint resolution and against consideration 
+        of the Commission joint resolution are waived.
+            (4) No amendments.--An amendment to a Commission joint 
+        resolution, or a motion to postpone, or a motion to proceed to 
+        the consideration of other business, or a motion to recommit 
+        the Commission joint resolution, is not in order.
+            (5) Rulings of the chair on procedure.--Appeals from the 
+        decisions of the Chair relating to the application of the rules 
+        of the Senate, as the case may be, to the procedure relating to 
+        a Commission joint resolution shall be decided without debate.
+    (d) Amendment.--A Commission joint resolution shall not be subject 
+to amendment in either the Senate or the House of Representatives.
+    (e) Consideration by the Other House.--
+            (1) In general.--If, before passing a Commission joint 
+        resolution, a House receives from the other House a Commission 
+        joint resolution of the other House--
+                    (A) the Commission joint resolution of the other 
+                House shall not be referred to a committee; and
+                    (B) the procedure in the receiving House shall be 
+                the same as if no Commission joint resolution had been 
+                received from the other House until the vote on 
+                passage, when the Commission joint resolution received 
+                from the other House shall supplant the Commission 
+                joint resolution of the receiving House.
+            (2) Revenue measures.--This subsection shall not apply to 
+        the House of Representatives if a Commission joint resolution 
+        received from the Senate is a revenue measure.
+    (f) Rules To Coordinate Action With Other House.--
+            (1) Treatment of commission joint resolution of other 
+        house.--If a Commission joint resolution is not introduced in 
+        the Senate or the Senate fails to consider a Commission joint 
+        resolution under this section, the Commission joint resolution 
+        of the House of Representatives shall be entitled to expedited 
+        floor procedures under this section.
+            (2) Treatment of companion measures in the senate.--If, 
+        following passage of a Commission joint resolution in the 
+        Senate, the Senate then receives from the House of 
+        Representatives a Commission joint resolution, the House-passed 
+        Commission joint resolution shall not be debatable. The vote on 
+        passage of the Commission joint resolution in the Senate shall 
+        be considered to be the vote on passage of the Commission joint 
+        resolution received from the House of Representatives.
+            (3) Vetoes.--If the President vetoes a Commission joint 
+        resolution, consideration of a veto message in the Senate under 
+        this paragraph shall be 10 hours equally divided between the 
+        majority and minority leaders of the Senate or the designees of 
+        the majority and minority leaders of the Senate.
+    (g) Exercise of Rulemaking Power.--This section is enacted by 
+Congress--
+            (1) as an exercise of the rulemaking power of the Senate 
+        and House of Representatives, respectively, and as such it is 
+        deemed a part of the rules of each House, respectively, but 
+        applicable only with respect to the procedure to be followed in 
+        that House in the case of a Commission joint resolution, and it 
+        supersedes other rules only to the extent that it is 
+        inconsistent with such rules; and
+            (2) with full recognition of the constitutional right of 
+        either House to change the rules (so far as relating to the 
+        procedure of that House) at any time, in the same manner, and 
+        to the same extent as in the case of any other rule of that 
+        House.
+
+                        TITLE III--OTHER MATTERS
+
+SEC. 301. VIEWS AND ESTIMATES OF COMMITTEES.
+
+    Section 301(d) of the Congressional Budget and Impoundment Control 
+Act of 1974 (2 U.S.C. 632(d)) is amended to read as follows:
+    ``(d) Views and Estimates of Other Committees.--
+            ``(1) In general.--Not later than March 1 of the first 
+        session of a Congress, or upon the request of the Committee on 
+        the Budget of the House of Representatives or the Senate, each 
+        committee of the House of Representatives and the Senate having 
+        legislative jurisdiction shall submit to its respective 
+        Committee on the Budget its views and estimates (as determined 
+        by the committee making such submission) with respect to the 
+        following:
+                    ``(A) Any legislation to be considered during that 
+                Congress that is a priority for the committee.
+                    ``(B) Any legislation within the jurisdiction of 
+                the committee that would establish, amend, or 
+                reauthorize any Federal program and likely have a 
+                significant budgetary impact.
+            ``(2) Additional matters.--Any committee of the House of 
+        Representatives or the Senate and any joint committee of the 
+        Congress may submit to the appropriate Committees on the Budget 
+        its views and estimates with respect to all matters set forth 
+        in subsections (a) and (b) which relate to matters within its 
+        jurisdiction.
+            ``(3) Joint economic committee.--The Joint Economic 
+        Committee shall submit to the Committees on the Budget of both 
+        Houses its recommendations as to the fiscal policy appropriate 
+        to the goals of the Employment Act of 1946.''.
+
+SEC. 302. ANALYSIS OF LONG-TERM UNFUNDED OBLIGATIONS.
+
+    Section 1105(a) of title 31, United States Code, is amended by 
+adding at the end the following:
+            ``(39) an analysis of long-term unfunded obligations, which 
+        shall include--
+                    ``(A) an analysis of the impact of long-term 
+                unfunded obligations in applicable entitlement programs 
+                on the long-term level of unified budget outlays and 
+                the unified budget surplus or deficit, in relation to 
+                the projected level of the gross domestic product of 
+                the United States, over a 25, 50, and 75-year window;
+                    ``(B) a report on the impact of legislation enacted 
+                during the previous session of Congress that increases 
+                the long-term unfunded obligation in any applicable 
+                group of entitlement program; and
+                    ``(C) an analysis of the impact of legislation 
+                proposed in the President's budget on the long-term 
+                unfunded obligation in any applicable entitlement 
+                program.''.
+
+SEC. 303. ANNUAL SUPPLEMENTAL BUDGET SUBMISSION BY THE PRESIDENT.
+
+    Section 1106 of title 31, United States Code, is amended by adding 
+at the end the following:
+    ``(d) On or before December 1 calendar year 2028 and each calendar 
+year thereafter, the President shall submit to Congress an 
+administrative budget for the fiscal year beginning in the ensuing 
+calendar year, which shall include up-to-date estimates for current 
+year and prior year data and credit reestimates for the current year 
+(as included in the Federal credit supplement of such budget).''.
+
+SEC. 304. HEARING ON THE FISCAL STATE OF THE NATION.
+
+    (a) In General.--Not later than 45 days (excluding Saturdays, 
+Sundays, and holidays) after the date on which the Secretary of the 
+Treasury submits to Congress the audited financial statement required 
+under paragraph (1) of section 331(e) of title 31, United States Code, 
+on a date agreed upon by the chairs of the Committees on the Budget of 
+the House of Representatives and the Senate and the Comptroller General 
+of the United States, the chairs shall conduct a hearing to receive a 
+presentation from the Comptroller General reviewing the findings of the 
+audit required under paragraph (2) of such section and providing, with 
+respect to the information included by the Secretary in the report 
+accompanying such audited financial statement, an analysis of the 
+financial position and condition of the Federal Government, including 
+financial measures (such as the net operating cost, income, budget 
+deficits, or budget surpluses) and sustainability measures (such as the 
+long-term fiscal projection or social insurance projection) described 
+in such report.
+    (b) Effective Date.--The requirement under subsection (a) shall 
+apply with respect to any audited financial statement submitted on or 
+after the date of the enactment of this Act.
+
+SEC. 305. NEW MEMBER ORIENTATION TRAINING.
+
+    The House of Representatives and Senate shall provide an 
+introductory briefing from the Congressional Budget Office on budgetary 
+matters as part of the official orientation process for all newly 
+elected Members of Congress, conducted by the Committee on House 
+Administration and the Secretary of the Senate, respectively. Such 
+briefing shall occur before the new Members are sworn in.
+
+SEC. 306. MODERNIZING COMMITTEE ON THE BUDGET.
+
+    (a) In General.--Clause 5(a)(2) of rule X of the Rules of the House 
+of Representatives is amended--
+            (1) in subdivision (B), by striking ``and'' at the end;
+            (2) in subdivision (C), by striking the period at the end 
+        and inserting ``; and''; and
+            (3) by adding at the end the following:
+                    ``(D) The chairs and ranking members of the 
+                Committee on Ways and Means, the Committee on Energy 
+                and Commerce, and the Committee on Appropriations.''.
+    (b) Application.--The amendments made by subsection (a) shall not 
+be construed to modify the membership of the Committee on the Budget of 
+the House of Representatives except as provided by such amendment.
+                                 <all>

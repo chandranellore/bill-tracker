@@ -1,0 +1,412 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10466 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10466
+
+ To direct the Secretary of Energy to provide funding to electric and 
+   natural gas utility service providers to eliminate the arrears of 
+residential customers of such service providers, support implementation 
+of and participation in percentage of income payment programs and other 
+         energy affordability measures, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 16, 2026
+
+  Mr. Tonko introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To direct the Secretary of Energy to provide funding to electric and 
+   natural gas utility service providers to eliminate the arrears of 
+residential customers of such service providers, support implementation 
+of and participation in percentage of income payment programs and other 
+         energy affordability measures, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``End Energy Hardship Act''.
+
+SEC. 2. UTILITY AFFORDABILITY PROGRAM.
+
+    (a) In General.--The Secretary shall carry out a program to improve 
+the near-term and sustained affordability of service provided by 
+eligible entities.
+    (b) Phase 1.--
+            (1) In general.--In carrying out the program described in 
+        subsection (a), the Secretary shall, not later than 12 months 
+        after the date of enactment of this section, provide funding to 
+        eligible entities on a competitive basis in accordance with 
+        this subsection.
+            (2) Amounts.--The funding provided under paragraph (1) to 
+        an eligible entity shall be in an amount no greater than the 
+        aggregate total arrears of residential customers served by such 
+        eligible entity.
+            (3) Use of funds.--
+                    (A) In general.--An eligible entity that receives 
+                funding under paragraph (1) may only use such funding 
+                to eliminate the arrears of residential customers 
+                served by such eligible entity.
+                    (B) Prioritization.--To the extent funding received 
+                by an eligible entity under paragraph (1) is 
+                insufficient to eliminate the arrears of all 
+                residential customers served by the eligible entity, 
+                the eligible entity shall prioritize the elimination 
+                of--
+                            (i) first, the arrears of each residential 
+                        customer served by the eligible entity that 
+                        were incurred prior to the date of enactment of 
+                        this section;
+                            (ii) second, the arrears of each 
+                        residential customer served by the eligible 
+                        entity who has a gross household income at or 
+                        below the greater of--
+                                    (I) 150 percent of the Federal 
+                                poverty level; and
+                                    (II) 60 percent of the median 
+                                income of the State in which the 
+                                residential customer resides; and
+                            (iii) third, the arrears of each 
+                        residential customer who is part of a household 
+                        served by the eligible entity that includes--
+                                    (I) 1 or more individuals who have 
+                                attained 60 years of age;
+                                    (II) 1 or more individuals who are 
+                                disabled;
+                                    (III) 1 or more individuals who 
+                                have not yet attained 6 years of age; 
+                                or
+                                    (IV) 1 or more individuals who have 
+                                a medical condition that requires 
+                                service by an eligible entity.
+            (4) Terms and conditions.--
+                    (A) Qualified percentage of income payment 
+                program.--
+                            (i) In general.--An eligible entity that 
+                        receives funding under paragraph (1) shall 
+                        implement a Qualified Percentage of Income 
+                        Payment Program or an alternative energy 
+                        affordability program described in clause (ii) 
+                        for a period of not fewer than 60 consecutive 
+                        months beginning not later than 12 months after 
+                        the date on which the eligible entity receives 
+                        such funding.
+                            (ii) Alternative energy affordability 
+                        programs.--An alternative energy affordability 
+                        program described in this clause is an energy 
+                        affordability program, such as a tiered 
+                        discount program, that the Secretary 
+                        determines--
+                                    (I) is designed to provide 
+                                assistance--
+                                            (aa) with respect to 
+                                        amounts charged by an eligible 
+                                        entity;
+                                            (bb) to residential 
+                                        customers served by the 
+                                        eligible entity who are 
+                                        eligible to enroll in a 
+                                        Qualified Percentage of Income 
+                                        Payment Program; and
+                                            (cc) that is roughly 
+                                        equivalent to the assistance 
+                                        provided by a Qualified 
+                                        Percentage of Income Payment 
+                                        Program; and
+                                    (II) meets other appropriate design 
+                                requirements for energy affordability 
+                                programs.
+                            (iii) Automatic enrollment.--An eligible 
+                        entity that receives funding under paragraph 
+                        (1) shall, to the extent possible, enroll each 
+                        residential customer served by the eligible 
+                        entity who has a gross household income 
+                        described in subsection (j)(5)(B), and with 
+                        respect to whom the eligible entity has 
+                        eliminated arrears, in the Qualified Percentage 
+                        of Income Payment Program or alternative energy 
+                        affordability program implemented pursuant to 
+                        clause (i).
+                    (B) Demonstration of compliance.--For any eligible 
+                entity with respect to which a State agency has 
+                ratemaking authority, the Secretary shall condition the 
+                obligation of funding to such eligible entity under 
+                paragraph (1) on the eligible entity--
+                            (i) filing a tariff with such State agency 
+                        to--
+                                    (I) establish a Qualified 
+                                Percentage of Income Payment Program or 
+                                an alternative energy affordability 
+                                program described in subparagraph 
+                                (A)(ii); or
+                                    (II) amend an existing program to 
+                                be a Qualified Percentage of Income 
+                                Payment Program or an alternative 
+                                energy affordability program described 
+                                in subparagraph (A)(ii); or
+                            (ii) submitting documentation to the 
+                        Secretary that demonstrates that such entity 
+                        administers an existing Qualified Percentage of 
+                        Income Payment Program or an alternative energy 
+                        affordability program described in subparagraph 
+                        (A)(ii).
+                    (C) Cessation of arrears collections and 
+                disconnections.--An eligible entity that receives 
+                funding under paragraph (1) shall stop issuing late 
+                fees or penalties to, carrying out any arrears 
+                collection with respect to (including the sale of debt 
+                to third parties), and disconnecting the service of a 
+                residential customer served by the eligible entity for 
+                arrears of the residential customer that are expected 
+                to be eliminated by funding received under paragraph 
+                (1).
+                    (D) Prohibition on double recovery.--An eligible 
+                entity that receives funding under paragraph (1) may 
+                not collect revenue from the ratepayers of such 
+                eligible entity to cover the costs of arrears expected 
+                to be eliminated by such funding.
+                    (E) Data sharing.--An eligible entity that receives 
+                funding under paragraph (1) shall coordinate, and seek 
+                to enter into agreements to exchange data, with State 
+                agencies and, as appropriate, nonprofit organizations 
+                responsible for verifying income eligibility and 
+                enrolling residential customers in relevant (as 
+                determined by the Secretary) Federal and State energy 
+                affordability and energy efficiency programs.
+                    (F) Administrative costs.--An eligible entity that 
+                receives funding under paragraph (1) may use not more 
+                than 10 percent of such funding for administrative 
+                costs associated with--
+                            (i) eliminating the arrears of residential 
+                        customers served by the eligible entity;
+                            (ii) establishing a Qualified Percentage of 
+                        Income Payment Program or an alternative energy 
+                        affordability program described in subparagraph 
+                        (A)(ii); and
+                            (iii) complying with any other requirement 
+                        established by this paragraph.
+                    (G) Reporting.--An eligible entity that receives 
+                funding under paragraph (1) shall report to the 
+                Secretary on--
+                            (i) the use of such funding by the eligible 
+                        entity;
+                            (ii) compliance by the eligible entity with 
+                        the requirements of this paragraph; and
+                            (iii) other efforts by the eligible entity 
+                        to reduce the arrears of, and improve energy 
+                        affordability for, residential customers served 
+                        by the eligible entity.
+    (c) Phase 2.--
+            (1) In general.--In carrying out the program described in 
+        subsection (a), the Secretary shall, not earlier than 24 months 
+        after the date of enactment of this section, provide any 
+        funding appropriated to carry out this section that is not 
+        expended under subsection (b) to each eligible entity that 
+        received funding under subsection (b) in accordance with this 
+        subsection.
+            (2) Amounts.--The funding provided under paragraph (1) to 
+        an eligible entity shall be in an amount that is proportionate 
+        to the number of residential customers served by such eligible 
+        entity.
+            (3) Use of funds.--An eligible entity that receives funding 
+        under paragraph (1) shall use such funding to provide a credit 
+        to each residential customer served by such eligible entity in 
+        an equal amount.
+    (d) Technical Assistance.--In carrying out the program described in 
+subsection (a), the Secretary shall offer technical assistance to 
+eligible entities, States, Indian Tribes, and nonprofit organizations 
+to support the development and implementation of, participation in, and 
+public education about Qualified Percentage of Income Payment Programs 
+and other energy affordability measures, which may include arrears 
+management programs, eligible entity bill discount rates, eligible 
+entity bill rebates, home energy audits, assistance provided pursuant 
+to the Low-Income Home Energy Assistance Act of 1981, and residential 
+energy and energy efficiency programs.
+    (e) Support for Qualified Percentage of Income Payment Programs.--
+            (1) In general.--In carrying out the program described in 
+        subsection (a), the Secretary shall, subject to the 
+        availability of funds, provide funding to eligible entities or 
+        States to offset the costs that an eligible entity may pass on 
+        to residential customers served by the eligible entity that are 
+        associated with the implementation by the eligible entity of a 
+        Qualified Percentage of Income Payment Program, which may 
+        include software and technology upgrades necessary to support 
+        the administration of the Qualified Percentage of Income 
+        Payment Program and the non-administrative costs of carrying 
+        out the Qualified Percentage of Income Payment Program.
+            (2) Eligibility.--To be eligible to receive funding under 
+        this subsection, an eligible entity shall--
+                    (A) demonstrate that a significant number, as 
+                determined by the Secretary, of residential customers 
+                served by the eligible entity that have a gross 
+                household income described in subsection (j)(5)(B) are 
+                enrolled in a Qualified Percentage of Income Payment 
+                Program; and
+                    (B) for any eligible entity that is a for-profit 
+                entity, be required to match 10 percent of funding 
+                received under this subsection with funding provided by 
+                the owners of such eligible entity.
+    (f) Data Collection and Reporting.--
+            (1) Data collection.--Beginning not later than 12 months 
+        after the date of enactment of this section, the Administrator 
+        of the Energy Information Administration shall annually collect 
+        data from each eligible entity relating to--
+                    (A) the aggregate amount of arrears older than 90 
+                days of residential customers served by the eligible 
+                entity, with the aggregate amounts of arrears older 
+                than 90, 120, and 180 days disaggregated;
+                    (B) the number of residential customers served by 
+                the eligible entity who have arrears older than 90 
+                days, with the numbers of residential customers who 
+                have arrears older than 90, 120, and 180 days 
+                disaggregated;
+                    (C) the number of instances of disconnection of 
+                service by the eligible entity due to an unpaid or 
+                overdue balance; and
+                    (D) the number of residential customers served by 
+                the eligible entity who are enrolled in a Qualified 
+                Percentage of Income Payment Program.
+            (2) Coordination.--The Administrator of the Energy 
+        Information Administration shall, to the extent practicable, 
+        coordinate the data collection required under this subsection 
+        with the existing data collection efforts of the Energy 
+        Information Administration to avoid the duplication of 
+        reporting burdens on eligible entities.
+            (3) Reports.--The Administrator of the Energy Information 
+        Administration shall annually publish a report, which shall 
+        include metrics, disaggregated by State and ZIP Code, related 
+        to data collected pursuant to paragraph (1).
+    (g) Failure To Comply With Requirements.--If the Secretary 
+determines that an eligible entity has failed to comply with the 
+requirements of this section, the Secretary shall require repayment of 
+any funding provided to the eligible entity under this section.
+    (h) Report to Congress.--Not later than 6 years after the date of 
+enactment of this Act, the Secretary shall report to Congress on--
+            (1) the effectiveness of Qualified Percentage of Income 
+        Payment Programs, or any alternative energy affordability 
+        programs described in subsection (b)(4)(A)(ii), that have 
+        received funding or technical assistance under this section; 
+        and
+            (2) recommendations to improve the design of such programs, 
+        increase the enrollment of residential customers in such 
+        programs, and increase the participation in relevant Federal 
+        and State energy affordability and energy efficiency programs 
+        of residential customers who are eligible for such programs.
+    (i) Authorization of Appropriations.--
+            (1) Phases i and ii.--There is authorized to be 
+        appropriated to the Secretary $25,000,000,000 to remain 
+        available until expended to carry out subsections (b) and (c).
+            (2) Technical assistance; support for qualified percentage 
+        of income payment programs; data collection and reporting.--
+        There is authorized to be appropriated to the Secretary 
+        $1,000,000,000 for each of fiscal years 2027 through 2031 to 
+        carry out subsections (d), (e), and (f).
+    (j) Definitions.--In this section:
+            (1) Arrears.--The term ``arrears'' means any unpaid or 
+        overdue balance a residential customer owes to an eligible 
+        entity.
+            (2) Collection.--The term ``arrears collection'' means an 
+        action taken by an eligible entity to recover the arrears of a 
+        residential customer served by the eligible entity, including 
+        filing a lien against the residential customer or authorizing a 
+        third party to collect such arrears.
+            (3) Eligible entity.--The term ``eligible entity'' means a 
+        distribution utility that provides electric or natural gas 
+        utility service to a retail or end-use customer.
+            (4) Indian tribe.--The term ``Indian Tribe'' has the 
+        meaning given such term in section 4 of the Indian Self-
+        Determination and Education Assistance Act (25 U.S.C. 5304).
+            (5) Qualified percentage of income payment program.--The 
+        term ``Qualified Percentage of Income Payment Program'' means a 
+        program that--
+                    (A) is administered by an eligible entity, or 
+                administered by a State with the participation of an 
+                eligible entity;
+                    (B) enrolls residential customers served by the 
+                eligible entity who have a gross household income at or 
+                below the greater of--
+                            (i) 150 percent of the Federal poverty 
+                        level; and
+                            (ii) 60 percent of the median income of the 
+                        State in which such residential customers 
+                        reside;
+                    (C) automatically enrolls residential customers 
+                served by the eligible entity who participate in 
+                another low-income assistance program that the 
+                Secretary identifies as having eligibility requirements 
+                for enrollment in the low-income assistance program 
+                that are identical to or more stringent than the 
+                program;
+                    (D) limits the monthly amount charged to each 
+                residential customer enrolled in the program for 
+                service provided by an eligible entity to a fixed 
+                percentage of the gross household income of such 
+                customer, which percentage shall be not more than--
+                            (i) for such a customer with natural gas 
+                        heating, 6 percent of the gross household 
+                        income of such customer, provided that the 
+                        monthly amount charged for electric service 
+                        shall be not more than 3 percent of such gross 
+                        household income and the monthly amount charged 
+                        for such heating service shall be not more than 
+                        3 percent of such gross household income; or
+                            (ii) for such a customer with electric 
+                        heating, 6 percent of the gross household 
+                        income of such customer;
+                    (E) may implement a system that tiers the monthly 
+                amount charged to a residential customer enrolled in 
+                the program (in an amount not to exceed the amount 
+                allowed under subparagraph (C)) based on the gross 
+                household income of the residential customer described 
+                in subparagraph (B);
+                    (F) supports, coordinates with, and shares data 
+                with relevant State agencies and, as appropriate, 
+                nonprofit organizations that support the enrollment of 
+                residential customers in the program, including data 
+                relating to verifying that a residential customer has a 
+                gross household income described in subparagraph (B);
+                    (G) promotes access to home energy audits, 
+                weatherization services, and other residential energy 
+                and energy efficiency programs that improve energy 
+                affordability for residential customers enrolled in the 
+                program;
+                    (H) prohibits the service disconnection of any 
+                residential customer enrolled in the program, provided 
+                that the residential customer makes a full and timely 
+                payment of each monthly amount charged to the customer 
+                after the date on which the customer is enrolled in 
+                such program; and
+                    (I) implements an arrears management program that 
+                forgives no more than \1/12\ of the arrears of a 
+                residential customer enrolled in the program upon the 
+                full and timely payment of the most recent monthly 
+                amount charged to the customer.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (7) State.--The term ``State'' means any of the several 
+        States, the District of Columbia, or any territory or 
+        possession of the United States.
+                                 <all>

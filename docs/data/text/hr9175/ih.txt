@@ -1,0 +1,498 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9175 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9175
+
+    To amend the Internal Revenue Code of 1986 to provide rules for 
+   taxation of income relating to the mining and staking of digital 
+                    assets, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              June 8, 2026
+
+  Mr. Carey introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Internal Revenue Code of 1986 to provide rules for 
+   taxation of income relating to the mining and staking of digital 
+                    assets, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; ETC.
+
+    (a) Short Title.--This Act may be cited as the ``Tax Clarity for 
+Mining and Staking Act''.
+    (b) References.--Except as otherwise expressly provided, whenever 
+in this Act an amendment or repeal is expressed in terms of an 
+amendment to, or repeal of, a section or other provision, the reference 
+shall be considered to be made to a section or other provision of the 
+Internal Revenue Code of 1986.
+    (c) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; etc.
+Sec. 2. Treatment of certain digital assets received in connection with 
+                            the validation of digital asset 
+                            transactions.
+Sec. 3. Investment trusts engaged in digital asset staking.
+Sec. 4. Definitions.
+
+SEC. 2. TREATMENT OF CERTAIN DIGITAL ASSETS RECEIVED IN CONNECTION WITH 
+              THE VALIDATION OF DIGITAL ASSET TRANSACTIONS.
+
+    (a) In General.--Chapter 1 is amended by inserting after subchapter 
+V the following new subchapter:
+
+``Subchapter W--Newly Minted Digital Assets Received in Connection With 
+              the Validation of Digital Asset Transactions
+
+``Sec. 1400W-1. Current inclusions in gross income; costs not 
+                            capitalized.
+``Sec. 1400W-2. Election to defer inclusion of income and capitalize 
+                            costs of qualified newly minted digital 
+                            assets.
+``Sec. 1400W-3. Definitions; regulations.
+
+``SEC. 1400W-1. CURRENT INCLUSIONS IN GROSS INCOME; COSTS NOT 
+              CAPITALIZED.
+
+    ``(a) In General.--In the case of the acquisition of any newly 
+minted digital asset--
+            ``(1) the fair market value of such asset shall be included 
+        in the taxpayer's gross income as ordinary income as of the 
+        time of such acquisition, and
+            ``(2) the amount included in gross income under paragraph 
+        (1) shall be properly taken into account in determining the 
+        taxpayer's basis in such asset.
+    ``(b) Acquisition Costs Not Capitalized.--
+            ``(1) In general.--Notwithstanding any provision of this 
+        title (other than paragraph (2) and section 1400W-2), specified 
+        acquisition costs shall be treated as an expense which is not 
+        chargeable to capital account.
+            ``(2) Authority for exception to conform with taxpayer's 
+        applicable financial statement.--The Secretary may issue 
+        regulations or other guidance which allow specified acquisition 
+        costs to be chargeable to capital account if such treatment 
+        would be consistent with the treatment of such costs for 
+        purposes of the applicable financial statement (as defined in 
+        section 451(b)(3)) of the taxpayer.
+
+``SEC. 1400W-2. ELECTION TO DEFER INCLUSION OF INCOME AND CAPITALIZE 
+              COSTS OF QUALIFIED NEWLY MINTED DIGITAL ASSETS.
+
+    ``(a) In General.--Notwithstanding section 1400W-1, in the case of 
+any taxpayer for any taxable year to which an election under subsection 
+(e) applies--
+            ``(1) all qualified newly minted digital assets acquired by 
+        such taxpayer during such taxable year shall not be included in 
+        the taxpayer's gross income by reason of such acquisition, and
+            ``(2) specified acquisition costs paid or incurred during 
+        such taxable year shall be chargeable to capital account with 
+        respect to qualified newly minted digital assets in accordance 
+        with the rules provided in subsection (c) (and no deduction 
+        shall otherwise be allowed under this subtitle with respect to 
+        such costs).
+    ``(b) Recognition and Character of Gain or Loss on Disposition.--
+            ``(1) In general.--In the case of a disposition of any 
+        qualified newly minted digital asset--
+                    ``(A) any gain on such disposition shall be--
+                            ``(i) recognized notwithstanding any other 
+                        provision of this subtitle, and
+                            ``(ii) treated as gain from the disposition 
+                        of property which is not a capital asset, and
+                    ``(B) any loss on such disposition shall be treated 
+                as loss from the disposition of property which is not a 
+                capital asset to the extent that such loss exceeds the 
+                portion of the basis of such property that is not 
+                attributable to specified acquisition costs.
+            ``(2) Exception for certain nonrecognition transactions.--
+        Paragraph (1) shall not apply to--
+                    ``(A) any disposition to which section 1058 
+                applies, and
+                    ``(B) to the extent provided by the Secretary, any 
+                disposition which is a nonrecognition transaction 
+                described in subchapter C or K.
+            ``(3) Special rule for determining carryover basis.--In the 
+        case of any disposition of a qualified newly minted digital 
+        asset with respect to which gain is recognized by the 
+        transferor under paragraph (1), if the basis of such asset in 
+        the hands of the transferee is determined by reference to the 
+        basis of such asset in the hands of the transferor, proper 
+        adjustments shall be made in the determination of basis to take 
+        into account such gain.
+    ``(c) Capitalization of Specified Acquisition Costs.--
+            ``(1) In general.--For purposes of this section, the 
+        Secretary shall provide rules for the proper allocation of 
+        specified acquisition costs among qualified newly minted 
+        digital assets.
+            ``(2) Cessation of activities.--The rules provided under 
+        paragraph (1) shall include rules that provide for the proper 
+        deduction of specified acquisition costs which are not 
+        otherwise allocated to qualified newly minted digital assets 
+        pursuant to such rules because the taxpayer indefinitely ceases 
+        all activities related to the validation of digital assets 
+        (including staking and mining).
+    ``(d) Qualified Newly Minted Digital Asset.--For purposes of this 
+section--
+            ``(1) In general.--The term `qualified newly minted digital 
+        assets' means, with respect to any taxpayer for any taxable 
+        year, any newly minted digital asset (determined without regard 
+        to subparagraph (B) of section 1400W-3(a)(1)) acquired by such 
+        taxpayer during such taxable year if--
+                    ``(A) the election under subsection (e) applies to 
+                such taxpayer for such taxable year, and
+                    ``(B) the taxpayer--
+                            ``(i) in the case of any such newly minted 
+                        digital asset issued in connection with a 
+                        validation of digital asset transactions which 
+                        was not supported by the staking of digital 
+                        assets--
+                                    ``(I) is the person who validated 
+                                such digital asset transactions, and
+                                    ``(II) is the first owner of such 
+                                newly minted digital asset, or
+                            ``(ii) in the case of any such newly minted 
+                        digital asset issued in connection with a 
+                        validation of digital asset transactions which 
+                        was supported by the staking of digital 
+                        assets--
+                                    ``(I) is the person who holds the 
+                                digital assets that were so staked, and
+                                    ``(II) either is the first owner of 
+                                such newly minted digital asset or 
+                                acquired such newly minted digital 
+                                asset promptly after such newly minted 
+                                digital asset was issued.
+            ``(2) Lessee treated as holder.--For purposes of paragraph 
+        (1)(B)(ii)(I), if a digital asset is lent to any person, such 
+        person (and not the person lending such asset) shall be treated 
+        as holding such asset.
+    ``(e) Election.--
+            ``(1) In general.--An election under this section shall 
+        apply for the taxable year for which it is made and for each 
+        taxable year thereafter unless revoked with the consent of the 
+        Secretary. Such election shall be made at such time and in such 
+        manner as the Secretary may provide.
+            ``(2) Application to partnerships and s corporations.--In 
+        the case of any partnership or S corporation, the election 
+        under this section shall be made at the partnership or S 
+        corporation level.
+            ``(3) Treatment as change in method of accounting.--A 
+        taxpayer making an election under this section shall be treated 
+        for purposes of section 481 as making a change in method of 
+        accounting which is initiated by the taxpayer and made with the 
+        consent of the Secretary. Such change shall be applied only on 
+        a cut-off basis, and no adjustments shall be made under section 
+        481(a).
+    ``(f) Controlled Foreign Corporations and Passive Foreign 
+Investment Corporations Ineligible.--This section shall not apply to--
+            ``(1) any controlled foreign corporation or any passive 
+        foreign investment company (as defined in section 1297),
+            ``(2) except as otherwise provided by the Secretary--
+                    ``(A) any foreign trust, and
+                    ``(B) any partnership in which one or more 
+                controlled foreign corporations, passive foreign 
+                investment companies (as so defined), or foreign trusts 
+                are partners in such partnership, and
+            ``(3) to the extent provided by the Secretary, any 
+        partnership or trust if one or more entities described in 
+        paragraph (2)(B) are indirectly partners in such partnership or 
+        direct or indirect beneficiaries of such trust.
+    ``(g) Treatment of Certain Grantor Trusts.--The regulations or 
+other guidance issued by the Secretary under section 1400W-3(c) may 
+include regulations or other guidance providing rules for the 
+application of this section with respect to digital assets owned 
+through a widely traded fixed investment trust, including regulations 
+or other guidance--
+            ``(1) modifying information reporting requirements or 
+        requiring additional information reporting with respect to 
+        newly minted digital assets acquired through such a trust,
+            ``(2) providing reasonable methods for brokers (or any 
+        other person required to report information with respect to 
+        such a trust) to determine and report the portion of the 
+        interest in such a trust that results from the acquisition of 
+        newly minted digital assets during a taxpayer's holding period,
+            ``(3) requiring owners of interests in such a trust to 
+        notify the broker (or any other person required to report 
+        information with respect to such a trust) whether an election 
+        has been made under subsection (e),
+            ``(4) providing rules for the appropriate allocation of 
+        basis to the portion of the interest in such a trust that is 
+        attributable to the acquisition of newly minted digital assets, 
+        including by requiring the allocation of any basis (other than 
+        specified acquisition costs required to be capitalized under 
+        this section) to a taxpayer's other interests in such a trust,
+            ``(5) providing rules to reduce administrative and 
+        compliance burdens by providing for aggregation, approximation, 
+        or other reasonable methods to compute and report gain 
+        attributable to newly minted digital assets acquired through 
+        such a trust, and
+            ``(6) defining the widely traded fixed investment trusts to 
+        which the regulations or other guidance under this subsection 
+        applies.
+
+``SEC. 1400W-3. DEFINITIONS; SPECIAL RULES; REGULATIONS.
+
+    ``(a) Definitions.--For purposes of this subchapter--
+            ``(1) Newly minted digital asset.--
+                    ``(A) In general.--The term `newly minted digital 
+                asset' means any digital asset that is issued in 
+                connection with the validation of digital asset 
+                transactions (including digital asset validation 
+                supporting activities) and that (prior to such 
+                issuance) was not owned by any person.
+                    ``(B) Termination of treatment as newly minted.--A 
+                digital asset shall not be treated as a newly minted 
+                digital asset at any time after the disposition of such 
+                asset by the first owner of such asset.
+                    ``(C) Authorization of reasonable methods of 
+                determination.--
+                            ``(i) In general.--Except as otherwise 
+                        provided pursuant to clause (ii), a taxpayer 
+                        may use any reasonable method to determine 
+                        whether a digital asset acquired by the 
+                        taxpayer is a newly minted digital asset.
+                            ``(ii) Authority of secretary to identify 
+                        methods.-- The Secretary may issue such 
+                        regulations or other guidance as the Secretary 
+                        determines necessary or appropriate specifying 
+                        methods that are, or are not, reasonable for 
+                        purposes of clause (i).
+            ``(2) Specified acquisition costs.--
+                    ``(A) In general.--The term `specified acquisition 
+                costs' means any amount paid or incurred in connection 
+                with validating any digital asset transaction if, at 
+                the time such amount is paid or incurred there is a 
+                reasonable possibility that the taxpayer will acquire a 
+                newly minted digital asset in connection with such 
+                validation. Such term shall not include any amount 
+                unless such amount would (without regard to this 
+                subchapter) be either allowable as a deduction or 
+                chargeable to capital account.
+                    ``(B) Inclusion of certain costs.--For purposes of 
+                subparagraph (A), the term `amount paid or incurred in 
+                connection with validating any digital asset 
+                transaction' includes any amount paid or incurred in 
+                connection with the activity of validating, or 
+                attempting to validate, any digital asset transaction, 
+                including--
+                            ``(i) the direct costs of such activity,
+                            ``(ii) indirect costs allocable to such 
+                        activity,
+                            ``(iii) fees paid or incurred to another 
+                        party to carry out such activity, and
+                            ``(iv) interest costs allocable to such 
+                        activity.
+    ``(b) Special Rules.--For purposes of this subchapter--
+            ``(1) Acquire.--A person shall be treated as acquiring a 
+        newly minted digital asset in any case where such person comes 
+        to possess such asset and without regard to the manner in which 
+        such person comes to possess such asset.
+            ``(2) Clarification that certain transfers are treated as 
+        dispositions.--The following shall not fail to be treated as a 
+        disposition for purposes of this subchapter:
+                    ``(A) The distribution of any digital asset from a 
+                trust to a beneficiary.
+                    ``(B) The transfer of any digital asset from a 
+                decedent (whether or not incident to the decedent's 
+                death).
+    ``(c) Regulations.--The Secretary shall issue such regulations or 
+other guidance as may be necessary or appropriate to carry out the 
+purposes of this subchapter, including to prevent the abuse of the 
+provisions of this subchapter.''.
+    (b) Clarification of Sourcing Rules for Digital Assets Acquired in 
+Connection With Validating Digital Asset Transactions.--Section 863 is 
+amended by adding at the end the following new subsection:
+    ``(f) Treatment of Digital Assets Acquired in Connection With 
+Validating Digital Asset Transactions.--
+            ``(1) Income on acquisition.--Income from the acquisition 
+        of any digital asset received in connection with the validation 
+        of digital asset transactions (including digital asset 
+        validation supporting activities) shall be sourced--
+                    ``(A) in the United States if the taxpayer is a 
+                United States resident at the time of acquisition, and
+                    ``(B) outside the United States if the taxpayer is 
+                a nonresident at the time of acquisition.
+            ``(2) Certain deferred income recognized on disposition.--
+        Income described in section 1400W-2(b) shall be sourced--
+                    ``(A) in the United States if the taxpayer is a 
+                United States resident at the time of disposition, and
+                    ``(B) outside the United States if the taxpayer is 
+                a nonresident at the time of disposition.
+            ``(3) Treatment of branches.--
+                    ``(A) Foreign branches.--In the case of a United 
+                States person with a qualified business unit (as 
+                defined in section 989(a)) in a foreign country, income 
+                described in paragraph (1) or (2) that constitute 
+                business profits attributable to such unit shall be 
+                sourced outside the United States.
+                    ``(B) U.S. branches.--In the case of a person that 
+                is not a United States person and that maintains an 
+                office or other fixed place of business in the United 
+                States, income described in paragraph (1) or (2) 
+                attributable to such office or other fixed place of 
+                business shall be sourced in the United States.
+                    ``(C) Attribution.--For purposes of subparagraphs 
+                (A) and (B), the Secretary may issue such regulations 
+                or other guidance as the Secretary determines necessary 
+                or appropriate for purposes of determining the amount 
+                of business profits attributable to a qualified 
+                business unit or office or other fixed place of 
+                business.
+            ``(4) Treatment of partnerships.--In the case of a 
+        partnership, except as otherwise provided by the Secretary in 
+        regulations or other guidance, this subsection shall be applied 
+        at the partner level.
+            ``(5) United states resident; nonresident.--For purposes of 
+        this subsection, the terms `United States resident' and 
+        `nonresident' have the meaning given such terms, respectively, 
+        in section 865(g)(1), determined after application of section 
+        865(g)(2).''.
+    (c) Rules Relating to Partnerships That Hold Newly Minted Digital 
+Assets.--Section 751(c) is amended in the flush language at the end--
+            (1) by striking ``and an oil, gas, or geothermal property 
+        (described in section 1254)'' and inserting ``an oil, gas or 
+        geothermal property (described in section 1254), and qualified 
+        newly minted digital assets (as defined in section 1400W-
+        2(d))'', and
+            (2) by striking ``or 1254(a)'' and inserting ``1254(a), or 
+        1400W-2(b)(1)(A)''.
+    (d) Coordination With Deduction for Qualified Business Income.--
+Section 199A(c)(3)(B) is amended by redesignating clause (vii) as 
+clause (x) and inserting after clause (vi) the following new clauses:
+                            ``(vii) Any item of gain or loss on the 
+                        disposition of any newly minted digital asset 
+                        (as defined in section 1400W-3(a)(1)).
+                            ``(viii) Any item of income includible in 
+                        gross income under section 1400W-1(a)(1).
+                            ``(ix) Any item of gain realized under 
+                        subsection (a) or (b) of section 751 by reason 
+                        of the references in section 751(c) to 
+                        `qualified newly minted digital assets (as 
+                        defined in section 1400W-2(d)' and to `1400W-
+                        2(b)(1)(A)'.''.
+    (e) Clerical Amendment.--The table of subchapters for chapter 1 is 
+amended by inserting after the item relating to subchapter V the 
+following new item:
+
+``subchapter w--newly minted digital assets received in connection with 
+                validating digital asset transactions''.
+
+    (f) Effective Date.--The amendments made by this section shall 
+apply to assets acquired in taxable years beginning after the date of 
+the enactment of this Act.
+    (g) No Inference With Respect to Proper Treatment of Newly Minted 
+Digital Assets to Which the Amendments Made by This Section Do Not 
+Apply.--Nothing in this section (or any amendment made by this section) 
+shall be construed to create any inference with respect to the proper 
+application of any provision of the Internal Revenue Code of 1986 with 
+respect to any newly minted digital asset (as defined 1400W-3 of such 
+Code, as added by this section) acquired in any taxable year beginning 
+on or before the date of the enactment of this Act.
+
+SEC. 3. INVESTMENT TRUSTS ENGAGED IN DIGITAL ASSET STAKING.
+
+    (a) In General.--Section 7701(p), as added by section 4 of this 
+Act, is amended by adding at the end the following new paragraph:
+            ``(7) Status of trusts engaged in digital asset staking.--
+                    ``(A) In general.--An entity or arrangement shall 
+                not fail to be treated as a trust for purposes of this 
+                title solely by reason of the power of the trustee of 
+                such entity or under such arrangement to--
+                            ``(i) engage in staking digital assets held 
+                        by the trust,
+                            ``(ii) retain or distribute digital assets 
+                        received in connection with such staking,
+                            ``(iii) determine which digital assets held 
+                        by the trust to use in staking,
+                            ``(iv) to the extent that any digital 
+                        assets held by the trust are committed to 
+                        staking, take measures necessary or appropriate 
+                        to ensure that the trust has sufficient 
+                        liquidity to make distributions in redemption 
+                        of interests in the trust, including by 
+                        purchasing the right to borrow money or digital 
+                        assets to make such distributions, and
+                            ``(v) perform acts related to the exercise 
+                        of the powers described in the preceding 
+                        clauses of this subparagraph.
+                    ``(B) Not to apply to validating trade or 
+                business.--Subparagraph (A) shall not apply in the case 
+                of an entity or arrangement engaged in the active 
+                conduct of a trade or business of validating digital 
+                asset transactions.
+                    ``(C) Regulations.--The Secretary may prescribe 
+                such regulations or other guidance as may be necessary 
+                or appropriate to carry out the purposes of this 
+                paragraph.''.
+    (b) Clerical Amendment.--The heading for section 7701(p), as added 
+by section 4 of this Act, is amended by inserting ``and Special Rules'' 
+after ``Definitions''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years ending after the date of the enactment of this 
+Act.
+
+SEC. 4. DEFINITIONS.
+
+    Section 7701 is amended--
+            (1) by redesignating subsection (p) as subsection (q), and
+            (2) by inserting after subsection (o) the following new 
+        subsection:
+    ``(p) Definitions Related to Digital Assets.--For purposes of this 
+title--
+            ``(1) Digital asset.--The term `digital asset' means, 
+        except as otherwise provided by the Secretary, any digital 
+        representation of value which is recorded on a 
+        cryptographically secured distributed ledger or any similar 
+        technology as specified by the Secretary.
+            ``(2) Digital asset transaction.--The term `digital asset 
+        transaction' means any transfer of a digital asset recorded on 
+        the cryptographically secured distributed ledger (or similar 
+        technology) referred to in paragraph (1).
+            ``(3) Digital asset validation supporting activities.--The 
+        term `digital asset validation supporting activities' means 
+        staking, mining, or similar activities in support of the 
+        validation of digital asset transactions.
+            ``(4) Validation.--The term `validate', and any derivative 
+        of such term (including `validation'), when used in connection 
+        with a digital asset transaction, includes the processes of 
+        proposing transactions for validation and verifying the 
+        validation of transactions.
+            ``(5) Staking.--The term `staking', when used in connection 
+        with a digital asset, means--
+                    ``(A) making such asset available in support of the 
+                validation of digital asset transactions, and
+                    ``(B) except as otherwise provided by the 
+                Secretary, any substantially similar activity.
+            ``(6) Mining.--The term `mining', when used in connection 
+        with a digital asset, means--
+                    ``(A) performing computations, or making available 
+                computing power, in support of the validation of 
+                digital asset transactions, and
+                    ``(B) except as otherwise provided by the 
+                Secretary, any substantially similar activity.''.
+                                 <all>

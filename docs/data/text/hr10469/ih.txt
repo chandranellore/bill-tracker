@@ -1,0 +1,295 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10469 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10469
+
+ To amend the Energy Policy and Conservation Act to provide financial 
+assistance, through States and Indian Tribes, to establish and maintain 
+   energy hubs to increase awareness and access to energy and energy 
+efficiency programs and opportunities to improve energy affordability, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 16, 2026
+
+  Mr. Tonko introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Energy Policy and Conservation Act to provide financial 
+assistance, through States and Indian Tribes, to establish and maintain 
+   energy hubs to increase awareness and access to energy and energy 
+efficiency programs and opportunities to improve energy affordability, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Regional Energy Hubs Act of 2026''.
+
+SEC. 2. REGIONAL ENERGY HUBS.
+
+    (a) In General.--Part D of title III of the Energy Policy and 
+Conservation Act (42 U.S.C. 6321 et seq.) is amended by adding at the 
+end the following:
+
+``SEC. 367. REGIONAL ENERGY HUBS.
+
+    ``(a) Financial Assistance.--Upon request from a State that has in 
+effect an approved State energy conservation plan under this part, or 
+an Indian Tribe, the Secretary shall provide financial assistance to 
+such State or Indian Tribe to designate and provide funding to energy 
+hubs pursuant to this section.
+    ``(b) Regional Energy Hubs.--
+            ``(1) In general.--Each State or Indian Tribe receiving 
+        financial assistance under this section shall designate and 
+        provide funding to one or more energy hubs to serve a specific 
+        geographic region within such State or under the jurisdiction 
+        of such Indian Tribe to build local capacity by leveraging 
+        multidisciplinary partnerships within its designated region to 
+        increase awareness of and access to energy and efficiency 
+        programs and opportunities to improve energy affordability, 
+        including tax credits, grants, loans, rebates, financing, and 
+        other private, Federal, State, local, and utility-administered 
+        programs and incentives.
+            ``(2) Geographic distribution and equitable access to 
+        energy hub services.--When designating an energy hub under 
+        paragraph (1), each State or Indian Tribe shall provide for an 
+        appropriate geographic distribution of energy hubs to ensure 
+        equitable access to services provided by the energy hubs in 
+        disadvantaged communities and underserved rural communities 
+        within such State or under the jurisdiction of such Indian 
+        Tribe.
+    ``(c) Energy Hub Responsibilities.--Each energy hub designated 
+under subsection (b)(1) shall--
+            ``(1) support regionally specific efforts that improve 
+        energy affordability, community resilience, and energy security 
+        to respond to potential energy disruptions within the region;
+            ``(2) provide evidence-based outreach and education to 
+        raise public awareness of the benefits, availability, and 
+        eligibility requirements of energy and energy efficiency 
+        programs and opportunities to improve energy affordability with 
+        the goals of increasing participation in such programs and 
+        access to private, Federal, State, local, and other energy and 
+        energy efficiency programs and opportunities;
+            ``(3) conduct regionally specific community engagement with 
+        rural individuals, service-disabled veteran-owned businesses, 
+        low- and moderate-income individuals, nonprofit organizations, 
+        local governments, small businesses, minority- and women-owned 
+        enterprises, affordable housing owners, and other entities that 
+        may face challenges in accessing energy and energy efficiency 
+        programs and opportunities;
+            ``(4) analyze and advance solutions to regional barriers to 
+        accessing energy and energy efficiency programs and 
+        opportunities;
+            ``(5) coordinate with entities, including nonprofit 
+        organizations, local governments, planning organizations, and 
+        agricultural cooperative extension systems, that conduct 
+        community outreach and education and provide relevant services 
+        within the region;
+            ``(6) address energy affordability challenges by supporting 
+        participation of low- and moderate-income community members in 
+        relevant assistance programs, including assistance provided 
+        pursuant to the Low-Income Home Energy Assistance Act of 1981 
+        (42 U.S.C. 8621 et seq.), the Weatherization Assistance Program 
+        carried out under part A of title IV of the Energy Conservation 
+        and Production Act, a program administered by a State or Indian 
+        Tribe as described in section 50121(c) or section 50122(c) of 
+        Public Law 117-169 (commonly known as the `Inflation Reduction 
+        Act'), utility-administered programs, energy affordability 
+        programs administered by States and Indian Tribes, and other 
+        programs and opportunities to reduce energy use and costs;
+            ``(7) facilitate connections between community members and 
+        local energy professionals, contractors, installers, and 
+        consultants to perform energy assessments, make better informed 
+        energy decisions, and install energy and energy efficiency 
+        measures;
+            ``(8) support access to nonenergy efficiency building 
+        rehabilitation resources, including lead and mold abatement 
+        resources, to enable energy and energy efficiency measures and 
+        reduce project deferrals; and
+            ``(9) coordinate with workforce development organizations, 
+        labor organizations, educational institutions, and businesses 
+        to enhance local workforce development efforts to ensure the 
+        availability of a local workforce capable of supporting energy 
+        and energy efficiency programs and opportunities within the 
+        region, including by connecting community members to job 
+        training, pre-apprenticeships, apprenticeships, educational, 
+        and employment resources and opportunities.
+    ``(d) Partner Organizations.--Each energy hub designated under 
+subsection (b)(1) shall consist of several partner organizations to 
+fulfill the responsibilities under subsection (c). Each such energy hub 
+shall have partner organizations that--
+            ``(1) have expertise with energy, energy efficiency, 
+        workforce development, economic development, housing, 
+        educational and public awareness campaigns for underserved 
+        community members within the region, and other areas needed to 
+        fulfill the responsibilities under subsection (c);
+            ``(2) have existing relationships with, or the ability to 
+        form relationships with, entities within the region served by 
+        the energy hub to increase access to and participation in 
+        energy and energy efficiency programs and opportunities, which 
+        may include--
+                    ``(A) nonprofit organizations;
+                    ``(B) affordable housing owners and developers;
+                    ``(C) community action agencies;
+                    ``(D) land-grant universities managing a 
+                cooperative extension system and other educational 
+                institutions;
+                    ``(E) rural development organizations;
+                    ``(F) social service providers;
+                    ``(G) local governments;
+                    ``(H) labor organizations;
+                    ``(I) workforce development organizations;
+                    ``(J) economic development organizations;
+                    ``(K) local businesses; and
+                    ``(L) electric and natural gas utilities;
+            ``(3) ensure services provided by the energy hub are 
+        adequately available throughout the entire geographic region 
+        covered by the energy hub; and
+            ``(4) commit to specific activities, administrative 
+        capacity, staffing, and resources that such organizations shall 
+        undertake or provide for the operation of the energy hub.
+    ``(e) Lead Organization.--
+            ``(1) In general.--Each energy hub designated under 
+        subsection (b)(1) shall be led by a community-based 
+        organization located within such region that has demonstrated 
+        existing relevant partnerships, or the ability to develop 
+        relevant multidisciplinary partnerships, to carry out the 
+        responsibilities under subsection (c).
+            ``(2) Responsibilities.--The lead organization of each 
+        energy hub designated under subsection (b)(1) shall be 
+        responsible for--
+                    ``(A) coordination of partner organizations within 
+                the energy hub;
+                    ``(B) provision of administrative capacity to 
+                ensure the effective management and operation of the 
+                energy hub; and
+                    ``(C) meeting any data collection and reporting 
+                requirements determined by the Secretary and the State 
+                or Indian Tribe receiving financial assistance under 
+                this section.
+    ``(f) Reporting.--Each calendar year, the lead organization of each 
+energy hub designated under subsection (b)(1) shall submit a written 
+report to the Secretary and the relevant State or Indian Tribe on the 
+activities of the energy hub during the previous calendar year, which 
+shall include--
+            ``(1) a description of the partnerships of the energy hub, 
+        including the effectiveness of and barriers to leveraging other 
+        Federal and non-Federal sources of funding;
+            ``(2) a description of the outreach, educational, and 
+        public awareness activities undertaken by the energy hub, 
+        including any evaluations conducted of the effectiveness of 
+        such activities;
+            ``(3) a description of activities undertaken by the energy 
+        hub to support local workforce development, educational, and 
+        job training activities;
+            ``(4) a description of activities undertaken by the energy 
+        hub to enable greater participation in energy and energy 
+        efficiency programs and opportunities to improve energy 
+        affordability, including estimates of participation in 
+        affordability programs within the region served by the energy 
+        hub, energy savings and utility bill savings for community 
+        members accessing such programs, and opportunities as a result 
+        of energy hub activities; and
+            ``(5) a regional assessment that identifies the needs, 
+        barriers, and opportunities to fulfill the responsibilities 
+        under subsection (c) within the region served by the energy 
+        hub.
+    ``(g) Regional Energy Hub Advisory Committee.--The Secretary, in 
+coordination with other relevant Federal agencies, shall establish a 
+Regional Energy Hub Advisory Committee consisting of States, Indian 
+Tribes, energy hubs, and other relevant stakeholders to provide 
+information and technical assistance for the establishment, operation, 
+and improvement of energy hubs, including through the development of 
+best practices, standards, recommendations, tools, and educational 
+resources to be applicable to the management and operation of energy 
+hubs across States and Indian Tribes.
+    ``(h) Coordination.--
+            ``(1) Interagency coordination.--The Secretary shall 
+        consult and coordinate with relevant Federal agencies, 
+        including the Secretary of Agriculture, the Secretary of 
+        Housing and Urban Development, the Administrator of the 
+        Environmental Protection Agency, the Secretary of Health and 
+        Human Services, the Secretary of Commerce, the Secretary of 
+        Labor, the Secretary of the Treasury, and the Administrator of 
+        the Small Business Administration, that administer programs and 
+        opportunities relevant to energy hubs fulfilling 
+        responsibilities under subsection (c).
+            ``(2) Coordination of state and local programs.--Each State 
+        and Indian Tribe receiving financial assistance under this 
+        section shall carry out consultation and coordination between 
+        the energy hubs and relevant programs administered by each 
+        State or Indian Tribe, including programs related to energy, 
+        energy efficiency, environmental remediation, community 
+        outreach and education, housing, agriculture, economic 
+        development, and workforce development.
+            ``(3) Braiding of funding.--The Secretary shall advise 
+        energy hubs designated under subsection (b)(1) on and, to the 
+        extent possible, reduce barriers to the braiding or otherwise 
+        combining of funding from various Federal and non-Federal 
+        sources to leverage additional resources and better enable 
+        energy hubs to fulfill responsibilities under subsection (c).
+    ``(i) Funding.--
+            ``(1) Allocation to states.--Except as provided in 
+        paragraph (2), to the extent practicable, the Secretary shall 
+        allocate funding made available to carry out this section in 
+        accordance with the formula used for distribution of financial 
+        assistance provided pursuant to this part to States that have 
+        in effect an approved State energy conservation plan under this 
+        part.
+            ``(2) Indian tribes.--To the extent practicable, the 
+        Secretary shall set aside and distribute not less than 5 
+        percent of amounts made available for each fiscal year to carry 
+        out this section to provide financial assistance to Indian 
+        Tribes.
+    ``(j) Definitions.--In this section:
+            ``(1) Community-based organization.--The term `community-
+        based organization' means a public or private nonprofit 
+        organization that--
+                    ``(A) provides educational or other related 
+                services to community members;
+                    ``(B) is representative of the community or 
+                significant segments of the community;
+                    ``(C) has a physical presence in the community; and
+                    ``(D) seeks input from community members.
+            ``(2) Indian tribe.--The term `Indian Tribe' has the 
+        meaning given the term in section 4 of the Indian Self-
+        Determination and Education Assistance Act (25 U.S.C. 5304).''.
+    (b) Conforming Amendment.--The table of contents for the Energy 
+Policy and Conservation Act is amended by adding after the item related 
+to section 366 the following:
+
+``Sec. 367. Regional energy hubs.''.
+    (c) Authorization of Appropriations.--Section 365(f) of the Energy 
+Policy and Conservation Act (42 U.S.C. 6325(f)) is amended by adding at 
+the end the following:
+            ``(3) Regional energy hubs.--In addition to the 
+        authorization of appropriations under paragraph (1), for the 
+        purposes of carrying out section 367, there are authorized to 
+        be appropriated $50,000,000 for each of fiscal years 2027 
+        through 2031.''.
+                                 <all>

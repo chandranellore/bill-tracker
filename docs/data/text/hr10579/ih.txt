@@ -1,0 +1,703 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10579 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10579
+
+To amend the Federal Power Act to require the Federal Energy Regulatory 
+  Commission to issue a final rule relating to the interconnection of 
+   large load facilities with the transmission system, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 24, 2026
+
+   Mr. Min (for himself and Mr. Goldman of New York) introduced the 
+   following bill; which was referred to the Committee on Energy and 
+   Commerce, and in addition to the Committee on Science, Space, and 
+Technology, for a period to be subsequently determined by the Speaker, 
+ in each case for consideration of such provisions as fall within the 
+                jurisdiction of the committee concerned
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Power Act to require the Federal Energy Regulatory 
+  Commission to issue a final rule relating to the interconnection of 
+   large load facilities with the transmission system, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Energy Cost Fairness and Reliability 
+Act of 2026''.
+
+SEC. 2. SENSE OF CONGRESS.
+
+    It is the sense of Congress that--
+            (1) the United States has long been a global leader in 
+        science, technology, and innovation, which are essential to 
+        economic growth, national security, and global competitiveness;
+            (2) artificial intelligence requires substantial computing 
+        power, storage, and networking capacity to train models and 
+        process data at scale;
+            (3) the rapid and significant increase in load growth 
+        driven by data centers, growing electrification, the onshoring 
+        of domestic manufacturing, and other changes in industry and 
+        the economy poses serious challenges to grid resource adequacy 
+        and reliability;
+            (4) responsible and sustainable investments in energy 
+        infrastructure to account for a significant increase in load 
+        growth can strengthen the energy security of the United States 
+        and ensure that technological growth is compatible with long-
+        term sustainability;
+            (5)(A) electricity prices in various regions across the 
+        United States have surged in recent years due to the need for 
+        network upgrades and new energy infrastructure to serve large 
+        loads; and
+            (B) therefore, increasing load growth threatens to 
+        significantly increase electricity rates for ratepayers; and
+            (6) due to the unprecedented proliferation of large load 
+        facilities, such as data centers seeking to interconnect with 
+        the transmission system, and because of the implications this 
+        proliferation poses to the reliability and stability of the 
+        interstate transmission system, the energy and national 
+        security of the United States, the affordability of electricity 
+        for residential consumers, and the global technological 
+        leadership of the United States, it is necessary for Congress 
+        to address this proliferation and provide direction to the 
+        Commission and the Department.
+
+SEC. 3. MANAGEMENT OF LARGE LOAD FACILITIES.
+
+    Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 224. MANAGEMENT OF LARGE LOAD FACILITIES.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Colocated.--The term `colocated', with respect to a 
+        large load facility, means that the large load facility is 
+        physically connected to, and has contractual arrangements to be 
+        served by, the facilities of an existing or planned generating 
+        facility on the generating facility's side of the point of 
+        interconnection to the interstate transmission system.
+            ``(2) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(3) Curtailable.--
+                    ``(A) In general.--The term `curtailable', with 
+                respect to a large load customer, means that the large 
+                load customer is capable of reducing or shifting 
+                electrical demand at the applicable large load facility 
+                in response to a request from the applicable electric 
+                utility or transmission provider--
+                            ``(i) to maintain grid reliability;
+                            ``(ii) to manage transmission congestion;
+                            ``(iii) to meet the operational needs of 
+                        the transmission provider; or
+                            ``(iv) for other reasons, as the 
+                        transmission provider determines necessary.
+                    ``(B) Methods of reducing or shifting demand.--The 
+                reduction or shifting of electrical demand as described 
+                in subparagraph (A) may be accomplished through--
+                            ``(i) the deployment of on-site energy 
+                        storage or other technologies that allow 
+                        continued operations while reducing grid draw; 
+                        or
+                            ``(ii) voluntary reduction of operations, 
+                        including shifting operations to facilities in 
+                        other regions, during requested periods.
+            ``(4) Demand flexibility.--The term `demand flexibility' 
+        means the capability of the electrical load or on-site 
+        distributed energy resources of a large load customer to 
+        reduce, shed, shift, or modulate electricity consumption or 
+        generation in response to external signals, including price 
+        changes, grid reliability needs, or energy availability.
+            ``(5) Department.--The term `Department' means the 
+        Department of Energy.
+            ``(6) Generator interconnection queue.--The term `generator 
+        interconnection queue' means the ordered list of valid 
+        interconnection requests maintained by a transmission provider, 
+        pursuant to a tariff approved by the Commission, for purposes 
+        of studying, processing, and deciding whether to approve the 
+        interconnection of generating facilities to the transmission 
+        system.
+            ``(7) Labor organization.--The term `labor organization' 
+        has the meaning given the term in section 2 of the National 
+        Labor Relations Act (29 U.S.C. 152).
+            ``(8) Labor peace agreement.--The term `labor peace 
+        agreement' means a written agreement between an employer and a 
+        labor organization through which the employer guarantees that--
+                    ``(A) the employer will be neutral regarding any of 
+                the employees of the employer seeking to be represented 
+                by the labor organization; and
+                    ``(B) if employees seek to be represented by a 
+                labor organization, the employer shall recognize the 
+                labor organization as the exclusive bargaining 
+                representative on a showing that a majority of the 
+                employees choose to be represented by the labor 
+                organization.
+            ``(9) Large load customer.--The term `large load customer' 
+        means the 1 or more entities using power at a large load 
+        facility.
+            ``(10) Large load facility.--The term `large load facility' 
+        means--
+                    ``(A) a facility the peak demand of which exceeds 
+                50 megawatts; or
+                    ``(B) an aggregation of facilities the peak demand 
+                of which exceeds 50 megawatts at a single site (as 
+                determined by the Commission, taking into consideration 
+                ownership of the facilities).
+            ``(11) Load interconnection queue.--The term `load 
+        interconnection queue' means the ordered list of valid 
+        interconnection requests maintained by a transmission provider, 
+        pursuant to a tariff approved by the Commission, for purposes 
+        of studying, processing, and deciding whether to approve the 
+        interconnection of large load facilities to the transmission 
+        system.
+            ``(12) National laboratory.--The term `National Laboratory' 
+        has the meaning given the term in section 2 of the Energy 
+        Policy Act of 2005 (42 U.S.C. 15801).
+            ``(13) Registered apprenticeship program.--The term 
+        `registered apprenticeship program' means an apprenticeship 
+        program registered under the Act of August 16, 1937 (commonly 
+        known as the `National Apprenticeship Act') (50 Stat. 664, 
+        chapter 663; 29 U.S.C. 50 et seq.).
+            ``(14) Secretary.--The term `Secretary' means the Secretary 
+        of Energy.
+            ``(15) Transmission provider.--The term `transmission 
+        provider' means the applicable provider of transmission 
+        services, which may include an Independent System Operator, a 
+        Regional Transmission Organization, or a public utility that 
+        provides transmission services.
+    ``(b) Standard Interconnection Procedures.--Not later than 1 year 
+after the date of enactment of this section, the Commission, in order 
+to establish a formal interconnection queue system for large loads to 
+be regulated by the Commission, shall issue 1 or more final rules to 
+establish standard interconnection procedures for large loads 
+requesting to interconnect to the interstate transmission system, which 
+shall require the following:
+            ``(1) Costs of interconnection studies.--With respect to 
+        the costs of interconnection studies--
+                    ``(A) any large load customer seeking 
+                interconnection to the interstate transmission system 
+                shall pay 100 percent of the costs of interconnection 
+                studies; and
+                    ``(B) any large load customer that fails to satisfy 
+                the payment obligations described in subparagraph (A) 
+                shall be prohibited from interconnection or receiving 
+                transmission service until full compliance with that 
+                subparagraph.
+            ``(2) Network upgrades.--Network upgrades shall be assigned 
+        to large load customers through the interconnection study 
+        process that is part of the load interconnection queue system 
+        established under this subsection.
+            ``(3) Reliability standards.--Interconnection to the 
+        interstate transmission system for a large load facility shall 
+        not proceed until the applicable transmission provider 
+        determines that the interconnection would not cause a violation 
+        of any applicable Commission-approved reliability standards (as 
+        defined in section 215(a)).
+            ``(4) Requirements for interconnection.--
+                    ``(A) In general.--Interconnection to the 
+                transmission system shall not be approved for a large 
+                load customer unless the large load customer satisfies 
+                the following criteria:
+                            ``(i) Demand flexibility and 
+                        curtailability.--The large load customer--
+                                    ``(I) is technically capable of 
+                                exercising demand flexibility and being 
+                                curtailable, as evidenced by 
+                                satisfaction of--
+                                            ``(aa) the minimum criteria 
+                                        established under subparagraph 
+                                        (B); and
+                                            ``(bb) any minimum 
+                                        technical standards established 
+                                        or approved under subparagraph 
+                                        (C); and
+                                    ``(II) enters into a binding 
+                                agreement with the transmission 
+                                provider to exercise demand flexibility 
+                                and be curtailable.
+                            ``(ii) New generating resources.--The large 
+                        load customer demonstrates and guarantees that 
+                        the large load customer or the operator of the 
+                        applicable new large load facility will 
+                        construct, arrange to have constructed, or 
+                        otherwise arrange for new generating 
+                        facilities, which may include power produced or 
+                        made available by distributed energy resources 
+                        (including virtual power plants) that the large 
+                        load customer has created or has worked with 
+                        the transmission provider to arrange or 
+                        coordinate, to supply the power needed by the 
+                        new large load facility, with such power being 
+                        deliverable to the large load facility and 
+                        temporally matching its capacity needs.
+                    ``(B) Minimum criteria for demand flexibility and 
+                curtailability.--The Commission shall issue standards 
+                or guidelines, or otherwise approve standards proposed 
+                by the applicable transmission provider through a 
+                tariff to be reviewed by the Commission, to establish 
+                minimum criteria necessary for a large load facility or 
+                category of large load facilities to qualify as 
+                sufficiently capable of exercising demand flexibility 
+                and sufficiently curtailable for purposes of 
+                subparagraph (A)(i)(I).
+                    ``(C) Minimum technical standards.--If the 
+                Commission determines necessary, the Commission shall 
+                establish minimum technical standards, or approve 
+                minimum technical standards established by transmission 
+                providers, for system-protection facilities and 
+                automated load-shedding equipment necessary to verify 
+                and execute the capabilities to exercise demand 
+                flexibility and be curtailable, as described in 
+                subparagraph (A)(i)(I).
+            ``(5) Prioritization within load interconnection queues.--
+                    ``(A) In general.--Within a load interconnection 
+                queue, an interconnection request from a large load 
+                customer shall be prioritized if the large load 
+                customer satisfies any 1 or more of the following 
+                criteria:
+                            ``(i) Battery backup.--The large load 
+                        customer demonstrates and guarantees that the 
+                        large load customer or the operator of the 
+                        applicable new large load facility will 
+                        implement a battery energy storage system to 
+                        use as primary backup generation for the large 
+                        load facility, with sufficient capacity to meet 
+                        the backup needs of the large load facility 
+                        during periods of outages or curtailments.
+                            ``(ii) Construction.--The large load 
+                        customer demonstrates and guarantees that, in 
+                        the construction of the applicable new large 
+                        load facility and any new energy supply 
+                        resource that the large load facility brings to 
+                        the electric grid--
+                                    ``(I) all laborers and mechanics 
+                                employed by the large load customer and 
+                                contractors and subcontractors of the 
+                                large load customer in the performance 
+                                of construction are paid wages at rates 
+                                not less than those prevailing on 
+                                projects of a character similar in the 
+                                locality in which the construction 
+                                project is located, as most recently 
+                                determined by the Secretary of Labor in 
+                                accordance with subchapter IV of 
+                                chapter 31 of title 40, United States 
+                                Code; and
+                                    ``(II) all contractors and 
+                                subcontractors of the large load 
+                                customer use registered apprentices 
+                                participating in registered 
+                                apprenticeship programs.
+                            ``(iii) Labor peace agreement.--The large 
+                        load customer ensures that each owner or 
+                        operator of a new energy supply resource that 
+                        the applicable new large load facility brings 
+                        to the electric grid has agreed to enter into a 
+                        labor peace agreement with respect to the 
+                        operation and maintenance of the energy supply 
+                        resource.
+                    ``(B) Requirement.--A transmission provider shall 
+                endeavor to complete the interconnection study process 
+                for a large load customer that satisfies the criteria 
+                for prioritization under this paragraph before other 
+                large load customers that do not satisfy the criteria 
+                for such prioritization.
+            ``(6) Non-firm transmission access on an as-available 
+        basis.--Transmission providers shall provide to colocated large 
+        load facilities non-firm transmission access to the 
+        transmission system for the purpose of withdrawing electric 
+        energy from the transmission network on an as-available basis, 
+        subject to the condition that such non-firm transmission 
+        service shall be--
+                    ``(A) subject to curtailment or interruption before 
+                firm network or point-to-point transmission service, in 
+                accordance with the open access and reliability 
+                standards of the Commission; and
+                    ``(B) priced to reflect the non-firm nature of such 
+                service.
+            ``(7) Injection rights on a non-firm basis.--Transmission 
+        providers offer to colocated large load facilities injection 
+        rights without the need for deliverability studies if the 
+        injection will occur on a non-firm basis.
+    ``(c) Protection of Grid Reliability.--The Commission shall require 
+transmission provider tariffs provided to the Commission to specify the 
+following:
+            ``(1) An existing generating facility operated by an 
+        interconnection customer may not, as a result of any request of 
+        the interconnection customer to modify its interconnection 
+        service level for such existing generating facility, withdraw 
+        any of its capacity to begin serving a large load facility if 
+        the withdrawal of capacity from the existing generating 
+        facility to serve a large load facility would result in a loss 
+        of capacity to serve customers other than the large load 
+        facility without a new generation resource being interconnected 
+        to the grid to compensate for such loss of capacity.
+            ``(2) An existing generating facility operated by an 
+        interconnection customer may not, as a result of any request of 
+        the interconnection customer to modify its interconnection 
+        service level for such existing generating facility, withdraw 
+        any of its capacity to begin serving a large load facility 
+        until all modifications to interconnection facilities and 
+        network upgrades that the transmission provider determines to 
+        be necessary to maintain reliability for existing customers are 
+        carried out and placed in commercial operation.
+    ``(d) Cost Recovery.--
+            ``(1) Network upgrades.--
+                    ``(A) In general.--Not later than 1 year after the 
+                date of enactment of this section, the Commission shall 
+                issue a final rule requiring transmission providers to 
+                ensure that a large load customer seeking 
+                interconnection to the interstate transmission system 
+                shall be responsible for 100 percent of the network 
+                upgrades that are assigned to the large load customer 
+                pursuant to 1 or more interconnection studies, 
+                including any additions, modifications, or upgrades to 
+                the interstate transmission system at or beyond the 
+                point of interconnection that, in the determination of 
+                the transmission provider, are required--
+                            ``(i) to accommodate the interconnection; 
+                        or
+                            ``(ii) to maintain the reliability or 
+                        operational integrity of the transmission 
+                        system.
+                    ``(B) Nonrefundable payments.--All payments made by 
+                a large load customer to cover the costs of network 
+                upgrades described in subparagraph (A) shall be 
+                nonrefundable.
+                    ``(C) Prohibition.--The Commission shall not 
+                approve any tariff submitted to the Commission for 
+                review to include any crediting mechanism, refund, or 
+                offset that allows for the costs of network upgrades 
+                described in subparagraph (A) to be--
+                            ``(i) recovered from any transmission 
+                        customer other than the applicable large load 
+                        customer described in that subparagraph; or
+                            ``(ii) credited against future transmission 
+                        or retail service charges.
+                    ``(D) Commission-jurisdictional payment 
+                mechanism.--
+                            ``(i) In general.--The costs of network 
+                        upgrades described in subparagraph (A) shall be 
+                        directly assigned to the applicable large load 
+                        customer through a Commission-jurisdictional 
+                        payment mechanism, such as--
+                                    ``(I) a non-refundable upfront 
+                                payment;
+                                    ``(II) a structured surcharge that 
+                                may be paid over time; or
+                                    ``(III) any other cost-assignment 
+                                mechanism that is within the 
+                                jurisdiction of the Commission.
+                            ``(ii) Inclusion in open access 
+                        transmission tariff.--The Commission may 
+                        require that payments to cover costs described 
+                        in clause (i) be included in each applicable 
+                        open access transmission tariff.
+                            ``(iii) Savings provision.--The payment of 
+                        network upgrade costs described in clause (i) 
+                        through a Commission-jurisdictional payment 
+                        mechanism described in that clause shall not 
+                        preempt the authority of a State commission to 
+                        regulate the retail rates, terms, or conditions 
+                        of electric service provided to the applicable 
+                        load by a retail utility.
+            ``(2) Colocated large load facilities.--For a colocated 
+        large load facility--
+                    ``(A) the applicable large load customer shall be 
+                assessed charges on a gross-demand basis for ancillary 
+                services and black start service provided through the 
+                interstate transmission system if the colocated 
+                generating facility is interconnected to the interstate 
+                transmission system, even if the colocated large load 
+                facility withdraws zero net energy from the interstate 
+                transmission system; and
+                    ``(B) the existence of on-site generation, energy 
+                storage, or other behind-the-meter resources shall not 
+                relieve a colocated large load facility of cost 
+                responsibility under subparagraph (A) if the facility 
+                remains interconnected with, synchronized to, or 
+                reliant upon the interstate transmission system for 
+                reliability, backup service, or ancillary services.
+            ``(3) Review of cost allocation methodologies.--In 
+        determining the justness and reasonableness of any rate, 
+        charge, term, or condition of a tariff or tariff amendment 
+        filed under section 205, the Commission shall, consistent with 
+        State authority, review the cost allocation methodologies to 
+        ensure that the costs of transmission services, network 
+        upgrades, or related facilities necessitated by the 
+        interconnection or operation of large load facilities are not 
+        shifted to other customers, including by taking into account 
+        the ultimate impact of rates under the jurisdiction of the 
+        Commission on downstream retail ratepayers.
+            ``(4) Compensation for certain generation.--Energy 
+        generated by a colocated generating facility that is in excess 
+        of the amount consumed by the colocated large load facility and 
+        that is injected into the interstate transmission system shall 
+        be compensated at the applicable wholesale locational marginal 
+        price or the avoided cost rate, in accordance with the relevant 
+        tariff of the transmission provider that has been filed with 
+        and approved by the Commission.
+    ``(e) Queue Management Best Practices.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of this section, the Commission shall initiate a 
+        rulemaking to revise the pro forma Large Generator 
+        Interconnection Procedures promulgated pursuant to section 
+        35.28(f) of title 18, Code of Federal Regulations (or a 
+        successor regulation), to require public utility transmission 
+        providers to share and employ, as appropriate, queue management 
+        best practices with respect to the use of computing 
+        technologies, such as artificial intelligence, machine 
+        learning, or automation, in evaluating and processing 
+        generating facility interconnection requests within a generator 
+        interconnection queue, in order to expedite study results with 
+        respect to those requests.
+            ``(2) Technical assistance.--Subject to the availability of 
+        appropriations, the Secretary shall provide to transmission 
+        providers technical assistance with respect to the 
+        implementation of any best practices established by the 
+        Commission under paragraph (1), as the Secretary determines to 
+        be appropriate.
+    ``(f) Large Load Forecasting.--The Commission shall require that, 
+in at least 1 category of load forecast utilized by a transmission 
+provider for estimating future energy demand or making grid planning 
+decisions, a large load facility may be included in the forecast only 
+if the large load facility is able to provide proof of viable 
+demonstration of commercial or operational commitment pursuant to 
+objective criteria set forth in a Commission-approved tariff, which may 
+include--
+            ``(1) an energy or transmission service agreement;
+            ``(2) credit or collateral support;
+            ``(3) significant infrastructure investment;
+            ``(4) a long-term generation supply commitment; or
+            ``(5) any other comparable demonstration of commitment 
+        approved by the Commission.
+    ``(g) Interconnection and Study Process Discipline.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the Commission shall require each transmission provider, 
+        as a condition of accepting and processing an interconnection 
+        request, transmission service request, or comparable request 
+        from a large load facility, to impose--
+                    ``(A) study deposits sufficient to cover the costs 
+                of system impact, facilities, or comparable studies;
+                    ``(B) readiness or milestone payments tied to 
+                progression through the study and interconnection 
+                process; and
+                    ``(C) withdrawal penalties designed to ensure that 
+                a large load facility that withdraws from such process 
+                bears an appropriate share of the costs imposed on the 
+                transmission provider and other customers.
+            ``(2) Requirement.--The requirements established under 
+        paragraph (1) shall be designed--
+                    ``(A) to discourage speculative requests; and
+                    ``(B) to reduce study delays and restudies.
+    ``(h) Tariff Revisions; Transition Period.--
+            ``(1) Tariff revisions.--Not later than 180 days after the 
+        effective date of each final rule issued under subsection (b), 
+        each transmission provider subject to the jurisdiction of the 
+        Commission shall submit to the Commission for approval any 
+        tariff amendments necessary to effectuate the rule.
+            ``(2) Transition period.--As part of each rulemaking 
+        proceeding required of the Commission under this section, the 
+        Commission shall ensure that there is a reasonable transition 
+        period for affected entities (as determined by the Commission), 
+        while seeking to avoid disruptions to existing projects or 
+        projects that are significantly underway.
+            ``(3) Requirement.--On and after the effective date of the 
+        final rules issued under subsection (b) to establish the load 
+        interconnection queue system described in that subsection, a 
+        large load facility may only interconnect with the interstate 
+        transmission system once it has been approved through the 
+        applicable load interconnection queue system.
+    ``(i) DOE Data Collection.--
+            ``(1) In general.--The Secretary, in accordance with 
+        section 13 of the Federal Energy Administration Act of 1974 (15 
+        U.S.C. 772), may require owners or operators of data centers to 
+        submit to the Secretary such data as is necessary to enable the 
+        Secretary--
+                    ``(A) to identify trends in new data center 
+                requests and commissioning;
+                    ``(B) to identify trends in energy and water 
+                performance, including cooling and on-site generation, 
+                and flexibility in operations;
+                    ``(C) to assess actual energy use associated with 
+                artificial intelligence activities, including the 
+                training of artificial intelligence models and 
+                inference operations;
+                    ``(D) to establish benchmarks of--
+                            ``(i) current data center energy and water 
+                        use by data center type and function; and
+                            ``(ii) the operational flexibility of load 
+                        by data center type;
+                    ``(E) to engage in quarterly tracking of trends in 
+                data center energy demand relating to artificial 
+                intelligence; and
+                    ``(F) to support the development of refined models 
+                for projecting future energy needs and load shapes 
+                associated with data center workloads.
+            ``(2) Data protection.--
+                    ``(A) In general.--The Secretary shall protect any 
+                confidential business information that is submitted by 
+                a data center owner as required under paragraph (1).
+                    ``(B) FOIA exemption.--Information described in 
+                subparagraph (A) shall be exempt from disclosure 
+                under--
+                            ``(i) section 552(b)(4) of title 5, United 
+                        States Code (commonly known as the `Freedom of 
+                        Information Act'); and
+                            ``(ii) any provision of State, Tribal, or 
+                        local freedom of information law, open 
+                        government law, open meetings law, open records 
+                        law, sunshine law, or similar law requiring 
+                        disclosure of information or records.
+    ``(j) DOE Artificial Intelligence Testbed.--
+            ``(1) Establishment.--Not later than 180 days after the 
+        date of enactment of this section, the Secretary shall 
+        establish a data-center-scale artificial intelligence testbed 
+        at a National Laboratory that shall be complementary to, but 
+        distinct from, the current set of high-performance computing 
+        facilities operated by Department.
+            ``(2) Requirement.--The testbed established under paragraph 
+        (1) shall allow researchers from the National Laboratories, 
+        academia, and industry to collaborate in the development and 
+        assessment of various aspects of artificial intelligence, 
+        including--
+                    ``(A) algorithms for energy-efficient or energy-
+                flexible artificial intelligence training and inference 
+                to advance the artificial intelligence capabilities of 
+                the United States and build on the success of 
+                comparable public-private efforts that have accelerated 
+                advances in high-performance computing;
+                    ``(B) technology hardware and control systems 
+                relating to power supply, cooling, and computing system 
+                configuration;
+                    ``(C) grid integration, load flexibility, efficient 
+                grid management, and strategies for protecting or 
+                enhancing grid reliability, resource adequacy, or 
+                energy affordability; and
+                    ``(D) advancing or de-risking new technologies to 
+                advance the efforts described in subparagraphs (A) 
+                through (C).
+            ``(3) Report.--
+                    ``(A) In general.--Not later than 1 year after the 
+                date of enactment of this section, the Secretary shall 
+                submit to Congress and the Commission a report compiled 
+                using knowledge gained and lessons learned from--
+                            ``(i) the testbed established under 
+                        paragraph (1); and
+                            ``(ii) any other relevant projects that are 
+                        ongoing at the Department and the National 
+                        Laboratories.
+                    ``(B) Collaboration.--In compiling the report under 
+                subparagraph (A), the Secretary shall work with--
+                            ``(i) the National Laboratories;
+                            ``(ii) Federal partners, such as the 
+                        Commission;
+                            ``(iii) academia; and
+                            ``(iv) industry.
+                    ``(C) Assessments.--The report under subparagraph 
+                (A) shall assess--
+                            ``(i) the scale of load growth being driven 
+                        by the proliferation of data center 
+                        infrastructure, including significant regional 
+                        differences;
+                            ``(ii) how that load growth will affect 
+                        grid reliability, resource adequacy, and 
+                        national security;
+                            ``(iii) how electric utilities and 
+                        regulators obtain information to verify when 
+                        and whether prospective large load facilities 
+                        will reach commercial operation;
+                            ``(iv)(I) how utilities and regulators 
+                        determine and apply consistent and objective 
+                        screening criteria for interconnection 
+                        requests; and
+                            ``(II) how utilities and regulators are 
+                        attempting to deter speculative or duplicative 
+                        interconnection requests for large loads;
+                            ``(v) innovative technologies for--
+                                    ``(I) the reduction of power and 
+                                water utilized by data centers;
+                                    ``(II) the utilization of waste 
+                                heat, including for heating residential 
+                                homes; and
+                                    ``(III) facility-level electricity 
+                                supply; and
+                            ``(vi) the usage and ability of demand 
+                        response and demand flexibility by data center 
+                        facilities to alleviate stresses on grid 
+                        resource adequacy.
+                    ``(D) Recommendations.--The report under 
+                subparagraph (A) shall provide recommendations for--
+                            ``(i) how load forecasting can be improved 
+                        to more accurately determine how the actual 
+                        electricity consumption of a large load 
+                        facility will compare to its requested level of 
+                        interconnection service;
+                            ``(ii) how to ensure that large load 
+                        interconnection requests--
+                                    ``(I) are subject to consistent and 
+                                objective screening criteria; and
+                                    ``(II) are not double-counted;
+                            ``(iii) hardware and algorithmic 
+                        improvements to further reduce energy 
+                        consumption relating to artificial 
+                        intelligence, including for developing energy-
+                        efficient methods for training and inference of 
+                        large language models and other large 
+                        artificial intelligence models;
+                            ``(iv) policy changes or actions that the 
+                        Federal Government may take to ensure quick and 
+                        efficient buildout of data infrastructure while 
+                        ensuring a buildout that maintains grid 
+                        reliability and energy affordability; and
+                            ``(v) how the National Laboratories can 
+                        facilitate collaboration and information-
+                        sharing to accelerate innovation.
+                    ``(E) Commission consideration.--Not later than 180 
+                days after receiving the report under subparagraph (A), 
+                the Commission shall--
+                            ``(i) decide whether to implement any 
+                        recommendations or act on any findings in that 
+                        report; and
+                            ``(ii) initiate a rulemaking proceeding or 
+                        take other appropriate action, if applicable.
+                    ``(F) Publication of topline data.--
+                            ``(i) In general.--The Secretary shall 
+                        publish on the website of the Department 
+                        aggregated topline data and conclusions from 
+                        the report under subparagraph (A).
+                            ``(ii) Requirement.--In carrying out clause 
+                        (i), the Secretary shall ensure that no data 
+                        that could be attributed to a single private 
+                        entity is made available to the public.
+    ``(k) Savings Provision.--Nothing in this section shall be 
+construed to authorize the Commission to regulate retail electricity 
+rates, charges, or terms of service, which shall remain subject to the 
+jurisdiction of the States.''.
+                                 <all>

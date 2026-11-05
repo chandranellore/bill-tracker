@@ -1,0 +1,76 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4908 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4908
+
+  To require the Administrator of the National Highway Traffic Safety 
+ Administration to initiate a process to reevaluate corporate average 
+            fuel economy standards, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 24, 2026
+
+  Mr. Markey introduced the following bill; which was read twice and 
+   referred to the Committee on Commerce, Science, and Transportation
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To require the Administrator of the National Highway Traffic Safety 
+ Administration to initiate a process to reevaluate corporate average 
+            fuel economy standards, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Gas Money Saved Act''.
+
+SEC. 2. REEVALUATION OF CAFE STANDARDS.
+
+    (a) Adjustment.--
+            (1) In general.--If the Administrator of the National 
+        Highway Traffic Safety Administration, using data published by 
+        the Bureau of Labor Statistics, determines that national 
+        average prices for gasoline have risen at least 5 times faster 
+        than overall inflation over the applicable period described in 
+        paragraph (2), the Administrator shall initiate a process to 
+        reevaluate whether the current corporate average fuel economy 
+        standards are achieving maximum feasible average fuel economy.
+            (2) Period described.--The applicable period referred to in 
+        paragraph (1) is--
+                    (A) if corporate average fuel economy standards 
+                have not previously been adjusted under this 
+                subsection, any period of 180 days or longer beginning 
+                after the date of enactment of this Act; or
+                    (B) if corporate average fuel economy standards 
+                have previously been adjusted under this subsection, 
+                any period of 180 days or longer beginning after the 
+                date of the most recent adjustment.
+    (b) Restoration of Penalties.--Section 32912 of title 49, United 
+States Code, is amended--
+            (1) in subsection (b), in the matter preceding paragraph 
+        (1), by striking ``$0.00'' and inserting ``$25''; and
+            (2) in subsection (c)(1)(B), by striking ``$0.00'' and 
+        inserting ``$50''.
+                                 <all>

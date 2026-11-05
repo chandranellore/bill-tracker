@@ -1,0 +1,382 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10539 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10539
+
+To amend the Federal Power Act to improve the electric grid through the 
+     integration of local, regional, and interregional electricity 
+             transmission planning, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 24, 2026
+
+    Mr. Casten (for himself, Ms. Castor of Florida, Mr. Levin, Mr. 
+  McGovern, and Mr. Latimer) introduced the following bill; which was 
+            referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Power Act to improve the electric grid through the 
+     integration of local, regional, and interregional electricity 
+             transmission planning, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Integrated Local, Regional, and 
+Interregional Transmission Planning Act of 2026''.
+
+SEC. 2. TRANSMISSION PLANNING.
+
+    (a) In General.--Part II of the Federal Power Act (16 U.S.C. 824 et 
+seq.) is amended by adding at the end the following:
+
+``SEC. 224. PLANNING FOR TRANSMISSION FACILITIES THAT ENHANCE GRID 
+              RELIABILITY, AFFORDABILITY, AND RESILIENCE.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Bulk-power system.--The term `bulk-power system' has 
+        the meaning given the term in section 215(a).
+            ``(2) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(3) Covered local transmission facility.--The term 
+        `covered local transmission facility' means an electric 
+        transmission facility--
+                    ``(A) that is planned by a transmission owner 
+                outside of an interregional or regional planning 
+                process to address needs, including--
+                            ``(i) asset management or replacement 
+                        (including end-of-life replacement that may be 
+                        driven by equipment, material, condition, 
+                        performance, or risk);
+                            ``(ii) load growth;
+                            ``(iii) infrastructure resilience;
+                            ``(iv) operational flexibility; and
+                            ``(v) efficiency; and
+                    ``(B) the replacement of which has the potential to 
+                provide transmission benefits if used as a regional 
+                transmission facility or an interregional transmission 
+                facility.
+            ``(4) ERO.--The term `ERO' has the meaning given the term 
+        in section 215(a).
+            ``(5) Improved reliability.--The term `improved 
+        reliability' means that, on balance, reliability of electric 
+        energy is improved in a material manner that ultimately 
+        benefits customers of electric energy, including large load 
+        facilities, through at least one of the following:
+                    ``(A) Facilitating compliance with a reliability 
+                standard.
+                    ``(B) A reduction in expected unserved energy, loss 
+                of load hours, or loss of load probability (as defined 
+                by the ERO).
+                    ``(C) Facilitating resource adequacy and 
+                resilience.
+                    ``(D) Any other similar material improvement as 
+                determined by the Commission, including a reduction in 
+                correlated outage risk, such as achieved through 
+                increased geographic or resource diversification.
+            ``(6) In-kind replacement estimate.--The term `in-kind 
+        replacement estimate' means an estimate of the electric 
+        transmission facilities operating at and above 200 kilovolts, 
+        or a lower threshold as determined by the Commission, that the 
+        transmitting utilities that own the electric transmission 
+        facilities anticipate replacing in-kind with new electric 
+        transmission facilities during the next 10 years.
+            ``(7) Interregional transmission facility.--The term 
+        `interregional transmission facility' means an electric 
+        transmission facility that--
+                    ``(A) is located within 2 or more immediately 
+                adjacent Transmission Planning Regions; or
+                    ``(B) as determined by the Transmission Planning 
+                Regions, significantly impacts the ability of 1 or more 
+                Transmission Planning Regions to transmit electricity 
+                among immediately adjacent Transmission Planning 
+                Regions.
+            ``(8) Large load facility.--The term `large load facility' 
+        means a commercial or industrial facility, or an aggregation of 
+        such facilities at a single site, that--
+                    ``(A) draws at least 30 megawatts of electric power 
+                from the electric grid; and
+                    ``(B) may pose reliability risks to the bulk-power 
+                system, as determined by the ERO, the appropriate 
+                Transmission Planning Region, or other appropriate 
+                body, as determined by the Commission, due to the 
+                demand for electricity from such facility, the 
+                operational characteristics of such facility, or other 
+                factors.
+            ``(9) Regional transmission facility.--The term `regional 
+        transmission facility' means a transmission facility that meets 
+        regional transmission needs, as identified by a regional 
+        transmission planning process.
+            ``(10) Reliability standard.--The term `reliability 
+        standard' has the meaning given such term in section 215(a).
+            ``(11) Resilience.--The term `resilience' means the ability 
+        to prepare for and withstand disruptions to electric supply or 
+        demand.
+            ``(12) Resource adequacy.--The term `resource adequacy' 
+        means, with respect to an electric system, the ability of the 
+        electric system to meet the energy needs of electricity 
+        customers, by having sufficient generation that is deliverable 
+        to meet projected electric demand.
+            ``(13) Transmission benefit.--The term `transmission 
+        benefit' includes--
+                    ``(A) improved reliability;
+                    ``(B) improved resilience;
+                    ``(C) reduced transmission congestion;
+                    ``(D) reduced power losses;
+                    ``(E) greater grid utilization;
+                    ``(F) improved access to lower cost generation;
+                    ``(G) improved access to the electric grid by 
+                transmission customers;
+                    ``(H) improved access to the electric grid by new 
+                generation facilities; and
+                    ``(I) cost savings associated with the avoidance of 
+                the need for the construction or modification of 
+                transmission facilities or new generation capacity at a 
+                later date.
+            ``(14) Transmission planning region.--
+                    ``(A) In general.--The term `Transmission Planning 
+                Region'--
+                            ``(i) when used in a geographical sense, 
+                        means a region for which the Commission 
+                        determines that electric transmission planning 
+                        is appropriate, such as a region established in 
+                        accordance with Order No. 1000 of the 
+                        Commission, entitled `Transmission Planning and 
+                        Cost Allocation by Transmission Owning and 
+                        Operating Public Utilities' (76 Fed. Reg. 49842 
+                        (August 11, 2011)); and
+                            ``(ii) when used in a corporate sense, 
+                        means the Transmission Organization or other 
+                        entity responsible for planning or operating 
+                        electric transmission facilities within a 
+                        region described in clause (i).
+                    ``(B) Exemption.--The term `Transmission Planning 
+                Region' does not include the Electric Reliability 
+                Council of Texas or the region served by members of the 
+                Electric Reliability Council of Texas.
+    ``(b) Rulemaking.--Not later than 6 months after the date of 
+enactment of this section, the Commission shall propose a rule, and not 
+later than 18 months after the date of enactment of this section, the 
+Commission shall issue a final rule, to modify and augment existing 
+transmission planning processes, so as to--
+            ``(1) integrate the planning for interregional transmission 
+        facilities, regional transmission facilities, and covered local 
+        transmission facilities;
+            ``(2) account for near-term (less than 5 years), medium 
+        term (5-10 years), and long term (10-20 years and beyond) 
+        transmission needs;
+            ``(3) ensure that more efficient or cost-effective long-
+        term solutions replace the need for less efficient short-term 
+        solutions; and
+            ``(4) utilize a reasonable number of scenarios of 20 years 
+        or more that include a reasonable number of factors that affect 
+        electricity demand and current and future resource mix, 
+        including--
+                    ``(A) Federal, State, and local laws and 
+                regulations, and laws and regulations of federally 
+                recognized Indian Tribes, affecting the resource mix 
+                and electricity demand;
+                    ``(B) State-approved integrated resource plans;
+                    ``(C) trends in fuel costs and in the cost, 
+                performance, and availability of technologies for 
+                generation, energy storage resources, and building and 
+                transportation electrification;
+                    ``(D) planned retirement of generation facilities;
+                    ``(E) generator and load interconnection requests;
+                    ``(F) Federal, State, and local policy goals and 
+                policy goals of federally recognized Indian Tribes; and
+                    ``(G) the risk of extreme weather events.
+    ``(c) Joint Planning.--The final rule issued under subsection (b) 
+shall--
+            ``(1) require each Transmission Planning Region to jointly 
+        plan with each of its immediately adjacent Transmission 
+        Planning Regions;
+            ``(2) require each Transmission Planning Region to solicit 
+        transmission solutions, recommended assumptions, and cost 
+        estimation guides from transmission owners and developers;
+            ``(3) require each Transmission Planning Region to submit 
+        to the Commission for approval a joint transmission plan with 
+        immediately adjacent Transmission Planning Regions, which 
+        requirement may, at the discretion of the Transmission Planning 
+        Region, be satisfied through the submission of--
+                    ``(A) a separate joint transmission plan with each 
+                immediately adjacent Transmission Planning Region; or
+                    ``(B) 1 or more joint transmission plans, any of 
+                which may be submitted with one or more immediately 
+                adjacent Transmission Planning Regions;
+            ``(4) require each transmitting utility and owner of a 
+        covered local transmission facility to provide to the relevant 
+        Transmission Planning Region an in-kind replacement estimate;
+            ``(5) require each Transmission Planning Region to identify 
+        in each joint transmission plan submitted to the Commission 
+        pursuant to paragraph (3) the covered local transmission 
+        facilities, regional transmission facilities, and interregional 
+        transmission facilities that are in the service territory of 
+        the Transmission Planning Region; and
+            ``(6) establish cost allocation methodologies applicable to 
+        projects selected for cost allocation under the transmission 
+        planning processes modified and augmented under subsection (b) 
+        that are just and reasonable and allocate the costs of 
+        transmission to customers that receive transmission benefits.
+    ``(d) Plan Elements.--The final rule issued under subsection (b) 
+shall require that joint transmission plans contain the following 
+elements:
+            ``(1) Common selection methodology.--A methodology that--
+                    ``(A) allows for the joint identification and 
+                selection, by any immediately adjacent Transmission 
+                Planning Region, of specific regional transmission 
+                facilities, interregional transmission facilities, and 
+                covered local transmission facilities for construction 
+                or modification, including through the use of advanced 
+                transmission conductors (including superconductors), 
+                reconductoring, and grid-enhancing technologies;
+                    ``(B) reflects a comprehensive accounting of 
+                transmission benefits, such that total transmission 
+                benefits net of costs can be maximized in consideration 
+                of public interest; and
+                    ``(C) takes into account existing transmission 
+                plans as of the date of enactment of this section.
+            ``(2) Minimum interregional transfer capability.--An 
+        identification of the optimal transfer capability between each 
+        Transmission Planning Region and any immediately adjacent 
+        Transmission Planning Region.
+            ``(3) Selection criteria.--Criteria governing the selection 
+        by Transmission Planning Regions, for construction or 
+        modification, of transmission facilities that--
+                    ``(A) provide improved reliability, resource 
+                adequacy, or resilience;
+                    ``(B) protect or benefit consumers; and
+                    ``(C) are consistent with the public interest.
+    ``(e) Deadline; Updates.--The joint transmission plans required to 
+be submitted to the Commission pursuant to the final rule issued under 
+subsection (b) shall be--
+            ``(1) submitted to the Commission not later than 1 year 
+        after the date such final rule takes effect; and
+            ``(2) updated and submitted to the Commission not less 
+        frequently than once every 3 years thereafter.
+    ``(f) Commission Review.--The Commission shall--
+            ``(1) review each joint transmission plan submitted 
+        pursuant to the final rule issued under subsection (b); and
+            ``(2) approve such joint transmission plan if the 
+        Commission finds that the plan--
+                    ``(A) meets the requirements of subsection (d);
+                    ``(B) allocates costs in accordance with subsection 
+                (g);
+                    ``(C) ensures that all rates, charges, terms, and 
+                conditions will be just and reasonable and not unduly 
+                discriminatory or preferential; and
+                    ``(D) is consistent with the public interest.
+    ``(g) Cost Allocation.--
+            ``(1) Transmission tariffs.--For the purposes of this 
+        section, any transmitting utility that owns, controls, or 
+        operates transmission facilities constructed or modified 
+        pursuant to a joint transmission plan submitted pursuant to 
+        this section may file a tariff or tariff revision with the 
+        Commission pursuant to section 205 and the regulations of the 
+        Commission allocating the costs of the new or modified 
+        transmission facilities. Any cost allocation methodology filed 
+        for such a transmission project shall reflect cost allocation 
+        principles adopted by the Commission in the final rule issued 
+        under this section.
+            ``(2) Requirement.--The Commission shall require that 
+        tariffs or tariff revisions filed pursuant to this section are 
+        just and reasonable and allocate the costs in a manner 
+        commensurate with benefits, including through transmission 
+        benefits.
+            ``(3) Ratepayer protection.--Customers that receive no 
+        reasonably identifiable benefit, from the construction or 
+        modification of a transmission facility pursuant to this 
+        section shall not be involuntarily allocated any of the costs 
+        of such construction or modification.
+    ``(h) Construction Permit.--For the purposes of obtaining a 
+construction permit under section 216(b), a project that is selected by 
+a Transmission Planning Region pursuant to a joint transmission plan 
+shall be considered to satisfy paragraphs (2) through (6) of section 
+216(b).
+    ``(i) Dispute Resolution.--In the event of a dispute with an 
+immediately adjacent Transmission Planning Region with respect to a 
+material element of a joint transmission plan--
+            ``(1) each applicable Transmission Planning Region shall 
+        submit to the Commission their respective proposals for 
+        resolving the material element in dispute for resolution; and
+            ``(2) not later than 60 days after the proposals are 
+        submitted under paragraph (1), the Commission shall issue an 
+        order directing a resolution to the dispute.
+    ``(j) Failure To Submit Plan.--If a Transmission Planning Region 
+fails to submit to the Commission a joint transmission plan pursuant to 
+this section, the Commission shall, as the Commission determines to be 
+appropriate--
+            ``(1) grant a request for a one-time extension of the time 
+        for submission of the joint transmission plan by up to 180 
+        days;
+            ``(2) require the affected Transmission Planning Region to 
+        submit to the Commission a joint transmission plan by a firm 
+        date established by the Commission or be subject to civil 
+        penalty under this Act for noncompliance; or
+            ``(3) require the affected Transmission Planning Region to 
+        comply with a joint transmission plan approved by the 
+        Commission--
+                    ``(A) based on the record of the planning process 
+                conducted by the transmission planning region; and
+                    ``(B) in accordance with the cost allocation 
+                provisions in subsection (g).
+    ``(k) NEPA.--For purposes of the National Environmental Policy Act 
+of 1969--
+            ``(1) any acceptance of a joint transmission plan submitted 
+        to the Commission pursuant to the final rule issued under this 
+        section, or issuance of an order directing resolution of a 
+        dispute under subsection (i), shall not be considered a major 
+        Federal action; and
+            ``(2) granting a permit under section 216(b) for a project 
+        that is selected by a Transmission Planning Region pursuant to 
+        a joint transmission plan shall be considered a major Federal 
+        action.
+    ``(l) Savings Provisions.--Except as expressly provided in this 
+section, nothing in this section shall be construed as conferring, 
+limiting, or impairing any authority of the Commission under any other 
+provision of law.''.
+    (b) Siting of Interregional Facilities.--Section 216(b) of the 
+Federal Power Act (16 U.S.C. 824p(b)) is amended by inserting 
+``selected for construction or modification pursuant to a joint 
+transmission plan approved by the Commission pursuant to section 224 
+or'' after ``construction or modification of electric transmission 
+facilities''.
+    (c) Conforming Amendments.--Section 201 of the Federal Power Act 
+(16 U.S.C. 824) is amended--
+            (1) in subsection (b)(2)--
+                    (A) in the first sentence, by striking ``and 222'' 
+                and inserting ``222, and 224''; and
+                    (B) in the second sentence, by striking ``or 222'' 
+                and inserting ``222, or 224''; and
+            (2) in subsection (e)--
+                    (A) by striking ``206(f),''; and
+                    (B) by striking ``or 222'' and inserting ``222, or 
+                224''.
+    (d) Savings Provision.--Nothing in this section or an amendment 
+made by this section grants the Federal Energy Regulatory Commission 
+authority over sales of electricity at retail or the local distribution 
+of electricity.
+                                 <all>

@@ -1,0 +1,758 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10934 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10934
+
+ To modify the requirements applicable to certain locatable minerals, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            October 29, 2026
+
+Ms. Leger Fernandez (for herself, Ms. Castor of Florida, Ms. Crockett, 
+   Ms. Garcia of Texas, Mr. Huffman, Ms. Norton, and Ms. Stansbury) 
+ introduced the following bill; which was referred to the Committee on 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To modify the requirements applicable to certain locatable minerals, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Minerals Royalty and 
+Investment Act of 2026''.
+
+SEC. 2. LOCATABLE MINERAL ROYALTY.
+
+    (a) In General.--Except as provided in subsection (b), the gross 
+income from the sale or removal of locatable minerals produced pursuant 
+to a covered mining claim shall be subject to a royalty at a rate 
+that--
+            (1) subject to paragraphs (2) and (3), the Secretary shall 
+        establish by regulation;
+            (2) except as provided in paragraph (3)(B), shall be not 
+        less than 7 percent and not more than 10 percent of such gross 
+        income; and
+            (3) may--
+                    (A) vary based on the locatable mineral so 
+                produced; and
+                    (B) not be reduced under subsection (c)--
+                            (i) by more than 2 percent of such gross 
+                        income for each criterion described in 
+                        paragraph (1) of that subsection that is met; 
+                        or
+                            (ii) to less than 6 percent of such gross 
+                        income.
+    (b) Delayed Royalty Effective Date for Certain Gross Income.--If 
+the production of a locatable mineral described in subsection (a) is 
+carried out pursuant to a plan of operations or operations permit that 
+was approved or issued, respectively, before the date of the enactment 
+of this Act, the gross income from the sale or removal of such a 
+locatable mineral--
+            (1) during the period beginning on the date of the 
+        enactment of this Act and ending on the day before the date 
+        that is 5 years after the date of the enactment of this Act, is 
+        not subject to a royalty under subsection (a);
+            (2) during the period beginning on the date that is 5 years 
+        after the date of the enactment of this Act and ending on the 
+        day before the date that is 10 years after the date of the 
+        enactment of this Act, shall be subject to a royalty in 
+        accordance with subsection (a) except that such royalty shall 
+        be applied as if the rate of the royalty is 50 percent of the 
+        rate established by the Secretary under that subsection; and
+            (3) beginning on the date that is 10 years after the date 
+        of the enactment of this Act, shall be subject to a royalty in 
+        accordance with subsection (a).
+    (c) Royalty Relief.--
+            (1) In general.--Upon the receipt of an application from 
+        the operator or claim holder of a covered mining claim, the 
+        Secretary may reduce the rate of a royalty established pursuant 
+        to subsection (a) for the gross income from the sale or removal 
+        of locatable minerals produced pursuant to the covered mining 
+        claim--
+                    (A) if the operator and claim holder of the covered 
+                mining claim is a domestic person; and
+                    (B) all of the locatable minerals produced pursuant 
+                to the covered mining claim are--
+                            (i) exported to a country that is not a 
+                        covered nation;
+                            (ii) processed or otherwise used 
+                        domestically; or
+                            (iii) a combination thereof.
+            (2) Effective date.--If under paragraph (1) the Secretary 
+        reduces the rate of a royalty described in that paragraph, such 
+        reduced rate shall take effect on the date that is 60 days 
+        after the date on which the Secretary--
+                    (A) publishes public notice of such reduced rate; 
+                and
+                    (B) submits to the Committee on Natural Resources 
+                of the House of Representatives and the Committee on 
+                Energy and Natural Resources of the Senate notice and a 
+                statement of the reasons for granting such reduced 
+                rate.
+            (3) Layering of royalty reductions.--Subject to subsection 
+        (a)(3)(B), the Secretary may reduce the rate of a royalty 
+        described in paragraph (1) for each criterion described in that 
+        paragraph that is met.
+    (d) Deposit.--Amounts received by the United States as royalties 
+pursuant to this section shall be deposited into the Fund.
+
+SEC. 3. HARDROCK MINERAL REINVESTMENT FUND.
+
+    (a) Establishment.--There is established in the Treasury of the 
+United States a separate account, to be known as the ``Hardrock Mineral 
+Reinvestment Fund''.
+    (b) Administration.--
+            (1) In general.--The Fund shall consist of amounts 
+        deposited under section 2(d).
+            (2) Availability of amounts.--Amounts described in 
+        paragraph (1) shall be available to the Secretary for 
+        allocation in accordance with paragraph (3) without further 
+        appropriation and until expended.
+            (3) Allocation of amounts.--The Secretary shall allocate 
+        amounts described in paragraph (1) in accordance with the 
+        following:
+                    (A) For the 20-year period beginning on the date of 
+                the enactment of this Act--
+                            (i) 25 percent to the States within the 
+                        boundaries of which the amounts were derived, 
+                        based on the proportion of such amounts derived 
+                        from each such State;
+                            (ii) 25 percent to Indian Tribes in 
+                        accordance with a formula developed by the 
+                        Secretary in consultation with Indian Tribes;
+                            (iii) not less than 25 percent to the 
+                        program established under section 40704(a) of 
+                        the Infrastructure Investment and Jobs Act (30 
+                        U.S.C. 1245(a)); and
+                            (iv) not more than 25 percent to the 
+                        program established by the Secretary under 
+                        section 4.
+                    (B) Beginning on the day after the date on which 
+                the period described in subparagraph (A) ends--
+                            (i) 25 percent to the States within the 
+                        boundaries of which the amounts were derived, 
+                        based on the proportion of such amounts derived 
+                        from each such State;
+                            (ii) 25 percent to Indian Tribes in 
+                        accordance with a formula developed by the 
+                        Secretary in consultation with Indian Tribes; 
+                        and
+                            (iii) 50 percent to the program established 
+                        under section 40704(a) of the Infrastructure 
+                        Investment and Jobs Act (30 U.S.C. 1245(a)).
+    (c) Authorized Uses.--
+            (1) In general.--Subject to paragraph (2) and in accordance 
+        with all applicable Federal and State laws, each State that 
+        receives amounts pursuant to subsection (b) shall use at least 
+        50 percent of such amounts only for 1 or more of the following 
+        purposes:
+                    (A) Mitigation of damage to wildlife, natural 
+                resources, or cultural resources related to mining 
+                activities.
+                    (B) Implementation of a federally approved 
+                comprehensive conservation management plan.
+                    (C) Planning assistance and the administrative 
+                costs of complying with this section.
+            (2) Limitation.--A State that receives amounts pursuant to 
+        subsection (b) may not use more than 3 percent of such amounts 
+        for the purpose described in paragraph (1)(C).
+
+SEC. 4. FINANCIAL ASSISTANCE PROGRAM.
+
+    (a) Financial Assistance Program.--
+            (1) In general.--The Secretary shall establish a program 
+        that, in accordance with the requirements of this section, 
+        provides Federal financial assistance to covered entities to 
+        incentivize investment in facilities and equipment located in 
+        the United States for the processing of critical minerals.
+            (2) Procedure.--
+                    (A) In general.--A covered entity shall submit to 
+                the Secretary an application that describes the project 
+                for which the covered entity is seeking Federal 
+                financial assistance under the program established 
+                under paragraph (1).
+                    (B) Eligibility.--To qualify for Federal financial 
+                assistance under the program established under 
+                paragraph (1), a covered entity shall demonstrate to 
+                the Secretary, in the application submitted by the 
+                covered entity under subparagraph (A), that--
+                            (i) the covered entity has--
+                                    (I) a documented interest in 
+                                constructing, expanding, or modernizing 
+                                a facility or equipment described in 
+                                paragraph (1); and
+                                    (II) the ability to substantially 
+                                finance, construct, expand, or 
+                                modernize a facility or equipment 
+                                described in paragraph (1); and
+                            (ii) with respect to the project described 
+                        in subparagraph (A), the covered entity has--
+                                    (I) made commitments to worker and 
+                                community investment, including 
+                                through--
+                                            (aa) training and education 
+                                        benefits paid by the covered 
+                                        entity; and
+                                            (bb) programs to expand 
+                                        employment opportunities for 
+                                        economically disadvantaged 
+                                        individuals;
+                                    (II) secured commitments from 
+                                regional educational and training 
+                                entities and institutions of higher 
+                                education to provide workforce 
+                                training, including programming for 
+                                training and job placement of 
+                                economically disadvantaged individuals;
+                                    (III) the ability to obtain a bond, 
+                                surety, or other financial assurance 
+                                (other than Federal financial 
+                                assistance under this subsection) 
+                                sufficient to restore any lands and 
+                                waters the Secretary determines may be 
+                                adversely affected by activities 
+                                carried out pursuant to the project;
+                                    (IV) the ability to sustain the 
+                                facility or equipment described in 
+                                paragraph (1) that is the subject of 
+                                the project without being provided 
+                                additional Federal financial assistance 
+                                under this subsection for facility 
+                                support; and
+                                    (V) assessed potential effects on 
+                                the environment, including groundwater, 
+                                surface water, air quality, wildlife, 
+                                and cultural resources, and committed 
+                                to avoiding, minimizing, and mitigating 
+                                negative effects by--
+                                            (aa) committing to 
+                                        undertake all practical 
+                                        measures to avoid and minimize 
+                                        such effects;
+                                            (bb) developing, in 
+                                        coordination with affected 
+                                        Indian Tribes and communities, 
+                                        a mitigation plan for 
+                                        unavoidable negative effects to 
+                                        offset such effects or achieve, 
+                                        where possible, a net 
+                                        environmental benefit; and
+                                            (cc) committing to 
+                                        establishing, in coordination 
+                                        with affected Indian Tribes and 
+                                        communities, a monitoring 
+                                        program to ensure the 
+                                        effectiveness of the mitigation 
+                                        plan described in item (bb).
+                    (C) Considerations for review.--With respect to the 
+                review by the Secretary of an application submitted by 
+                a covered entity under subparagraph (A)--
+                            (i) the Secretary may not approve the 
+                        application unless the Secretary--
+                                    (I) determines the covered entity 
+                                is not a foreign entity of concern or a 
+                                subsidiary of a foreign entity of 
+                                concern;
+                                    (II) confirms that the covered 
+                                entity has satisfied the eligibility 
+                                criteria under subparagraph (B);
+                                    (III) determines that the project 
+                                for which the application was submitted 
+                                is in the interest of the United 
+                                States; and
+                                    (IV) if the Secretary intends to 
+                                provide to the covered entity Federal 
+                                financial assistance in excess of 
+                                $10,000,000, not later than 15 days 
+                                before the date on which the Secretary 
+                                approves such application, notifies the 
+                                appropriate committees of Congress; and
+                            (ii) the Secretary may consider whether--
+                                    (I) the covered entity has 
+                                previously received Federal financial 
+                                assistance under the program 
+                                established under paragraph (1); and
+                                    (II) when practicable, a covered 
+                                entity is or includes a small business.
+                    (D) Records.--
+                            (i) In general.--The Secretary may request 
+                        records and information from a covered entity 
+                        that submits an application under subparagraph 
+                        (A) to review the status of a covered entity.
+                            (ii) Requirement.--If the Secretary 
+                        requests records or information from a covered 
+                        entity under clause (i), the covered entity 
+                        shall provide to the Secretary such records or 
+                        information.
+            (3) Amount.--
+                    (A) In general.--The Secretary shall determine the 
+                appropriate amount and funding type for Federal 
+                financial assistance provided to a covered entity under 
+                this the program established under paragraph (1).
+                    (B) Larger investment.--The Secretary may not 
+                provide more than $50,000,000 of Federal financial 
+                assistance to a covered entity for a single project for 
+                which the covered entity submits an application under 
+                paragraph (2).
+            (4) Use of funds.--A covered entity that receives Federal 
+        financial assistance under the program established under 
+        paragraph (1) may only use the Federal financial assistance 
+        to--
+                    (A) construct, expand, or modernize a facility or 
+                equipment described in paragraph (1), as documented in 
+                the application submitted by the covered entity under 
+                paragraph (2);
+                    (B) support workforce development for a facility 
+                described in paragraph (1);
+                    (C) support site development or modernization for 
+                such a facility, including implementing measures to 
+                reduce or mitigate the negative environmental effects 
+                of such a facility; and
+                    (D) pay costs the Secretary determines reasonable 
+                related to the operating expenses for a facility or 
+                equipment described in paragraph (1), including 
+                operating expenses related to--
+                            (i) specialized workforce;
+                            (ii) essential materials; and
+                            (iii) complex equipment maintenance.
+            (5) NEPA, esa, and nhpa compliance.--
+                    (A) NEPA.--
+                            (i) In general.--Notwithstanding section 
+                        111(10)(B) of the National Environmental Policy 
+                        Act of 1969 (42 U.S.C. 4336e(10)(B)), Federal 
+                        financial assistance provided to a covered 
+                        entity under the program established under 
+                        paragraph (1) constitutes a major Federal 
+                        action subject to the National Environmental 
+                        Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+                            (ii) Public comment.--Before completing an 
+                        environmental assessment or environmental 
+                        impact statement with respect to providing 
+                        Federal financial assistance under such 
+                        program, the Secretary shall provide an 
+                        opportunity for public comment on a draft 
+                        version of the environmental assessment or 
+                        environmental impact statement.
+                    (B) ESA.--The provision of Federal financial 
+                assistance to a covered entity under the program 
+                established under paragraph (1) is an agency action for 
+                purposes of section 7(a)(2) of the Endangered Species 
+                Act of 1973 (16 U.S.C. 1536(a)(2)).
+                    (C) NHPA.--The provision of Federal financial 
+                assistance to a covered entity under the program 
+                established under paragraph (1) is considered an 
+                undertaking for purposes of division A of subtitle III 
+                of title 54, United States Code (formerly known as the 
+                ``National Historic Preservation Act'').
+            (6) Tribal consultation.--
+                    (A) In general.--If a project for which a covered 
+                entity is seeking Federal financial assistance under 
+                the program established under paragraph (1) may have a 
+                direct, indirect, or cumulative effect on any item 
+                described in subparagraph (B), the Secretary shall 
+                conduct timely and meaningful consultation with each 
+                Indian Tribe affected by such project in accordance 
+                with the procedures of the Presidential Memorandum of 
+                November 30, 2022 (87 Fed. Reg. 74479, relating to 
+                uniform standards for Tribal consultation), before 
+                providing Federal financial assistance to such covered 
+                entity for such project.
+                    (B) Items described.--Each of the following is an 
+                item described in this subparagraph:
+                            (i) The land, including allotted, ceded, or 
+                        traditional land, or an interest in such land, 
+                        of an Indian Tribe or member of an Indian 
+                        Tribe.
+                            (ii) Tribal land, cultural practices, 
+                        resources, or access to traditional areas of 
+                        cultural or religious importance.
+                            (iii) Any part of any Federal land that 
+                        shares a border with Indian country.
+                            (iv) The protected rights of an Indian 
+                        Tribe, whether or not such rights are 
+                        enumerated in a treaty, including water, 
+                        hunting, gathering, and fishing rights.
+                            (v) The ability of an Indian Tribe to 
+                        govern or provide services to the members of 
+                        the Indian Tribe.
+                            (vi) The relationship between the Federal 
+                        Government and an Indian Tribe.
+                            (vii) The trust responsibility of the 
+                        Federal Government to an Indian Tribe.
+            (7) Clawback.--
+                    (A) Project dates.--If the Secretary provides to a 
+                covered entity under the program established under 
+                paragraph (1) Federal financial assistance for a 
+                project for which the covered entity submitted an 
+                application under paragraph (2), the Secretary shall--
+                            (i) establish dates by which the project 
+                        shall commence and be completed; and
+                            (ii) include compliance with such dates as 
+                        a condition of such provision of Federal 
+                        financial assistance.
+                    (B) Progressive recovery for delays.--
+                            (i) In general.--If the Secretary provides 
+                        to a covered entity under the program 
+                        established under paragraph (1) Federal 
+                        financial assistance for a project for which 
+                        the covered entity submitted an application 
+                        under paragraph (2) and the project does not 
+                        commence and complete by the dates described in 
+                        subparagraph (A) established for such project, 
+                        the Secretary shall progressively recover up to 
+                        the full amount of such Federal financial 
+                        assistance.
+                            (ii) Waiver.--The Secretary may waive the 
+                        application of clause (i) with respect to a 
+                        project described in that clause if the 
+                        Secretary makes a formal determination that 
+                        circumstances beyond the ability of the covered 
+                        entity to foresee or control are responsible 
+                        for the project not commencing and completing 
+                        by the dates described in subparagraph (A) 
+                        established for such project.
+                    (C) Technology clawback.--The Secretary shall 
+                recover the full amount of Federal financial assistance 
+                provided to a covered entity under the program 
+                established under paragraph (1) if, during the 
+                applicable term with respect to the Federal financial 
+                assistance and the project for which the covered entity 
+                received the Federal financial assistance, the covered 
+                entity knowingly engages in any joint research or 
+                technology licensing effort--
+                            (i) with a foreign entity of concern or a 
+                        subsidiary of a foreign entity of concern; and
+                            (ii) that relates to a technology or 
+                        product that raises national security concerns, 
+                        as determined by the Secretary and communicated 
+                        to the covered entity before engaging in such 
+                        joint research or technology licensing.
+                    (D) Environmental clawback.--The Secretary shall 
+                progressively recover up to the full amount of Federal 
+                financial assistance provided to a covered entity under 
+                the program established under paragraph (1) if, during 
+                the applicable term with respect to the Federal 
+                financial assistance and the project for which the 
+                covered entity received the Federal financial 
+                assistance, the covered entity remains out of 
+                compliance for more than 30 days with any--
+                            (i) environmental mitigation or monitoring 
+                        requirement applicable to the project for which 
+                        the covered entity received Federal financial 
+                        assistance; or
+                            (ii) requirement of the--
+                                    (I) Solid Waste Disposal Act (42 
+                                U.S.C. 6901 et seq.);
+                                    (II) Federal Water Pollution 
+                                Control Act (33 U.S.C. 1251 et seq.);
+                                    (III) Toxic Substances Control Act 
+                                (15 U.S.C. 2601 et seq.);
+                                    (IV) Safe Drinking Water Act (42 
+                                U.S.C. 300f et seq.);
+                                    (V) Clean Air Act (42 U.S.C. 7401 
+                                et seq.); or
+                                    (VI) Endangered Species Act of 1973 
+                                (16 U.S.C. 1531 et seq.).
+                    (E) Congressional notification.--The Secretary 
+                shall notify the appropriate committees of Congress--
+                            (i) each time the Secretary recovers 
+                        amounts under subparagraph (B), (C), or (D); 
+                        and
+                            (ii) of each waiver provided under 
+                        subparagraph (B)(ii) not later than 15 days 
+                        after the date on which such a waiver is 
+                        provided.
+    (b) Coordination Required.--In carrying out the program established 
+under subsection (a), the Secretary shall coordinate with the Secretary 
+of Defense, the Secretary of Energy, the Secretary of Commerce, and the 
+Chief of the Forest Service.
+    (c) GAO Reviews.--The Comptroller General of the United States 
+shall--
+            (1) not later than 2 years after the date of the first 
+        disbursement of Federal financial assistance under the program 
+        established under subsection (a), and biennially thereafter for 
+        10 years, conduct a review of the program, which shall include, 
+        at a minimum--
+                    (A) a determination of the number of instances in 
+                which Federal financial assistance was provided under 
+                the program during the period covered by the review;
+                    (B) an evaluation of how--
+                            (i) the program is being carried out, 
+                        including how recipients of Federal financial 
+                        assistance are being selected under the 
+                        program; and
+                            (ii) other Federal programs are leveraged 
+                        for manufacturing, research, and training to 
+                        complement the Federal financial assistance 
+                        provided under the program;
+                    (C) a description of the outcomes of each project 
+                supported by Federal financial assistance provided 
+                under the program, including a description of--
+                            (i) facilities and equipment described in 
+                        subsection (a)(1) that were constructed, 
+                        expanded, or modernized as a result of Federal 
+                        financial assistance provided under the 
+                        program;
+                            (ii) research and development carried out 
+                        with Federal financial assistance provided 
+                        under the program; and
+                            (iii) workforce training programs carried 
+                        out with Federal financial assistance provided 
+                        under the program, including efforts to hire 
+                        individuals from disadvantaged populations; and
+                    (D) a description of any effect of the program on 
+                the environment, including any potential environmental 
+                effect of a project for which a covered entity receives 
+                Federal financial assistance under the program on 
+                Indian Tribes and communities located near such 
+                project; and
+            (2) submit to the appropriate committees of Congress the 
+        results of each review conducted under paragraph (1).
+
+SEC. 5. RESTRICTIONS ON FOREIGN ENTITIES OF CONCERN.
+
+    (a) Restriction on Location and Issuance of Leases.--A foreign 
+entity of concern and an entity that is a subsidiary of a foreign 
+entity of concern may not--
+            (1) locate a mining claim, millsite, or tunnel site under 
+        the general mining laws;
+            (2) be issued a lease under the Mineral Leasing Act (30 
+        U.S.C. 181 et seq.) or the Mineral Leasing Act for Acquired 
+        Lands (30 U.S.C. 351 et seq.) for hardrock minerals; or
+            (3) be an operator of a covered mining claim or a lease 
+        described in paragraph (2).
+    (b) Restriction on Sale or Transfer.--A mining claim, millsite, or 
+tunnel site located under the general mining laws or lease issued 
+pursuant to the mineral leasing laws for hardrock minerals may not be 
+sold or otherwise transferred to--
+            (1) a foreign entity of concern; or
+            (2) an entity that is a subsidiary of a foreign entity of 
+        concern.
+
+SEC. 6. DEFINITIONS.
+
+    In this Act:
+            (1) Appropriate committees of congress.--The term 
+        ``appropriate committees of Congress'' means--
+                    (A) the Committee on Energy and Natural Resources, 
+                the Committee on Commerce, Science, and Transportation, 
+                the Committee on Foreign Relations, the Committee on 
+                Armed Services, the Committee on Appropriations, the 
+                Committee on Banking, Housing, and Urban Affairs, and 
+                the Committee on Finance of the Senate; and
+                    (B) the Committee on Energy and Commerce, the 
+                Committee on Foreign Affairs, the Committee on Armed 
+                Services, the Committee on Science, Space, and 
+                Technology, the Committee on Appropriations, the 
+                Committee on Financial Services, and the Committee on 
+                Ways and Means of the House of Representatives.
+            (2) Beneficiation.--The term ``beneficiation'' means--
+                    (A) the crushing and grinding of locatable mineral 
+                ore; and
+                    (B) any process that is employed to free a mineral 
+                from other constituents, including physical and 
+                chemical separation techniques.
+            (3) Casual use.--
+                    (A) In general.--The term ``casual use'' means a 
+                mineral activity that ordinarily results in no or 
+                negligible disturbance of Federal land or Federal 
+                resources.
+                    (B) Inclusions.--The term ``casual use'' includes 
+                the collection of a geochemical, rock, soil, or mineral 
+                specimen using a hand tool, hand panning, or 
+                nonmotorized sluicing.
+                    (C) Exclusions.--The term ``casual use'' does not 
+                include--
+                            (i) the use of--
+                                    (I) mechanized earth-moving 
+                                equipment, suction dredging, or any 
+                                explosive;
+                                    (II) a motor vehicle in an area 
+                                closed to motor vehicles; or
+                                    (III) any toxic or hazardous 
+                                material; or
+                            (ii) the construction of roads or drill 
+                        pads.
+            (4) Claim holder.--The term ``claim holder'' means a person 
+        that holds a covered mining claim.
+            (5) Control.--The term ``control'' means having the ability 
+        to determine the manner in which a person conducts a mineral 
+        activity.
+            (6) Covered entity.--The term ``covered entity'' means a 
+        domestic person that is--
+                    (A) a private entity;
+                    (B) a consortium of private entities; or
+                    (C) a consortium of public and private entities.
+            (7) Covered mining claim.--The term ``covered mining 
+        claim'' means a mining claim, millsite, or tunnel site that is 
+        located under and maintained in compliance with the general 
+        mining laws.
+            (8) Covered nation.--The term ``covered nation'' has the 
+        meaning given the term in section 4872(f) of title 10, United 
+        States Code.
+            (9) Critical mineral.--The term ``critical mineral''--
+                    (A) has the meaning given the term in section 
+                7002(a) of the Energy Act of 2020 (16 U.S.C. 1606(a)); 
+                and
+                    (B) does not include metallurgical coal or uranium.
+            (10) Exploration.--
+                    (A) In general.--The term ``exploration'' means the 
+                creation of a surface disturbance (other than through 
+                casual use) to evaluate the type, extent, quantity, or 
+                quality of minerals present.
+                    (B) Inclusions.--The term ``exploration'' includes 
+                sampling, drilling, or developing surface or 
+                underground workings to evaluate locatable mineral 
+                values.
+                    (C) Exclusions.--The term ``exploration'' does not 
+                include the extraction of minerals for commercial use 
+                or sale.
+            (11) Domestic person.--The term ``domestic person'' means--
+                    (A) an individual who is a citizen or national of 
+                the United States; and
+                    (B) a partnership, association, corporation, 
+                organization, or other combination of persons that is--
+                            (i) organized under the laws of the United 
+                        States or any jurisdiction within the United 
+                        States; and
+                            (ii) not a foreign person.
+            (12) Federal land.--The term ``Federal land'' means any 
+        land or interest in land that is--
+                    (A) owned by the United States; and
+                    (B) open to the location of mining claims, 
+                millsites, or tunnel sites under the general mining 
+                laws.
+            (13) Foreign-controlled entity.--The term ``foreign-
+        controlled entity''--
+                    (A) means an entity with respect to which any 
+                foreign person, directly or indirectly, through any 
+                contract, arrangement, understanding, relationship, 
+                intermediary, or otherwise--
+                            (i) owns or controls 25 percent or more of 
+                        the voting interest;
+                            (ii) holds the power to appoint a majority 
+                        of the governing body, if any; or
+                            (iii) possesses substantial control to 
+                        direct or determine important business or legal 
+                        matters of; and
+                    (B) does not include an entity with respect to 
+                which subparagraph (A) does not apply and any foreign 
+                person has only a passive and non-controlling 
+                investment interest.
+            (14) Foreign entity of concern.--
+                    (A) In general.--The term ``foreign entity of 
+                concern'' has the meaning given the term in section 
+                40207(a) of the Infrastructure Investment and Jobs Act 
+                (42 U.S.C. 18741(a)).
+                    (B) Clarification.--A foreign entity of concern is 
+                subject to the jurisdiction or direction of a 
+                government of a foreign country that is a covered 
+                nation within the meaning of section 40207(a)(5)(C) of 
+                the Infrastructure Investment and Jobs Act (42 U.S.C. 
+                18741(a)(5)(C)) if the foreign entity of concern is 
+                more than 10 percent owned, directed, controlled, or 
+                financed, directly or indirectly, individually or in 
+                aggregate, by any individual that is a citizen, 
+                national, or permanent resident, or is an entity 
+                subject to the jurisdiction of the government, of a 
+                covered nation.
+            (15) Foreign person.--The term ``foreign person'' means--
+                    (A) an individual who is not a citizen or national 
+                of the United States;
+                    (B) the government of a foreign country and any 
+                agency or instrumentality of such government;
+                    (C) an entity organized under the laws of or having 
+                its principal place of business in a foreign country; 
+                and
+                    (D) a foreign-controlled entity.
+            (16) Fund.--The term ``Fund'' means the Hardrock Mineral 
+        Reinvestment Fund established by section 3(a).
+            (17) Indian country.--The term ``Indian country'' has the 
+        meaning given the term in section 1151 of title 18, United 
+        States Code.
+            (18) Indian tribe.--The term ``Indian Tribe'' has the 
+        meaning given the term in section 4 of the Indian Self-
+        Determination and Education Assistance Act (25 U.S.C. 5304).
+            (19) Institution of higher education.--The term 
+        ``institution of higher education'' has the meaning given the 
+        term in section 101 of the Higher Education Act of 1965 (20 
+        U.S.C. 1001).
+            (20) Locatable mineral.--
+                    (A) In general.--The term ``locatable mineral'' 
+                means any mineral--
+                            (i) the legal and beneficial title to which 
+                        remains in the United States; and
+                            (ii) that is not subject to disposition 
+                        under--
+                                    (I) the Mineral Leasing Act (30 
+                                U.S.C. 181 et seq.);
+                                    (II) the Geothermal Steam Act of 
+                                1970 (30 U.S.C. 1001 et seq.);
+                                    (III) the Act of July 31, 1947 
+                                (commonly known as the ``Materials Act 
+                                of 1947'') (30 U.S.C. 601 et seq.); or
+                                    (IV) the Mineral Leasing Act for 
+                                Acquired Lands (30 U.S.C. 351 et seq.).
+                    (B) Exclusions.--The term ``locatable mineral'' 
+                does not include any mineral that is--
+                            (i) subject to a restriction against 
+                        alienation imposed by the United States; and
+                            (ii) held in trust by the United States 
+                        for, or owned by, any Indian Tribe or member of 
+                        an Indian Tribe.
+            (21) Mineral activity.--The term ``mineral activity'' means 
+        any activity carried out on a covered mining claim, or Federal 
+        land used in conjunction with the activity, for, relating to, 
+        or incidental to exploration, mining, or beneficiation for, or 
+        processing or reclamation of, any locatable mineral.
+            (22) Operator.--The term ``operator'' means--
+                    (A) any person proposing, or authorized by a 
+                permit, to conduct a mineral activity; and
+                    (B) any agent of a person described in subparagraph 
+                (A).
+            (23) Person.--The term ``person'' means--
+                    (A) an individual, Indian Tribe, partnership, 
+                association, society, joint venture, joint stock 
+                company, firm, company, corporation, cooperative, 
+                trust, consortium, or other organization; and
+                    (B) any instrumentality of a State or local 
+                government, including any publicly owned utility or 
+                publicly owned corporation of a State or local 
+                government.
+            (24) Processing.--The term ``processing'' means processes 
+        downstream of beneficiation used to prepare locatable mineral 
+        ore into a final marketable product.
+            (25) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+            (26) Small business.--The term ``small business'' has the 
+        meaning given the term ``small business concern'' in section 3 
+        of the Small Business Act (15 U.S.C. 632), notwithstanding 
+        section 121.103 of title 13, Code of Federal Regulations (as in 
+        effect on the date of the enactment of this Act).
+                                 <all>

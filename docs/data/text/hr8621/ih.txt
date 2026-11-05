@@ -1,0 +1,151 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8621 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8621
+
+To require the Secretary of State to annually issue a list of People's 
+Republic of China-origin entities carrying out mining involving forced 
+ labor or causing environmental harm in certain African countries, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 30, 2026
+
+     Mr. Miller of Ohio (for himself, Mr. Moskowitz, and Mrs. Kim) 
+ introduced the following bill; which was referred to the Committee on 
+                            Foreign Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To require the Secretary of State to annually issue a list of People's 
+Republic of China-origin entities carrying out mining involving forced 
+ labor or causing environmental harm in certain African countries, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``China-Africa Mining Transparency 
+Act''.
+
+SEC. 2. ANNUAL LIST OF PRC ENTITIES CARRYING OUT MINING INVOLVING 
+              FORCED LABOR OR CAUSING ENVIRONMENTAL HARM IN CERTAIN 
+              AFRICAN COUNTRIES.
+
+    (a) Definitions.--In this Act:
+            (1) Artisanal and small-scale mining.--The term ``artisanal 
+        and small-scale mining'' means a form of mining common in the 
+        developing world that--
+                    (A) typically employs rudimentary and low-cost 
+                extractive technologies and manual labor-intensive 
+                techniques;
+                    (B) is frequently subject to limited regulation; 
+                and
+                    (C) often features inhumane, harsh, and dangerous 
+                working conditions.
+            (2) Critical mineral.--The term ``critical mineral'' has 
+        the meaning given that term in section 7002(a) of the Energy 
+        Act of 2020 (30 U.S.C. 1606(a)).
+            (3) Environmental harm to a protected area.--The term 
+        ``environmental harm to a protected area'' means damage to the 
+        environment of a protected area, such as--
+                    (A) contamination of water resources, streams, 
+                rivers, lakes, or other bodies of water, including 
+                wells, aquifers, or soil;
+                    (B) soil degradation or erosion; or
+                    (C) degredation of aquatic or terrestrial 
+                ecosystems or biodiversity loss.
+            (4) Forced labor.--The term ``forced labor'' has the 
+        meaning given that term in section 307 of the Tariff Act of 
+        1930 (19 U.S.C. 1307).
+            (5) Large-scale mining.--The term ``large-scale mining'' 
+        means capital-intensive, usually highly mechanized, typically 
+        industrial-scale mining carried out by large commercial 
+        entities.
+            (6) PRC entity.--The term ``PRC entity'' means--
+                    (A) an entity under the ownership, control, or 
+                influence of--
+                            (i) the Government of the People's Republic 
+                        of China;
+                            (ii) the Chinese Communist Party; or
+                            (iii) a military, intelligence, or 
+                        paramilitary entity of the Communist Party of 
+                        China or the People's Republic of China;
+                    (B) an entity that is organized under the laws of, 
+                or otherwise subject to the jurisdiction of, the 
+                People's Republic of China (including Hong Kong and 
+                Macau);
+                    (C) an entity majority-owned, majority-controlled, 
+                or majority-financed by an entity described in 
+                subparagraph (A) or (B); or
+                    (D) a parent, subsidiary, affiliate, or contractor 
+                of an entity described in subparagraph (A), (B), or 
+                (C), including a joint venture in which an entity 
+                described in subparagraph (A), (B), or (C) holds a 
+                controlling interest.
+            (7) Protected area.--The term ``protected area'' means any 
+        area that has received protected status in the country in which 
+        the area is located, such as a national park, game refuge, 
+        ecosystem reserve, or other nature preserve.
+            (8) Relevant congressional committees.--The term ``relevant 
+        congressional committees'' means the Committee on Foreign 
+        Relations of the Senate and the Committee on Foreign Affairs of 
+        the House of Representatives.
+    (b) In General.--Not less frequently than once each year during the 
+5-year period beginning on the date of the enactment of this Act, the 
+Secretary of State shall submit to the relevant congressional 
+committees, and make publicly available, including on the internet, a 
+list of--
+            (1) each PRC entity that the Secretary reasonably assesses 
+        is carrying out mining, including large-scale mining or 
+        artisanal and small-scale mining, of critical minerals, gold, 
+        or iron in the Democratic Republic of the Congo, Nigeria, 
+        Guinea, Zambia, South Africa, or Zimbabwe or other African 
+        countries--
+                    (A) using forced labor; or
+                    (B) in a manner that causes environmental harm to a 
+                protected area in the country concerned; and
+            (2) each mine, mining zone, or concession at which such 
+        mining is carried out.
+    (c) Development of List.--In developing each list required by 
+subsection (b), the Secretary of State shall--
+            (1) use open-source information, including from press 
+        sources and academic, non-profit, and other non-state research 
+        organizations or individual researchers, and information 
+        received, collected, or otherwise obtained by United States 
+        embassies; and
+            (2) consult with the Secretary of Labor, through the Bureau 
+        of International Labor Affairs of the Department of Labor, the 
+        Secretary of Commerce, Secretary of the Treasury, the Director 
+        of National Intelligence, and other heads of Federal 
+        departments and agencies, and the foreign country counterparts 
+        of such individuals in the listed countries in subsection 
+        (b)(1), as applicable.
+    (d) Form.--Each list required by subsection (b) shall be made 
+publicly available and submitted to the relevant congressional 
+committees in unclassified form, but the version submitted to the 
+relevant congressional committees may include a classified annex, if 
+warranted.
+                                 <all>

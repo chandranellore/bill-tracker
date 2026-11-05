@@ -1,0 +1,76 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3494 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 3494
+
+    To authorize the Secretary of Veterans Affairs to carry out an 
+ information technology system and prioritize certain requirements to 
+   manage supply chains for medical facilities of the Department of 
+                           Veterans Affairs.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 19, 2025
+
+ Mrs. Kiggans of Virginia (for herself and Mr. Panetta) introduced the 
+   following bill; which was referred to the Committee on Veterans' 
+                                Affairs
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To authorize the Secretary of Veterans Affairs to carry out an 
+ information technology system and prioritize certain requirements to 
+   manage supply chains for medical facilities of the Department of 
+                           Veterans Affairs.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``VA Hospital Inventory Management 
+System Authorization Act''.
+
+SEC. 2. MANAGEMENT OF SUPPLY CHAINS FOR MEDICAL FACILITIES OF 
+              DEPARTMENT OF VETERANS AFFAIRS.
+
+    (a) Authorization.--The Secretary of Veterans Affairs is authorized 
+to--
+            (1) purchase or develop for the Veterans Health 
+        Administration a cloud-based information technology system for 
+        the management of inventory, including expendable and 
+        nonexpendable items; and
+            (2) implement such system.
+    (b) Pilot.--If the Secretary purchases or develops a system under 
+subsection (a), the Secretary shall carry out a pilot program at one 
+Veterans Health Administration facility before implementing the system 
+throughout the Veterans Health Administration. The pilot program shall 
+be designed to determine whether the functions of the system are 
+satisfactory.
+    (c) Authorization of Appropriations.--There is authorized to be 
+appropriated for the Department of Veterans Affairs $50,000,000 to 
+carry out this section.
+    (d) Deadline.--If the Secretary purchases or develops a system 
+under subsection (a), the Secretary shall complete the implementation 
+of the system by not later than three years after the date of the 
+enactment of this Act.
+                                 <all>

@@ -1,0 +1,560 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5182 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 5182
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           September 14, 2026
+
+  Received; read twice and referred to the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To make improvements in the enactment of title 54, United States Code, 
+   into a positive law title and to correct related technical errors.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TABLE OF CONTENTS.
+
+  The table of contents for this Act is as follows:
+
+Sec. 1.  Table of contents.
+Sec. 2.  Purpose.
+Sec. 3.  Title 15, United States Code.
+Sec. 4.  Title 16, United States Code.
+Sec. 5.  Title 43, United States Code.
+Sec. 6.  Amendments to Public Law 113-287 and title 54, United States 
+          Code.
+Sec. 7.  Transitional and savings provisions.
+Sec. 8.  Repeals.
+
+SEC. 2. PURPOSE.
+
+  The purpose of this Act is to make improvements in the enactment of 
+title 54, United States Code, into a positive law title and to correct 
+related technical errors.
+
+SEC. 3. TITLE 15, UNITED STATES CODE.
+
+  Section 107(a)(3)(D) of the Alaska Natural Gas Pipeline Act (15 
+U.S.C. 720e(a)(3)(D)) is amended by striking ``the National Historic 
+Preservation Act (16 U.S.C. 470 et seq.);'' and inserting ``division A 
+(except section 307101) of subtitle III of title 54, United States 
+Code;''.
+
+SEC. 4. TITLE 16, UNITED STATES CODE.
+
+  Section 815(4) of the Alaska National Interest Lands Conservation Act 
+(16 U.S.C. 3125(4)) is amended by striking ``section 100101(b)(1)'' and 
+inserting ``section 100101(a)''.
+
+SEC. 5. TITLE 43, UNITED STATES CODE.
+
+  Section 4(b) of the Abandoned Shipwreck Act of 1987 (43 U.S.C. 
+2103(b)) is amended by striking ``title I of the National Historic 
+Preservation Act,'' and inserting ``chapter 3029 of title 54, United 
+States Code,''.
+
+SEC. 6. AMENDMENTS TO PUBLIC LAW 113-287 AND TITLE 54, UNITED STATES 
+                    CODE.
+
+  (a) Section 7 of Public Law 113-287.--Effective December 19, 2014, 
+the Schedule of Laws Repealed in section 7 of Public Law 113-287 (128 
+Stat. 3273) is amended as follows:
+          (1) National historic preservation act.--The item relating to 
+        section 401 of the National Historic Preservation Act (Public 
+        Law 89-665, 16 U.S.C. 470x), at 128 Stat. 3276, is stricken and 
+        that section is revived to read as if that item had not been 
+        enacted.
+          (2) Public Law 91-383.--The item relating to section 3 of 
+        Public Law 91-383 (16 U.S.C. 1a-2), at 128 Stat. 3277, is 
+        amended to read as follows and subsection (g) (words after 1st 
+        sentence) is revived to read as if that item had not been 
+        enacted:
+
+                                           ``Schedule of Laws Repealed
+----------------------------------------------------------------------------------------------------------------
+                                                                                     United States Code Former
+                       ``Act                                   Section                     Classification
+----------------------------------------------------------------------------------------------------------------
+ 
+                                                      ``3 (less (g) (words after     1a-2 (less(g) (words after
+----------------------------------------------------------------------------------------------------------------
+
+          (3) Urban park and recreation recovery act.--The items 
+        relating to title X, Sec. Sec. 1004 through 1015 of the Urban 
+        Park and Recreation Recovery Act of 1978 (Public Law 95-625, 92 
+        Stat. 3538), at 128 Stat. 3277, are amended to read as follows:
+
+                                           ``Schedule of Laws Repealed
+----------------------------------------------------------------------------------------------------------------
+                                                                                     United States Code Former
+                       ``Act                                   Section                     Classification
+----------------------------------------------------------------------------------------------------------------
+ 
+``Urban Park and Recreation Recovery Act of 1978              title X, Sec. 1004                 16 U.S.C. 2503
+                                                            ``title X, Sec. 1005                 16 U.S.C. 2504
+                                                            ``title X, Sec. 1006                 16 U.S.C. 2505
+                                                            ``title X, Sec. 1007                 16 U.S.C. 2506
+                                                            ``title X, Sec. 1008                 16 U.S.C. 2507
+                                                            ``title X, Sec. 1009                 16 U.S.C. 2508
+                                                            ``title X, Sec. 1010                 16 U.S.C. 2509
+                                                            ``title X, Sec. 1011                 16 U.S.C. 2510
+                                                            ``title X, Sec. 1012                 16 U.S.C. 2511
+                                                            ``title X, Sec. 1013                 16 U.S.C. 2512
+                                                            ``title X, Sec. 1014                 16 U.S.C. 2513
+                                                            ``title X, Sec. 1015              16 U.S.C. 2514.''
+----------------------------------------------------------------------------------------------------------------
+
+  (b) Section 100507.--The heading for subsection (h)(3) of section 
+100507 of title 54, United States Code, is amended by striking ``(b), 
+(c), and (g)'' and inserting ``(b), (c), and (g)''.
+  (c) Section 100903.--The heading for subsection (a) of section 100903 
+of title 54, United States Code, is amended by striking ``General'' and 
+inserting ``General.''.
+  (d) Chapter 1013.--Chapter 1013 of title 54, United States Code, is 
+amended--
+          (1) by amending section 101331 to read as follows:
+``Sec. 101331. Purposes; definitions
+  ``(a) Purposes.--The purposes of this subchapter are--
+          ``(1) to develop where necessary an adequate supply of 
+        quality housing units for field employees of the Service in a 
+        reasonable timeframe;
+          ``(2) to expand the alternatives available for construction 
+        and repair of essential Government housing;
+          ``(3) to rely on the private sector to finance or supply 
+        housing in carryout out this subchapter, to the maximum extent 
+        possible, to reduce the need for Federal appropriations;
+          ``(4) to ensure that adequate funds are available to provide 
+        for long-term maintenance needs of field employee housing; and
+          ``(5) to eliminate unnecessary Government housing and locate 
+        such housing as is required in a manner such that primary 
+        resource values are not impaired.
+  ``(b) Definitions.--In this subchapter:
+          ``(1) Field employee.--The term `field employee' means--
+                  ``(A) an employee of the Service who is exclusively 
+                assigned by the Service to perform duties at a field 
+                unit, and the members of the employee's family; and
+                  ``(B) any other individual who is authorized to 
+                occupy Federal Government quarters under section 5911 
+                of title 5, and for whom there is no feasible 
+                alternative to the provision of Federal Government 
+                housing, and the members of the individual's family.
+          ``(2) Primary resource values.--The term `primary resource 
+        values' means resources that are specifically mentioned in the 
+        enabling legislation for that field unit or other resource 
+        value recognized under Federal statute.
+          ``(3) Quarters.--The term `quarters' means quarters owned or 
+        leased by the Federal Government.
+          ``(4) Seasonal quarters.---The term `seasonal quarters' means 
+        quarters typically occupied by field employees who are hired on 
+        assignments of 6 months or less.''; and
+          (2) in the chapter table of contents, by amending the item 
+        relating to section 101331 to read as follows:
+``101331.  Purposes; definitions.''.
+  (e) Chapter 1015.--Chapter 1015 of title 54, United States Code, is 
+amended--
+          (1) by redesignating sections 101521 through 101524 as 
+        sections 101522 through 101525;
+          (2) by inserting before section 101522, as redesignated by 
+        paragraph (1), the following:
+``Sec. 101521. Purpose
+  ``The purpose of this subchapter is to make the System more 
+accessible in a manner consistent with the preservation of parks and 
+the conservation of energy by encouraging the use of transportation 
+modes other than personal motor vehicles for access to and in System 
+units with minimum disruption to nearby communities through 
+authorization of a pilot transportation program.'';
+          (3) in section 101522(b)(2)(B), as redesignated by paragraph 
+        (1), by striking ``Acquistion'' and inserting ``Acquisition'';
+          (4) in section 101524(a), as redesignated by paragraph (1), 
+        by striking ``101521'' and inserting ``101522''; and
+          (5) in the chapter table of contents--
+                  (A) by redesignating the items relating to sections 
+                101521 through 101524 as items relating to sections 
+                101522 through 101525; and
+                  (B) by inserting before the item relating to section 
+                101522, as redesignated by subparagraph (A), the 
+                following:
+``101521.  Purpose.''.
+  (f) Section 101913.--The heading for paragraph (4)(C) of section 
+101913 of title 54, United States Code, is amended by striking 
+``mimimum'' and inserting ``minimum''.
+  (g) Section 102302.--The heading for subsection (d) of section 102302 
+of title 54, United States Code, is amended by striking 
+``Responsbilities'' and inserting ``Responsibilities''.
+  (h) Chapter 2003.--Chapter 2003 of title 54, United States Code, is 
+amended--
+          (1) by amending section 200301 to read as follows:
+``Sec. 200301. Purposes; definitions
+  ``(a) Purposes.--The purposes of this chapter are--
+          ``(1) to assist in preserving, developing, and assuring 
+        accessibility to all citizens of the United States and visitors 
+        who are lawfully present in the United States such quality and 
+        quantity of outdoor recreation resources as may be available 
+        and are necessary and desirable for individual active 
+        participation in that recreation; and
+          ``(2) to strengthen the health and vitality of the citizens 
+        of the United States by--
+                  ``(A) providing funds for and authorizing Federal 
+                assistance to the States in planning, acquisition, and 
+                development of needed land and water areas and 
+                facilities; and
+                  ``(B) providing funds for the Federal acquisition and 
+                development of certain land and other areas.
+  ``(b) Definitions.--In this chapter:
+          ``(1) Fund.--The term `Fund' means the Land and Water 
+        Conservation Fund established under section 200302 of this 
+        title.
+          ``(2) State.--The term `State' means a State, the District of 
+        Columbia, Puerto Rico, Guam, American Samoa, the Virgin 
+        Islands, and the Northern Mariana Islands.'';
+          (2) in section 200310(a), by striking ``section 9503(c)(3)(B) 
+        of the Internal Revenue Code of 1986 (26 U.S.C. 
+        9503(c)(3)(B))'' and inserting ``section 9503(c)(3)(A) of the 
+        Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(3)(A))''; and
+          (3) in the chapter table of contents, by amending the item 
+        relating to section 200301 to read as follows:
+``200301.  Purposes; definitions.''.
+  (i) Chapter 2005.--Chapter 2005 of title 54, United States Code, is 
+amended--
+          (1) by amending section 200501 to read as follows:
+``Sec. 200501. Purposes; complement to existing Federal programs; 
+                    definitions
+  ``(a) Purposes.-- The purposes of this chapter are--
+          ``(1) to authorize the Secretary to establish an urban park 
+        and recreation recovery program that would provide Federal 
+        grants to economically hard-pressed communities specifically 
+        for the rehabilitation of critically needed recreation areas, 
+        facilities, and development of improved recreation programs;
+          ``(2) to improve recreation facilities and expand recreation 
+        services in urban areas with a high incidence of crime and to 
+        help deter crime through the expansion of recreation 
+        opportunities for at-risk youth; and
+          ``(3) to increase the security of urban parks and to promote 
+        collaboration between local agencies involved in parks and 
+        recreation, law enforcement, youth social services, and 
+        juvenile justice system.
+  ``(b) Complement Existing Federal Programs.--The urban park and 
+recreation recovery program is intended to complement existing Federal 
+programs such as the Land and Water Conservation Fund and Community 
+Development Grant Programs by encouraging and stimulating local 
+governments to revitalize their park and recreation systems and to make 
+long-term commitments to continuing maintenance of these systems. The 
+assistance shall be subject to such terms and conditions as the 
+Secretary considers appropriate and in the public interest to carry out 
+the purposes of this chapter.
+  ``(c) Definitions.-- In this chapter:
+          ``(1) At-risk youth recreation grant.--
+                  ``(A) In general.--The term `at-risk youth recreation 
+                grant' means a grant in a neighborhood or community 
+                with a high prevalence of crime, particularly violent 
+                crime or crime committed by youthful offenders.
+                  ``(B) Inclusions.--The term `at-risk youth recreation 
+                grant' includes--
+                          ``(i) a rehabilitation grant;
+                          ``(ii) an innovation grant; and
+                          ``(iii) a matching grant for continuing 
+                        program support for a program of demonstrated 
+                        value or success in providing constructive 
+                        alternatives to youth at risk for engaging in 
+                        criminal behavior, including a grant for 
+                        operating, or coordinating, a recreation 
+                        program or service.
+                  ``(C) Additional uses of rehabilitation grant.--In 
+                addition to the purposes specified in paragraph (8), a 
+                rehabilitation grant that serves as an at-risk youth 
+                recreation grant may be used for the provision of 
+                lighting, emergency phones, or any other capital 
+                improvement that will improve the security of an urban 
+                park.
+          ``(2) General purpose local government.--The term `general 
+        purpose local government' means--
+                  ``(A) a city, county, town, township, village, or 
+                other general purpose political subdivision of a State; 
+                and
+                  ``(B) the District of Columbia.
+          ``(3) Innovation grant.--The term `innovation grant' means a 
+        matching grant to a local government to cover costs of 
+        personnel, facilities, equipment, supplies, or services 
+        designed to demonstrate innovative and cost-effective ways to 
+        augment park and recreation opportunities at the neighborhood 
+        level and to address common problems related to facility 
+        operations and improved delivery of recreation service, not 
+        including routine operation and maintenance activities.
+          ``(4) Maintenance.--The term `maintenance' means all commonly 
+        accepted practices necessary to keep recreation areas and 
+        facilities operating in a state of good repair and to protect 
+        them from deterioration resulting from normal wear and tear.
+          ``(5) Private, nonprofit agency.--The term `private, 
+        nonprofit agency' means a community-based, nonprofit 
+        organization, corporation, or association organized for 
+        purposes of providing recreational, conservation, and 
+        educational services directly to urban residents on a 
+        neighborhood or communitywide basis through voluntary 
+        donations, voluntary labor, or public or private grants.
+          ``(6) Recovery action program grant.--
+                  ``(A) In general.--The term `recovery action program 
+                grant' means a matching grant to a local government for 
+                development of local park and recreation recovery 
+                action programs to meet the requirements of this 
+                chapter.
+                  ``(B) Use.--A recovery action program grant shall be 
+                used for resource and needs assessment, coordination, 
+                citizen involvement and planning, and program 
+                development activities to--
+                          ``(i) encourage public definition of goals; 
+                        and
+                          ``(ii) develop priorities and strategies for 
+                        overall recreation system recovery.
+          ``(7) Recreation area or facility.--The term `recreation area 
+        or facility' means an indoor or outdoor park, building, site, 
+        or other facility that is dedicated to recreation purposes and 
+        administered by a public or private nonprofit agency to serve 
+        the recreation needs of community residents. Emphasis shall be 
+        on public facilities readily accessible to residential 
+        neighborhoods, including multiple-use community centers that 
+        have recreation as 1 of their primary purposes, but excluding 
+        major sports arenas, exhibition areas, and conference halls 
+        used primarily for commercial sports, spectator, or display 
+        activities.
+          ``(8) Rehabilitation grant.--The term `rehabilitation grant' 
+        means a matching capital grant to a local government for 
+        rebuilding, remodeling, expanding, or developing an existing 
+        outdoor or indoor recreation area or facility, including 
+        improvements in park landscapes, buildings, and support 
+        facilities, but excluding routine maintenance and upkeep 
+        activities.
+          ``(9) Special purpose local government.--
+                  ``(A) In general.--The term `special purpose local 
+                government' means a local or regional special district, 
+                public-purpose corporation, or other limited political 
+                subdivision of a State.
+                  ``(B) Inclusions.--The term `special purpose local 
+                government' includes--
+                          ``(i) a park authority;
+                          ``(ii) a park, conservation, water, or 
+                        sanitary district; and
+                          ``(iii) a school district.
+          ``(10) State.--The term `State' means a State, an 
+        instrumentality of a State approved by the Governor of the 
+        State, Puerto Rico, Guam, American Samoa, the Virgin Islands, 
+        and the Northern Mariana Islands.'';
+          (2) in section 200503(c), by striking ``transferree'' and 
+        inserting ``transferee''; and
+          (3) in the chapter table of contents, by amending the item 
+        relating to section 200501 to read as follows:
+``200501.  Purposes; complement to existing Federal programs; 
+          definitions.''.
+  (j) Section 302302.--The heading for subsection (a) of section 302302 
+of title 54, United States Code, is amended by striking ``Occcur'' and 
+inserting ``Occur''.
+  (k) Section 302701.--Section 302701(e) of title 54, United States 
+Code, is amended by striking ``Preservations'' and inserting 
+``Preservation''.
+  (l) Section 302902.--The heading for paragraph (1) of subsection (b) 
+of section 302902 of title 54, United States Code, is amended by 
+striking ``In general'' and inserting ``In general''.
+  (m) Section 302908.--Section 302908(a) of title 54, United States 
+Code, is amended by inserting ``the'' before ``Government of Palau''.
+  (n) Section 308103.--Section 308103 of title 54, United States Code 
+is amended--
+          (1) in subsection (b), by inserting ``eligible sites or'' 
+        after ``acquiring'';
+          (2) in subsection (c), by inserting ``an eligible site or'' 
+        after ``acquire'';
+          (3) in subsection (d), by inserting ``an eligible site or'' 
+        after ``acquiring'';
+          (4) in subsection (e), by striking ``An'' and inserting ``An 
+        eligible site or an'';
+          (5) by redesignating subsection (f) as subsection (h);
+          (6) by inserting after subsection (e) the following:
+  ``(f) Willing Sellers.--Acquisition of land or interests in land 
+under this section shall be from willing sellers only.
+  ``(g) Prohibition on Lobbying.--None of the funds provided pursuant 
+to this section shall be used in any way, directly or indirectly, to 
+influence congressional action on any legislation or appropriation 
+matters pending before Congress.''; and
+          ``(7) in subsection (h), as redesignated by paragraph (5), by 
+        striking ``2020'' and inserting ``2025''.
+  (o) Chapter 3083.--Chapter 3083 of title 54, United States Code is 
+amended--
+          (1) by redesignating sections 308301 through 308304 as 
+        sections 308302 through 308305;
+          (2) by inserting before section 308302, as redesignated by 
+        paragraph (1), the following:
+``Sec. 308301. Purposes
+  ``The purposes of this chapter are--
+          ``(1) to recognize the importance of the Underground 
+        Railroad, the sacrifices made by those who used the Underground 
+        Railroad in search of freedom from tyranny and oppression, and 
+        the sacrifices made by the people who helped them; and
+          ``(2) to authorize the Service to coordinate and facilitate 
+        Federal and non-Federal activities to commemorate, honor, and 
+        interpret the history of the Underground Railroad, its 
+        significance as a crucial element in the evolution of the 
+        national civil rights movement, and its relevance in fostering 
+        the spirit of racial harmony and national reconciliation.'';
+          (3) in section 308302, as redesignated by paragraph (1), by 
+        striking ``308302'' and inserting ``308303'';
+          (4) in section 308305(a), as redesignated by paragraph (1)--
+                  (A) in paragraph (1), by striking ``308302'' and 
+                inserting ``308303''; and
+                  (B) in paragraph (2), by striking ``308303'' and 
+                inserting ``308304''; and
+          (5) in the chapter table of contents--
+                  (A) by redesignating the items relating to sections 
+                308301 through 308304 as items relating to sections 
+                308302 through 308305; and
+                  (B) by inserting before the item relating to section 
+                308302, as redesignated by subparagraph (A), the 
+                following:
+``308301.  Purposes.''.
+  (p) Section 308704.--Section 308704(a)(1) of title 54, United States 
+Code, is amended by inserting ``subsection (c) of this section or'' 
+after ``sold under''.
+  (q) Section 309101.--The heading for subsection (d) of section 309101 
+of title 54, United States Code, is amended by striking ``Acquistion'' 
+and inserting ``Acquisition''.
+  (r) Chapter 3111.--Chapter 3111 of title 54, United States Code, is 
+amended--
+          (1) by amending section 311101 to read as follows:
+``Sec. 311101. Purpose; definitions
+  ``(a) Purpose.--The purpose of this section is to authorize the 
+Preserve America Program, including--
+          ``(1) the Preserve America grant program in the Department of 
+        the Interior;
+          ``(2) the recognition programs administered by the Advisory 
+        Council on Historic Preservation; and
+          ``(3) the related efforts of Federal agencies, working in 
+        partnership with State, tribal, and local governments and the 
+        private sector, to support and promote the preservation of 
+        historic resources.
+  ``(b) Definitions.--In this chapter:
+          ``(1) Council.--The term `Council' means the Advisory Council 
+        on Historic Preservation.
+          ``(2) Heritage tourism.--The term `heritage tourism' means 
+        the conduct of activities to attract and accommodate visitors 
+        to a site or area based on the unique or special aspects of the 
+        history, landscape (including trail systems), and culture of 
+        the site or area.
+          ``(3) Program.--The term `program' means the Preserve America 
+        Program established under section 311102(a).'';
+          (2) in section 311105, by inserting ``, except that the 
+        amount authorized to be appropriated to carry out this section 
+        not appropriated as of the date of enactment of the First State 
+        National Historical Park Act shall be reduced by $6,500,000'' 
+        before the period at the end; and
+          (3) in the chapter table of contents, by amending the item 
+        relating to section 311101 to read as follows:
+``311101.  Purpose; definitions.''.
+  (s) Section 312304.--The heading for paragraph (4) of subsection (b) 
+of section 312304 of title 54, United States Code, is amended by 
+striking ``commisison'' and inserting ``commission''.
+
+SEC. 7. TRANSITIONAL AND SAVINGS PROVISIONS
+
+  (a) Definitions.--In this section:
+          (1) Restated provision.--The term ``restated provision'' 
+        means a provision of law that is enacted by section 6.
+          (2) Source provision.--The term ``source provision'' means a 
+        provision of law that is replaced by a restated provision.
+  (b) Cutoff Date.--The restated provisions replace certain provisions 
+of law enacted on or before July 30, 2025. If a law enacted after that 
+date amends or repeals a source provision, that law is deemed to amend 
+or repeal, as the case may be, the corresponding restated provision. If 
+a law enacted after that date is otherwise inconsistent with a restated 
+provision or a provision of this Act, that law supersedes the restated 
+provision or provision of this Act to the extent of the inconsistency.
+  (c) Original Date of Enactment Unchanged.--A restated provision is 
+deemed to have been enacted on the date of enactment of the source 
+provision.
+  (d) References to Restated Provisions.--A reference to a restated 
+provision is deemed to refer to the corresponding source provision.
+  (e) References to Source Provisions.--A reference to a source 
+provision, including a reference in a regulation, order, or other law, 
+is deemed to refer to the corresponding restated provision.
+  (f) Regulations, Orders, and Other Administrative Actions.--A 
+regulation, order, or other administrative action in effect under a 
+source provision continues in effect under the corresponding restated 
+54 provision.
+  (g) Actions Taken and Offenses Committed.--An action taken or an 
+offense committed under a source provision is deemed to have been taken 
+or committed under the corresponding restated provision.
+  (h) Legislative Construction.--An inference of legislative 
+construction is not to be drawn by reason of a restated provision's 
+location in the United States Code or by reason of the heading used for 
+the restated provision.
+
+SEC. 8. REPEALS.
+
+  The following provisions of law are repealed, except with respect to 
+rights and duties that matured, penalties that were incurred, or 
+proceedings that were begun before the date of enactment of this Act:
+
+                                            Schedule of Laws Repealed
+----------------------------------------------------------------------------------------------------------------
+                                                                                     United States Code Former
+                        Act                                    Section                     Classification
+----------------------------------------------------------------------------------------------------------------
+ 
+Act of May 15, 1896 (ch. 182).....................                             1                  16 U.S.C. 411
+                                                                               2                  16 U.S.C. 412
+ 
+Act of March 3, 1897 (ch. 372)....................                             1                  16 U.S.C. 413
+                                                                               2                  16 U.S.C. 414
+                                                                               4                  16 U.S.C. 416
+                                                                               5        16 U.S.C. 413, 414, 416
+ 
+Act of August 24, 1912 (ch. 355)..................       1 (last paragraph under                  16 U.S.C. 421
+                                                     heading ``national military
+                                                        parks'' at 37 Stat. 442)
+ 
+Land and Water Conservation Fund Act of 1965 (Pub.            title I, Sec. 1(b)               16 U.S.C. 460l-4
+ L. 88-578).......................................
+ 
+Public Law 95-344.................................        title III, Sec. 301(b)              16 U.S.C. 2301(b)
+ 
+Urban Park and Recreation Recovery Act of 1978                title X, Sec. 1003                 16 U.S.C. 2502
+ (Pub. L. 95-625).................................
+ 
+National Park System Visitor Facilities Fund Act                               1            16 U.S.C. 19gg note
+ (Pub. L. 97-433).................................
+                                                                               2            16 U.S.C. 19aa note
+                                                                               3            16 U.S.C. 19bb note
+                                                                               4            16 U.S.C. 19cc note
+                                                                               5            16 U.S.C. 19dd note
+                                                                               6            16 U.S.C. 19ee note
+                                                                               7            16 U.S.C. 19ff note
+                                                                               8            16 U.S.C. 19gg note
+ 
+Omnibus Parks and Public Land Management Act of         div. I, title VIII, Sec.               16 U.S.C. 17o(1)
+ 1996 (Pub. L. 104-333)...........................                     814(a)(1)
+ 
+National Underground Railroad Network to Freedom                            2(b)              16 U.S.C. 469l(b)
+ Act of 1998 (Pub. L. 105-203)....................
+ 
+Omnibus Public Land Management Act of 2009 (Pub.         title VII, Sec. 7302(a)              16 U.S.C. 469n(a)
+ L. 111-11).......................................
+----------------------------------------------------------------------------------------------------------------
+
+            Passed the House of Representatives August 31, 2026.
+            Attest:
+                                                     KEVIN F. MCCUMBER,
+                                                                 Clerk.

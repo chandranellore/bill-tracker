@@ -1,0 +1,129 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 7926 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 7926
+
+To establish requirements for when the Secretary of Energy may provide 
+ financial assistance to regulated investor owned electric utilities, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             March 12, 2026
+
+ Ms. Stevens introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To establish requirements for when the Secretary of Energy may provide 
+ financial assistance to regulated investor owned electric utilities, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stop Unfair Electricity Prices 
+Act''.
+
+SEC. 2. PRESERVING ENERGY AFFORDABILITY.
+
+    (a) One Year Moratorium on Providing Financial Assistance to 
+Certain Investor Owned Electric Utilities.--
+            (1) Requirement.--Notwithstanding any other provision of 
+        law relating to the provision of financial assistance by the 
+        Secretary, during the period of 1 year that begins on the date 
+        of enactment of this section, the Secretary may not provide any 
+        financial assistance to a regulated investor owned electric 
+        utility that, after the date of enactment of this section, 
+        charges residential electric consumers a rate for electricity 
+        above the rate for electricity charged by the utility to 
+        residential electric consumers on January 1, 2026.
+            (2) Termination of financial assistance.--A regulated 
+        investor owned electric utility to which the Secretary provides 
+        financial assistance during the period of 1 year that begins on 
+        the date of enactment of this section may not charge 
+        residential electric consumers a rate for electricity above the 
+        rate for electricity charged by the utility to residential 
+        electric consumers on January 1, 2026 during the period of 1 
+        year that begins on the date of the enactment of this section. 
+        If the Secretary determines that a regulated investor owned 
+        electric utility violates the prohibition in the preceding 
+        sentence, the Secretary shall terminate the financial 
+        assistance provided by the Secretary to the utility.
+    (b) Requirement for Subsequent Period of 2 Years.--
+            (1) Requirement.--Notwithstanding any other provision of 
+        law relating to the provision of financial assistance by the 
+        Secretary, during the period of 2 years that begins after the 
+        period of 1 year described in subsection (a), the Secretary may 
+        not provide any financial assistance to a regulated investor 
+        owned electric utility that, after the date of enactment of 
+        this section, charges residential electric consumers a rate for 
+        electricity above the rate for electricity charged by the 
+        utility to residential electric consumers on January 1, 2026, 
+        unless the regulated investor owned electric utility--
+                    (A) during such period of 2 years, does not provide 
+                to the 5 highest compensated employees of the utility 
+                an amount of total compensation that exceeds the amount 
+                of total compensation of the 5 highest compensated 
+                employees of the utility on January 1, 2026;
+                    (B) during such period of 2 years, at the time of 
+                increasing such rate, reduces the total compensation of 
+                the 5 highest compensated employees of the utility by 
+                the amount that is twice the amount of the percentage 
+                point increase from the rate that was in effect on 
+                January 1, 2026, to the new rate; and
+                    (C) submits to the Secretary a report that 
+                identifies--
+                            (i) the amount of total compensation of the 
+                        5 highest compensated employees of the utility 
+                        on January 1, 2026; and
+                            (ii) the amount of total compensation of 
+                        the 5 highest compensated employees of the 
+                        utility as a result of the reduction in total 
+                        compensation described in subparagraph (B).
+            (2) Termination of financial assistance.--If the Secretary 
+        determines that a regulated investor owned electric utility to 
+        which the Secretary provided financial assistance compensated 
+        the 5 highest compensated employees of the utility in violation 
+        of subparagraph (A) or (B) of paragraph (1), the Secretary 
+        shall terminate the financial assistance provided by the 
+        Secretary to the utility.
+    (c) Definitions.--In this section:
+            (1) Electric consumer; rate; state regulatory authority; 
+        state regulated electric utility.--The terms ``electric 
+        consumer'', ``rate'', ``State regulatory authority'', and 
+        ``State regulated electric utility'' have the meanings given 
+        such terms, respectively, in section 3 of the Public Utility 
+        Regulatory Policies Act of 1978 (16 U.S.C. 2602).
+            (2) Regulated investor owned electric utility.--The term 
+        ``regulated investor owned electric utility'' means a State 
+        regulated electric utility that is an investor owned electric 
+        utility.
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (4) Total compensation.--The term ``total compensation'' 
+        includes any salary, bonuses, stock awards, stock options, and 
+        any other financial remuneration.
+                                 <all>

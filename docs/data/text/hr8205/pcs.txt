@@ -1,0 +1,147 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8205 Placed on Calendar Senate (PCS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 466
+119th CONGRESS
+  2d Session
+                                H. R. 8205
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 23, 2026
+
+             Received; read twice and placed on the calendar
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To amend the Accelerating Access to Critical Therapies for ALS Act to 
+ reauthorize the provisions of such Act through fiscal year 2031, and 
+                          for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Accelerating Access to Critical 
+Therapies for ALS Reauthorization Act of 2026''.
+
+SEC. 2. REAUTHORIZATION OF ACCELERATING ACCESS TO CRITICAL THERAPIES 
+              FOR ALS ACT.
+
+    (a) In General.--Section 7 of the Accelerating Access to Critical 
+Therapies for ALS Act (Public Law 117-79) is amended by striking 
+``2026'' and inserting ``2031''.
+    (b) Grants for ALS Research.--Section 2(f) of the Accelerating 
+Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is 
+amended by striking ``2026'' and inserting ``2031''.
+
+SEC. 3. IMPROVEMENTS TO PROGRAM FOR GRANTS FOR RESEARCH ON THERAPIES 
+              FOR ALS.
+
+    (a) Renewal of Grants for Research on Therapies for ALS Review.--
+Section 2(b) of the Accelerating Access to Critical Therapies for ALS 
+Act (21 U.S.C. 360ee note) is amended by adding at the end the 
+following:
+            ``(4) Renewal of grants for research on therapies for als 
+        review.--In reviewing applications for renewals of a grant 
+        awarded under this section with respect to an investigational 
+        drug, the Secretary shall request from the manufacturer or 
+        sponsor, and assess, the enrollment, safety, and any available 
+        efficacy data relating to the investigational drug in the 
+        prevention, diagnosis, mitigation, treatment, or cure of 
+        amyotrophic lateral sclerosis.''.
+    (b) Reporting Safety Data.--Section 2(c) of the Accelerating Access 
+to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended--
+            (1) in paragraph (2)(B), by striking ``and'' at the end;
+            (2) in paragraph (3), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(4) the entity seeking such grant will promptly report 
+        any new and serious adverse events and safety information that 
+        is considered to be unexpected with respect to the phase 3 
+        trial to the grant-making institution, in addition to complying 
+        with the safety reporting requirements under section 312.32 of 
+        title 21, Code of Federal Regulations (or any successor 
+        regulations).''.
+    (c) Clarifying Participating Clinical Trial Definition.--Section 
+2(e) of the Accelerating Access to Critical Therapies for ALS Act (21 
+U.S.C. 360ee note) is amended by adding at the end the following:
+            ``(4) The term `phase 3', with respect to a clinical trial, 
+        includes a phase 2/3 combined trial that begins enrollment 
+        within a timeframe, determined by the Secretary through the 
+        terms and conditions of the grant awarded under this 
+        section.''.
+
+SEC. 4. FDA RARE NEURODEGENERATIVE DISEASE ACTION PLAN.
+
+    Section 4 of the Accelerating Access to Critical Therapies for ALS 
+Act (21 U.S.C. 360aa note) is amended--
+            (1) in the section heading, by striking ``als and other 
+        rare neurodegenerative disease action plan'' and inserting 
+        ``fda rare neurodegenerative disease action plan''; and
+            (2) by adding at the end the following:
+    ``(c) FDA Rare Neurodegenerative Disease Action Plan.--
+            ``(1) In general.--Not later than 18 months after the date 
+        of enactment of the Accelerating Access to Critical Therapies 
+        for ALS Reauthorization Act of 2026, the Commissioner of Food 
+        and Drugs shall publish on the website of the Food and Drug 
+        Administration an action plan that includes a description of 
+        the actions that the Food and Drug Administration intends to 
+        take during the 5-year period following publication of the 
+        action plan with respect to the program enhancements, policy 
+        development, regulatory science initiatives, and other 
+        appropriate initiatives described in subsection (a).
+            ``(2) Report.--Not later than 5 years after the date of 
+        enactment of the Accelerating Access to Critical Therapies for 
+        ALS Reauthorization Act of 2026, the Commissioner of Food and 
+        Drugs shall publish on the website of the Food and Drug 
+        Administration a report that describes the actions taken by the 
+        Food and Drug Administration under the action plan published 
+        under paragraph (1) and the extent to which such action plan 
+        meets the requirements specified in paragraph (1).''.
+
+            Passed the House of Representatives July 22, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.
+                                                       Calendar No. 466
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 8205
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To amend the Accelerating Access to Critical Therapies for ALS Act to 
+ reauthorize the provisions of such Act through fiscal year 2031, and 
+                          for other purposes.
+
+_______________________________________________________________________
+
+                             July 23, 2026
+
+            Received; read twice and placed on the calendar

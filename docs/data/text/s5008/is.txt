@@ -1,0 +1,365 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5008 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5008
+
+ To require Regional Transmission Organizations and Independent System 
+  Operators administering an open access transmission tariff to offer 
+ basic access service for energy-only delivery, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 16, 2026
+
+ Mr. Heinrich introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require Regional Transmission Organizations and Independent System 
+  Operators administering an open access transmission tariff to offer 
+ basic access service for energy-only delivery, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Grid Connection and Congestion 
+Management Act''.
+
+SEC. 2. BASIC ACCESS SERVICE FOR ENERGY-ONLY DELIVERY.
+
+    Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 224. BASIC ACCESS SERVICE FOR ENERGY-ONLY DELIVERY.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Basic access service for energy-only delivery.--The 
+        term `basic access service for energy-only delivery' means 
+        interconnection service that permits a generating facility to 
+        interconnect and inject at the point of interconnection up to 
+        the level approved through an evaluation described in 
+        subsection (d)(1), subject to that evaluation and the 
+        conditions described in subsection (f).
+            ``(2) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(3) Deliverability.--The term `deliverability' means the 
+        ability of a generating facility to deliver electric energy to 
+        load, market, or transmission service points without 
+        congestion-related curtailment.
+            ``(4) Generating facility.--The term `generating facility' 
+        means a device of an interconnection customer for the 
+        production or storage of electricity, as identified in an 
+        interconnection request submitted under a Commission-
+        jurisdictional tariff.
+            ``(5) Interconnection customer.--The term `interconnection 
+        customer' means any person that proposes to interconnect a 
+        generating facility with the transmission system of a Regional 
+        Transmission Organization or Independent System Operator.
+            ``(6) Open access transmission tariff.--The term `open 
+        access transmission tariff' means a tariff providing for 
+        transmission service that complies with the provisions of 
+        section 35.28 of title 18, Code of Federal Regulations (or a 
+        successor regulation).
+            ``(7) Reliability standard.--The term `reliability 
+        standard' has the meaning given the term in section 215(a).
+            ``(8) Transmission system.--The term `transmission system' 
+        means the facilities of a Regional Transmission Organization or 
+        Independent System Operator that are used to provide wholesale 
+        transmission services.
+    ``(b) Unjust and Unreasonable Practices.--
+            ``(1) In general.--Subject to paragraph (2), beginning 1 
+        year after the date of enactment of this section, it shall be 
+        unjust and unreasonable within the meaning of sections 205 and 
+        206 for any Regional Transmission Organization or Independent 
+        System Operator to maintain rates, terms, or conditions of 
+        service that do not provide for basic access service for 
+        energy-only delivery.
+            ``(2) Effect of timely tariff filing.--If a Regional 
+        Transmission Organization or Independent System Operator 
+        submits a tariff filing by the applicable deadline under 
+        subsection (c), including any extended deadline under paragraph 
+        (3) of that subsection, paragraph (1) shall apply to that 
+        Regional Transmission Organization or Independent System 
+        Operator beginning on the later of--
+                    ``(A) the date described in paragraph (1); and
+                    ``(B) the date on which the Commission accepts the 
+                filing or fixes rates, terms, and conditions of service 
+                under subsection (j).
+    ``(c) Tariff Filings.--
+            ``(1) In general.--Subject to paragraph (3), not later than 
+        180 days after the date of enactment of this section, each 
+        Regional Transmission Organization and Independent System 
+        Operator shall submit to the Commission pursuant to section 205 
+        conforming revisions to the open access transmission tariff of 
+        the Regional Transmission Organization or Independent System 
+        Operator to offer basic access service for energy-only 
+        delivery.
+            ``(2) Requirements.--Revisions to an open access 
+        transmission tariff under paragraph (1) shall--
+                    ``(A) establish a study process, including proposed 
+                timelines under subsection (i), for evaluating requests 
+                for basic access service for energy-only delivery 
+                meeting the requirements of subsections (d) and (h);
+                    ``(B) grant interconnection rights in accordance 
+                with subsection (e);
+                    ``(C) condition service only to the extent 
+                permitted under subsection (f); and
+                    ``(D) provide a pathway to transition from basic 
+                access service for energy-only delivery to other types 
+                of interconnection service offered by the Regional 
+                Transmission Organization or Independent System 
+                Operator, in accordance with subsection (g).
+            ``(3) Extension.--On a showing of good cause, the 
+        Commission may extend by not more than 180 days the deadline 
+        for submission of revisions under paragraph (1) by 1 or more 
+        Regional Transmission Organizations or Independent System 
+        Operators.
+    ``(d) Evaluation of Request.--
+            ``(1) In general.--The evaluation of a request for basic 
+        access service for energy-only delivery shall--
+                    ``(A) consist of only the set of steady-state 
+                (thermal and voltage), short-circuit, stability 
+                analysis, and facilities studies, as provided for under 
+                section 35.28 of title 18, Code of Federal Regulations 
+                (or a successor regulation) (and the corresponding 
+                generator interconnection procedures), that are 
+                necessary to determine whether additional transmission 
+                facilities or upgrades to existing transmission 
+                facilities are needed to reliably interconnect a new or 
+                modified generating facility to the transmission system 
+                of the applicable Regional Transmission Organization or 
+                Independent System Operator in compliance with 
+                applicable reliability standards; and
+                    ``(B) reflect the expected operating 
+                characteristics of the generating facility, including 
+                any operating limits, curtailment provisions, or 
+                modifications to the generating facility proposed or 
+                agreed to by the interconnection customer.
+            ``(2) Findings.--
+                    ``(A) In general.--An evaluation under paragraph 
+                (1) shall identify--
+                            ``(i) the maximum level of injection at the 
+                        point of interconnection that can be 
+                        accommodated without additional transmission 
+                        facilities or upgrades to existing transmission 
+                        facilities;
+                            ``(ii) any additional transmission 
+                        facilities or upgrades to existing transmission 
+                        facilities necessary to accommodate injection 
+                        above the level identified under clause (i), up 
+                        to the level requested by the interconnection 
+                        customer; and
+                            ``(iii) each constraint assumed under 
+                        paragraph (4) to be managed through operational 
+                        measures.
+                    ``(B) Election.--An interconnection customer may 
+                elect to receive basic access service for energy-only 
+                delivery--
+                            ``(i) at the level identified under 
+                        subparagraph (A)(i) without additional 
+                        transmission facilities or upgrades; or
+                            ``(ii) at a higher approved level, subject 
+                        to subsection (f)(2).
+            ``(3) Deliverability limitation.--
+                    ``(A) In general.--The evaluation described in 
+                paragraph (1) shall not be used to identify facilities 
+                or upgrades, or require the construction of facilities, 
+                for the purpose of--
+                            ``(i) enabling the deliverability of 
+                        electric energy from the generating facility to 
+                        load, market, or transmission service points; 
+                        or
+                            ``(ii) ensuring that the generating 
+                        facility will not experience congestion-related 
+                        curtailment.
+                    ``(B) Incidental effects on deliverability or 
+                congestion-related curtailment.--Nothing in 
+                subparagraph (A) prohibits the identification of 
+                facilities or upgrades that--
+                            ``(i) are necessary to reliably 
+                        interconnect a generating facility in 
+                        compliance with applicable reliability 
+                        standards; and
+                            ``(ii) may have incidental effects on 
+                        deliverability or congestion-related 
+                        curtailment.
+            ``(4) Operationally manageable constraints.--An evaluation 
+        under paragraph (1)--
+                    ``(A) shall assume that a constraint identified in 
+                the evaluation will be managed through operational 
+                measures, including redispatch, curtailment, operating 
+                limits, and remedial action schemes; and
+                    ``(B) may identify facilities or upgrades for a 
+                constraint only to the extent that operational measures 
+                cannot maintain compliance with applicable reliability 
+                standards.
+            ``(5) Study timelines.--The applicable Regional 
+        Transmission Organization or Independent System Operator shall 
+        establish procedures to complete the evaluation of a request 
+        for basic access service for energy-only delivery not later 
+        than 1 year after the date on which the request is submitted.
+    ``(e) Interconnection Rights.--Basic access service for energy-only 
+delivery shall be subject to operating limits, curtailment provisions, 
+and the terms of the applicable interconnection agreement, so long as 
+those limits, provisions, and terms are not unjust, unreasonable, or 
+unduly discriminatory or preferential.
+    ``(f) Conditions of Service.--
+            ``(1) Congestion-related curtailment.--Basic access service 
+        for energy-only delivery may be subject to congestion-related 
+        curtailment, including curtailment associated with constraints 
+        identified in the evaluation under subsection (d)(1).
+            ``(2) Upgrade identification and cost responsibility.--
+        Construction and cost responsibility for basic access service 
+        for energy-only delivery shall be limited to facilities or 
+        upgrades identified as necessary through the evaluation under 
+        subsection (d)(1), unless such identification is based solely 
+        on the facility or upgrade--
+                    ``(A) increasing deliverability;
+                    ``(B) reducing congestion-related curtailment; or
+                    ``(C) satisfying a deliverability, capacity 
+                deliverability, or congestion-impact screen not 
+                required for the evaluation under subsection (d)(1).
+    ``(g) Transition Path.--An interconnection customer receiving basic 
+access service for energy-only delivery may transition to any other 
+interconnection service, including network resource interconnection 
+service--
+            ``(1) under the process and terms provided to 
+        interconnection customers that are not receiving basic access 
+        service for energy-only delivery; and
+            ``(2) without forfeiting the right to continue operating 
+        under this section until the applicable generating facility 
+        begins receiving any other interconnection service.
+    ``(h) Independent Study Election.--
+            ``(1) In general.--An interconnection customer requesting 
+        basic access service for energy-only delivery may elect to have 
+        the evaluation described in subsection (d)(1) conducted 
+        independently of any grouped study process, such as a cluster 
+        study that evaluates many interconnection requests 
+        simultaneously.
+            ``(2) Limitation.--A Regional Transmission Organization or 
+        Independent System Operator may not--
+                    ``(A) condition the availability of basic access 
+                service for energy-only delivery on participation in a 
+                grouped study process described in paragraph (1);
+                    ``(B) make the evaluation or provision of basic 
+                access service for energy-only delivery contingent on 
+                the completion of any grouped study process described 
+                in that paragraph, including any interconnection study 
+                process of the Regional Transmission Organization or 
+                Independent System Operator used for other types of 
+                interconnection service; or
+                    ``(C) delay the commencement or completion of an 
+                evaluation described in subsection (d)(1) pending the 
+                commencement or completion of any grouped study process 
+                described in paragraph (1).
+            ``(3) Permitted conditions.--In order to facilitate the 
+        evaluation and interconnection of interconnection customers 
+        requesting basic access service for energy-only delivery in a 
+        manner that does not slow the completion of any grouped study 
+        process described in paragraph (1), a Regional Transmission 
+        Organization or Independent System Operator may condition the 
+        basic access service for energy-only delivery for that 
+        interconnection customer on--
+                    ``(A) curtailment by the interconnection customer 
+                to mitigate system impacts revealed in the evaluation 
+                carried out pursuant to subsection (d)(1); or
+                    ``(B) modifications to the generating facility 
+                proposed by the interconnection customer to be 
+                interconnected to the transmission system of the 
+                Regional Transmission Organization or Independent 
+                System Operator to mitigate or avoid those impacts.
+    ``(i) Study Timelines.--Each tariff filing under subsection (c) 
+shall include--
+            ``(1) proposed timelines for completing the evaluation 
+        under subsection (d)(1); and
+            ``(2) supporting information that--
+                    ``(A) demonstrates that those timelines are 
+                reasonable; and
+                    ``(B) accounts for the scope of review needed to 
+                reliably interconnect a generating facility under that 
+                subsection.
+    ``(j) Commission Action on Tariff Proposals.--
+            ``(1) In general.--Not later than 180 days after the filing 
+        of a tariff proposal under subsection (c), the Commission 
+        shall--
+                    ``(A) accept the filing, if the Commission 
+                determines that the filing complies with this section 
+                and is otherwise just, reasonable, and not unduly 
+                discriminatory or preferential; or
+                    ``(B) fix such rates, terms, and conditions of 
+                service as the Commission determines to be just, 
+                reasonable, not unduly discriminatory or preferential, 
+                and in compliance with this section.
+            ``(2) Timelines.--In carrying out paragraph (1), the 
+        Commission may accept, reject, or modify a proposed timeline in 
+        the tariff proposal.
+    ``(k) Commission Establishment of Pro Forma Tariff.--
+            ``(1) In general.--Not later than 18 months after the date 
+        of enactment of this section, the Commission shall revise the 
+        pro forma open access transmission tariff to integrate basic 
+        access service for energy-only delivery into that pro forma 
+        tariff in a manner that meets the requirements of this section.
+            ``(2) Variation.--The Commission may permit a Regional 
+        Transmission Organization or Independent System Operator to 
+        seek variation from the pro forma tariff revised under 
+        paragraph (1) to the extent that the variations--
+                    ``(A) are consistent with or superior to the pro 
+                forma tariff; and
+                    ``(B) meet all requirements of this section.
+            ``(3) Effect of acceptance of tariff.--Acceptance by the 
+        Commission of a tariff proposal submitted under subsection (c) 
+        shall not, on its own, establish compliance with the 
+        requirements of the pro forma open access transmission tariff 
+        revised under paragraph (1).
+            ``(4) Commission authority.--In revising the pro forma open 
+        access transmission tariff under paragraph (1), the Commission 
+        may establish--
+                    ``(A) benchmark timelines, timeline-review 
+                standards, and best practices for completing the 
+                evaluation under subsection (d)(1), including standards 
+                for modifying timelines established pursuant to this 
+                section;
+                    ``(B) standards for transparency with respect to 
+                constraints identified under subsection (d), including 
+                the operational measures and operating limits 
+                applicable to basic access service for energy-only 
+                delivery; and
+                    ``(C) any other process or policy that is at least 
+                as stringent as the requirements of this section.
+    ``(l) Complaints.--
+            ``(1) In general.--The Commission shall act on the merits 
+        of any complaint filed pursuant to section 206 alleging 
+        noncompliance with this section not later than 180 days after 
+        the date on which the complaint is filed.
+            ``(2) Consolidation.--To maximize administrative 
+        efficiency, the Commission may consolidate and act on related 
+        complaints with respect to a given Regional Transmission 
+        Organization or Independent System Operator.
+    ``(m) Severability.--If any provision of this section, or the 
+application of any provision of this section to any person or 
+circumstance, is held invalid, the remainder of this section, and the 
+application of the provisions of this section to any other person or 
+circumstance, shall not be affected.''.
+                                 <all>

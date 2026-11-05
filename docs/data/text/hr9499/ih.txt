@@ -1,0 +1,84 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9499 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 9499
+
+    To amend the Internal Revenue Code of 1986 to apply tax return 
+  preparation penalties to improperly altered returns, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 29, 2026
+
+ Ms. Malliotakis introduced the following bill; which was referred to 
+                    the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+    To amend the Internal Revenue Code of 1986 to apply tax return 
+  preparation penalties to improperly altered returns, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Protecting Taxpayers from Ghost 
+Preparers Act''.
+
+SEC. 2. PENALTIES FOR TAX RETURN PREPARERS WHO IMPROPERLY ALTER 
+              RETURNS.
+
+    (a) In General.--Paragraph (1) of section 6696(e) of the Internal 
+Revenue Code of 1986 is amended to read as follows:
+            ``(1) Return.--The term `return' means--
+                    ``(A) any return of any tax imposed by this title,
+                    ``(B) any administrative adjustment request under 
+                section 6227,
+                    ``(C) any partnership adjustment tracking report 
+                under section 6226(b)(4)(A), and
+                    ``(D) any other document purporting to be a return, 
+                request, or report described in subparagraphs (A) 
+                through (C).''.
+    (b) Effective Date.--The amendment made by this section shall take 
+effect on the date of the enactment of this Act.
+
+SEC. 3. LIMITATION PERIOD NOT EXTENDED FOR VICTIMS OF PREPARER FRAUD.
+
+    (a) In General.--Section 6501(c)(1) of the Internal Revenue Code of 
+1986 is amended by inserting ``by the taxpayer'' after ``intent''.
+    (b) Effective Date.--The amendment made by this section shall apply 
+to assessments made or proceedings begun after the date of the 
+enactment of this Act.
+
+SEC. 4. TECHNICAL AMENDMENT RELATED TO THE DISASTER RELATED EXTENSION 
+              OF DEADLINES ACT.
+
+    (a) In General.--Subsection (f) of section 7508A of the Internal 
+Revenue Code of 1986 (as added by the Disaster Related Extension of 
+Deadlines Act) is redesignated as subsection (g).
+    (b) Effective Date.--The amendment made by this subsection shall 
+take effect as if included in section 2(a) of the Disaster Related 
+Extension of Deadlines Act.
+                                 <all>

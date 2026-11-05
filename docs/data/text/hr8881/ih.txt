@@ -1,0 +1,104 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8881 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8881
+
+  To amend the Small Business Act to require the Administrator of the 
+   Small Business Administration to report on the use of artificial 
+intelligence and machine learning by the Administration, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                              May 19, 2026
+
+  Mr. Finstad (for himself and Mr. Latimer) introduced the following 
+      bill; which was referred to the Committee on Small Business
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To amend the Small Business Act to require the Administrator of the 
+   Small Business Administration to report on the use of artificial 
+intelligence and machine learning by the Administration, and for other 
+                               purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``SBA Artificial Intelligence 
+Utilization Act of 2026''.
+
+SEC. 2. REPORTS REGARDING ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+              USE BY THE SMALL BUSINESS ADMINISTRATION.
+
+    Section 10(c) of the Small Business Act is amended to read as 
+follows:
+    ``(c) Artificial Intelligence and Machine Learning Use Reports.--
+            ``(1) Reports required.--Not later than 90 days after the 
+        date of the enactment of this subsection, and annually 
+        thereafter, the Administrator shall submit to the Committee on 
+        Small Business of the House of Representatives and the 
+        Committee on Small Business and Entrepreneurship of the Senate 
+        a report on--
+                    ``(A) the use of artificial intelligence and 
+                machine learning by the Administration;
+                    ``(B) the benefits and risks posed by the use of 
+                artificial intelligence and machine learning in the 
+                work of the Administration, including in impeding the 
+                operations of the Administration; and
+                    ``(C) measures that the Administrator can take to 
+                effectively identify, evaluate, and manage such 
+                benefits and risks, including explanations of how the 
+                Administrator can--
+                            ``(i) retain human involvement in important 
+                        decisions informed by recommendations made by 
+                        artificial intelligence or machine learning;
+                            ``(ii) identify tasks and functions that 
+                        artificial intelligence or machine learning can 
+                        and cannot reliably and effectively perform, 
+                        including whether artificial intelligence and 
+                        machine learning can improve operations, 
+                        productivity, or customer service;
+                            ``(iii) determine which specific artificial 
+                        intelligence or machine learning tools are 
+                        appropriate for a particular task or function, 
+                        if such task or function is determined to have 
+                        the potential to be reliably and effectively 
+                        performed by artificial intelligence or machine 
+                        learning; and
+                            ``(iv) determine whether an artificial 
+                        intelligence or machine learning tool 
+                        adequately fills a need of the Administration 
+                        and is worth adopting to fulfill such need.
+            ``(2) Briefing required.--Not later than 30 days after the 
+        date on which the Administrator submits each report required 
+        under paragraph (1), the Administrator shall provide to the 
+        committees described in such paragraph a briefing on such 
+        report.
+            ``(3) Definitions.--In this subsection, the terms 
+        `artificial intelligence' and `machine learning' have the 
+        meanings given, respectively, in section 5002 of the William M. 
+        (Mac) Thornberry National Defense Authorization Act for Fiscal 
+        Year 2021 (15 U.S.C. 9401).''.
+                                 <all>

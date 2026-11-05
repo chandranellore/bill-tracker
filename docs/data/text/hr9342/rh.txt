@@ -1,0 +1,991 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9342 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 708
+119th CONGRESS
+  2d Session
+                                H. R. 9342
+
+                      [Report No. 119-809, Part I]
+
+To revise certain authorities of the Government Publishing Office, and 
+                          for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 18, 2026
+
+  Mrs. Bice introduced the following bill; which was referred to the 
+Committee on House Administration, and in addition to the Committee on 
+   Oversight and Government Reform, for a period to be subsequently 
+   determined by the Speaker, in each case for consideration of such 
+ provisions as fall within the jurisdiction of the committee concerned
+
+                           September 10, 2026
+
+ Reported from the Committee on House Administration with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+                           September 10, 2026
+
+ Committee on Oversight and Government Reform discharged; committed to 
+the Committee of the Whole House on the State of the Union and ordered 
+                             to be printed
+ [For text of introduced bill, see copy of bill as introduced on June 
+                               18, 2026]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To revise certain authorities of the Government Publishing Office, and 
+                          for other purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``GPO Modernization 
+Act of 2026''.
+    (b) Table of Contents.--The table of contents of this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+
+                        TITLE I--SALES PROGRAMS
+
+Sec. 101. Sale of Government documents.
+
+                 TITLE II--PUBLIC INFORMATION PROGRAMS
+
+Sec. 201. Purpose and establishment.
+Sec. 202. Definitions.
+Sec. 203. Availability of Government publications.
+Sec. 204. Selections available to depository libraries.
+Sec. 205. Distribution to depositories.
+Sec. 206. Conforming amendment related to libraries of executive 
+                            departments.
+Sec. 207. Requirements for depository libraries.
+Sec. 208. Free use of Government public information in depositories.
+Sec. 209. Regional depositories.
+Sec. 210. Cataloging and access.
+Sec. 211. National Collection of United States Public Information.
+Sec. 212. Printing or publication of Congressional Directory.
+
+                TITLE III--GPO OPERATIONAL MODERNIZATION
+
+Sec. 301. Updating Oversight by the Joint Committee.
+Sec. 302. Modernizing authorities of the Government Publishing Office.
+Sec. 303. Updating and Modernizing Congressional Publishing.
+Sec. 304. GPO and the Federal Register.
+Sec. 305. Acceptance of gifts.
+Sec. 306. Simplified acquisitions.
+Sec. 307. Supplies or services.
+Sec. 308. Detail of employees.
+Sec. 309. Equalizing GPO Compensation with Other Legislative Branch 
+                            Agencies.
+Sec. 310. Leave carryover for certain Government Publishing Office 
+                            positions.
+
+            TITLE IV--PREPARATION OF CONSTITUTION ANNOTATED
+
+Sec. 401. Repeal requirement for Congressional Research Service to 
+                            prepare Annotated Constitution and 
+                            supplements in hardbound version.
+
+                        TITLE I--SALES PROGRAMS
+
+SEC. 101. SALE OF GOVERNMENT DOCUMENTS.
+
+    (a) Authority of Superintendent of Documents.--Section 1702 of 
+title 44, United States Code, is amended--
+            (1) in the first undesignated paragraph, by striking ``The 
+        Director'' and inserting ``(a) Appointment.--The Director'';
+            (2) in the second undesignated paragraph--
+                    (A) by striking ``When an officer'' and inserting 
+                ``(b) Receipt and Sale.--When an officer''; and
+                    (B) by striking ``who shall receive and sell'' and 
+                inserting ``who may receive and sell''; and
+            (3) in the third undesignated paragraph, by striking ``The 
+        Superintendent of Documents'' and inserting ``(c) Reports and 
+        Distribution.--The Superintendent of Documents''.
+    (b) Remove Requirement for Approval From Department in Which 
+Document Originated.--Section 1707 of such title is amended by striking 
+``, subject to the approval of the Secretary or head of the department 
+in which the public document originated''.
+    (c) Prices; Resale Authority.--Section 1708 of such title is 
+amended to read as follows:
+``Sec. 1708. Prices for sales copies of publications; crediting of 
+              receipts; resale by dealers; sales agents
+    ``(a) Prices.--The price at which additional copies of Government 
+publications are offered for sale to the public by the Superintendent 
+of Documents shall be based on the cost as determined by the Director 
+of the Government Publishing Office plus a premium to cover the costs 
+of sale and delivery. A discount may be allowed as determined by the 
+Superintendent of Documents.
+    ``(b) Resale Authority.--The Superintendent of Documents may 
+prescribe terms and conditions under which the Superintendent 
+authorizes the resale of Government publications by book dealers, and 
+the Superintendent may designate any Government officer as the 
+Superintendent's agent for the sale of Government publications under 
+regulations agreed upon by the Superintendent of Documents and the head 
+of the respective department or establishment of the Government.''.
+    (d) Authority of Superintendent of Documents To Establish 
+Requirements for Distribution, Sale, and Disposal of Unneeded 
+Documents.--Section 1720 of such title is amended by striking 
+``distribution or sale'' and inserting ``distribution, sale, or 
+disposal in accordance with requirements established by the 
+Superintendent of Documents''.
+
+                 TITLE II--PUBLIC INFORMATION PROGRAMS
+
+SEC. 201. PURPOSE AND ESTABLISHMENT.
+
+    Chapter 19 of title 44, United States Code, is amended by inserting 
+before section 1901 the following new section (and by conforming the 
+table of sections of such chapter accordingly):
+``Sec. 1900. Purpose and establishment of the public information 
+              programs of the Superintendent of Documents
+    ``(a) The purposes of this chapter are the following:
+            ``(1) To ensure the public's right to free, equitable, and 
+        convenient access to Government public information.
+            ``(2) To establish the Public Information Programs of the 
+        Superintendent of Documents in the Government Publishing 
+        Office, that together, function to identify, acquire, catalog, 
+        preserve, authenticate, disseminate, reformat, and provide no-
+        fee permanent public access to the corpus of Government public 
+        information for future generations, including the following 
+        programs and activities:
+                    ``(A) The Federal Depository Library Program.
+                    ``(B) The Cataloging and Access Services Program.
+                    ``(C) Online System of Access.
+                    ``(D) The National Collection of U.S. Government 
+                Public Information.
+                    ``(E) Preservation Program.
+                    ``(F) Sales to the Public.
+    ``(b) The Superintendent of Documents shall engage in activities 
+that enhance awareness and access to Government public information or 
+provide services that support libraries in their efforts to serve their 
+communities.''.
+
+SEC. 202. DEFINITIONS.
+
+    Section 1901 of title 44, United States Code, is amended to read as 
+follows (and by conforming the table of sections of chapter 19 
+accordingly):
+``Sec. 1901. Definitions
+    ``In this chapter--
+            ``(1) the term `access services' means those functions or 
+        services which enable or enhance discovery, awareness, and use 
+        of Government public information in the National Collection of 
+        U.S. Government Public Information, and Federal documents 
+        collections held by Federal depository libraries;
+            ``(2) the term `Government public information' means 
+        Federal Government publications or information resources, 
+        regardless of physical form or medium, compiled by Government 
+        employees, or at Government expense, or as required by law, and 
+        disseminated to the public by an agency or a contractor thereof 
+        or of educational value, including such publications or 
+        information resources which have been declassified;
+            ``(3) the term `Government publication' means informational 
+        matter which is published as an individual document at 
+        Government expense, or as required by law;
+            ``(4) the term `information' means any communication or 
+        representation of knowledge such as facts, data, or opinions in 
+        any medium or form, including textual, numerical, graphic, 
+        cartographic, narrative, electronic, or audiovisual forms;
+            ``(5) the term `information lifecycle management' means the 
+        process of planning, budgeting, administering, processing, and 
+        controlling information, whether in the form of a tangible or 
+        digital information asset, throughout the stages of the asset, 
+        including the asset's--
+                    ``(A) creation, identification, and acquisition;
+                    ``(B) organization, bibliographic control, and 
+                metadata;
+                    ``(C) preservation, digitization, and reformatting;
+                    ``(D) authentication, access, and dissemination;
+                    ``(E) promotion;
+                    ``(F) storage; and
+                    ``(G) management through a trusted digital 
+                repository;
+            ``(6) the term `permanent public access' means making 
+        Government public information resources discoverable and 
+        available to, and accessible by, the public on an indefinite, 
+        continuing basis, without charge;
+            ``(7) the term `preservation' means strategic initiatives, 
+        programs, and processes designed to maintain useful access to 
+        information assets, serving the information needs of both 
+        present and future generations; and
+            ``(8) the term `unreported public information' means 
+        Government public information which is not cataloged or 
+        otherwise identifiable or retrievable by an end user of the 
+        catalog described in section 1917.''.
+
+SEC. 203. AVAILABILITY OF GOVERNMENT PUBLICATIONS.
+
+    Section 1902 of such title is amended to read as follows (and by 
+conforming the table of sections of chapter 19 accordingly):
+``Sec. 1902. Availability of Government publications through 
+              Superintendent of Documents; notification of publications 
+              not ordered from Government Publishing Office
+    ``(a) Availability.--The Superintendent of Documents shall make 
+Government public information available to depository libraries through 
+the Superintendent of Documents Public Information Programs.
+    ``(b) Requirements.--Each component of the Government shall--
+            ``(1) notify the Superintendent of Documents of tangible 
+        Government public information content it has issued that is not 
+        also available digitally;
+            ``(2) notify the Superintendent of Documents of digital 
+        Government public information content it has issued;
+            ``(3) collaborate with the Superintendent of Documents to 
+        ensure any such digital Government public information remains 
+        permanently accessible; and
+            ``(4) furnish to the Superintendent of Documents any 
+        tangible Government public information it has issued that was 
+        obtained from sources other than the Government Publishing 
+        Office, unless other arrangements have been made with the 
+        Superintendent of Documents to ensure the information is 
+        accessible to depository libraries.
+    ``(c) Exceptions.--The requirements of subsection (b) do not apply 
+to Government public information that is confidential in character or 
+classified for reasons of national security.''.
+
+SEC. 204. SELECTIONS AVAILABLE TO DEPOSITORY LIBRARIES.
+
+    Section 1904 of such title is amended to read as follows (and by 
+conforming the table of sections of chapter 19 accordingly):
+``Sec. 1904. Selections available to depository libraries
+    ``The Superintendent of Documents shall notify depository libraries 
+of those Government public information products, regardless of format, 
+that are available for selection for inclusion in their depository 
+collections.''.
+
+SEC. 205. DISTRIBUTION TO DEPOSITORIES.
+
+    Section 1905 of title 44, United States Code, is amended to read as 
+follows:
+``Sec. 1905. Distribution to depositories; designation of additional 
+              libraries; justification; authorization for certain 
+              designations
+    ``(a) Government public information available from the 
+Superintendent of Documents under this chapter shall be distributed or 
+made accessible to depository libraries specifically designated by law 
+and to libraries designated pursuant to this section.
+    ``(b) Libraries within areas served by Members of the House, 
+Delegates, or the Resident Commissioner from the Commonwealth of Puerto 
+Rico may be designated by them to receive Government public information 
+to the extent that the total number of libraries designated by them 
+does not exceed two within each area.
+    ``(c) Not more than two additional libraries within a State may be 
+designated by each Senator from the State.
+    ``(d) The Mayor of the District of Columbia may designate two 
+depository libraries in the District of Columbia.
+    ``(e) The Governor of the Commonwealth of Puerto Rico, the Governor 
+of Guam, the Governor of American Samoa, and the Governor of the 
+Commonwealth of the Northern Mariana Islands may each designate one 
+depository library in the Commonwealth of Puerto Rico, Guam, American 
+Samoa, and the Commonwealth of the Northern Mariana Islands, 
+respectively. The Governor of the United States Virgin Islands may 
+designate one depository library on the island of Saint Thomas and one 
+on the island of Saint Croix.
+    ``(f) The Superintendent of Documents may designate libraries to be 
+digital-only depository libraries for Government public information if 
+they are located in an area with no vacancy under subsection (b), (c), 
+(d), or (e) and they are not eligible to be designated under existing 
+by-law library provisions of this section. Digital-only depository 
+libraries must be freely accessible to and provide services for the 
+public and otherwise meet the requirements of this title.
+    ``(g) Before a library is designated as a depository for Government 
+public information, the Superintendent of Documents shall assess the 
+potential depository library to determine its sustainability for 
+housing a depository collection and for providing access services, 
+including providing access to digital content. The head of that library 
+shall furnish justification of the necessity for the additional 
+designation to the library's Senator, Member of the House, Delegate, 
+Resident Commissioner from the Commonwealth of Puerto Rico, or the 
+Mayor of the District of Columbia or Governor, as the case may be. The 
+justification shall also include the assessment of the Superintendent 
+of Documents. The justification for depository library designations 
+shall be transmitted to the Superintendent of Documents by the Senator, 
+Member of the House, Delegate, the Resident Commissioner from the 
+Commonwealth of Puerto Rico, or the Mayor of the District of Columbia 
+or Governor, as the case may be.''.
+
+SEC. 206. CONFORMING AMENDMENT RELATED TO LIBRARIES OF EXECUTIVE 
+              DEPARTMENTS.
+
+    Section 1907 of title 44, United States Code, is amended--
+            (1) in the first sentence, by striking ``Government 
+        publications'' and inserting ``Government public information''; 
+        and
+            (2) in the last sentence, by striking ``Library of Congress 
+        and the Archivist of the United States'' and inserting 
+        ``Superintendent of Documents''.
+
+SEC. 207. REQUIREMENTS FOR DEPOSITORY LIBRARIES.
+
+    Section 1909 of title 44, United States Code, is amended to read as 
+follows (and by conforming the table of sections of chapter 19 
+accordingly):
+``Sec. 1909. Requirements of depository libraries; reports on 
+              conditions; consultations and training; termination; 
+              replacement
+    ``(a) Only a library able to provide access to, custody of, and 
+services for deposited materials or access to and services for online 
+digital content and located in an area where it can best serve the 
+public need may be designated as a depository library. The designated 
+depository libraries shall report to the Superintendent of Documents at 
+least every two years concerning their condition.
+    ``(b) The Superintendent of Documents shall regularly assess 
+conditions in depository libraries. The Superintendent of Documents 
+shall provide needed training and support by making visits to 
+depository libraries or by other means and include the results of 
+consultations in the Superintendent of Documents' annual report. When 
+the Superintendent of Documents ascertains that the designated 
+depository has ceased to be maintained so as to be accessible to the 
+public, or that the Government publications which have been furnished 
+the library have not been properly maintained, the Superintendent of 
+Documents shall remove the library from the directory of depository 
+libraries if the library fails to correct the unsatisfactory conditions 
+within an agreed upon time frame. A library may be designated, pursuant 
+to section 1905 of this chapter, to replace a library deleted by the 
+Superintendent of Documents, provided that the designation may not be 
+in excess of the number of depository libraries authorized by law.''.
+
+SEC. 208. FREE USE OF GOVERNMENT PUBLIC INFORMATION IN DEPOSITORIES.
+
+    Section 1911 of title 44, United States Code, is amended to read as 
+follows (and by conforming the table of sections of chapter 19 
+accordingly):
+``Sec. 1911. Free use of Government public information in depositories; 
+              disposal of unwanted Government public information
+    ``(a) Free Use by the Public.--Depository libraries shall, pursuant 
+to standards established by the Superintendent of Documents, make 
+Government public information accessible for free use by the public.
+    ``(b) Digital Information Substitutes.--Depository libraries may 
+substitute digital information for tangible publications in accordance 
+with Superintendent of Documents policy and guidance.
+    ``(c) Disposal.--A depository library not served by a regional 
+depository library, or that is a regional depository library, may 
+dispose of unwanted Government public information in accordance with 
+Superintendent of Documents policy and guidance. Depository libraries 
+may dispose of tangible publications which are Government property 
+after retention for five years under section 1912 of this title, if the 
+depository library is served by a regional depository library.''.
+
+SEC. 209. REGIONAL DEPOSITORIES.
+
+    Section 1912 of title 44, United States Code, is amended to read as 
+follows (and by conforming the table of sections of chapter 19 
+accordingly):
+``Sec. 1912. Regional depositories; designation; functions; shared 
+              responsibilities, disposal of publications
+    ``(a) Not more than two depository libraries in each State and the 
+Commonwealth of Puerto Rico may be designated as regional depositories 
+and shall receive from the Superintendent of Documents copies of or 
+access to all new and revised Government publications authorized for 
+dissemination to depository libraries. Designation of regional 
+depository libraries may be made by a Senator or the Resident 
+Commissioner from Puerto Rico within the areas served by them. Prior to 
+the designation the Superintendent of Documents shall consult with the 
+head of the potential regional depository library and ascertain that 
+the library will fulfill the requirements for depository libraries. The 
+agreement to function as a regional depository library shall be 
+transmitted to the Superintendent of Documents by the Senator or the 
+Resident Commissioner from Puerto Rico when the designation is made.
+    ``(b) Regional depository libraries shall retain at least one copy 
+of all Government publications received, except those authorized to be 
+discarded by the Superintendent of Documents policy and guidance or 
+covered by collaborative agreements approved by the Superintendent of 
+Documents, or make accessible digital versions (in accordance with 
+Superintendent of Documents policy) and, within the area served, will 
+provide leadership and coordination for the provision of program-
+related activities for depository libraries.
+    ``(c) Regional depository libraries from different States may share 
+responsibilities by entering into agreements in accordance with 
+Superintendent of Documents guidance and upon approval of a Senator 
+from each of the States.
+    ``(d) The Superintendent of Documents shall establish not fewer 
+than four multistate collection service areas to support collaborative 
+collection and service coordination among depository libraries within 
+such area.
+    ``(e) Publications distributed by the Superintendent of Documents 
+to depository libraries are holdings of the National Collection of U.S. 
+Government Public Information and remain the property of the United 
+States Government. Libraries designated as regional depositories will 
+coordinate with the Superintendent of Documents on the disposition of 
+Government Publications from depository libraries, within the areas 
+served by them, which the depository library has retained for five 
+years or when the depository library is relinquishing its depository 
+designation. The Superintendent of Documents shall manage the National 
+Collection of U.S. Government Public Information to maximize the access 
+to, use of, and preservation of Government public information in the 
+depository library program.''.
+
+SEC. 210. CATALOGING AND ACCESS.
+
+    (a) In General.--Chapter 19 of title 44, United States Code, is 
+amended by adding at the end the following new section (and by 
+conforming the table of sections of such chapter accordingly):
+``Sec. 1917. Cataloging and access services
+    ``(a) Cataloging Described.--The Superintendent of Documents shall 
+provide descriptive cataloging records for the corpus of Government 
+public information. The cataloging records shall be created using 
+library or information industry standards and best practices and shall 
+include metadata elements in accordance with Superintendent of 
+Documents policy.
+    ``(b) Access and Awareness Services.--The Superintendent of 
+Documents shall engage in activities that enhance access to and 
+awareness of Government public information or provide services that 
+support libraries or organizations that support libraries in their 
+efforts to serve their communities' Government information needs.
+    ``(c) Specific Access Services.--
+            ``(1) The Superintendent of Documents shall maintain an 
+        online comprehensive catalog of historical and current, 
+        tangible and digital Government public information cataloged 
+        under subsection (a), and such catalog shall show where the 
+        Government public information may be obtained or accessed. The 
+        catalog shall be machine- or device-independent and available 
+        for free use by the public.
+            ``(2) The Superintendent of Documents shall carry out a 
+        program to bring unreported Government public information under 
+        bibliographic control and to make records associated with such 
+        information available through the catalog established by this 
+        section and such other methods as may be appropriate.
+            ``(3) The Superintendent of Documents may make the records 
+        of such catalog available to Federal depository libraries, 
+        bibliographic utilities that support widely available record 
+        sharing, or other entities that make available Government 
+        public information.
+            ``(4) The Superintendent of Documents may accept records 
+        for inclusion in such catalog from libraries and agencies of 
+        the Federal Government, Federal depository libraries, 
+        bibliographic utilities that support widely available record 
+        sharing, or other entities that make available Government 
+        public information.
+            ``(5) The Superintendent of Documents may acquire digital 
+        Government public information for inclusion in the Cataloging 
+        and Access Services Program, Federal Depository Library 
+        Program, and GPO's System of Online Access through automated 
+        and manual harvesting of public websites. Such content will be 
+        cataloged, made accessible through the catalog established 
+        under this subsection, and preserved.''.
+    (b) Conforming Amendments.--Chapter 17 of such title is amended by 
+repealing sections 1710 and 1711 (and by conforming the table of 
+sections of such chapter accordingly).
+
+SEC. 211. NATIONAL COLLECTION OF UNITED STATES PUBLIC INFORMATION.
+
+    (a) In General.--Chapter 19 of title 44, United States Code, is 
+amended by adding at the end the following new section (and by 
+conforming the table of sections of such chapter accordingly):
+``Sec. 1918. National Collection of United States Public Information
+    ``(a) Establishment and Purpose.--
+            ``(1) Establishment.--There is hereby established a 
+        National Collection of United States Government Public 
+        Information (referred to in this chapter as the `National 
+        Collection').
+            ``(2) Purpose.--The Federal Government's publications and 
+        information are national assets and resources. Their 
+        availability and accessibility ensures an informed citizenry 
+        and an improved quality of life for them while spurring 
+        innovation. The National Collection is established to ensure 
+        the public's right to free, equitable, and convenient access to 
+        Government public information.
+    ``(b) Scope of the National Collection.--The content included in 
+the National Collection is the corpus of Government public information.
+    ``(c) Responsibilities of the Superintendent of Documents.--The 
+Superintendent of Documents shall administer the National Collection 
+and shall--
+            ``(1) guarantee free permanent public access to the 
+        geographically distributed National Collection;
+            ``(2) apply information lifecycle management best practices 
+        to the National Collection;
+            ``(3) acquire and bring under bibliographic control public 
+        Government information products, regardless of format, in scope 
+        of the National Collection;
+            ``(4) ensure a minimum of four tangible copies of 
+        distributed publications exist in the depository library 
+        program distributed geographically in four National Collection 
+        service areas; and
+            ``(5) collaborate with stakeholders, including the Library 
+        of Congress, libraries of the United States, Federal agencies, 
+        Congress, the Judiciary, and Federal Depository Library Program 
+        member libraries in as much as is practicable, to ensure 
+        preservation, comprehensiveness, and accessibility of the 
+        National Collection.
+    ``(d) Responsibilities of the Director of the Government Publishing 
+Office.--The Director of the Government Publishing Office, acting 
+through the Superintendent of Documents, shall--
+            ``(1) operate a digital repository system that functions as 
+        the Government Publishing Office's online system of access 
+        through which members of the public may obtain, at no charge, 
+        information that is included in the National Collection;
+            ``(2) develop and enhance such system as needed;
+            ``(3) digitize, authenticate, manage, preserve, and provide 
+        a permanent means of accessing information;
+            ``(4) provide access to information in an open format to 
+        the extent practicable;
+            ``(5) provide funding for system development, operational 
+        support, and infrastructure; and
+            ``(6) have the ability to provide services to Federal 
+        agencies for the purpose of carrying out this title.
+    ``(e) Protecting User Privacy.--The Director of the Government 
+Publishing Office, acting through the Superintendent of Documents, 
+shall implement measures to protect the privacy of individuals using 
+the digital repository described in subsection (d), and shall ensure 
+that such measures provide users with at least the same level of 
+privacy as provided under section 552a of title 5 (commonly known as 
+the Privacy Act of 1974) and section 208 of the E-Government Act of 
+2002 (Public Law 107-347).
+    ``(f) Removal of Public Government Information From National 
+Collection.--The Superintendent of Documents shall publicly disclose 
+online, not less than annually, a list of any public Government 
+information removed from public access in the National Collection or 
+the digital repository described in subsection (d), and the reasons for 
+such removals.''.
+    (b) Conforming Amendment.--Chapter 41 of title 44, United States 
+Code, and the item relating to such chapter in the table of chapters at 
+the beginning, are hereby repealed.
+
+SEC. 212. PRINTING OR PUBLICATION OF CONGRESSIONAL DIRECTORY.
+
+    Section 721 of title 44, United States Code, is amended to read as 
+follows:
+``Sec. 721. Congressional Directory
+    ``There shall be prepared under the direction of the Director of 
+the Government Publishing Office (1) a Congressional Directory, which 
+shall be prepared in a digital format available at a public website of 
+the Government Publishing Office as early as practicable during the 
+first session of each Congress and (2) a supplement to each 
+Congressional Directory, which shall be prepared in a digital format 
+available at a public website of the Government Publishing Office as 
+early as practicable during the second regular session of each 
+Congress.''.
+
+                TITLE III--GPO OPERATIONAL MODERNIZATION
+
+SEC. 301. UPDATING OVERSIGHT BY THE JOINT COMMITTEE.
+
+    (a) Redesignation of Joint Committee on Printing to Joint Committee 
+on Publishing.--
+            (1) The Joint Committee on Printing is hereby redesignated 
+        the Joint Committee on Publishing.
+            (2) Any reference to the Joint Committee on Printing in any 
+        law, rule, regulation, certificate, directive, instruction, or 
+        any other official paper in force on the date of enactment of 
+        this Act shall be considered to refer and apply to the Joint 
+        Committee on Publishing.
+    (b) Modernizing Joint Committee Structure.--Chapter 1 of title 44, 
+United States Code, is amended to read as follows:
+
+               ``CHAPTER 1--JOINT COMMITTEE ON PUBLISHING
+
+``Sec.
+``101. Joint Committee on Publishing: membership.
+``102. Joint Committee on Publishing: purpose and authority.
+``103. Joint Committee on Publishing: succession; powers during recess.
+``104. Joint Committee on Publishing: remedial powers.
+``Sec. 101. Joint Committee on Publishing: membership
+    ``The Joint Committee on Publishing shall consist of the chair and 
+four members of the Committee on Rules and Administration of the Senate 
+and the chair and four members of the Committee on House Oversight of 
+the House of Representatives.
+``Sec. 102. Joint Committee on Publishing: purpose and authority
+    ``The Joint Committee on Publishing shall oversee the Government 
+Publishing Office and supervise the Director of the Government 
+Publishing Office.
+``Sec. 103. Joint Committee on Publishing: succession; powers during 
+              recess
+    ``The members of the Joint Committee on Publishing who are 
+reelected to the succeeding Congress shall continue as members of the 
+committee until their successors are chosen. The President of the 
+Senate and the Speaker of the House of Representatives shall, on the 
+last day of a Congress, appoint members of their respective Houses who 
+have been elected to the succeeding Congress to fill vacancies which 
+may then be about to occur on the Committee, and the appointees and 
+members of the Committee who have been reelected shall continue until 
+their successors are chosen. When Congress is not in session, the Joint 
+Committee may exercise all its powers and duties as when Congress is in 
+session.
+``Sec. 104. Joint Committee on Publishing: remedial powers
+    ``The Joint Committee on Publishing may use any measures it 
+considers necessary to remedy neglect, delay, duplication, or waste in 
+the public printing and binding and the distribution of Congressional 
+publications in any form.''.
+    (c) Removing Extraneous References to the Joint Committee on 
+Printing.--
+            (1) Section 1108 of title 44, United States Code, is 
+        amended by striking ``, subject to regulation by the Joint 
+        Committee on Printing,''.
+            (2) Section 1301 of title 44, United States Code, is 
+        amended by striking ``in accordance with directions of the 
+        Joint Committee on Printing,''.
+            (3) Section 1320A of title 44, United States Code, is 
+        amended by striking ``and with the approval of the Joint 
+        Committee on Printing,''.
+            (4) Section 312 of the Federal Power Act (16 U.S.C. 825k) 
+        is amended by striking ``All printing for the Federal Power 
+        Commission'' and all that follows through ``providing for 
+        interdepartmental work.''.
+            (5) Section 5(c) of the National Foundation on the Arts and 
+        the Humanities Act of 1965 (20 U.S.C. 954(c)) is amended by 
+        striking ``In the case of publications under paragraph (10) of 
+        this subsection such publications may be supported without 
+        regard for the provisions of section 501 of title 44, United 
+        States Code, only if the Chairperson consults with the Joint 
+        Committee on Printing of the Congress and the Chairperson 
+        submits to the Committee on Labor and Human Resources of the 
+        Senate and the Committee on Education and Labor of the House of 
+        Representatives a report justifying any exemption from such 
+        section 501.''.
+            (6) Section 7(c) of the National Foundation on the Arts and 
+        the Humanities Act of 1965 (20 U.S.C. 956) is amended by 
+        striking ``In the case of publications under clause (8) of this 
+        subsection such publications may be supported without regard 
+        for the provisions of section 501 of title 44, United States 
+        Code, only if the Chairperson consults with the Joint Committee 
+        on Printing of the Congress and the Chairperson submits to the 
+        Committee on Labor and Human Resources of the Senate and the 
+        Committee on Education and Labor of the House of 
+        Representatives a report justifying any exemption from such 
+        section 501.''.
+            (7) Section 411(a) of title 28, United States Code, is 
+        amended by striking the last sentence.
+    (d) Services for the National Capital Region.--Section 1121 of 
+title 44, United States Code, is amended to read as follows (and by 
+conforming the table of sections of chapter 11 accordingly):
+``Sec. 1121. Paper and envelopes for Government agencies in the 
+              National Capital region
+    ``The Director of the Government Publishing Office may procure, as 
+provided by sections 509-516 of this title, and furnish on requisition, 
+paper and envelopes (not including envelopes printed in the course of 
+manufacture) in common use by two or more departments, establishments, 
+or services of the Government in the National Capital region, within 
+the meaning of section 8702 of title 40, United States Code, and 
+reimbursement shall be made to the Director of the Government 
+Publishing Office from appropriations or funds available for the 
+purpose. Paper and envelopes so furnished by the Director of the 
+Government Publishing Office may not be procured in any other 
+manner.''.
+
+SEC. 302. MODERNIZING AUTHORITIES OF THE GOVERNMENT PUBLISHING OFFICE.
+
+    (a) Print and Publishing Procurement Services.--Section 502 of 
+title 44, United States Code, is amended--
+            (1) in the section heading, by inserting ``, publishing'' 
+        after ``binding'';
+            (2) in the text, by inserting ``, publishing'' after 
+        ``binding''; and
+            (3) by striking ``Joint Committee on Printing'' and 
+        inserting ``Joint Committee on Publishing''.
+    (b) Repeal of Certain Provisions.--Sections 503, 504, 1104, 1105, 
+and 1112 of title 44, United States Code, are repealed (and by 
+conforming the table of sections for the applicable chapters 
+accordingly).
+    (c) Conforming Amendments.--Sections 505, 508 through 515, 517, 
+702, 703, 707, 709, 714, 717, 718, 722 through 724, 728, 738, and 901 
+through 905 of title 44, United States Code, are amended by striking 
+``Joint Committee on Printing'' in each place it appears and inserting 
+``Joint Committee on Publishing''.
+
+SEC. 303. UPDATING AND MODERNIZING CONGRESSIONAL PUBLISHING.
+
+    (a) House and Senate Documents and Reports.--Section 701 of title 
+44, United States Code, is amended to read as follows:
+``Sec. 701. `Usual number' of documents and reports; distribution of 
+              House and Senate documents and reports; binding; reports 
+              on private bills; number of copies printed; distribution
+    ``(a) The order by either House of Congress to print a document or 
+report shall signify the `usual number' of copies for binding and 
+distribution among those entitled to receive them. A greater number may 
+not be printed unless ordered by either House, or as provided by this 
+section. When a special number of a document or report is ordered 
+printed, the usual number shall also be printed, unless already 
+ordered.
+    ``(b) The `usual number' of documents and reports shall be 
+established by the Joint Committee on Publishing, and shall be printed 
+at one time and distributed according to instruction of the Joint 
+Committee Publishing.''.
+    (b) Bills and Resolutions.--Section 706 of title 44, United States 
+Code, is amended to read as follows:
+``Sec. 706. Bills and resolutions: number and distribution
+    ``(a) Public bills, resolutions, and private bills shall be printed 
+in bill form, and, unless specially ordered by either House, shall be 
+printed only when referred to a committee, when favorably reported 
+back, and after their passage by either House. Concurrent and simple 
+resolutions shall be printed in bill form when reported and after their 
+passage by either House, except by special order.
+    ``(b) The Director of the Government Publishing Office shall ensure 
+the distribution of such printed copies to the Senate document room, 
+the Secretary of the Senate, the House document room, and the 
+Superintendent of Documents and other entities at the direction of the 
+Joint Committee on Publishing.''.
+    (c) Congressional Record.--Section 906 of title 44, United States 
+Code, is amended to read as follows:
+``Sec. 906. Congressional Record: gratuitous copies; delivery
+    ``The Director of the Government Publishing Office shall furnish 
+copies of the daily and permanent forms of the Congressional Record, 
+including such copies as may be required for distribution to depository 
+libraries, under the direction of the Joint Committee on Publishing.''.
+
+SEC. 304. GPO AND THE FEDERAL REGISTER.
+
+    Title 44, United States Code, is amended--
+            (1) in section 1502, by striking ``, together with the 
+        Director of the Government Publishing Office,'';
+            (2) in section 1503, by striking ``to the Government 
+        Publishing Office'' and insert ``for publication'';
+            (3) by amending section 1504 to read as follows:
+``Sec. 1504. `Federal Register'; publishing; contents; distribution; 
+              price; physical copies
+    ``Documents required or authorized to be published by section 1505 
+shall be published immediately in a serial publication designated the 
+`Federal Register'. The Director of the Government Publishing Office 
+may make available the facilities of the Government Publishing Office 
+for the prompt publication of the Federal Register in the manner and at 
+the times required by this chapter and the regulations prescribed under 
+it under an agreement with the Archivist of the United States. The 
+contents of the daily issues shall constitute all documents, required 
+or authorized to be published, filed with the Office of the Federal 
+Register up to the time of the day immediately preceding the day of 
+publication fixed by regulations under this chapter. There shall be 
+published with each document a copy of the notation, required to be 
+made by section 1503, of the day and hour when, upon filing with the 
+Office, the document was made available for public inspection. 
+Distribution shall be made at a time in the morning of the day of 
+distribution fixed by regulations prescribed under this chapter. The 
+prices to be charged for the Federal Register may be fixed by the 
+Administrative Committee of the Federal Register established by section 
+1506 without reference to the restrictions placed upon and fixed for 
+the sale of Government publications by sections 1705 and 1708. The 
+Director of the Office of the Federal Register shall arrange for the 
+printing of at least two physical copies of each published Federal 
+Register issue. Of those, not less than two copies shall be stored, 
+each in a separate facility, to ensure the preservation of the Federal 
+Register for the purposes of continuity of government.'';
+            (4) by amending section 1505(c) to read as follows:
+    ``(c) Alternative Publication.--In a continuity of operations event 
+that limits the fulfillment of the publication requirements of this 
+chapter, the Office of the Federal Register may establish an 
+alternative method to publish the Federal Register until such time that 
+the regular publication may resume.'';
+            (5) in section 1506(a), by striking ``an officer of the 
+        Department of Justice designated by the Attorney General, and 
+        the Director of the Government Publishing Office or Acting 
+        Director of the Government Publishing Office'' and inserting 
+        ``and an officer of the Department of Justice designated by the 
+        Attorney General''; and
+            (6) by amending section 1509 to read as follows:
+``Sec. 1509. Costs of publication, etc.
+    ``(a) If the Government Publishing Office publishes the Federal 
+Register or Code of Federal Regulations, the cost of such publishing, 
+and, except as provided in subsection (b), other expenses incurred by 
+the Government Publishing Office in carrying out the duties under this 
+chapter shall be charged to the revolving fund provided in section 309. 
+Reimbursements for such costs and expenses shall be made by the Federal 
+agencies and credited, together with all receipts, as provided in 
+section 309(b).
+    ``(b) If the Government Publishing Office publishes any other 
+publications of the Federal Register program, the costs of such 
+publications and other expenses incurred by the Government Publishing 
+Office in connection with such publications, shall be borne by the 
+appropriations to the Government Publishing Office and the 
+appropriations are made available, and are authorized to be increased 
+by additional sums necessary for the purposes, the increases to be 
+based upon estimates submitted by the Director of the Government 
+Publishing Office.''.
+
+SEC. 305. ACCEPTANCE OF GIFTS.
+
+    (a) Authorizing Acceptance of Gifts.--Section 318(a) of title 44, 
+United States Code, is amended--
+            (1) by striking ``and'' at the end of paragraph (1);
+            (2) by striking the period at the end of paragraph (2) and 
+        inserting ``; and''; and
+            (3) by adding at the end the following new paragraph:
+            ``(3) in accordance with subsection (c), accept, hold, 
+        administer, and utilize gifts and bequests of property for the 
+        purpose of aiding or facilitating the work of the Government 
+        Publishing Office.''.
+    (b) Authority Described.--Section 318 of such title is amended by 
+adding at the end the following new subsection:
+    ``(c)(1) Gifts and bequests of money and the proceeds from sales of 
+other property received as gifts or bequests shall be deposited in the 
+Revolving Fund established under section 309 of this title and shall be 
+used solely for governmental purposes.
+    ``(2) Property accepted pursuant to this provision, and the 
+proceeds thereof, shall be used as nearly as possible in accordance 
+with the terms of the gift or bequest.
+    ``(3) For purposes of Federal income, estate, or gift taxes, 
+property accepted under this section shall be considered as a gift, 
+devise, or bequest to the United States.''.
+    (c) Technical Amendment.--The heading of section 318 of such title 
+is amended by adding ``; gift acceptance'' at the end (and by 
+conforming the table of sections of chapter 3 accordingly).
+
+SEC. 306. SIMPLIFIED ACQUISITIONS.
+
+    Section 311 of title 44, United States Code, is amended--
+            (1) in the section heading, by striking ``small purchase'' 
+        and inserting ``simplified acquisition'' (and by conforming the 
+        table of sections of chapter 3 accordingly);
+            (2) by amending subsection (b) to read as follows:
+    ``(b) In addition to the authority to negotiate otherwise provided 
+by law, the Director of the Government Publishing Office may negotiate 
+purchases and contracts for supplies or services for which the Director 
+of the Government Publishing Office determines that it is impracticable 
+to secure competition by advertising. The Director of the Government 
+Publishing Office may designate one or more employees of the Government 
+Publishing Office to carry out this subsection.''; and
+            (3) in subsection (c), by striking ``$100,000'' and 
+        inserting ``$350,000''.
+
+SEC. 307. SUPPLIES OR SERVICES.
+
+    Section 314 of title 44, United States Code, is amended--
+            (1) in the section heading, by striking ``Inks, glues, and 
+        other supplies'' and inserting ``Supplies or services''(and by 
+        conforming the table of sections of chapter 3 accordingly);
+            (2) by striking ``Inks, glues, and other supplies 
+        manufactured'' and inserting ``Supplies manufactured or 
+        services performed''; and
+            (3) by inserting ``publishing'' after ``in connection with 
+        its''.
+
+SEC. 308. DETAIL OF EMPLOYEES.
+
+    Section 316 of title 44, United States Code, is amended by striking 
+``and binding'' and inserting ``, binding, and publishing''.
+
+SEC. 309. EQUALIZING GPO COMPENSATION WITH OTHER LEGISLATIVE BRANCH 
+              AGENCIES.
+
+    Section 303 of title 44, United States Code, is amended by striking 
+the second sentence.
+
+SEC. 310. LEAVE CARRYOVER FOR CERTAIN GOVERNMENT PUBLISHING OFFICE 
+              POSITIONS.
+
+    Section 6304(f)(1) of title 5, United States Code, is amended--
+            (1) in subparagraph (G), by striking ``or'';
+            (2) in the first subparagraph (H), by striking the period 
+        and inserting a semicolon;
+            (3) in the second subparagraph (H)--
+                    (A) by redesignating such subparagraph as 
+                subparagraph (I); and
+                    (B) by striking the period at the end and inserting 
+                ``; or''; and
+            (4) by adding at the end the following:
+            ``(J) a position in the Government Publishing Office senior 
+        level service.''.
+
+            TITLE IV--PREPARATION OF CONSTITUTION ANNOTATED
+
+SECTION 401. REPEAL REQUIREMENT FOR CONGRESSIONAL RESEARCH SERVICE TO 
+              PREPARE ANNOTATED CONSTITUTION AND SUPPLEMENTS IN 
+              HARDBOUND VERSION.
+
+    (a) Repeal.--The first section of Public Law 91-589 (2 U.S.C. 168) 
+is amended--
+            (1) by striking ``the Librarian of Congress'' and inserting 
+        ``(a) subject to subsection (b), the Librarian of Congress''; 
+        and
+            (2) by adding at the end the following new subsection:
+    ``(b)(1) Upon the completion of the October 2031 term of the 
+Supreme Court and upon the completion of each tenth October term of the 
+Supreme Court thereafter, the Librarian of Congress shall have prepared 
+a digital decennial revised edition of the Constitution Annotated, 
+which shall contain annotations of all decisions theretofore rendered 
+by the Supreme Court construing provisions of the Constitution, in 
+place of the hardbound decennial revised edition of the Constitution 
+Annotated described in subsection (a)(3).
+    ``(2) Upon the completion of the October 2026 term of the Supreme 
+Court and upon the completion of each subsequent October term of the 
+Supreme Court beginning in an odd-numbered year (the final digit of 
+which is not a 1), the Librarian shall have prepared a digital 
+cumulative pocket-part supplement to the most recent decennial revised 
+edition of the Constitution Annotated, which shall contain cumulative 
+annotations of all such decisions rendered by the Supreme Court which 
+were not included in the most recent revised edition of the 
+Constitution Annotated, in place of the hardbound editions of the 
+cumulative pocket-part supplement described in subsection (a)(4).''.
+    (b) Ensuring Availability of Digital Versions.--Section 2 of Public 
+Law 91-589 (2 U.S.C. 168a) is amended--
+            (1) by striking ``All hardbound'' and inserting ``(a) All 
+        hardbound''; and
+            (2) by adding at the end the following new subsection:
+    ``(b)(1) The digital decennial revised editions of the Constitution 
+Annotated prepared under subsection (b)(1) of the first section of this 
+Joint Resolution and the digital cumulative pocket-part supplements 
+prepared under subsection (b)(2) of the first section of this Joint 
+Resolution shall be available at a public website of the Library of 
+Congress.
+    ``(2) The Librarian of Congress shall ensure the continuing 
+availability of the documents referred to in paragraph (1) to Congress 
+and the public.''.
+    (c) Repeal of Additional Printing Requirements.--
+            (1) Mandatory printing of additional copies.--Section 3 of 
+        Public Law 91-589 (2 U.S.C. 168b) is amended--
+                    (A) by striking ``There shall be printed'' and 
+                inserting ``(a) There shall be printed''; and
+                    (B) by adding at the end the following new 
+                subsection:
+    ``(b) Subsection (a) does not apply after completion of the October 
+2026 term of the Supreme Court, and the Librarian of Congress shall 
+provide the decennial revised editions of the Constitution Annotated 
+and the cumulative pocket part supplements prepared under this Joint 
+Resolution exclusively in a digital format available at a public 
+website of the Library of Congress.''.
+            (2) Printing of additional copies pursuant to concurrent 
+        resolution.--Section 4 of Public Law 91-589 (2 U.S.C. 168c) is 
+        repealed.
+                                                 Union Calendar No. 708
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 9342
+
+                      [Report No. 119-809, Part I]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To revise certain authorities of the Government Publishing Office, and 
+                          for other purposes.
+
+_______________________________________________________________________
+
+                           September 10, 2026
+
+ Reported from the Committee on House Administration with an amendment
+
+                           September 10, 2026
+
+ Committee on Oversight and Government Reform discharged; committed to 
+the Committee of the Whole House on the State of the Union and ordered 
+                             to be printed

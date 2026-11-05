@@ -1,0 +1,382 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8005 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 8005
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To amend the Controlled Substances Act to prevent the misuse of a 
+    tableting machine, encapsulating machine, or critical part of a 
+ tableting and encapsulating machine for the illicit manufacture of a 
+    controlled substance or listed chemical, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Stop Pills That Kill Act''.
+
+SEC. 2. REGULATION OF CERTAIN MACHINES.
+
+    (a) Definitions.--Section 102 of the Controlled Substances Act (21 
+U.S.C. 802) is amended--
+            (1) by striking paragraph (38) and inserting the following:
+    ``(38) The term `regulated person' means a person who--
+            ``(A) manufactures, distributes, imports, or exports a 
+        listed chemical;
+            ``(B) manufactures, distributes, delivers, sells, imports, 
+        or exports a tableting machine, encapsulating machine, or 
+        critical part of a tableting or encapsulating machine; or
+            ``(C) acts as a broker or trader for a regulated 
+        transaction involving a listed chemical, tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine.'';
+            (2) by striking paragraph (39)(B) and inserting the 
+        following:
+            ``(B) a distribution, delivery, sale, importation, 
+        exportation, or international transaction of a tableting 
+        machine, encapsulating machine, or critical part of a tableting 
+        or encapsulating machine.'';
+            (3) in paragraph (42), by inserting ``, tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine'' after ``listed chemical'';
+            (4) in paragraph (43), in the matter preceding subparagraph 
+        (A)--
+                    (A) by striking ``an international'' and inserting 
+                ``a regulated''; and
+                    (B) by inserting ``, tableting machine, 
+                encapsulating machine, or critical part of a tableting 
+                or encapsulating machine'' after ``listed chemical''; 
+                and
+            (5) by adding at the end the following:
+    ``(61) The term `critical part', when used in reference to a 
+tableting or encapsulating machine, means any of the following integral 
+parts of a tableting or encapsulating machine:
+            ``(A) An upper punch.
+            ``(B) A lower punch.
+            ``(C) A die.
+            ``(D) Any additional parts that the Attorney General has 
+        determined to be integral to the operation of a tableting or 
+        encapsulating machine, provided that such determination--
+                    ``(i) is made through rulemaking; and
+                    ``(ii) does not go into effect until the rulemaking 
+                process has been completed.
+    ``(62) The term `die' means a tool that serves as the mold in which 
+a product is compressed to form the desired size and shape of a tablet 
+or capsule.
+    ``(63) The term `lower punch' means the punch inserted into the 
+turret below the die.
+    ``(64) The term `punch' means a rod-shaped tool used in producing 
+tablets and other products.
+    ``(65) The term `upper punch' means the punch inserted into the 
+turret above the die.''.
+    (b) Regulation.--
+            (1) Records of regulated transactions.--Section 310(a) of 
+        the Controlled Substances Act (21 U.S.C. 830(a)) is amended--
+                    (A) in paragraph (1), by striking ``or an 
+                encapsulating machine'' and inserting ``, encapsulating 
+                machine, or critical part of a tableting or 
+                encapsulating machine''; and
+                    (B) in paragraph (2)--
+                            (i) by striking ``or encapsulating 
+                        machine'' and inserting ``, encapsulating 
+                        machine, or critical part of a tableting or 
+                        encapsulating machine''; and
+                            (ii) by inserting before the period at the 
+                        end the following: ``and shall identify the 
+                        tableting machine, encapsulating machine, or 
+                        critical part of a tableting or encapsulating 
+                        machine by means of a serial number that is 
+                        engraved, cast, or otherwise permanently 
+                        affixed to a nonremovable part of the tableting 
+                        machine, encapsulating machine, or critical 
+                        part of a tableting or encapsulating machine''.
+            (2) Reports to attorney general.--Section 310(b)(1) of the 
+        Controlled Substances Act (21 U.S.C. 830(b)(1)) is amended by 
+        striking subparagraph (D) and inserting the following:
+            ``(D) any regulated transaction in a tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine, including the serial number affixed to 
+        the tableting machine, encapsulating machine, or critical part 
+        of a tableting or encapsulating machine.''.
+            (3) Regulations.--
+                    (A) In general.--Not later than 180 days after the 
+                date of enactment of this Act, the Attorney General 
+                shall promulgate regulations carrying out the 
+                amendments made by paragraphs (1) and (2).
+                    (B) Inclusion.--The regulations required under 
+                subparagraph (A) shall include requirements regarding 
+                serial numbers affixed to tableting machines, 
+                encapsulating machines, or critical parts of tableting 
+                or encapsulating machines manufactured on or before the 
+                date of enactment of this Act.
+            (4) Applicability.--
+                    (A) In general.--Except as specified in 
+                subparagraph (B), the amendments made by paragraphs (1) 
+                and (2) shall apply only to any tableting machine, 
+                encapsulating machine, or critical part of a tableting 
+                or encapsulating machine manufactured, distributed, 
+                delivered, sold, imported, exported, or included in an 
+                international transaction after the effective date of 
+                the regulations promulgated under paragraph (3).
+                    (B) Exception.--Beginning on the date that is 180 
+                days after the date of the enactment of this Act, the 
+                amendments made by paragraph (1) of this subsection to 
+                paragraphs (1) and (2) of section 310(a) of the 
+                Controlled Substances Act (21 U.S.C. 830(a)) shall 
+                apply with respect to a tableting machine, 
+                encapsulating machine, or critical part of a tableting 
+                or encapsulating machine manufactured on or before the 
+                date of enactment of this Act.
+    (c) Prohibited Acts.--Section 403(a) of the Controlled Substances 
+Act (21 U.S.C. 843(a)) is amended--
+            (1) in paragraph (8), by striking ``or'' at the end;
+            (2) in paragraph (9), by striking the period at the end and 
+        inserting a semicolon; and
+            (3) by adding at the end the following:
+            ``(10) to remove, alter, or obliterate any serial number 
+        affixed to a tableting machine, encapsulating machine, or 
+        critical part of a tableting or encapsulating machine, that is 
+        required to have a serial number and with reasonable cause to 
+        believe the serial number is so required; or
+            ``(11) to transport, ship, receive, possess, distribute, 
+        deliver, sell, import, or export a tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine that is required to have a serial number, 
+        knowing that the serial number has been removed, altered, or 
+        obliterated, and with reasonable cause to believe the serial 
+        number is so required.''.
+
+SEC. 3. PROVIDING FOR EXTRATERRITORIAL JURISDICTION.
+
+    (a) Possession, Manufacture, or Distribution for Purposes of 
+Unlawful Importation.--Section 1009 of the Controlled Substances Act 
+(21 U.S.C. 959) is amended--
+            (1) by redesignating subsections (c) and (d) as subsections 
+        (d) and (e), respectively;
+            (2) by inserting after subsection (b) the following:
+    ``(c) It shall be unlawful for any person to manufacture or 
+distribute a tableting machine, encapsulating machine, or critical part 
+of a tableting or encapsulating machine--
+            ``(1) intending or knowing that the tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine will be used to illicitly manufacture a 
+        controlled substance or listed chemical; and
+            ``(2) intending, knowing, or having reasonable cause to 
+        believe that the tableting machine, encapsulating machine, or 
+        critical part of a tableting or encapsulating machine will be 
+        unlawfully imported into the United States.''; and
+            (3) in subsection (d), as so redesignated--
+                    (A) in paragraph (1), by striking ``or'' at the 
+                end;
+                    (B) in paragraph (2), by striking the period at the 
+                end and inserting ``; or''; and
+                    (C) by adding at the end the following:
+            ``(3) manufacture or distribute a tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine--
+                    ``(A) intending or knowing that the tableting 
+                machine, encapsulating machine, or critical part of a 
+                tableting or encapsulating machine will be used to 
+                illicitly manufacture a controlled substance or listed 
+                chemical; and
+                    ``(B) intending, knowing, or having reasonable 
+                cause to believe that the tableting machine, 
+                encapsulating machine, or critical part of a tableting 
+                or encapsulating machine will be unlawfully imported 
+                into the United States.''.
+    (b) Prohibited Acts.--Section 1010 of the Controlled Substances Act 
+(21 U.S.C. 960) is amended--
+            (1) in subsection (d)--
+                    (A) in paragraph (6), by striking ``or'' at the 
+                end;
+                    (B) in paragraph (7)--
+                            (i) by striking ``section 959 of this 
+                        title'' and inserting ``section 1009''; and
+                            (ii) by striking the period at the end and 
+                        inserting ``; or'';
+                    (C) by inserting after paragraph (7) the following:
+            ``(8) manufactures or distributes a tableting machine, 
+        encapsulating machine, or critical part of a tableting or 
+        encapsulating machine in violation of section 1009,''; and
+                    (D) in the matter following paragraph (8), as so 
+                inserted, by striking ``shall be fined'' and all that 
+                follows through ``or both'' and inserting the 
+                following: ``shall be fined in accordance with title 
+                18, United States Code, imprisoned for the applicable 
+                period described in subsection (e), or both''; and
+            (2) by adding at the end the following:
+    ``(e) The applicable period described in this subsection is the 
+following:
+            ``(1) In the case of a violation of paragraph (1) or (3) of 
+        subsection (d) involving a list I chemical, not more than 20 
+        years.
+            ``(2) Subject to paragraph (4), in the case of a violation 
+        of paragraph (7) of subsection (d), not more than 10 years.
+            ``(3) Subject to paragraph (4), in the case of a violation 
+        of paragraph (8) of subsection (d), not more than 8 years.
+            ``(4) In the case of a violation of paragraph (7) or (8) of 
+        subsection (d) that involves more than 1,000 kilograms of a 
+        chemical or product or more than 100 machines that are 
+        tableting machines or encapsulating machines, not more than 15 
+        years.
+            ``(5) In the case of any other violation of subsection (d), 
+        not more than 10 years.''.
+    (c) United States Sentencing Commission.--Pursuant to its authority 
+under section 994(p) of title 28, United States Code, the United States 
+Sentencing Commission shall review and amend the Federal sentencing 
+guidelines and policy statements of the Commission in accordance with 
+this Act and the amendments made by this Act.
+
+SEC. 4. COUNTERFEIT PILLS CONTAINING AN ILLICIT SYNTHETIC SUBSTANCE.
+
+    (a) Definition.--In this Act, the term ``counterfeit pill 
+containing an illicit synthetic substance'' means a substance in pill 
+or tablet form that--
+            (1) is a counterfeit substance, as defined in section 
+        102(7) of the Controlled Substances Act (21 U.S.C. 802(7)); and
+            (2) contains fentanyl, an analogue of fentanyl, a fentanyl-
+        related substance, methamphetamine, an illicit depressant or 
+        stimulant substance, an illicit narcotic, or an illicit 
+        synthetic opioid.
+    (b) Prohibited Acts.--Section 403(d)(2) of the Controlled 
+Substances Act (21 U.S.C. 843(d)(2)) is amended, in the matter 
+preceding subparagraph (A), by inserting ``, fentanyl, an analogue of 
+fentanyl, or a fentanyl-related substance'' after ``methamphetamine''.
+    (c) Comprehensive Plan.--
+            (1) In general.--Not later than 180 days after the date of 
+        enactment of this Act, the Administrator of the Drug 
+        Enforcement Administration shall establish and implement an 
+        operation and response plan to address counterfeit pills 
+        containing an illicit synthetic substance.
+            (2) Contents.--The plan required under paragraph (1) shall 
+        include--
+                    (A) strategies to enable and empower Federal law 
+                enforcement efforts to investigate and seize 
+                counterfeit pills containing an illicit synthetic 
+                substance;
+                    (B) specific ways that education and prevention 
+                efforts to stop the use of counterfeit pills containing 
+                an illicit synthetic substance will be increased, 
+                including--
+                            (i) how ongoing efforts, such as Operation 
+                        Engage, are effective in increasing education 
+                        and prevention; and
+                            (ii) how such ongoing efforts are tailored 
+                        to youth and teen access; and
+                    (C) an audit of current campaigns on counterfeit 
+                pills containing an illicit synthetic substance, 
+                including a review of data and other available 
+                information on how the campaigns can be tailored, 
+                adjusted, or improved to better address the flow of 
+                such counterfeit pills.
+            (3) Report to congress.--
+                    (A) Report.--Not later than 1 year after the date 
+                of enactment of this Act, and every year thereafter 
+                through fiscal year 2031, the Attorney General, in 
+                consultation with the Administrator of the Drug 
+                Enforcement Administration and the Director of the 
+                Office of National Drug Control Policy, shall submit to 
+                Congress a report containing information regarding the 
+                collection of counterfeit pills containing an illicit 
+                synthetic substance and prosecutions undertaken in 
+                connection with such counterfeit pills.
+                    (B) Contents.--The report required under 
+                subparagraph (A) shall include the following:
+                            (i) Data on the aggregate number of 
+                        counterfeit pills containing an illicit 
+                        synthetic substance that have been seized and 
+                        collected by Federal law enforcement agencies.
+                            (ii) A description of pharmaceutical 
+                        markings used for counterfeit pills containing 
+                        an illicit synthetic substance, including how 
+                        the markings compare to required labeling for 
+                        products approved by the Food and Drug 
+                        Administration.
+                            (iii) A breakdown of which illicit 
+                        substances are present in counterfeit pills 
+                        containing an illicit synthetic substance.
+                            (iv) Data outlining the geographic origin 
+                        and points of seizure of counterfeit pills 
+                        containing an illicit synthetic substance.
+                            (v) Data on the charges filed pursuant to 
+                        paragraph (1) or (2) of section 401(a) of the 
+                        Controlled Substances Act (21 U.S.C. 841(a)) in 
+                        relation to counterfeit pills containing an 
+                        illicit synthetic substance, unless disclosure 
+                        of the data would--
+                                    (I) require unsealing an 
+                                indictment; or
+                                    (II) undermine investigations and 
+                                charges brought by the Department of 
+                                Justice.
+                            (vi) Data on the convictions and sentences 
+                        against those who are found guilty under 
+                        paragraph (1) or (2) of section 401(a) of the 
+                        Controlled Substances Act (21 U.S.C. 841(a)) as 
+                        it pertains to counterfeit pills containing an 
+                        illicit synthetic substance.
+                            (vii) Any prevention measures that the 
+                        Department of Justice, the Drug Enforcement 
+                        Administration, or the Office of National Drug 
+                        Control Policy are undertaking to limit and 
+                        reduce the spread of counterfeit pills 
+                        containing an illicit synthetic substance, 
+                        including ongoing public awareness campaigns.
+
+            Passed the House of Representatives September 15, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 8005
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To amend the Controlled Substances Act to prevent the misuse of a 
+    tableting machine, encapsulating machine, or critical part of a 
+ tableting and encapsulating machine for the illicit manufacture of a 
+    controlled substance or listed chemical, and for other purposes.

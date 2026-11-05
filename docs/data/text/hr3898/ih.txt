@@ -1,0 +1,73 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3898 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 3898
+
+   To amend the Federal Water Pollution Control Act to make targeted 
+reforms with respect to waters of the United States and other matters, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 11, 2025
+
+Mr. Collins (for himself and Mr. Graves) introduced the following bill; 
+       which was referred to the Committee on Transportation and 
+                             Infrastructure
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Federal Water Pollution Control Act to make targeted 
+reforms with respect to waters of the United States and other matters, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Promoting Efficient Review for 
+Modern Infrastructure Today Act'' or the ``PERMIT Act''.
+
+SEC. 2. DEFINITION OF NAVIGABLE WATERS.
+
+    Section 502(7) of the Federal Water Pollution Control Act (33 
+U.S.C. 1362(7)) is amended--
+            (1) by striking ``(7) The term'' and inserting the 
+        following:
+            ``(7) Navigable waters.--
+                    ``(A) In general.--The term''; and
+            (2) by adding at the end the following:
+                    ``(B) Exclusions.--The term `navigable waters' does 
+                not include--
+                            ``(i) waste treatment systems, including 
+                        treatment ponds or lagoons designed to meet the 
+                        requirements of this Act;
+                            ``(ii) ephemeral features that flow only in 
+                        direct response to precipitation;
+                            ``(iii) prior converted cropland;
+                            ``(iv) groundwater; or
+                            ``(v) any other features determined to be 
+                        excluded by the Administrator or the Secretary 
+                        of the Army, acting through the Chief of 
+                        Engineers.''.
+                                 <all>

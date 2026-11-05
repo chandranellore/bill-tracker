@@ -1,0 +1,1610 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 4584 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 4584
+
+To make technical amendments to update statutory references to certain 
+  provisions which were formerly classified to chapters 14 and 19 of 
+ title 25, United States Code, and to correct related technical errors.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             July 22, 2025
+
+ Mr. Baumgartner introduced the following bill; which was referred to 
+                     the Committee on the Judiciary
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To make technical amendments to update statutory references to certain 
+  provisions which were formerly classified to chapters 14 and 19 of 
+ title 25, United States Code, and to correct related technical errors.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. TITLE 2, UNITED STATES CODE.
+
+  Section 3(15)(D) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 
+1602(15)(D)) is amended by striking ``(25 U.S.C. 450b(e))'' and 
+inserting ``(25 U.S.C. 5304(e)))''.
+
+SEC. 2. TITLE 5, UNITED STATES CODE.
+
+  (1) Section 320 of the Department of the Interior and Related 
+Agencies Appropriations Act, 1985 (Public Law 98-473, title I, section 
+101(c), 5 U.S.C. 5911 note) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (2) Section 8336(j) of title 5, United States Code, is amended as 
+follows:
+          (A) Paragraph (2)(B) is amended by striking ``section 
+        105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 
+        450i(a)(2); 88 Stat. 2209)'' and inserting ``section 104(e)(2) 
+        of the Indian Self-Determination Act (25 U.S.C. 5323(e)(2))''.
+          (B) Paragraph (4)(B) is amended by striking ``(25 U.S.C. 472; 
+        48 Stat. 986)'' and inserting ``(25 U.S.C. 5116)''.
+
+SEC. 3. TITLE 6, UNITED STATES CODE.
+
+  (1) Section 2001(7) of the Homeland Security Act of 2002 (6 U.S.C. 
+601(7)) is amended by striking ``(25 U.S.C. 450b(e))'' and inserting 
+``(25 U.S.C. 5304(e))''.
+  (2) Section 102(18) of the Cybersecurity Information Sharing Act of 
+2015 (6 U.S.C. 1501(18)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 4. TITLE 7, UNITED STATES CODE.
+
+  (1) Section 9(a) of the Critical Agricultural Materials Act (7 U.S.C. 
+178g(a)) is amended by striking ``(Public Law 93-638, 25 U.S.C. 450)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (2) Section 10(a) of the Critical Agricultural Materials Act (7 
+U.S.C. 178h(a)) is amended by striking ``(Public Law 93-638, 25 U.S.C. 
+450)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (3) Section 13(2) of the Rural Electrification Act of 1936 (7 U.S.C. 
+913(2)) is amended by striking ``(25 U.S.C. 450b)'' and inserting ``(25 
+U.S.C. 5304)''.
+  (4) Section 315(a) (matter before paragraph (1)) of the Rural 
+Electrification Act of 1936 (7 U.S.C. 940e(a) (matter before paragraph 
+(1)) is amended by striking ``(25 U.S.C. 450b)'' and inserting ``(25 
+U.S.C. 5304)''.
+  (5) Section 602(1)(B) of the Emergency Livestock Feed Assistance Act 
+of 1988 (7 U.S.C. 1471(1)(B)) is amended as follows:
+          (A) Clause (i) is amended by striking ``(25 U.S.C. 450(b))'' 
+        and inserting ``(25 U.S.C. 5304(e))''.
+          (B) Clause (ii) is amended by striking ``(48 Stat. 984, 
+        chapter 576; 25 U.S.C. 461 et seq.)'' and inserting ``(25 
+        U.S.C. 5101 et seq.)''.
+          (C) Clause (iii) is amended by striking ``section 4(c) of the 
+        Indian Self-Determination and Education Assistance Act (25 
+        U.S.C. 450b(c))'' and inserting ``section 4(l) of the Indian 
+        Self-Determination and Education Assistance Act (25 U.S.C. 
+        5304(l))''.
+  (6) Section 306(a) of the Consolidated Farm and Rural Development Act 
+(7 U.S.C. 1926(a)) is amended as follows:
+          (A) Paragraph (19)(A) is amended by inserting ``(25 U.S.C. 
+        5304(e))'' after ``Education Assistance Act''.
+          (B) Paragraph (20)(B) (matter before clause (i)) is amended 
+        by striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 
+        5304)''.
+          (C) Paragraph (21)(A) (matter before clause (i)) is amended 
+        by striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 
+        5304)''.
+  (7) Section 306C(e)(1)(C) of the Consolidated Farm and Rural 
+Development Act (7 U.S.C. 1926c(e)(1)(C)) is amended by striking ``(25 
+U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (8) Section 335(e)(1)(D)(v)(III)(cc) of the Consolidated Farm and 
+Rural Development Act (7 U.S.C. 1985(e)(1)(D)(v)(III)(cc)) is amended 
+by striking ``(25 U.S.C. 488 et seq.)'' after ``Public Law 91-229'' and 
+inserting ``(25 U.S.C. 5136 et seq.)''.
+  (9) Section 379E(a)(1) of the Consolidated Farm and Rural Development 
+Act (7 U.S.C. 2008s(a)(1)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (10) Section 383A(3) of the Consolidated Farm and Rural Development 
+Act (7 U.S.C. 2009bb(3)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (11) Section 4004(b)(1) of the Agricultural Act of 2014 (Public Law 
+113-79, 7 U.S.C. 2013 note) is amended as follows:
+          (A) Subparagraph (A) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (B) Subparagraph (B) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (12) Section 11(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 
+2020(d)) is amended by striking ``(25 U.S.C. 450)'' and inserting ``(25 
+U.S.C. 5321 et seq.)''.
+  (13) Section 6405(c)(1)(E) of the Farm Security and Rural Investment 
+Act of 2002 (7 U.S.C. 2655(c)(1)(E)) is amended by striking ``(25 
+U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (14) Section 452(1) of the Noxious Weed Control and Eradication Act 
+of 2004 (7 U.S.C. 7781(1)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (15) Section 9001(10) of the Farm Security and Rural Investment Act 
+of 2002 (7 U.S.C. 8101(10)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (16) Section 10403(8) of the Animal Health Protection Act (7 U.S.C. 
+8302(8)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (17) Section 6201(1) of the Omnibus Public Land Management Act of 
+2009 (Public Law 111-11, 7 U.S.C. 8351 note) is amended by striking 
+``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 5. TITLE 8, UNITED STATES CODE.
+
+  Section 402(a)(2)(G)(ii) of the Personal Responsibility and Work 
+Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(a)(2)(G)(ii)) is 
+amended by striking ``(25 U.S.C. 450b(e))'' and inserting ``(25 U.S.C. 
+5304(e))''.
+
+SEC. 6. TITLE 10, UNITED STATES CODE.
+
+  Section 2805(a)(2) of the Military Construction Authorization Act for 
+Fiscal Year 2016 (Public Law 114-92, division B, 10 U.S.C. 2827 note) 
+is amended by striking ``(25 U.S.C. 479a-1)'' and inserting ``(25 
+U.S.C. 5131)''.
+
+SEC. 7. TITLE 12, UNITED STATES CODE.
+
+  Section 1002(27) of the Consumer Financial Protection Act of 2010 (12 
+U.S.C. 5481(27)) is amended by striking ``(25 U.S.C. 479a-1(a))'' and 
+inserting ``(25 U.S.C. 5131(a))''.
+
+SEC. 8. TITLE 15, UNITED STATES CODE.
+
+  (1) Section 1(9) of the Act of October 19, 1949 (15 U.S.C. 375(9)), 
+is amended by--
+          (A) striking ``(25 U.S.C. 450b(e))'' and inserting ``(25 
+        U.S.C. 5304(e))''; and
+          (B) striking ``(25 U.S.C. 479a-1)'' and inserting ``(25 
+        U.S.C. 5131)''.
+  (2) Section 5(a)(1) of the Prevent All Cigarette Trafficking Act of 
+2009 (Public Law 111-154, 15 U.S.C. 375 note) is amended by striking 
+``(25 U.S.C. 450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+  (3) Section 3(d) of the Small Business Act (15 U.S.C. 632(d)) is 
+amended by striking ``section 4(a) of the Indian Self-Determination and 
+Education Assistance Act'' and inserting ``section 4(e) of the Indian 
+Self-Determination and Education Assistance Act (25 U.S.C. 5304(e))''.
+  (4) Section 4(6) of the Federal Fire Prevention and Control Act of 
+1974 (15 U.S.C. 2203(6)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (5) Section 21(a) of the Professional Boxing Safety Act of 1996 (15 
+U.S.C. 6312(a)) is amended as follows:
+          (A) Paragraph (1) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+          (B) Paragraph (3) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+
+SEC. 9. TITLE 16, UNITED STATES CODE.
+
+  (1) The Miccosukee Reserved Area Act (Public Law 105-313, 16 U.S.C. 
+410 note) is amended as follows:
+          (A) Section 4(10) is amended by striking ``(48 Stat. 987; 25 
+        U.S.C. 476)'' and inserting ``(25 U.S.C. 5123)''.
+          (B) Section 8(f)(1)(B) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (2) Section 3003(b)(3) of the Military Construction Authorization Act 
+for Fiscal Year 2015 (16 U.S.C. 539p(b)(3)) is amended by striking 
+``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (3) Section 10(e)(1) (matter before subparagraph (A)) of the Federal 
+Power Act (16 U.S.C. 803(e)(1) (matter before subparagraph (A))) is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 
+5123)''.
+  (4) Section 1005(e)(5) of the Great Lakes Fish and Wildlife 
+Restoration Act of 1990 (16 U.S.C. 941c(e)(5)) is amended by striking 
+``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (5) Section 2 (paragraph defining ``Local organization'') of the 
+Watershed Protection and Flood Prevention Act (16 U.S.C. 1002 
+(paragraph defining ``Local organization'')) is amended by striking 
+``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (6) Section 206(a)(4) of the Fur Seal Act of 1966 (16 U.S.C. 
+1166(a)(4)) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5361 et seq.)''.
+  (7) Section 7A(a)(2) of the Cooperative Forestry Assistance Act of 
+1978 (16 U.S.C. 2103d(a)(2)) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (8) Section 316(c)(1) of the Department of the Interior and Related 
+Agencies Appropriations Act, 1998 (Public Law 105-83, 16 U.S.C. 3102 
+note) is amended by striking ``(25 U.S.C. 461 et seq.)'' and inserting 
+``(25 U.S.C. 5101 et seq.)''.
+  (9) Section 1528(6) of the Agriculture and Food Act of 1981 (16 
+U.S.C. 3451(6)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (10) Section 1201(a)(14) of the Food Security Act of 1985 (16 U.S.C. 
+3801(a)(14)) is amended by striking ``(25 U.S.C. 450b(e))'' and 
+inserting ``(25 U.S.C. 5304(e))''.
+  (11) Section 3(2) of the Healthy Forests Restoration Act of 2003 (16 
+U.S.C. 6502(2)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (12) Section 502(e)(2)(A)(v) of the Healthy Forests Restoration Act 
+of 2003 (16 U.S.C. 6572(e)(2)(A)(v)) is amended by striking ``(25 
+U.S.C. 477)'' and inserting ``(25 U.S.C. 5124)''.
+
+SEC. 10. TITLE 18, UNITED STATES CODE.
+
+  (1) Section 207(j)(1)(B) of title 18, United States Code, is amended 
+by striking ``(25 U.S.C. 450i(j))'' and inserting ``(25 U.S.C. 
+5323(j))''.
+  (2) Section 228(f)(1) of title 18, United States Code, is amended by 
+striking ``(25 U.S.C. 479a)'' and inserting ``(25 U.S.C. 5130)''.
+  (3) Section 841(t) of title 18, United States Code, is amended by 
+striking ``(25 U.S.C. 479a))'' and inserting ``(25 U.S.C. 5130)''.
+  (4) Section 1159(c)(3)(A) of title 18, United States Code, is amended 
+by striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 11. TITLE 20, UNITED STATES CODE.
+
+  (1) Section 16(8) of the National Museum of the American Indian Act 
+(20 U.S.C. 80q-14(8)) is amended by inserting ``(25 U.S.C. 5304)'' 
+after ``section 4 of the Indian Self-Determination and Education 
+Assistance Act''.
+  (2) Section 316(b)(3)(A) of the Higher Education Act of 1965 (20 
+U.S.C. 1059c(b)(3)(A)) is amended by striking ``(25 U.S.C. 640a note)'' 
+after ``Navajo Community College Act''.
+  (3) Section 479C(2) of the Higher Education Act of 1965 (20 U.S.C. 
+1087uu-1(2)) is amended by striking ``(25 U.S.C. 1721 et seq.)'' after 
+``the Maine Indian Claims Settlement Act of 1980''.
+  (4) Section 444(b)(1)(L) of the General Education Provisions Act (20 
+U.S.C. 1232g(b)(1)(L)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (5) Section 611(h)(4)(A) of the Individuals with Disabilities 
+Education Act (20 U.S.C. 1411(h)(4)(A)) is amended by inserting ``(25 
+U.S.C. 5304)'' after ``section 4 of the Indian Self-Determination and 
+Education Assistance Act''.
+  (6) Section 643(b)(1) of the Individuals with Disabilities Education 
+Act (20 U.S.C. 1443(b)(1)) is amended by inserting ``(25 U.S.C. 5304)'' 
+after ``section 4 of the Indian Self-Determination and Education 
+Assistance Act''.
+  (7) Section 661(b)(1)(H) of the Individuals with Disabilities 
+Education Act (20 U.S.C. 1461(b)(1)(H)) is amended by inserting ``(25 
+U.S.C. 5304)'' after ``section 4 of the Indian Self-Determination and 
+Education Assistance Act''.
+  (8) Section 2103(a)(2) of the Elementary and Secondary Education Act 
+of 1965 (20 U.S.C. 6613(a)(2)) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (9) Section 4201(b)(3) of the Safe and Drug-Free Schools and 
+Communities Act of 1994 (20 U.S.C. 7171(b)(3)) is amended by striking 
+``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (10) Section 4622(1)(A) of the Safe and Drug-Free Schools and 
+Communities Act of 1994 (20 U.S.C. 7272(1)(A)) is amended as follows:
+          (A) Clause (ii) is amended by striking ``(25 U.S.C. 450b)'' 
+        and inserting ``(25 U.S.C. 5304)''.
+          (B) Clause (iii)(IV) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (11) Section 6113(d)(1)(A)(ii) of the Elementary and Secondary 
+Education Act of 1965 (20 U.S.C. 7423(d)(1)(A)(ii)) is amended by 
+inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (12) Section 6304(a)(1)(C)(ii) of the Alaska Native Educational 
+Equity, Support, and Assistance Act (20 U.S.C. 7544(a)(1)(C)(ii)) is 
+amended by striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 
+5304)''.
+  (13) Section 6306(2) of the Alaska Native Educational Equity, 
+Support, and Assistance Act (20 U.S.C. 7546(2)) is amended as follows:
+          (A) Subparagraph (A) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (B) Subparagraph (B) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (14) Section 803(5) of the Early Learning Opportunities Act (20 
+U.S.C. 9402(5)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+
+SEC. 12. TITLE 21, UNITED STATES CODE.
+
+  (1) Section 801(h)(3) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 381(h)(3)) is amended by striking ``(25 U.S.C. 450b(e))'' and 
+inserting ``(25 U.S.C. 5304(e))''.
+  (2) Section 900(10) of the Federal Food, Drug, and Cosmetic Act (21 
+U.S.C. 387(10))) is amended by inserting ``(25 U.S.C. 5304(e))'' after 
+``section 4(e) of the Indian Self-Determination and Education 
+Assistance Act''.
+  (3) Section 1009(b)(1)(A)(iv) of the Federal Food, Drug, and Cosmetic 
+Act (21 U.S.C. 399(b)(1)(A)(iv)) is amended by inserting ``(25 U.S.C. 
+5304(e))'' after ``section 4(e) of the Indian Self-Determination and 
+Education Assistance Act''.
+  (4) Section 332(a)(3) of the Public Health Security and Bioterrorism 
+Preparedness and Response Act of 2002 (21 U.S.C. 679c(a)(3)) is amended 
+by striking ``(25 U.S.C. 450b(e))'' and inserting ``(25 U.S.C. 
+5304(e))''.
+  (5) Section 1032(a)(2)(B)(ii) of the National Narcotics Leadership 
+Act of 1988 (21 U.S.C. 1532(a)(2)(B)(ii)) is amended by striking ``(25 
+U.S.C. 450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+
+SEC. 13. TITLE 22, UNITED STATES CODE.
+
+  Section 4 of the Tourism Policy and Export Promotion Act of 1992 (22 
+U.S.C. 2124c) is amended as follows:
+          (A) Subsection (e)(2) is amended by striking ``(25 U.S.C. 
+        451)'' and inserting ``(25 U.S.C. 5341)''.
+          (B) Subsection (m)(2) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+
+SEC. 14. TITLE 23, UNITED STATES CODE.
+
+  Section 207(l) (matter before paragraph (1)) of title 23, United 
+States Code, is amended by inserting ``(25 U.S.C. 5301 et seq.)'' after 
+``Indian Self-Determination and Education Assistance Act''.
+
+SEC. 15. TITLE 25, UNITED STATES CODE.
+
+  (1) Section 1102(a) of the Education Amendments of 1978 (Public Law 
+95-561, 25 U.S.C. 13 note) is amended by inserting ``(25 U.S.C. 5342 et 
+seq.)'' after ``Johnson-O'Malley Act''.
+  (2) Section 1103(b) of the Education Amendments of 1978 (25 U.S.C. 
+13-1) is amended by inserting ``(25 U.S.C. 5342 et seq.)'' after ``such 
+Act of April 16, 1934''.
+  (3) The 7th proviso in the 1st paragraph under the heading 
+``operation of indian programs'', under the heading ``Bureau of Indian 
+Affairs'', in title I of the Department of the Interior and Related 
+Agencies Appropriations Act, 1985 (25 U.S.C. 13d) is amended by 
+striking ``(94 Stat. 1793, 1794, 1796; 25 U.S.C. 1725(b)(2), 1725(i), 
+1728(b))'' and inserting ``(94 Stat. 1793, 1794, 1796)''.
+  (4) Section 5404(a)(1) of the Augustus F. Hawkins-Robert T. Stafford 
+Elementary and Secondary School Improvement Amendments of 1988 (25 
+U.S.C. 13d-2(a)(1)) is amended by striking ``(85 Stat. 645; 25 U.S.C. 
+640a)'' and inserting (85 Stat. 645)''.
+  (5) The matter beginning with ``hereafter'' before the 1st proviso 
+under the heading ``administrative provisions'', under the heading 
+``Bureau of Indian Affairs'', in title I of the Department of the 
+Interior and Related Agencies Appropriations Act, 1985 (25 U.S.C. 13e) 
+is amended by striking ``(25 U.S.C. 452 et seq.)'' and inserting ``(25 
+U.S.C. 5342 et seq.)''.
+  (6) Section 2103(a)(2) of the Revised Statutes (25 U.S.C. 81(a)(2)) 
+is amended by striking ``(25 U.S.C. 450b(e))'' and inserting ``(25 
+U.S.C. 5304(e))''.
+  (7) The 8th proviso in the 1st paragraph under the heading 
+``operation of indian programs'', under the heading ``Bureau of Indian 
+Affairs'', in title I of the Supplemental Appropriations Act, 1983 (25 
+U.S.C. 292b (last proviso)) is amended by striking ``(25 U.S.C. 452 et 
+seq.)'' and inserting ``(25 U.S.C. 5342 et seq.)''.
+  (8) Section 2 of the Act of July 14, 1956 (25 U.S.C. 304a (2d 
+paragraph)), is amended by striking ``25 U.S.C. 452'' and inserting 
+``25 U.S.C. 5342''.
+  (9) Section 6(a)(3)(A) of the Act of August 27, 1935 (25 U.S.C. 
+305e(a)(3)(A)), is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (10) Section 2 of the Act of February 5, 1948 (25 U.S.C. 324), is 
+amended by--
+          (A) striking ``(48 Stat. 984), as amended'' and inserting 
+        ``(25 U.S.C. 5101 et seq.)'';
+          (B) striking ``(49 Stat. 1250)'' and inserting ``(25 U.S.C. 
+        5119)''; and
+          (C) striking ``(49 Stat. 1967)'' and inserting ``(25 U.S.C. 
+        5201 et seq.)''.
+  (11) Section 3(i) of the White Earth Reservation Land Settlement Act 
+of 1985 (Public Law 99-264, 25 U.S.C. 331 note) is amended by inserting 
+``(25 U.S.C. 5101 et seq.)'' after ``the Indian Reorganization Act of 
+June 18, 1934''.
+  (12) The 4th proviso of the Act of April 4, 1938 (25 U.S.C. 390), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 
+5123)''.
+  (13) The proviso of section 2 of the Act of May 11, 1938 (25 U.S.C. 
+396b), is amended by--
+          (A) striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 
+        5123, 5124)''; and
+          (B) inserting ``(25 U.S.C. 5101 et seq.)'' after ``pursuant 
+        to the Act of June 18, 1934''.
+  (14) Section 1 of the Act of August 9, 1955 (25 U.S.C. 415), is 
+amended as follows:
+          (A) Subsection (d)(9) is amended by striking ``(25 U.S.C. 
+        479a)'' and inserting ``(25 U.S.C. 5130)''.
+          (B) Subsection (h)(3)(D) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (15) Section 101 of the Indian Financing Act of 1974 (25 U.S.C. 1461) 
+is amended by--
+          (A) striking ``(48 Stat. 986)'' and inserting ``(25 U.S.C. 
+        5101 et seq.)'';
+          (B) striking ``(49 Stat. 1968)'' and inserting ``(25 U.S.C. 
+        5201 et seq.)''; and
+          (C) striking ``(64 Stat. 190)'' and inserting ``(25 U.S.C. 
+        1545, 1546)''.
+  (16) Section 2 of the Act of May 24, 1950 (25 U.S.C. 1546), is 
+amended by--
+          (A) striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 
+        5101 et seq.)''; and
+          (B) striking ``(49 Stat. 1967), as amended and supplemented'' 
+        and inserting ``(25 U.S.C. 5201 et seq.)''.
+  (17) Section 4 of the Indian Health Care Improvement Act (25 U.S.C. 
+1603) is amended as follows:
+          (A) Paragraph (25) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Paragraph (26) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (18) Section 104(b)(3)(A)(ii) of the Indian Health Care Improvement 
+Act (25 U.S.C. 1613a(b)(3)(A)(ii)) is amended by inserting ``(25 U.S.C. 
+5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (19) Section 108(a)(2)(A)(ii)(I) of the Indian Health Care 
+Improvement Act (25 U.S.C. 1616a(a)(2)(A)(ii)(I)) is amended by 
+inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (20) Section 108A(c)(1) (matter before subparagraph (A)) of the 
+Indian Health Care Improvement Act (25 U.S.C. 1616a-1(c)(1) (matter 
+before subparagraph (A))) is amended by inserting ``(25 U.S.C. 5321 et 
+seq.)'' after ``Indian Self-Determination Act''.
+  (21) Section 110(b)(2) of the Indian Health Care Improvement Act (25 
+U.S.C. 1616c(b)(2)) is amended by inserting ``(25 U.S.C. 5321 et 
+seq.)'' after ``Indian Self-Determination Act''.
+  (22) Section 111(c) of the Indian Health Care Improvement Act (25 
+U.S.C. 1616d(c)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (23) Section 112(f)(B) of the Indian Health Care Improvement Act (25 
+U.S.C. 1616e(f)(B)) is amended by inserting ``(25 U.S.C. 5321 et 
+seq.)'' after ``Indian Self-Determination Act''.
+  (24) Section 117(f) (matter before paragraph (1)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1616j(f) (matter before 
+paragraph (1))) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (25) Section 201(a) (matter before paragraph (1)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1621(a) (matter before paragraph 
+(1))) is amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+``(25 U.S.C. 5301 et seq.)''.
+  (26) Section 202(c) of the Indian Health Care Improvement Act (25 
+U.S.C. 1621a(c)) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+  (27) Section 204(e)(2)(B) of the Indian Health Care Improvement Act 
+(25 U.S.C. 1621c(e)(2)(B)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (28) Section 205(a)(2) of the Indian Health Care Improvement Act (25 
+U.S.C. 1621d(a)(2)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (29) Section 206(e)(3)(A) of the Indian Health Care Improvement Act 
+(25 U.S.C. 1621e(e)(3)(A)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (30) Section 208 of the Indian Health Care Improvement Act (25 U.S.C. 
+1621g) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after 
+``Indian Self-Determination Act''.
+  (31) Section 209 of the Indian Health Care Improvement Act (25 U.S.C. 
+1621h) is amended as follows:
+          (A) Subsection (d)(3)(A) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (k)(3) is amended by inserting ``(25 U.S.C. 
+        5321 et seq.)'' after ``Indian Self-Determination Act''.
+          (C) Subsection (l) (matter before paragraph (1)) is amended 
+        by inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+        Determination Act''.
+  (32) Section 213(b) (matter before paragraph (1)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1621l(b) (matter before 
+paragraph (1))) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+  (33) Section 214(a)(3) of the Indian Health Care Improvement Act (25 
+U.S.C. 1621m(a)(3)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (34) Section 219(a) (matter before paragraph (1)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1621r(a) (matter before 
+paragraph (1))) is amended by striking ``(25 U.S.C. 450f et seq.)'' and 
+inserting ``(25 U.S.C. 5321 et seq.)''.
+  (35) Section 221 of the Indian Health Care Improvement Act (25 U.S.C. 
+1621t) is amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+``(25 U.S.C. 5301 et seq.)''.
+  (36) Section 301 of the Indian Health Care Improvement Act (25 U.S.C. 
+1631) is amended as follows:
+          (A) Subsection (c)(1)(B) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (c)(1)(C) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (C) Subsection (e) is amended by--
+                  (i) striking ``(25 U.S.C. 450f)'' and inserting ``(25 
+                U.S.C. 5321)''; and
+                  (ii) striking ``(25 U.S.C. 458aaa-3, 458aaa-4)'' and 
+                inserting ``(25 U.S.C. 5384, 5385)''.
+          (D) Subsection (h) is amended by inserting ``(25 U.S.C. 
+        5321)'' after ``section 102 of the Indian Self-Determination 
+        Act''.
+  (37) Section 302 of the Indian Health Care Improvement Act (25 U.S.C. 
+1632) is amended as follows:
+          (A) Subsection (f) (matter before paragraph (1)) is amended 
+        by inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+        Determination Act''.
+          (B) Subsection (g)(2) is amended by inserting ``(25 U.S.C. 
+        5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (38) Section 305(a)(1) (matter before subparagraph (A)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1634(a)(1) (matter before 
+subparagraph (A))) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (39) Section 306 of the Indian Health Care Improvement Act (25 U.S.C. 
+1636) is amended as follows:
+          (A) Subsection (a)(2) is amended by inserting ``(25 U.S.C. 
+        5321 et seq.)'' after ``Indian Self-Determination Act''.
+          (B) Subsection (b)(1)(C)(iii) is amended by inserting ``(25 
+        U.S.C. 5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (40) Section 307 of the Indian Health Care Improvement Act (25 U.S.C. 
+1637) is amended as follows:
+          (A) Subsection (a)(1) (matter before subparagraph (A)) is 
+        amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+        ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (a)(2) (matter before subparagraph (A)) is 
+        amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+        ``(25 U.S.C. 5301 et seq.)''.
+          (C) Subsection (f) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (D) Subsection (g) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (41) Section 309(a)(1) of the Indian Health Care Improvement Act (25 
+U.S.C. 1638a(a)(1)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (42) Section 311(a)(2)(B) of the Indian Health Care Improvement Act 
+(25 U.S.C. 1638e(a)(2)(B)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (43) Section 312(d)(1) of the Indian Health Care Improvement Act (25 
+U.S.C. 1638f(d)(1)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (44) Section 401(d)(4) of the Indian Health Care Improvement Act (25 
+U.S.C. 1641(d)(4)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (45) Section 402(a) (matter before paragraph (1)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1642(a) (matter before paragraph 
+(1))) is amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+``(25 U.S.C. 5301 et seq.)''.
+  (46) Section 407(b)(1)(B) of the Indian Health Care Improvement Act 
+(25 U.S.C. 1647(b)(1)(B)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (47) Section 512(3) of the Indian Health Care Improvement Act (25 
+U.S.C. 1660b(3)) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+  (48) The 10th paragraph under the heading ``administrative 
+provisions, indian health service'' in title II of the Department of 
+the Interior and Related Agencies Appropriations Act, 2005 (Public Law 
+108-447, division E, 25 U.S.C. 1660b note) is amended by striking ``(25 
+U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (49) Section 601 of the Indian Health Care Improvement Act (25 U.S.C. 
+1661) is amended as follows:
+          (A) Subsection (c)(3)(E) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (d)(2) is amended by striking ``(48 Stat. 986; 
+        25 U.S.C. 472)'' and inserting ``(25 U.S.C. 5116)''.
+  (50) Section 602(b)(1) (matter before subparagraph (A)) of the Indian 
+Health Care Improvement Act (25 U.S.C. 1662(b)(1) (matter before 
+subparagraph (A))) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (51) Section 708 of the Indian Health Care Improvement Act (25 U.S.C. 
+1665g) is amended as follows:
+          (A) Subsection (a) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (b)(4)(A)(ii) is amended by striking ``(25 
+        U.S.C. 450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+  (52) Section 811 (matter before paragraph (1)) of the Indian Health 
+Care Improvement Act (25 U.S.C. 1680a (matter before paragraph (1))) is 
+amended by inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (53) Section 813 of the Indian Health Care Improvement Act (25 U.S.C. 
+1680c) is amended as follows:
+          (A) Subsection (c)(2) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (e)(1) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (C) Subsection (e)(2)(B) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (54) Section 820 of the Indian Health Care Improvement Act (25 U.S.C. 
+1680j) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after 
+``Indian Self-Determination Act''.
+  (55) Section 822(a) of the Indian Health Care Improvement Act (25 
+U.S.C. 1680l(a)) is amended as follows:
+          (A) Paragraph (1) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Paragraph (2) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (56) Section 828(a) of the Indian Health Care Improvement Act (25 
+U.S.C. 1680r(a)) is amended by striking ``(25 U.S.C. 458aaa et seq.)'' 
+and inserting ``(25 U.S.C. 5381 et seq.)''.
+  (57) Section 831 of the Indian Health Care Improvement Act (25 U.S.C. 
+1680u) is amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting 
+``(25 U.S.C. 5301 et seq.)''.
+  (58) Section 601(f) of the Tom Lantos and Henry J. Hyde United States 
+Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria 
+Reauthorization Act of 2008 (25 U.S.C. 1684(f)) is amended as follows:
+          (A) The matter before paragraph (1) is amended by striking 
+        ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (B) Paragraph (1)(D)(i) is amended by striking ``(25 U.S.C. 
+        479a)'' and inserting ``(25 U.S.C. 5130)''.
+          (C) Paragraph (2)(A) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (D) Paragraph (2)(B) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (E) Paragraph (3) (matter before subparagraph (A)) is amended 
+        by striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 
+        U.S.C. 5301 et seq.)''.
+          (F) Paragraph (3)(C) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (59) Section 4033 of the Agricultural Act of 2014 (25 U.S.C. 1685) is 
+amended as follows:
+          (A) Subsection (b)(4) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (B) Subsection (b)(6) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304)''.
+          (C) Subsection (d)(2) is amended by striking ``(25 U.S.C. 
+        1450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (60) Section 109(b)(3) of the Tribally Controlled Colleges and 
+Universities Assistance Act of 1978 (25 U.S.C. 1809(b)(3)) is amended 
+by striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 
+et seq.)''.
+  (61) Section 112(a)(2) of the Tribally Controlled Colleges and 
+Universities Assistance Act of 1978 (25 U.S.C. 1812(a)(2)) is amended 
+by striking ``(70 Stat. 1057; 25 U.S.C. 443a)'' and inserting ``(ch. 
+979, 43 U.S.C. 1457 note)''.
+  (62) Section 503 of the Tribally Controlled Colleges and Universities 
+Assistance Act of 1978 (25 U.S.C. 1863) is amended as follows:
+          (A) Subsection (b) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (c) is amended by striking ``(25 U.S.C. 450 et 
+        seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (63) Section 1121(b)(8) of the Education Amendments of 1978 (25 
+U.S.C. 2001(b)(8)) is amended as follows:
+          (A) Subparagraph (D)(iv)(III) is amended by inserting ``(25 
+        U.S.C. 5321 et seq.)'' after ``Indian Self-Determination Act''.
+          (B) Subparagraph (E)(iv) is amended by inserting ``(25 U.S.C. 
+        5321 et seq.)'' after ``Indian Self-Determination Act''.
+          (C) Subparagraph (E)(v) is amended by inserting ``(25 U.S.C. 
+        5324(e))'' after ``section 105(e) of the Indian Self-
+        Determination Act''.
+  (64) Section 1128(h) (matter before paragraph (1)) of the Education 
+Amendments of 1978 (25 U.S.C. 2008(h) (matter before paragraph (1))) is 
+amended by inserting ``(25 U.S.C. 5325)'' after ``section 106 of the 
+Indian Self-Determination and Education Assistance Act''.
+  (65) Section 1130 of the Education Amendments of 1978 (25 U.S.C. 
+2010) is amended as follows:
+          (A) Subsection (c) is amended by inserting ``(25 U.S.C. 
+        5322(a))'' after ``section 103(a) of the Indian Self-
+        Determination and Education Assistance Act''.
+          (B) Subsection (e)(2) is amended by inserting ``(25 U.S.C. 
+        5342 et seq.)'' after ``the Act of April 16, 1934''.
+  (66) Section 1132(f)(2)(A) of the Education Amendments of 1978 (25 
+U.S.C. 2012(f)(2)(A)) is amended as follows:
+          (A) Clause (i) is amended by striking ``(48 Stat. 986, 
+        chapter 576)'' and inserting ``(25 U.S.C. 5116)''.
+          (B) Clause (ii) is amended by inserting ``(25 U.S.C. 
+        5307(b))'' after ``section 7(b) of the Indian Self-
+        Determination and Education Assistance Act''.
+  (67) Section 1140(g) of the Education Amendments of 1978 (25 U.S.C. 
+2020(g)) is amended by inserting ``(25 U.S.C. 5322(a))'' after 
+``section 103(a) of the Indian Self-Determination and Education 
+Assistance Act''.
+  (68) Section 1141(6) of the Education Amendments of 1978 (25 U.S.C. 
+2021(6)) is amended by inserting ``(25 U.S.C. 5321, 5322(a), 5355)'' 
+after ``section 102, 103(a), or 208 of the Indian Self-Determination 
+and Education Assistance Act''.
+  (69) Section 9 of the Indian Mineral Development Act of 1982 (25 
+U.S.C. 2108) is amended by--
+          (A) striking ``(48 Stat. 987)'' and inserting ``(25 U.S.C. 
+        5123, 5124)''; and
+          (B) inserting ``(25 U.S.C. 5101 et seq.)'' after ``that 
+        Act''.
+  (70) Section 202(2)(B) of the Indian Land Consolidation Act (25 
+U.S.C. 2201(2)(B)) is amended by striking ``(25 U.S.C. 479)'' and 
+inserting ``(25 U.S.C. 5129)''.
+  (71) Section 203 of the Indian Land Consolidation Act (25 U.S.C. 
+2202) is amended by-
+          (A) striking ``(48 Stat. 985)'' and inserting ``(25 U.S.C. 
+        5108)''; and
+          (B) inserting ``(25 U.S.C. 5125)'' after ``section 18 of such 
+        Act''.
+  (72) Section 207(b)(2)(B) of the Indian Land Consolidation Act (25 
+U.S.C. 2206(b)(2)(B)) is amended as follows:
+          (A) Clause (i) (matter before subclause (I)) is amended by--
+                  (i) striking the closing quotation mark and semicolon 
+                after ``any interest''; and
+                  (ii) striking ``(25 U.S.C. 464)'' and inserting ``(25 
+                U.S.C. 5107)''.
+          (B) Clause (iii) is amended by--
+                  (i) striking `` nothing; and in'' and inserting `` 
+                nothing in''; and
+                  (ii) striking ``(25 U.S.C. 464)'' and inserting ``(25 
+                U.S.C. 5107)''.
+  (73) Section 213(c)(1)(B) of the Indian Land Consolidation Act (25 
+U.S.C. 2212(c)(1)(B)) is amended by striking ``(25 U.S.C. 483a)'' and 
+inserting ``(25 U.S.C. 5135)''.
+  (74) Section 214(b)(2)(B) of the Indian Land Consolidation Act (25 
+U.S.C. 2213(b)(2)(B)) is amended by striking ``(25 U.S.C. 476)'' and 
+inserting ``(25 U.S.C. 5123)''.
+  (75) Section 4204(5) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2403(5)) is amended by 
+inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (76) Section 4205(b) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2411(b)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (77) Section 509(c) of the Indian Health Care Amendments of 1990 
+(Public Law 101-630, title V, 25 U.S.C. 2415 note) is amended by--
+          (A) inserting ``(25 U.S.C. 5321)'' after ``section 102 of the 
+        Indian Self-Determination and Education Assistance Act''; and
+          (B) inserting ``(25 U.S.C. 5304(l))'' after ``section 4(l) of 
+        that Act''.
+  (78) Section 4212(b)(1) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2432(b)(1)) is amended 
+by striking ``(25 U.S.C. 452 et seq.)'' and inserting ``(25 U.S.C. 5342 
+et seq.)''.
+  (79) Section 4213(e) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2433(e)) is amended as 
+follows:
+          (A) Paragraph (3) is amended by inserting ``(25 U.S.C. 5321 
+        et seq.)'' after ``Indian Self-Determination Act''.
+          (B) Paragraph (5)(A) is amended by inserting ``(25 U.S.C. 
+        5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (80) Section 4214(a) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2434(a)) is amended by 
+inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (81) Section 4216(b)(1) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2442(b)(1)) is amended 
+by striking ``(25 U.S.C. 450f et seq.)'' and inserting ``(25 U.S.C. 
+5321 et seq.)''.
+  (82) Section 4222(a) of the Indian Alcohol and Substance Abuse 
+Prevention and Treatment Act of 1986 (25 U.S.C. 2455(a)) is amended by 
+inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (83) Section 122 of the Department of the Interior and Related 
+Agencies Appropriations Act, 2003 (Public Law 108-7, division F, 25 
+U.S.C. 2501 note) is amended as follows:
+          (A) Subsection (a)(2) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+          (B) Subsection (c)(1) is amended by--
+                  (i) striking ``A grant received'' and inserting ``a 
+                grant received''; and
+                  (ii) striking ``(25 U.S.C. 450 et seq.)'' and 
+                inserting ``(25 U.S.C. 5301 et seq.)''.
+          (C) Subsection (c)(2) is amended by inserting ``(25 U.S.C. 
+        5301 et seq.)'' after ``Indian Self-Determination and Education 
+        Assistance Act''.
+  (84) Section 5204(a)(2) of the Tribally Controlled Schools Act of 
+1988 (25 U.S.C. 2503(a)(2)) is amended by inserting ``(25 U.S.C. 
+5324)'' after ``section 105 of the Indian Self-Determination Act''.
+  (85) Section 5208(a) of the Tribally Controlled Schools Act of 1998 
+(25 U.S.C. 2507(a)) is amended as follows:
+          (A) The matter before paragraph (1) is amended by inserting 
+        ``(25 U.S.C. 5301 et seq.)'' after ``Indian Self-Determination 
+        and Education Assistance Act''.
+          (B) Paragraph (1) is amended by inserting ``(25 U.S.C. 
+        5305(f))'' after ``Section 5(f)''.
+          (C) Paragraph (2) is amended by inserting ``(25 U.S.C. 
+        5306)'' after ``Section 6''.
+          (D) Paragraph (3) is amended by inserting ``(25 U.S.C. 
+        5307)'' after ``Section 7''.
+          (E) Paragraph (4) is amended by inserting ``(25 U.S.C. 
+        5323)'' after ``Section 104''.
+          (F) Paragraph (5) is amended by inserting ``(25 U.S.C. 
+        5324(f))'' after ``Section 105(f)''.
+          (G) Paragraph (6) is amended by inserting ``(25 U.S.C. 
+        5324(k))'' after ``Section 105(k)''.
+          (H) Paragraph (7) is amended by inserting ``(25 U.S.C. 
+        5324(l))'' after ``Section 105(l)''.
+          (I) Paragraph (8) is amended by inserting ``(25 U.S.C. 
+        5325(f))'' after ``Section 106(f)''.
+          (J) Paragraph (9) is amended by inserting ``(25 U.S.C. 
+        5325(j))'' after ``Section 106(j)''.
+          (K) Paragraph (10) is amended by inserting ``(25 U.S.C. 
+        5325(k))'' after ``Section 106(k)''.
+          (L) Paragraph (11) is amended to read as follows:
+          ``(11) Section 108(c) (25 U.S.C. 5329(c)) (model agreement 
+        provisions (1)(b)(5) (relating to limitation of costs), 
+        (1)(b)(7) (relating to records and monitoring), (1)(b)(8) 
+        (relating to property), and (1)(b)(9) (relating to availability 
+        of funds)).''
+          (M) Paragraph (12) is amended by inserting ``(25 U.S.C. 
+        5330)'' after ``Section 109''.
+          (N) Paragraph (13) is amended by inserting ``(25 U.S.C. 
+        5332)'' after ``Section 111''.
+  (86) Section 20(b)(3) of the Indian Gaming Regulatory Act (25 U.S.C. 
+2719(b)(3)) is amended by striking ``(48 Stat. 985; 25 U.S.C. 465, 
+467)'' and inserting ``(25 U.S.C. 5108, 5110)''.
+  (87) Section 203(a)(2) of the Tribal Law and Order Act of 2010 
+(Public Law 111-211, 25 U.S.C. 2801 note) is amended by striking ``(25 
+U.S.C. 479a)'' and inserting ``(25 U.S.C. 5130)''.
+  (88) Section 3(e)(4)(B) of the Indian Law Enforcement Reform Act (25 
+U.S.C. 2802(e)(4)(B)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (89) Section 5(g)(2) of the Indian Law Enforcement Reform Act (25 
+U.S.C. 2804(g)(2)) is amended by striking ``section 701(a) of the 
+Indian Self-Determination and Education Assistance Act'' and inserting 
+``section 702(a) of the Indian Self-Determination and Education 
+Assistance Act (25 U.S.C. 5412(a))''.
+  (90) Section 6 of the Indian Law Enforcement Reform Act (25 U.S.C. 
+2805) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after 
+``Indian Self-Determination Act''.
+  (91) Section 103(5) of the Native American Languages Act (25 U.S.C. 
+2902(5)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (92) Section 8102(5) of the Food, Conservation, and Energy Act of 
+2008 (25 U.S.C. 3052(5)) is amended by striking ``(25 U.S.C. 479a-1)'' 
+and inserting ``(25 U.S.C. 5131)''.
+  (93) Section 305(a) of the National Indian Forest Resources 
+Management Act (25 U.S.C. 3104(a)) is amended by striking ``(25 U.S.C. 
+450 et seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (94) Section 313(b) of the National Indian Forest Resources 
+Management Act (25 U.S.C. 3112(b)) is amended by striking ``(25 U.S.C. 
+450 et seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (95) Section 314(c)(2)(B) of the National Indian Forest Resources 
+Management Act (25 U.S.C. 3113(c)(2)(B)) is amended by striking ``(25 
+U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (96) Section 2(a)(3) of the Tribal Forest Protection Act of 2004 (25 
+U.S.C. 3115a(a)(3)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (97) Section 403(10) of the Indian Child Protection and Family 
+Violence Prevention Act (25 U.S.C. 3202(10)) is amended by striking 
+``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (98) Section 410(g) of the Indian Child Protection and Family 
+Violence Prevention Act (25 U.S.C. 3209(g)) is amended by inserting 
+``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (99) Section 411(b) of the Indian Child Protection and Family 
+Violence Prevention Act (25 U.S.C. 3210(b)) is amended by inserting 
+``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-Determination Act''.
+  (100) Section 1317 of the Higher Education Tribal Grant Authorization 
+Act (25 U.S.C. 3307) is amended as follows:
+          (A) Subsection (c) is amended by striking ``(25 U.S.C. 450c 
+        et seq.)'' and inserting ``(25 U.S.C. 5305, 5306, 5307, 5324, 
+        5330, 5331)''.
+          (B) Subsection (e) is amended by inserting ``(25 U.S.C. 5321 
+        et seq.)'' after ``Indian Self-Determination Act''.
+          (C) Subsection (f)(2) is amended by striking ``sections 4(d) 
+        and (e), respectively, of the Indian Self Determination and 
+        Education Assistance Act (P.L. 93-638, 20 U.S.C. 450b)'' and 
+        inserting ``subsections (d) and (e), respectively, of section 4 
+        of the Indian Self-Determination and Education Assistance Act 
+        (25 U.S.C. 5304(d), (e))''.
+  (101) Section 1322 of the Critical Needs for Tribal Development Act 
+(25 U.S.C. 3322) is amended as follows:
+          (A) Paragraph (2) is amended by inserting ``(25 U.S.C. 5301 
+        et seq.)'' after ``Indian Self-Determination and Education 
+        Assistance Act''.
+          (B) Paragraph (3) is amended by striking ``(Public Law 93-
+        638, 20 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304(d))''.
+  (102) Section 3(3) of the Indian Employment, Training and Related 
+Services Demonstration Act of 1992 (25 U.S.C. 3402(3)) is amended by 
+inserting ``(25 U.S.C. 5304(d))'' after ``section 4(d) of the Indian 
+Self-Determination and Education Assistance Act''.
+  (103) Section 2601(4)(A) of the Energy Policy Act of 1992 (25 U.S.C. 
+3501(4)(A)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (104) Section 3(7) of the Indian Tribal Justice Act (25 U.S.C. 
+3602(7)) is amended by inserting ``(25 U.S.C. 5304(l))'' after 
+``section 4(l) of the Indian Self-Determination and Education 
+Assistance Act''.
+  (105) Section 4(h) of the Indian Dams Safety Act of 1994 (25 U.S.C. 
+3803(h)) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+  (106) Section 6(a) of the Indian Lands Open Dump Cleanup Act of 1994 
+(25 U.S.C. 3905(a)) is amended by striking ``(25 U.S.C. 450 et seq.)'' 
+and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (107) Section 2(7) of the Native American Housing Assistance and 
+Self-Determination Act of 1996 (25 U.S.C. 4101(7)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (108) Section 4(13)(B) of the Native American Housing Assistance and 
+Self-Determination Act of 1996 (25 U.S.C. 4103(13)(B)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (109) Section 202(8)(A) of the Native American Housing Assistance and 
+Self-Determination Act of 1996 (25 U.S.C. 4132(8)(A)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (110) Section 3 of the Indian Tribal Regulatory Reform and Business 
+Development Act of 2000 (Public Law 106-447, 25 U.S.C. 4301 note) is 
+amended as follows:
+          (A) Paragraph (3) is amended by striking ``(25 U.S.C. 
+        450b(d))'' and inserting ``(25 U.S.C. 5304(d))''.
+          (B) Paragraph (5) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+          (C) Paragraph (7) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+  (111) Section 3 of the Native American Business Development, Trade 
+Promotion, and Tourism Act of 2000 (25 U.S.C. 4302) is amended as 
+follows:
+          (A) Paragraph (2) is amended by striking ``tribe'' and 
+        inserting ``Tribe''.
+          (B) Paragraph (3) is amended by striking ``(25 U.S.C. 
+        450b(d))'' and inserting ``(25 U.S.C. 5304(d))''.
+          (C) Paragraph (5)(B)(i) is amended by striking ``tribe'' and 
+        inserting ``Tribe''.
+          (D) Paragraph (7) is amended--
+                  (i) by striking ``The term `Indian tribe' has the 
+                meaning given that term'' and inserting ``The term 
+                `Indian Tribe' has the meaning given the term `Indian 
+                tribe'''; and
+                  (ii) by striking ``(25 U.S.C. 450b(e))'' and 
+                inserting ``(25 U.S.C. 5304(e))''.
+          (E) Paragraph (10) is amended by striking ``tribe'' and 
+        inserting ``Tribe''.
+          (F) Paragraph (11) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+  (112) Section 3 of the Native American Tourism and Improving Visitor 
+Experience Act (25 U.S.C. 4352) is amended as follows:
+          (A) Paragraph (2) is amended by striking ``(25 U.S.C. 450b)'' 
+        and inserting ``(25 U.S.C. 5304)''.
+          (B) Paragraph (4) is amended by striking ``(25 U.S.C. 450b)'' 
+        and inserting ``(25 U.S.C. 5304)''.
+  (113) Section 1 of the Act of May 27, 1955 (ch. 106, 25 U.S.C. 5103 
+note), is amended by--
+          (A) striking ``(48 Stat. 984; 25 U.S.C. 461-479)'' and 
+        inserting ``(25 U.S.C. 5101 et seq.)''; and
+          (B) striking ``Act of August 26, 1937 (50 Stat. 862, 863; 25 
+        U.S.C. 463)'' and inserting ``Act of August 28, 1937 (25 U.S.C. 
+        5103)''.
+  (114) Section 4 of the Act of August 10, 1939 (25 U.S.C. 5106), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 
+5108)''.
+  (115) Section 5 of the Act of June 18, 1934 (25 U.S.C. 5108), is 
+amended by striking ``(25 U.S.C. 608 et seq.)'' after ``Act of July 28, 
+1955 (69 Stat. 392), as amended''.
+  (116) Section 2(e)(2) of Public Law 96-135 (25 U.S.C. 5117(e)(2)) is 
+amended by striking ``(25 U.S.C. 472; 48 Stat. 986)'' and inserting 
+``(25 U.S.C. 5116)''.
+  (117) Section 1 of the Act of May 1, 1936 (25 U.S.C. 5119), is 
+amended--
+          (A) in the text before the proviso, by striking ``(48 Stat. 
+        984)'' and inserting ``(25 U.S.C. 5101, 5108, 5110, 5111, 5121, 
+        5124, 5129)''; and
+          (B) in the proviso, by striking ``(48 Stat. 984)'' and 
+        inserting ``(25 U.S.C. 5123, 5124, 5113)''.
+  (118) The 1st proviso of section 2 of the Second Deficiency 
+Appropriation Act, fiscal year 1935 (25 U.S.C. 5122) is amended by--
+          (A) striking ``(48 Stat. L. 984)'' and inserting ``(25 U.S.C. 
+        5101 et seq.)''; and
+          (B) inserting ``(25 U.S.C. 5108)'' after ``section 5 of such 
+        Act''.
+  (119) Section 16(f) of the Act of June 18, 1934 (25 U.S.C. 5123(f)), 
+is amended by striking ``(25 U.S.C. 461 et seq., 48 Stat. 984)'' and 
+inserting ``(25 U.S.C. 5101 et seq.)''.
+  (120) Section 3(a) (matter before paragraph (1)) of Public Law 101-
+301 (25 U.S.C. 5126 (matter before paragraph (1)) is amended by--
+          (A) striking ``(48 Stat. 988; 25 U.S.C. 478)'' and inserting 
+        ``(25 U.S.C. 5125)''; and
+          (B) striking ``(25 U.S.C. 462 and 477)'' and inserting ``(25 
+        U.S.C. 5102, 5124)''.
+  (121) Section 1 of the Act of June 15, 1935 (25 U.S.C. 5127), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 
+et seq.)''.
+  (122) Section 4 of the Act of June 15, 1935 (25 U.S.C. 5128), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 
+et seq.)''.
+  (123) Section 1 (proviso in 9th paragraph under the heading 
+``industrial assistance and advancement'') of the Interior Department 
+Appropriation Act, 1940 (25 U.S.C. 5132) is amended by striking ``(48 
+Stat. 986)'' and inserting ``(25 U.S.C. 5101 et seq.)''.
+  (124) The Act of May 7, 1948 (25 U.S.C. 5133), is amended by striking 
+``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 et seq.)''.
+  (125) The Act of May 14, 1948 (25 U.S.C. 5134), is amended by 
+striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 et seq.)''.
+  (126) Section 1(a) of Public Law 91-229 (25 U.S.C. 5136(a)) is 
+amended by--
+          (A) striking ``(25 U.S.C. 477)'' and inserting ``(25 U.S.C. 
+        5124)''; and
+          (B) inserting ``(25 U.S.C. 5101 et seq.)'' after 
+        ``incorporated by the Secretary pursuant to the Indian 
+        Reorganization Act''.
+  (127) Section 5403 of the Agricultural Act of 2014 (25 U.S.C. 5137) 
+is amended by striking ``(25 U.S.C. 488)'' and inserting ``(25 U.S.C. 
+5136)''.
+  (128) Section 203 (matter before paragraph (1)) of the Native 
+American Technical Corrections Act of 2006 (25 U.S.C. 5144 (matter 
+before paragraph (1)) is amended by striking ``(25 U.S.C. 488)'' and 
+inserting ``(25 U.S.C. 5136)''.
+  (129) Section 3 of the Act of June 26, 1936 (25 U.S.C. 5203), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 
+et seq.)''.
+  (130) Section 4 of the Act of June 26, 1936 (25 U.S.C. 5204), is 
+amended by striking ``(48 Stat. 984)'' and inserting ``(25 U.S.C. 5101 
+et seq.)''.
+  (131) Section 7 of the Act of June 26, 1936 (25 U.S.C. 5207), is 
+amended by--
+          (A) striking ``in the Act of June 18, 1934 (48 Stat. 984)'' 
+        and inserting ``in the Act of June 18, 1934 (25 U.S.C. 5101 et 
+        seq.)'';
+          (B) inserting ``(25 U.S.C. 5101 et seq.)'' after ``or by the 
+        Act of June 18, 1934''; and
+          (C) striking ``and by the Act of June 18, 1934 (48 Stat. 
+        984)'' and inserting ``and by the Act of June 18, 1934 (25 
+        U.S.C. 5101 et seq.)''.
+  (132) Section 6 of the Indian Self-Determination and Education 
+Assistance Act (25 U.S.C. 5306) is amended by striking ``(48 Stat. 
+596), as amended'' and inserting ``(25 U.S.C. 5342 et seq.)''.
+  (133) Section 7(b) (matter before paragraph (1)) of the Indian Self-
+Determination and Education Assistance Act (25 U.S.C. 5307(b) (matter 
+before paragraph (1)) is amended by striking ``(48 Stat. 596), as 
+amended'' and inserting ``(25 U.S.C. 5342 et seq.)''.
+  (134) Section 111 (matter before paragraph (1)) of the Department of 
+the Interior and Related Agencies Appropriations Act, 2005 (25 U.S.C. 
+5310 (matter before paragraph (1))) is amended by striking ``(25 U.S.C. 
+450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (135) Section 102(a)(1)(A) of the Indian Self-Determination Act (25 
+U.S.C. 5321(a)(1)(A)) is amended by striking ``(48 Stat. 596), as 
+amended'' and inserting ``(25 U.S.C. 5342 et seq.)''.
+  (136) Section 11 of the Tribal Self-Governance Amendments of 2000 
+(Public Law 106-260, 25 U.S.C. 5321 note) is amended by inserting ``(25 
+U.S.C. 5381 et seq.)'' after ``title V of such Act''.
+  (137) Section 702(a)(3) of the Indian Tribal Tort Claims and Risk 
+Management Act of 1998 (Public Law 105-277, division A, section 101(e) 
+[title VII], 25 U.S.C. 5321 note) is amended by striking ``(25 U.S.C. 
+450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (138) Section 703 of the Indian Tribal Tort Claims and Risk 
+Management Act of 1998 (Public Law 105-277, division A, section 101(e) 
+[title VII], 25 U.S.C. 5321 note) is amended as follows:
+          (A) Paragraph (1) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+          (B) Paragraph (3) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+  (139) Section 314 of the Department of the Interior and Related 
+Agencies Appropriations Act, 1991 (Public Law 101-512, 25 U.S.C. 5321 
+note) is amended--
+          (A) by striking ``authorized by the Indian Self-Determination 
+        and Education Assistance Act of 1975, as amended (88 Stat. 
+        2203; 25 U.S.C. 450 et seq.)'' and inserting ``authorized by 
+        the Indian Self-Determination and Education Assistance Act (25 
+        U.S.C. 5301 et seq.)''; and
+          (B) in the last proviso, by striking ``section 102(d) of the 
+        Indian Self-Determination and Education Assistance Act of 1975, 
+        as amended (88 Stat. 2203, 25 U.S.C. 450 et seq.)'' and 
+        inserting ``section 102(d) of the Indian Self-Determination and 
+        Education Assistance Act (25 U.S.C. 5321(d))''.
+  (140) Section 201(b)(2) of the Indian Self-Determination and 
+Education Assistance Act Amendments of 1988 (Public Law 100-472, 25 
+U.S.C. 5321 note) is amended by inserting ``(25 U.S.C. 5321(d))'' after 
+``section 102(d) of such Act''.
+  (141) Section 104(m) of the Indian Self-Determination Act (25 U.S.C. 
+5323(m)) by--
+          (A) striking ``(48 Stat. 988; 25 U.S.C. 479)'' and inserting 
+        ``(25 U.S.C. 5129)''; and
+          (B) striking ``(25 U.S.C. 472)'' and inserting ``(25 U.S.C. 
+        5116)''.
+  (142) Section 105(d) of the Honest Leadership and Open Government Act 
+of 2007 (Public Law 110-81, 25 U.S.C. 5323 note) is amended by 
+inserting ``(25 U.S.C. 5323(j)(2))'' after ``section 104(j)(2) of the 
+Indian Self-Determination and Education Assistance Act''.
+  (143) Section 210(b) of the Fur Seal Act of 1966 (Public Law 89-702, 
+25 U.S.C. 5323 note) is amended by--
+          (A) striking ``the Act of January 4, 1975 (Public Law 93-
+        638), known as''; and
+          (B) inserting ``(25 U.S.C. 5323(e))'' after ``Education 
+        Assistance Act''.
+  (144) The 2d proviso under the heading ``operation of indian 
+programs'', under the heading Bureau of Indian Affairs'', in title I of 
+the Department of the Interior and Related Agencies Appropriations Act, 
+1999 (Public Law 105-277, division A, section 101(e), 25 U.S.C. 5324 
+note) is amended by striking ``Indian Self-Determination Act of 1975'' 
+and inserting ``Indian Self-Determination Act (25 U.S.C. 5321 et 
+seq.)''.
+  (145) Section 106(f) of the Indian Self-Determination Act (25 U.S.C. 
+5325(f)) is amended by striking ``(48 Stat. 984; 25 U.S.C. 476)'' and 
+inserting ``(25 U.S.C. 5123)''.
+  (146) The 8th proviso under the heading ``administrative provisions, 
+indian health service'' in title II of the Department of the Interior 
+and Related Agencies Appropriations Act, 1999 (25 U.S.C. 5326) is 
+amended by inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian Self-
+Determination Act''.
+  (147) Section 113 of the Department of the Interior and Related 
+Agencies Appropriations Act, 2000 (25 U.S.C. 5327) is amended by--
+          (A) striking ``including but not limited to the Indian Self-
+        Determination Act of 1975, as amended'' and inserting 
+        ``including but not limited to the Indian Self-Determination 
+        Act (25 U.S.C. 5321 et seq.)''; and
+          (B) striking ``pursuant to the Indian Self-Determination Act 
+        of 1975'' and inserting ``pursuant to the Indian Self-
+        Determination Act''.
+  (148) Section 6(e) of Public Law 104-287 (25 U.S.C. 5328 note) is 
+amended by striking ``(25 U.S.C. 450k(b))'' and inserting ``(25 U.S.C. 
+5328(b))''.
+  (149) Section 108(c) (section 1 of model agreement provisions) of the 
+Indian Self-Determination Act (25 U.S.C. 5329(c) (section 1 of model 
+agreement provisions)) is amended as follows:
+          (A) Subsection (a)(1) is amended by--
+                  (i) striking ``pursuant to title I of the Indian 
+                Self-Determination and Education Assistance Act (25 
+                U.S.C. 450 et seq.)'' and inserting ``pursuant to title 
+                I of the Indian Self-Determination and Education 
+                Assistance Act (25 U.S.C. 5301 et seq.)''; and
+                  (ii) striking ``provisions of title I of the Indian 
+                Self-Determination and Education Assistance Act (25 
+                U.S.C. 450 et seq.)'' and inserting ``provisions of 
+                title I of the Indian Self-Determination and Education 
+                Assistance Act (25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (a)(2) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (C) Subsection (b)(1) is amended by--
+                  (i) striking ``(25 U.S.C. 450j(c)(1))'' and inserting 
+                ``(25 U.S.C. 5324(c)(1))''; and
+                  (ii) striking ``(25 U.S.C. 450j(d))'' and inserting 
+                ``(25 U.S.C. 5324(d))''.
+          (D) Subsection (b)(4) is amended by striking ``(25 U.S.C. 
+        450j-1)'' and inserting ``(25 U.S.C. 5325)''.
+          (E) Subsection (b)(8)(A) is amended by striking ``(25 U.S.C. 
+        450j(f))'' and inserting ``(25 U.S.C. 5324(f))''.
+          (F) Subsection (b)(11) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (G) Subsection (b)(12)(B) (matter before clause (i)) is 
+        amended by striking ``(25 U.S.C. 450m-1)'' and inserting ``(25 
+        U.S.C. 5331)''.
+          (H) Subsection (b)(14)(A) is amended by--
+                  (i) striking ``(25 U.S.C. 450j(c)(2))'' and inserting 
+                ``(25 U.S.C. 5324(c)(2))''; and
+                  (ii) striking ``(25 U.S.C. 450j-1(b))'' and inserting 
+                ``(25 U.S.C. 5325(b))''.
+          (I) Subsection (b)(15)(A) is amended by striking ``(48 Stat. 
+        987, chapter 576; 25 U.S.C. 476)'' and inserting ``(25 U.S.C. 
+        5123)''.
+  (150) Section 311 of the Department of the Interior and Related 
+Agencies Appropriations Act, 1998 (Public Law 105-83, 25 U.S.C. 5329 
+note) is amended--
+          (A) by striking ``Public Law 93-638, as amended'' and 
+        inserting ``the Indian Self-Determination and Education 
+        Assistance Act (25 U.S.C. 5329)''; and
+          (B) by striking ``therafter'' and inserting ``thereafter''.
+  (151) The 12th proviso under the heading ``operation of indian 
+programs'', under the heading ``Bureau of Indian Affairs'', in title I 
+of Public Law 100-446 (25 U.S.C. 5342 note) is amended by striking 
+``(25 U.S.C. 452 et seq.)'' and inserting ``(25 U.S.C. 5342 et seq.)''.
+  (152) The 3d proviso in the 3d paragraph under the heading 
+``operation of indian programs'', under the heading ``Bureau of Indian 
+Affairs'', in title I of the Department of the Interior and Related 
+Agencies Appropriations Act, 1986 (Public Law 99-190, 25 U.S.C. 5342 
+note) is amended by inserting ``(25 U.S.C. 5342 et seq.)'' after ``the 
+Act of April 16, 1934, as amended''.
+  (153) Section 204(e) of the Indian Education Assistance Act (25 
+U.S.C. 5351(e)) is amended striking ``(48 Stat. 596)'' and inserting 
+``(25 U.S.C. 5346)''.
+  (154) Section 208 of the Indian Education Assistance Act (25 U.S.C. 
+5355) is amended by striking ``the the Act of April 16, 1934 (48 Stat. 
+596), as amended'' and inserting ``the Act of April 16, 1934 (25 U.S.C. 
+5342 et seq.)''.
+  (155) Section 403 of the Indian Self-Determination and Education 
+Assistance Act (25 U.S.C. 5363) is amended as follows:
+          (A) Subsection (b)(1)(A)(i) is amended by striking ``(25 
+        U.S.C. 452 et seq.)'' and inserting ``(25 U.S.C. 5342 et 
+        seq.)''.
+          (B) Subsection (h)(2) is amended by striking ``(25 U.S.C. 
+        476)'' and inserting ``(25 U.S.C. 5123)''.
+  (156) Section 505(b)(2)(B) of the Indian Self-Determination and 
+Education Assistance Act (25 U.S.C. 5385(b)(2)(B)) is amended by 
+striking ``(48 Stat. 596; chapter 147; 25 U.S.C. 452 et seq.)'' and 
+inserting ``(25 U.S.C. 5342 et seq.)''.
+  (157) Section 511 of the Indian Self-Determination and Education 
+Assistance Act (25 U.S.C. 5391) is amended as follows:
+          (A) Subsection (b) is amended by striking ``(48 Stat. 987; 
+        chapter 576; 25 U.S.C. 476)'' and inserting ``(25 U.S.C. 
+        5123)''.
+          (B) Subsection (c) is amended by striking ``(49 Stat. 1967; 
+        chapter 831)'' and inserting ``(25 U.S.C. 5201)''.
+  (158) Section 801(m) of the Indian Self-Determination and Education 
+Assistance Act (25 U.S.C. 5421(m)) is amended by striking ``(25 U.S.C. 
+451)'' and inserting ``(25 U.S.C. 5341)''.
+  (159) Section 202(1) of the Indian Trust Asset Management 
+Demonstration Project Act of 2016 (25 U.S.C. 5611(1)) is amended by 
+striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (160) Section 204(a)(2)(D) (matter before clause (i)) of the Indian 
+Trust Asset Management Demonstration Project Act of 2016 (25 U.S.C. 
+5613(a)(2)(D) (matter before clause (i))) is amended by striking ``(25 
+U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (161) Section 205(d)(2) of the Indian Trust Asset Management 
+Demonstration Project Act of 2016 (25 U.S.C. 5614(d)(2)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (162) Section 206(d)(2) of the Indian Trust Asset Management 
+Demonstration Project Act of 2016 (25 U.S.C. 5615(d)(2)) is amended by 
+striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et 
+seq.)''.
+  (163) Section 303(d)(2)(C) of the Indian Trust Asset Reform Act (25 
+U.S.C. 5633(d)(2)(C)) is amended by striking ``(25 U.S.C. 472)'' and 
+inserting ``(25 U.S.C. 5116)''.
+  (164) Section 304(b) of the Indian Trust Asset Reform Act (25 U.S.C. 
+5634(b)) is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+
+SEC. 16. TITLE 26, UNITED STATES CODE.
+
+  Section 3121(b)(5)(B)(i)(V) of the Internal Revenue Code of 1986 (26 
+U.S.C. 3121(b)(5)(B)(i)(V)) is amended by inserting ``(25 U.S.C. 
+5323(e)(2))'' after ``section 104(e)(2) of the Indian Self-
+Determination Act''.
+
+SEC. 17. TITLE 28, UNITED STATES CODE.
+
+  Section 113 of the Department of Justice Appropriations Act, 1999 
+(Public Law 105-277, division A, section 101(b) [title I], 28 U.S.C. 
+524 note) is amended by striking ``section 4(e) of the Indian Self 
+Determination and Education Assistance Act (Public Law 93-638, as 
+amended, 25 U.S.C. 450b(e) (1998))'' and inserting ``section 4(e) of 
+the Indian Self-Determination and Education Assistance Act (25 U.S.C. 
+5304(e))''.
+
+SEC. 18. TITLE 29, UNITED STATES CODE.
+
+  (1) Section 7(19)(B) of the Rehabilitation Act of 1973 (29 U.S.C. 
+705(19)(B)) is amended by striking ``(25 U.S.C. 450b(l))'' and 
+inserting ``(25 U.S.C. 5304(l))''.
+  (2) Section 121(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 
+741(b)(2)) is amended by inserting ``(25 U.S.C. 5305, 5306, 5307, 
+5321(a))'' after ``sections 5, 6, 7, and 102(a) of the Indian Self-
+Determination and Education Assistance Act''.
+  (3) Section 147(e)(2) of the Workforce Innovation and Opportunity Act 
+(29 U.S.C. 3197(e)(2)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304(d), (e))''.
+  (4) Section 166 of the Workforce Innovation and Opportunity Act (29 
+U.S.C. 3221) is amended as follows:
+          (A) Subsection (a)(2) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (b)(2) is amended by striking ``(25 U.S.C. 
+        450b)'' and inserting ``(25 U.S.C. 5304(d), (e), (l))''.
+  (5) Section 171(b)(7) of the Workforce Innovation and Opportunity Act 
+(29 U.S.C. 3226(b)(7)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+
+SEC. 19. TITLE 30, UNITED STATES CODE.
+
+  Section 1(b)(4) of Public Law 105-367 (30 U.S.C. 81 note) is amended 
+by striking ``(c. 576, 48 Stat. 984, as amended)'' and inserting ``(25 
+U.S.C. 5101 et seq.)''.
+
+SEC. 20. TITLE 31, UNITED STATES CODE.
+
+  Section 1352(g)(11) of title 31, United States Code, is amended by 
+striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 21. TITLE 33, UNITED STATES CODE.
+
+  (1) Section 210(e)(2)(B)(v) of the Harbor Development and Navigation 
+Improvement Act of 1986 (33 U.S.C. 2238(e)(2)(B)(v)) is amended by 
+striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (2) Section 2008(b)(3) of the Water Resources Reform and Development 
+Act of 2014 (33 U.S.C. 2254(b)(3)) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (3) Section 208(a) of the Water Resources Development Act of 2000 (33 
+U.S.C. 2338(a)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (4) Section 103(7) of the Estuary Restoration Act of 2000 (33 U.S.C. 
+2902(7)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (5) Section 9002(5) of the National Levee Safety Act of 2007 (33 
+U.S.C. 3301(5)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+
+SEC. 22. TITLE 34, UNITED STATES CODE.
+
+  (1) Section 901(a)(26) of the Omnibus Crime Control and Safe Streets 
+Act of 1968 (34 U.S.C. 10251(a)(26)) is amended by striking ``(25 
+U.S.C. 450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+  (2) Section 247(a)(3) of the Tribal Law and Order Act of 2010 (Public 
+Law 111-211, 34 U.S.C. 10381 note) is amended by striking ``section 4 
+of the Indian Self-Determination and Educational Assistance Act (25 
+U.S.C. 450b(l))'' and inserting ``section 4 of the Indian Self-
+Determination and Education Assistance Act (25 U.S.C. 5304(l))''.
+  (3) Section 1801A(b) of the Omnibus Crime Control and Safe Streets 
+Act of 1968 (34 U.S.C. 10402(b)) is amended by striking ``(25 U.S.C. 
+479a)'' and inserting ``(25 U.S.C. 5130)''.
+  (4) Section 2503(5) of the Omnibus Crime Control and Safe Streets Act 
+of 1968 (34 U.S.C. 10533(5)) is amended by striking ``(25 U.S.C. 
+450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+  (5) Section 2704(3) of the Omnibus Crime Control and Safe Streets Act 
+of 1968 (34 U.S.C. 10554(3)) is amended by striking ``(25 U.S.C. 
+450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+  (6) Section 3025(7) of the Omnibus Crime Control and Safe Streets Act 
+of 1968 (34 U.S.C. 10705(7)) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (7) Section 1402(g)(3) of the Victims of Crime Act of 1984 (34 U.S.C. 
+20101(g)(3)) is amended by striking ``section 4(b) of the Indian Self-
+Determination and Education Assistance Act'' and inserting ``section 
+4(e) of the Indian Self-Determination and Education Assistance Act (25 
+U.S.C. 5304(e))''.
+
+SEC. 23. TITLE 36, UNITED STATES CODE.
+
+  (1) Section 3(5) of the National Moment of Remembrance Act (Public 
+Law 106-579, 36 U.S.C. 116 note) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304))''.
+  (2) Section 2(6) of the National Bison Legacy Act (Public Law 114-
+152, 36 U.S.C. note prec. 301) is amended by striking ``(25 U.S.C. 
+477)'' and inserting ``(25 U.S.C. 5124)''.
+
+SEC. 24. TITLE 38, UNITED STATES CODE.
+
+  (1) Section 102 of the Veterans Access, Choice, and Accountability 
+Act of 2014 (Public Law 113-146, 38 U.S.C. 1701 note) is amended as 
+follows:
+          (A) Subsection (a) (matter before paragraph (1)) is amended 
+        by striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 
+        U.S.C. 5301 et seq.)''.
+          (B) Subsection (c)(2)(B) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (2) Section 107(b)(2) of the Veterans' Mental Health and Other Care 
+Improvements Act of 2008 (Public Law 110-387, 38 U.S.C. 1712A note) is 
+amended by striking ``(25 U.S.C. 450 et seq.)'' and inserting ``(25 
+U.S.C. 5301 et seq.)''.
+  (3) Section 304(c) (matter before paragraph (1)) of the Honoring 
+America's Veterans and Caring for Camp Lejeune Families Act of 2012 
+(Public Law 112-154, 38 U.S.C. 2041 note) is amended by striking 
+``section 4 of the Indian Self Determination and Education Assistance 
+Act (25 U.S.C. 450b))'' and inserting ``section 4 of the Indian Self-
+Determination and Education Assistance Act (25 U.S.C. 5304))''.
+  (4) Section 3765 of title 38, United States Code, is amended as 
+follows:
+          (A) Paragraph (3)(A) is amended by striking ``(25 U.S.C. 
+        450b(d))'' and inserting ``(25 U.S.C. 5304(d))''.
+          (B) Paragraph (4) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+
+SEC. 25. TITLE 40, UNITED STATES CODE.
+
+  (1) Section 3162(a) (matter before paragraph (1)) of title 40, United 
+States Code, is amended by striking ``(25 U.S.C. 450 et seq.)'' and 
+inserting ``(25 U.S.C. 5301 et seq.)''.
+  (2) Section 15101(4) of title 40, United States Code, is amended by 
+striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 26. TITLE 42, UNITED STATES CODE.
+
+  (1) Section 244(e) of the Public Health Service Act (42 U.S.C. 
+238m(e)) is amended by striking ``(Public Law 93-638)''and inserting 
+``(25 U.S.C. 5321 et seq.)''.
+  (2) Section 317M(e) of the Public Health Service Act (42 U.S.C. 247b-
+14(e)) is amended by striking ``section 4(b) and section 4(c) of the 
+Indian Self-Determination and Education Assistance Act'' and inserting 
+``subsections (e) and (l) of section 4 of the Indian Self-Determination 
+and Education Assistance Act (25 U.S.C. 5304(e), (l))''.
+  (3) Section 317R(a) of the Public Health Service Act (42 U.S.C. 247b-
+20(a)) is amended by striking ``(25 U.S.C. 450b(e))'' and inserting 
+``(25 U.S.C. 5304(e))''.
+  (4) Section 319(e)(7)(A) of the Public Health Service Act (42 U.S.C. 
+247d(e)(7)(A)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (5) Section 330(k)(3)(H) (matter before clause (i)) of the Public 
+Health Service Act (42 U.S.C. 254b(k)(3)(H) (matter before clause (i))) 
+is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after ``Indian 
+Self-Determination Act''.
+  (6) Section 330C(b)(2) of the Public Health Service Act (42 U.S.C. 
+254c-3(b)(2)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (7) Section 332(a)(2)(B) of the Public Health Service Act (42 U.S.C. 
+254e(a)(2)(B)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (8) Section 340D(c)(10) of the Public Health Service Act (42 U.S.C. 
+256d(c)(10)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after 
+``Indian Self-Determination Act''.
+  (9) Section 340G-1(c)(1)(D) of the Public Health Service Act (42 
+U.S.C. 256g-1(c)(1)(D)) is amended by inserting ``(25 U.S.C. 5304)'' 
+after ``section 4 of the Indian Self-Determination and Education 
+Assistance Act''.
+  (10) Section 501A(e)(1) (matter before subparagraph (A)) of the 
+Public Health Service Act (42 U.S.C. 290aa-0(e)(1) (matter before 
+subparagraph (A))) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (11) Section 509(a)(3) of the Public Health Service Act (42 U.S.C. 
+290bb-2(a)(3)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (12) Section 514(a) (matter before paragraph (1)) of the Public 
+Health Service Act (42 U.S.C. 290bb-7(a) (matter before paragraph (1))) 
+is amended by inserting ``(25 U.S.C. 5304)'' after ``section 4 of the 
+Indian Self-Determination and Education Assistance Act''.
+  (13) Section 514B(a)(1) of the Public Health Service Act (42 U.S.C. 
+290bb-10(a)(1)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (14) Section 516(a) (matter after paragraph (3)) of the Public Health 
+Service Act (42 U.S.C. 290bb-22(a) (matter after paragraph (3))) is 
+amended by inserting ``(25 U.S.C. 5304)'' after ``section 4 of the 
+Indian Self-Determination and Education Assistance Act''.
+  (15) Section 520A(a) (matter after paragraph (4)) of the Public 
+Health Service Act (42 U.S.C. 290bb-32(a) (matter after paragraph (4))) 
+is amended by inserting ``(25 U.S.C. 5304)'' after ``section 4 of the 
+Indian Self-Determination and Education Assistance Act''.
+  (16) Section 520G(a) of the Public Health Service Act (42 U.S.C. 
+290bb-38(a)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (17) Section 520K(g)(2) of the Public Health Service Act (42 U.S.C. 
+290bb-42(g)(2)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (18) Section 520L(a)(2) of the Public Health Service Act (42 U.S.C. 
+290bb-43(a)(2)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (19) Section 520M(b) of the Public Health Service Act (42 U.S.C. 
+290bb-44(b)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (20) Section 546(a) of the Public Health Service Act (42 U.S.C. 
+290ee-1(a)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (21) Section 561(a)(2) of the Public Health Service Act (42 U.S.C. 
+290ff(a)(2)) is amended by striking ``section 4(b) and section 4(c) of 
+the Indian Self-Determination and Education Assistance Act'' and 
+inserting ``subsections (e) and (l) of section 4 of the Indian Self-
+Determination and Education Assistance Act (25 U.S.C. 5304(e), (l))''.
+  (22) Section 754(c)(2) of the Public Health Service Act (42 U.S.C. 
+294d(c)(2)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' after 
+``Indian Self-Determination Act''.
+  (23) Section 1504(c)(1) of the Public Health Service Act (42 U.S.C. 
+300n(c)(1)) is amended by inserting ``(25 U.S.C. 5304)'' after 
+``section 4 of the Indian Self-Determination and Education Assistance 
+Act''.
+  (24) Section 1902(d)(5) of the Public Health Service Act (42 U.S.C. 
+300w-1(d)(5)) is amended by striking ``section 4(b) and section 4(c) of 
+the Indian Self-Determination and Education Assistance Act'' and 
+inserting ``subsections (e) and (l) of section 4 of the Indian Self-
+Determination and Education Assistance Act (25 U.S.C. 5304(e), (l))''.
+  (25) Section 1933(d)(4) of the Public Health Service Act (42 U.S.C. 
+300x-33(d)(4)) is amended by striking ``subsections (b) and (c) of 
+section 4 of the Indian Self-Determination and Education Assistance 
+Act'' and inserting ``subsections (e) and (l) of section 4 of the 
+Indian Self-Determination and Education Assistance Act (25 U.S.C. 
+5304(e), (l))''.
+  (26) Section 210(a)(5)(B)(i)(V) of the Social Security Act (42 U.S.C. 
+410(a)(5)(B)(i)(V)) is amended by inserting ``(25 U.S.C. 5323(e)(2))'' 
+after ``section 104(e)(2) of the Indian Self-Determination Act''.
+  (27) Section 404(11) of the Assets for Independence Act (Public Law 
+105-285, 42 U.S.C. 604 note) is amended by striking ``(25 U.S.C. 
+450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (28) Section 412 of the Social Security Act (42 U.S.C. 612) is 
+amended as follows:
+          (A) Subsection (b)(1)(F) is amended by striking ``(25 U.S.C. 
+        450c(f)(1))'' and inserting ``(25 U.S.C. 5305(f)(1))''.
+          (B) Subsection (e)(2) is amended by striking ``(25 U.S.C. 450 
+        et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (29) Section 419(4)(A) of the Social Security Act (42 U.S.C. 
+619(4)(A)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (30) Section 422(b)(9) of the Social Security Act (42 U.S.C. 
+622(b)(9)) is amended by inserting ``(25 U.S.C. 5304)'' after ``section 
+4 of the Indian Self-Determination and Education Assistance Act''.
+  (31) Section 453(c)(1) of the Social Security Act (42 U.S.C. 
+653(c)(1)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304(e), (l))''.
+  (32) Section 454 of the Social Security Act (42 U.S.C. 654) is 
+amended as follows:
+          (A) Paragraph (7) is amended by striking ``5304'' and 
+        inserting ``5304(e), (l)''.
+          (B) Paragraph (33) is amended by striking ``5304'' and 
+        inserting ``5304(e), (l)''.
+  (33) Section 479B(a) of the Social Security Act (42 U.S.C. 679c(a)) 
+is amended by striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 
+5304)''.
+  (34) Section 1861(aa)(4)(D) of the Social Security Act (42 U.S.C. 
+1395x(aa)(4)(D)) is amended by inserting ``(25 U.S.C. 5321 et seq.)'' 
+after ``Indian Self-Determination Act''.
+  (35) Section 223(a)(2)(F) of the Protecting Access to Medicare Act of 
+2014 (Public Law 113-93, 42 U.S.C. 1396a note) is amended by striking 
+``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (36) Section 1905(l)(2)(B) (matter after clause (iv)) of the Social 
+Security Act (42 U.S.C. 1396d(l)(2)(B) (matter after clause (iv))) is 
+amended by striking ``(Public Law 93-638)'' and inserting ``(25 U.S.C. 
+5321 et seq.)''.
+  (37) Section 1920(b)(2)(D)(iv) of the Social Security Act (42 U.S.C. 
+1396r-1(b)(2)(D)(iv)) is amended by striking ``(Public Law 93-638)'' 
+and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (38) Section 1932(a)(2)(C)(ii) of the Social Security Act (42 U.S.C. 
+1396u-2(a)(2)(C)(ii)) is amended by striking ``(25 U.S.C. 450 et 
+seq.)'' and inserting ``(25 U.S.C. 5321 et seq.)''.
+  (39) Section 2008(a)(4)(C) of the Social Security Act (42 U.S.C. 
+1397g(a)(4)(C)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (40) Section 2011(12)(A) of the Social Security Act (42 U.S.C. 
+1397j(12)(A)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (41) Section 538 of the Housing Act of 1949 (42 U.S.C. 1490p-2) is 
+amended as follows:
+          (A) Subsection (r)(4)(A) is amended by striking ``(25 U.S.C. 
+        450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+          (B) Subsection (v) is amended by striking ``(25 U.S.C. 461 et 
+        seq.)'' and inserting ``(25 U.S.C. 5101 et seq.)''.
+  (42) Section 8 of the Act of August 5, 1954 (42 U.S.C. 2004b), is 
+amended by striking ``section 102, 103, or 104 of the Indian Self-
+Determination and Education Assistance Act'' and inserting ``sections 
+102 and 103 of the Indian Self-Determination and Education Assistance 
+Act (25 U.S.C. 5321, 5322)''.
+  (43) Section 803C(e)(1)(B)(ii)(III) of the Native American Programs 
+Act of 1974 (42 U.S.C. 2991b-3(e)(1)(B)(ii)(III)) is amended by 
+striking ``(25 U.S.C. 450f et seq.)'' and inserting ``(25 U.S.C. 5321 
+et seq.)''.
+  (44) Section 612(c) of the Older Americans Act of 1965 (42 U.S.C. 
+3057c(c)) is amended by striking ``(25 U.S.C. 450b)'' and inserting 
+``(25 U.S.C. 5304)''.
+  (45) Section 3(5) of the Child Abuse Prevention and Treatment Act 
+(Public Law 93-247, 42 U.S.C. 5101 note) is amended by striking ``(25 
+U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+  (46) Section 102(6) of the Robert T. Stafford Disaster Relief and 
+Emergency Assistance Act (42 U.S.C. 5122(6)) is amended by striking 
+``(25 U.S.C. 479a et seq.)'' and inserting ``(25 U.S.C. 5130 et 
+seq.)''.
+  (47) Section 658E(c)(2)(G)(ii)(V)(dd) of the Child Care and 
+Development Block Grant Act of 1990 (42 U.S.C. 
+9858c(c)(2)(G)(ii)(V)(dd)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (48) Section 658P of the Child Care and Development Block Grant Act 
+of 1990 (42 U.S.C. 9858n) is amended as follows:
+          (A) Paragraph (8) is amended by striking ``(25 U.S.C. 
+        450b(e))'' and inserting ``(25 U.S.C. 5304(e))''.
+          (B) Paragraph (15)(A) is amended by striking ``(25 U.S.C. 
+        450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+  (49) Section 302(5) of the Family Violence Prevention and Services 
+Act (42 U.S.C. 10402(5)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (50) Section 309(a) of the Family Violence Prevention and Services 
+Act (42 U.S.C. 10409(a)) is amended by striking ``(25 U.S.C. 450 
+note)'' and inserting ``(25 U.S.C. 5301 note)''.
+  (51) Section 722(c)(2)(B)(i) of the McKinney-Vento Homeless 
+Assistance Act (42 U.S.C. 11432(c)(2)(B)(i)) is amended by striking 
+``(25 U.S.C. 450 et seq.)'' and inserting ``(25 U.S.C. 5301 et seq.)''.
+  (52) Section 934(f) of the Claude Pepper Young Americans Act of 1990 
+(42 U.S.C. 12340(f)) is amended by striking ``section 4(b) and 4(c) of 
+the Indian Self-Determination and Education Assistance Act (25 U.S.C. 
+450b(b) and (c))'' and inserting ``subsections (e) and (l) of section 4 
+of the Indian Self-Determination and Education Assistance Act (25 
+U.S.C. 5304(e), (l))''.
+  (53) Section 101(21)(A)(i) of the National and Community Service Act 
+of 1990 (42 U.S.C. 12511(21)(A)(i)) is amended by striking ``(commonly 
+known as the `Indian Reorganization Act'; 48 Stat. 984, chapter 576; 25 
+U.S.C. 461 et seq.)'' and inserting ``(known as the `Indian 
+Reorganization Act') (25 U.S.C. 5101 et seq.)''.
+  (54) Section 210(a)(2) of the Energy Policy Act of 2005 (42 U.S.C. 
+15855(a)(2)) is amended by striking ``(25 U.S.C. 450b(e))'' and 
+inserting ``(25 U.S.C. 5304(e))''.
+  (55) Section 541(4) of the Energy Independence and Security Act of 
+2007 (42 U.S.C. 17151(4)) is amended by striking ``(25 U.S.C. 450b)'' 
+and inserting ``(25 U.S.C. 5304)''.
+  (56) Section 1402(d)(1) (matter before subparagraph (A)) of the 
+Patient Protection and Affordable Care Act (42 U.S.C. 18071(d)(1) 
+(matter before subparagraph (A))) is amended by striking ``(25 U.S.C. 
+450b(d))'' and inserting ``(25 U.S.C. 5304(d))''.
+
+SEC. 27. TITLE 43, UNITED STATES CODE.
+
+  (1) Section 201 the Energy and Water Development Appropriations Act, 
+2003 (43 U.S.C. 373d) is amended by striking ``the Indian Self 
+Determination Act (25 U.S.C. 45 et seq.)'' and inserting ``the Indian 
+Self-Determination Act (25 U.S.C. 5321 et seq.)''.
+  (2) Section 10302(17) of the Northwestern New Mexico Rural Water 
+Projects Act (Public Law 111-11, title X, 43 U.S.C. 407 note) is 
+amended by striking ``(25 U.S.C. 497a(2))'' and inserting ``(25 U.S.C. 
+5130(2))''.
+  (3) Section 17(a)(1) of the Alaska Native Claims Settlement Act 
+Amendments of 1987 (Public Law 100-241, 43 U.S.C. 1601 note) is amended 
+by striking ``(48 Stat. 987), as amended'' and inserting ``(25 U.S.C. 
+5101 et seq.)''.
+  (4) Section 21(e) of the Alaska Native Claims Settlement Act (43 
+U.S.C. 1620(e)) is amended by striking ``(25 U.S.C. 452)'' and 
+inserting ``(25 U.S.C. 5342 et seq.)''.
+  (5) Section 102(4) of the Reclamation Rural Water Supply Act of 2006 
+(43 U.S.C. 2401(4)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+  (6) Section 202(1) of the Twenty-First Century Water Works Act (43 
+U.S.C. 2421(1)) is amended by striking ``(25 U.S.C. 450b)'' and 
+inserting ``(25 U.S.C. 5304)''.
+
+SEC. 28. TITLE 47, UNITED STATES CODE.
+
+  (1) Section 158(e)(3)(A) of the National Telecommunications and 
+Information Administration Organization Act (47 U.S.C. 942(e)(3)(A)) is 
+amended by striking ``(25 U.S.C. 450b(l))'' and inserting ``(25 U.S.C. 
+5304(l))''.
+  (2) Section 6001(e)(1)(A) of the American Recovery and Reinvestment 
+Act of 2009 (47 U.S.C. 1305(e)(1)(A)) is amended by striking ``(25 
+U.S.C. 450(b))'' and inserting ``(25 U.S.C. 5304))''.
+
+SEC. 29. TITLE 49, UNITED STATES CODE.
+
+  Section 5102(6) of title 49, United States Code, is amended by 
+striking ``(25 U.S.C. 450b)'' and inserting ``(25 U.S.C. 5304)''.
+
+SEC. 30. TITLE 50, UNITED STATES CODE.
+
+  Section 1412(e)(1)(C) of the Department of Defense Authorization Act, 
+1986 (50 U.S.C. 1521(e)(1)(C)) is amended by striking ``(25 U.S.C. 
+450b(l))'' and inserting ``(25 U.S.C. 5304(l))''.
+                                 <all>

@@ -1,0 +1,107 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8600 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8600
+
+   To amend the Internal Revenue Code of 1986 to temporarily suspend 
+ certain fuel excise taxes for fuel separated during periods in which 
+the national average price of gasoline exceeds $3.99 per gallon, and to 
+prohibit certain credits or deductions for oil and gas companies during 
+                             such periods.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 30, 2026
+
+  Mr. Boyle of Pennsylvania introduced the following bill; which was 
+              referred to the Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To amend the Internal Revenue Code of 1986 to temporarily suspend 
+ certain fuel excise taxes for fuel separated during periods in which 
+the national average price of gasoline exceeds $3.99 per gallon, and to 
+prohibit certain credits or deductions for oil and gas companies during 
+                             such periods.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SUSPENSION OF TAX ON REMOVAL, ENTRY, OR SALE OF CERTAIN 
+              FUEL; SUSPENSION OF CERTAIN CREDITS AND DEDUCTIONS FOR 
+              OIL AND GAS COMPANIES.
+
+    (a) In General.--
+            (1) In general.--Section 4081 of the Internal Revenue Code 
+        of 1986 is amended by adding at the end the following new 
+        subsection:
+    ``(f) Partial Suspension of Tax During Certain Periods.--In any 
+month during which the national average price of gasoline exceeds $3.99 
+per gallon, the tax imposed by subsection (a) shall be reduced (but not 
+below zero) by 1 cent for each cent of such excess average price.''.
+            (2) Transfers to trust fund.--
+                    (A) In general.--The Secretary of the Treasury (or 
+                the Secretary's delegate) shall transfer from the 
+                general fund to the Highway Trust Fund established 
+                under section 9503(a) of the Internal Revenue Code of 
+                1986 and the Leaking Underground Storage Tank Trust 
+                Fund established under section 9508(a) of such Code 
+                amounts equal to the reduction in amounts credited (but 
+                for this subsection) to each such Trust Fund by reason 
+                of the partial suspension under section 4081(f) of such 
+                Code (as added by paragraph 1 of this section).
+                    (B) Coordination rules.--
+                            (i) Leaking underground storage tank trust 
+                        fund.--Amounts transferred to the Leaking 
+                        Underground Storage Tank Trust Fund under 
+                        subparagraph (A) shall be treated for purposes 
+                        of sections 9503(b)(1) and 9508(b)(2) of such 
+                        Code as taxes received in the Treasury under 
+                        section 4081 of such Code attributable to the 
+                        Leaking Underground Storage Tank Trust Fund 
+                        financing rate.
+                            (ii) Highway trust fund.--Amounts 
+                        transferred to the Highway Trust Fund under 
+                        subparagraph (A) shall be treated for purposes 
+                        of section 9503(b)(1) of such Code as taxes 
+                        received in the Treasury under section 4081 of 
+                        such Code which are not attributable to the 
+                        Leaking Underground Storage Tank Trust Fund 
+                        financing rate.
+    (b) Intangible Drilling Costs.--Section 263(c) of such Code is 
+amended by adding at the end the following new sentence: ``This section 
+shall not apply with respect to any costs incurred during any month 
+described in section 4081(f).''.
+    (c) Enhanced Oil Recovery Credit.--Section 43 of such Code is 
+amended by adding at the end the following new subsection:
+    ``(f) Credit Not Applicable to Costs Paid or Incurred During 
+Disqualified Periods.--No credit shall be allowed under this section 
+for costs paid or incurred during any month described in section 
+4081(f).''.
+    (d) Marginal Well Credit.--Section 45I(d) of such Code is amended 
+by adding at the end the following new paragraph:
+            ``(4) Production during disqualified periods excluded.--No 
+        credit shall be allowed under this section for production 
+        during any month described in section 4081(f).''.
+    (e) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2025.
+                                 <all>

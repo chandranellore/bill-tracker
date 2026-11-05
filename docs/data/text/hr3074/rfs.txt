@@ -1,0 +1,248 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3074 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 3074
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 15, 2026
+
+Received; read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To direct the Secretary of the Treasury to stop minting the penny, to 
+ permit cash transactions to be rounded up or down to the nearest five 
+                     cents, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Common Cents Act''.
+
+SEC. 2. SPECIFICATIONS OF 5-CENT COINS AND CEASING PRODUCTION OF ONE-
+              CENT COINS.
+
+    Section 5112 of title 31, United States Code, is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (5), by striking ``weighs 5 
+                grams.'' and inserting the following: ``weighs--
+                    ``(A) 5 grams, with respect to such coin that is an 
+                alloy of copper and nickel; or
+                    ``(B) between 4 and 6 grams, with respect to such 
+                coin as described in subsection (c).''; and
+                    (B) in paragraph (6)--
+                            (i) by striking ``except as provided under 
+                        subsection (c) of this section,''; and
+                            (ii) by striking ``and weighs 3.11 grams'';
+            (2) in subsection (b)--
+                    (A) in the sixth sentence--
+                            (i) by inserting ``either'' before ``an 
+                        alloy''; and
+                            (ii) by inserting ``or a composition 
+                        described in subsection (c)'' before the 
+                        period;
+                    (B) by inserting ``with respect to such coins that 
+                are an alloy of copper and nickel'' after ``nickel 
+                required''; and
+                    (C) by striking ``Except'' through ``zinc'' and 
+                inserting ``The one-cent coin is composed of copper and 
+                zinc'';
+            (3) by amending subsection (c) to read as follows:
+    ``(c) 5-cent Coin.--
+            ``(1) In general.--The 5-cent coin may be a coin with an 
+        inner layer of zinc and an outer layer of nickel.
+            ``(2) Composition.--The Secretary may prescribe the 
+        composition of zinc and nickel in the 5-cent coin, subject to 
+        testing and evaluation that such composition--
+                    ``(A) reduces the cost incurred to produce such 
+                coin; and
+                    ``(B) to the greatest extent practicable, has a 
+                minimal adverse impact on machines designed to accept 
+                coins.''; and
+            (4) by adding at the end the following:
+    ``(bb) Ceasing Production of One-cent Coin.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the Secretary shall cease production of one-cent coins for 
+        general circulation, but may continue to produce and issue one-
+        cent coins for sale as numismatic items.
+            ``(2) No effect on legal tender.--Any one-cent coin that is 
+        minted and issued on any date before the date of the enactment 
+        of this subsection shall remain legal tender for all debts, 
+        public charges, taxes, and dues.''.
+
+SEC. 3. CASH TRANSACTION ROUNDING.
+
+    (a) In General.--Any person, including a financial institution, 
+selling goods or services in a cash transaction or entering into any 
+other transaction that results in a payment or transfer of cash between 
+the parties to the transaction may, if exact change cannot be provided 
+at that time of such transaction, round the covered amount in the 
+following manner:
+            (1) Rounding down.--Except as provided in paragraph (2)(B), 
+        in any case in which the covered amount ends with 1 cent, 2 
+        cents, 6 cents, or 7 cents as the final digit, the amount of 
+        cents in the sum may be rounded down to the nearest amount 
+        divisible by 5 for any person seeking to make payment with 
+        cash.
+            (2) Rounding up.--
+                    (A) In general.--In any case in which the covered 
+                amount ends with 3 cents, 4 cents, 8 cents, or 9 cents 
+                as the final digit, the amount of cents in the sum may 
+                be rounded up to the nearest amount divisible by 5 for 
+                any person seeking to make payment with cash.
+                    (B) Small transactions.--In any case in which the 
+                covered amount totals $0.01 or $0.02, such amount may 
+                be rounded up to $.05 for any person seeking to make 
+                payment with cash.
+    (b) Additional Authority to Round.--With respect to a person, 
+including a financial institution, conducting a cash transaction with a 
+customer of the person, the amount of cents in the sum of the 
+transaction may be rounded, if such rounding is in favor of the 
+customer, as follows:
+            (1) Up to the nearest amount divisible by 5, if the person 
+        is paying the customer in cash.
+            (2) Down to the nearest amount divisible by 5, if the 
+        customer is paying the person in cash.
+    (c) Employer Payments to Employees.--
+            (1) In general.--With respect to an employer providing a 
+        cash payment to an employee in an amount that is not divisible 
+        by 5 cents, if the employer chooses to round the amount of 
+        cents in such payment, the employer shall round the amount of 
+        cents in such payment up to the nearest amount divisible by 5 
+        cents.
+            (2) No rounding requirement.--Nothing in this subsection 
+        may be construed to require rounding by an employer described 
+        in paragraph (1) who provides a cash payment to an employee in 
+        an exact amount.
+    (d) Application.--Subsections (a), (b), and (c) shall not apply to 
+any transaction for which payment is made by any demand or negotiable 
+instrument, electronic fund transfer, check, gift card, money order, 
+credit card, or other like instrument or method.
+    (e) Rule of Construction.--Nothing in this Act may be construed to 
+require any person to round a payment as described in subsections (a) 
+or (b).
+    (f) Covered Amount Defined.--In this section, the term ``covered 
+amount'' means--
+            (1) the total transaction amount, including taxes; or
+            (2) in the case of a person selling goods or services in a 
+        cash transaction or entering into any other transaction that 
+        results in a payment or transfer of cash between the parties to 
+        the transaction, the amount of change due to the customer if 
+        the customer provides a cash payment that exceeds the total 
+        transaction amount, including taxes.
+
+SEC. 4. TREATMENT OF FEDERAL, STATE, AND TRIBAL LAW WITH RESPECT TO 
+              CASH TRANSACTION ROUNDING.
+
+    (a) Federal Law.--Any person selling goods or services in a cash 
+transaction, including a financial institution, entering into any other 
+transaction that results in a payment or transfer of cash between the 
+parties to the transaction shall not be in violation of any Federal 
+requirement, law, regulation, or standard based on the adherence to the 
+cash rounding provisions described in section 3.
+    (b) State and Tribal Law.--Any person selling goods or services in 
+a cash transaction, including a financial institution, entering into 
+any other transaction that results in a payment or transfer of cash 
+between the parties to the transaction shall not be in violation of any 
+requirement, law, regulation, or standard of a State, Tribe, or a 
+political subdivision of a State based on the adherence to the cash 
+rounding provisions described in section 3.
+    (c) Rule of Construction.--Nothing in this Act or of any order 
+thereunder shall excuse noncompliance with any Federal, State, Tribal, 
+or local law, regulation, ordinance, or requirement establishing a 
+minimum wage, providing for overtime pay requirements, or providing for 
+paid leave.
+
+SEC. 5. STRATEGIC PLAN AND REPORT ON COIN TERMINAL OPERATIONS AND COIN 
+              DISTRIBUTION STABILITY.
+
+    (a) Strategic Plan and Report.--Not later than 90 days after the 
+date of the enactment of this Act, the Board of Governors of the 
+Federal Reserve System shall submit to the covered committees and make 
+publicly available a report that outlines a strategic plan for the 
+acceptance of penny orders and deposits at commercial coin terminals 
+providing services under agreements with the Federal reserve banks 
+nationwide, including--
+            (1) a description of the Board's approach to limiting 
+        disruptions in penny supply and maintaining the stability of 
+        and efficiency of the coin distribution system, to the greatest 
+        extent practicable;
+            (2) an evaluation of such coin terminals where the Federal 
+        reserve banks no longer accept penny deposits or penny orders;
+            (3) an assessment of whether processing penny deposits or 
+        penny orders at such coin terminals could mitigate any 
+        challenges related to ceasing the production of the penny, 
+        including challenges related to the implementation of rounding 
+        practices;
+            (4) an assessment by the Secretary of the Treasury, which 
+        the Secretary shall conduct and deliver to the Board not less 
+        than 60 days after the date of enactment of this Act--
+                    (A) on the impact of penny supply and demand 
+                disruptions, and rounding practices for check cashing, 
+                on low-income communities, older consumers, debanked, 
+                unbanked, and underbanked individuals, including 
+                feedback from State or local entities; and
+                    (B) that includes recommendations to the Congress 
+                to address any adverse impacts identified under 
+                subparagraph (A); and
+            (4) any additional considerations the Board determines 
+        relevant to maintaining penny distribution stability.
+    (b) Evaluation.--
+            (1) In general.--Not later than 6 months after submission 
+        of the report required under subsection (a), the Board of 
+        Governors of the Federal Reserve System shall submit to the 
+        covered committees and make publicly available a report that 
+        evaluates the progress of implementing the strategic plan 
+        described in subsection (a), including--
+                    (A) any material changes to the plan; and
+                    (B) any identified or emerging stress in the penny 
+                distribution system.
+            (2) Successive reports.--The Board of Governors of the 
+        Federal Reserve System shall submit to the covered committees 
+        and make publicly available 2 additional reports that evaluate 
+        the progress described in paragraph (1) on dates that are not 
+        later than--
+                    (A) 18 months after the submission of the report 
+                required under subsection (a); and
+                    (B) 30 months after the submission of the report 
+                required under subsection (a).
+
+SEC. 6. DEFINITIONS.
+
+    In this Act:
+            (1) Covered committees.--The term ``covered committees'' 
+        means--
+                    (A) the Committee on Financial Services of the 
+                House of Representatives; and
+                    (B) the Committee on Banking, Housing, and Urban 
+                Affairs of the Senate.
+            (2) Financial institution.--The term ``financial 
+        institution'' means any person, other than an individual, the 
+        business of which is engaging in financial activities in 
+        section 4(k) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+        1843(k)).
+
+            Passed the House of Representatives July 14, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

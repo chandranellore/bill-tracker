@@ -1,0 +1,1402 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5334 Engrossed Amendment Senate (EAS)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+                  In the Senate of the United States,
+
+                                                        August 7, 2026.
+    Resolved, That the bill from the House of Representatives (H.R. 
+5334) entitled ``An Act to amend the Internal Revenue Code of 1986 to 
+allow early childhood educators to take the educator expense deduction, 
+and for other purposes.'', do pass with the following
+
+                              AMENDMENTS:
+
+            Strike section 1 and insert the following:
+
+ DIVISION A--LINDSEY O. GRAHAM SANCTIONING RUSSIA AND IRAN ACT OF 2026
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Lindsey O. Graham 
+Sanctioning Russia and Iran Act of 2026''.
+    (b) Table of Contents.--The table of contents for this division is 
+as follows:
+
+Sec. 1. Short title; table of contents.
+
+       TITLE I--SANCTIONS WITH RESPECT TO THE RUSSIAN FEDERATION
+
+Sec. 101. Definitions.
+Sec. 102. Imposition of sanctions on certain persons affiliated with or 
+                            supporting the Government of the Russian 
+                            Federation.
+Sec. 103. Imposition of sanctions with respect to financial 
+                            institutions affiliated with the Government 
+                            of the Russian Federation.
+Sec. 104. Imposition of sanctions with respect to other entities owned 
+                            or controlled by the Government of the 
+                            Russian Federation.
+Sec. 105. Prohibition on transfers of funds involving the Russian 
+                            Federation.
+Sec. 106. Prohibition on listing or trading of Russian entities on 
+                            United States securities exchanges.
+Sec. 107. Prohibition on investment by United States persons in the 
+                            Russian Federation.
+Sec. 108. Prohibition on energy exports to, and investment in energy 
+                            sector of, the Russian Federation.
+Sec. 109. Prohibition on purchase of sovereign debt of the Russian 
+                            Federation by United States persons.
+Sec. 110. Prohibition on provision of services to sanctioned financial 
+                            institutions by international financial 
+                            messaging systems.
+Sec. 111. Prohibition on importing, and sanctions with respect to, 
+                            uranium from the Russian Federation.
+Sec. 112. Increase in duties on goods imported from the Russian 
+                            Federation.
+Sec. 113. Duties on countries that purchase Russian-origin crude oil or 
+                            natural gas or facilitate sanctions 
+                            evasion.
+Sec. 114. Exceptions.
+Sec. 115. Waiver.
+Sec. 116. Sanctions implementation and penalties.
+Sec. 117. Termination.
+
+                        TITLE II--OTHER MATTERS
+
+Sec. 201. Extension of the Iran Sanctions Act of 1996.
+Sec. 202. Severability.
+Sec. 203. Sunset.
+
+       TITLE I--SANCTIONS WITH RESPECT TO THE RUSSIAN FEDERATION
+
+SEC. 101. DEFINITIONS.
+
+    In this title:
+            (1) Account; correspondent account; payable-through 
+        account.--The terms ``account'', ``correspondent account'', and 
+        ``payable-through account'' have the meanings given those terms 
+        in section 5318A of title 31, United States Code.
+            (2) Adequate maritime insurance.--The term ``adequate 
+        maritime insurance''--
+                    (A) means verified documentation evidencing 
+                protection and indemnity insurance with audited 
+                financial statements of the insurer; and
+                    (B) does not include insurance provided by an 
+                insurer organized under the laws of the Russian 
+                Federation or otherwise subject to the jurisdiction of 
+                the Government of the Russian Federation.
+            (3) Admission; admitted; alien; etc.--The terms 
+        ``admission'', ``admitted'', ``alien'', and ``lawfully admitted 
+        for permanent residence'' have the meanings given those terms 
+        in section 101 of the Immigration and Nationality Act (8 U.S.C. 
+        1101).
+            (4) Armed forces of the russian federation.--The term 
+        ``Armed Forces of the Russian Federation'' includes--
+                    (A) the Aerospace Forces of the Russian Federation;
+                    (B) the Airborne Forces of the Russian Federation;
+                    (C) the Ground Forces of the Russian Federation;
+                    (D) the Navy of the Russian Federation;
+                    (E) the Special Operations Command of the Russian 
+                Federation;
+                    (F) the Strategic Rocket Forces of the Russian 
+                Federation;
+                    (G) the General Staff of the Armed Forces of the 
+                Russian Federation;
+                    (H) the Main Directorate of the General Staff of 
+                the Armed Forces of the Russian Federation (formerly 
+                known as the Main Intelligence Directorate of the 
+                Russian Federation);
+                    (I) the Federal Security Service of the Russian 
+                Federation;
+                    (J) the Foreign Intelligence Service of the Russian 
+                Federation;
+                    (K) cyber actors of the Government of the Russian 
+                Federation; and
+                    (L) any successor entities or proxies of the 
+                entities described in subparagraphs (A) through (K).
+            (5) Blocked property.--The term ``blocked property'' means 
+        any property blocked pursuant to the authority of the President 
+        under section 203 of the International Emergency Economic 
+        Powers Act (50 U.S.C. 1702).
+            (6) Critical infrastructure.--
+                    (A) In general.--The term ``critical 
+                infrastructure'', with respect to Ukraine, means 
+                systems and assets, whether physical or virtual, so 
+                vital to Ukraine that the incapacity or destruction of 
+                such systems and assets would have catastrophic 
+                regional or national effects on public health or 
+                safety, economic security, or national security.
+                    (B) Included sectors.--The term ``critical 
+                infrastructure'' includes assets in the following 
+                sectors:
+                            (i) Biotechnology.
+                            (ii) Chemical.
+                            (iii) Commercial facilities.
+                            (iv) Communications.
+                            (v) Critical manufacturing.
+                            (vi) Dams.
+                            (vii) Defense industrial base.
+                            (viii) Emergency services.
+                            (ix) Energy.
+                            (x) Financial services.
+                            (xi) Food and agriculture.
+                            (xii) Government facilities.
+                            (xiii) Healthcare and public health.
+                            (xiv) Information technology.
+                            (xv) Materials and waste.
+                            (xvi) Nuclear reactors.
+                            (xvii) Space.
+                            (xviii) Transportation systems.
+                            (xix) Water and wastewater systems.
+            (7) Foreign person.--The term ``foreign person'' means an 
+        individual or entity that is not a United States person.
+            (8) Knowing; knowingly; knows.--The terms ``knowing'', 
+        ``knowingly'', and ``knows'', with respect to conduct, a 
+        circumstance, or a result, means that a person had actual 
+        knowledge, or should have known, of the conduct, the 
+        circumstance, or the result.
+            (9) Military invasion.--The term ``military invasion'' 
+        includes--
+                    (A) a ground operation or assault;
+                    (B) an amphibious landing or assault;
+                    (C) an airborne operation or air assault;
+                    (D) an aerial bombardment or blockade;
+                    (E) missile attacks, including rockets, ballistic 
+                missiles, cruise missiles, and hypersonic missiles;
+                    (F) a naval bombardment or armed blockade;
+                    (G) a destructive or destabilizing cyberattack 
+                against critical infrastructure; and
+                    (H) an attack by a country on any territory 
+                controlled or administered by any other independent, 
+                sovereign country, including offshore islands 
+                controlled or administered by that country.
+            (10) Russian person.--The term ``Russian person'' means--
+                    (A) a citizen or national of the Russian 
+                Federation; or
+                    (B) an entity organized under the laws of the 
+                Russian Federation or otherwise subject to the 
+                jurisdiction of the Government of the Russian 
+                Federation.
+            (11) United states person.--The term ``United States 
+        person'' means--
+                    (A) a United States citizen or an alien lawfully 
+                admitted for permanent residence to the United States; 
+                or
+                    (B) an entity organized under the laws of the 
+                United States or any jurisdiction within the United 
+                States, including a foreign branch of such an entity.
+
+SEC. 102. IMPOSITION OF SANCTIONS ON CERTAIN PERSONS AFFILIATED WITH OR 
+              SUPPORTING THE GOVERNMENT OF THE RUSSIAN FEDERATION.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, and every 180 days thereafter, the President 
+shall--
+            (1) review any persons and vessels that may be described in 
+        subsection (b); and
+            (2) after conducting that review--
+                    (A) impose the sanctions described in subsection 
+                (e) with respect to any persons the President 
+                determines are described in subsection (b); and
+                    (B) identify as blocked property any vessels the 
+                President determines are described in subsection (b).
+    (b) Persons Described.--The persons and vessels described in this 
+subsection are the following:
+            (1) The following officials of the Government of the 
+        Russian Federation:
+                    (A) The President of the Russian Federation.
+                    (B) The Prime Minister of the Russian Federation.
+                    (C) The Minister of Defense of the Russian 
+                Federation.
+                    (D) The Chief of the General Staff of the Armed 
+                Forces of the Russian Federation.
+                    (E) The Deputy Ministers of Defense of the Russian 
+                Federation.
+                    (F) The Commander-in-Chief of the Land Forces of 
+                the Russian Federation.
+                    (G) The Commander-in-Chief of the Aerospace Forces 
+                of the Russian Federation.
+                    (H) The Commander of the Airborne Forces of the 
+                Russian Federation.
+                    (I) The Commander-in-Chief of the Navy of the 
+                Russian Federation.
+                    (J) The Commander of the Strategic Rocket Forces of 
+                the Russian Federation.
+                    (K) The Commander of the Special Operations Forces 
+                of the Russian Federation.
+                    (L) The Commander of Logistical Support of the 
+                Armed Forces of the Russian Federation.
+                    (M) The commanders of the Russian Federation 
+                military districts.
+                    (N) The Minister of Foreign Affairs of the Russian 
+                Federation.
+                    (O) The Minister of Transport of the Russian 
+                Federation.
+                    (P) The Minister of Finance of the Russian 
+                Federation.
+                    (Q) The Minister of Industry and Trade of the 
+                Russian Federation.
+                    (R) The Minister of Energy of the Russian 
+                Federation.
+                    (S) The Minister of Agriculture of the Russian 
+                Federation.
+                    (T) The Director of the Foreign Intelligence 
+                Service of the Russian Federation.
+                    (U) The Director of the Federal Security Service of 
+                the Russian Federation.
+                    (V) The Director of the Main Directorate of the 
+                General Staff of the Armed Forces of the Russian 
+                Federation.
+                    (W) The Director of the National Guard of the 
+                Russian Federation.
+                    (X) The Federal Guard Service of the Russian 
+                Federation.
+                    (Y) Any other senior official of the Government of 
+                the Russian Federation, as determined by the President.
+            (2) Any foreign person that the President determines, on or 
+        after the date of the enactment of this Act--
+                    (A) knowingly sells, leases, or provides, or 
+                facilitates selling, leasing, or providing, goods or 
+                services relating to the defense industrial base of the 
+                Russian Federation, including--
+                            (i) computer numerical control (CNC) tools 
+                        and associated machinery, software, and 
+                        maintenance or upgrade services;
+                            (ii) lubricant additives;
+                            (iii) nitrocellulose, wood cellulose, and 
+                        associated additives and components necessary 
+                        for the production of propellant or energetics 
+                        for munitions;
+                            (iv) chemical coatings;
+                            (v) fiber optic cables with military 
+                        applications and associated technologies needed 
+                        to manufacture such cables;
+                            (vi) advanced sensors;
+                            (vii) items on the Common High Priority 
+                        Items List maintained by the Bureau of Industry 
+                        and Security of the Department of Commerce; or
+                            (viii) any additional items determined by 
+                        the Secretary of State, in consultation with 
+                        the Secretary of Commerce, to be critical to 
+                        the defense industrial base of the Russian 
+                        Federation;
+                    (B) knowingly facilitates deceptive or structured 
+                transactions to provide the goods and services 
+                described in subparagraph (A);
+                    (C) knowingly conducts a significant transaction 
+                with the Armed Forces of the Russian Federation;
+                    (D) knowingly engages, directly or indirectly, in 
+                activities that--
+                            (i) materially undermine the military 
+                        readiness of Ukraine;
+                            (ii) seek to overthrow, dismantle, or 
+                        subvert the Government of Ukraine;
+                            (iii) debilitate the critical 
+                        infrastructure of Ukraine;
+                            (iv) debilitate cybersecurity systems 
+                        through malicious electronic attacks or 
+                        cyberattacks on Ukraine;
+                            (v) undermine the democratic processes of 
+                        Ukraine;
+                            (vi) undermine the peace, security, 
+                        political stability, or territorial integrity 
+                        of Ukraine; or
+                            (vii) involve committing serious abuses of 
+                        internationally recognized human rights against 
+                        citizens of Ukraine, including forcible 
+                        transfers, enforced disappearances, unjust 
+                        detainment, forced deportation of children, or 
+                        torture;
+                    (E) is a leader, official, senior executive 
+                officer, or member of the board of directors of, or 
+                principal shareholder with a controlling or majority 
+                interest in, an entity that is operating in the defense 
+                industrial base or energy or transportation sectors of 
+                the economy of the Russian Federation in support of the 
+                Armed Forces of the Russian Federation;
+                    (F) is an oligarch in the Russian Federation who--
+                            (i) has not demonstrated opposition to the 
+                        Russian Federation's war on Ukraine; or
+                            (ii) continues, on or after the date of the 
+                        enactment of this Act, to benefit from an 
+                        association with the Government of the Russian 
+                        Federation;
+                    (G) is responsible for or complicit in, or has 
+                directly or indirectly engaged in, for or on behalf of, 
+                or for the benefit of, directly or indirectly, the 
+                Government of the Russian Federation--
+                            (i) transnational crime, corruption, 
+                        bribery, extortion, or money laundering;
+                            (ii) assassination, murder, or other 
+                        unlawful killing of, or infliction of other 
+                        bodily harm or other crimes against humanity 
+                        against, a United States person or a citizen or 
+                        national of an ally or partner of the United 
+                        States;
+                            (iii) activities that undermine the peace, 
+                        security, political stability, or territorial 
+                        integrity of the United States or an ally or 
+                        partner of the United States; or
+                            (iv) deceptive or structured transactions 
+                        or dealings that circumvent the application of 
+                        any sanctions imposed by the United States, 
+                        including through the use of digital currencies 
+                        or assets or the use of physical assets; or
+                    (H) is a leader, official, senior executive 
+                officer, or member of the board of directors of, or 
+                principal shareholder with a controlling or majority 
+                interest in, any of the following Russian energy 
+                projects:
+                            (i) The Yamal Liquefied Natural Gas Project 
+                        or a successor project.
+                            (ii) The Arctic 1, 2, and 3 Liquefied 
+                        Natural Gas Projects or a successor project.
+                            (iii) Projects in the Arctic region carried 
+                        out after the date of the enactment of this 
+                        Act.
+            (3) Any foreign vessel the President determines, based on 
+        credible information, is used by the Government of the Russian 
+        Federation or Russian persons to move crude oil, uranium, 
+        natural gas, liquefied natural gas, petroleum, petroleum 
+        products, petrochemical products, coal, coal products, arms, or 
+        other goods for the purpose of circumventing sanctions imposed 
+        by the United States or other countries, including any vessel 
+        the owner, operator, or manager of which knowingly--
+                    (A) exhibits or engages in unsafe or nonstandard 
+                maritime behavior in furtherance of the transportation 
+                of crude oil, uranium, natural gas, liquefied natural 
+                gas, petroleum, petroleum products, petrochemical 
+                products, coal, or coal products that originated in the 
+                Russian Federation;
+                    (B) lacks adequate maritime insurance for the 
+                transport of goods described in subparagraph (A); or
+                    (C) evades compliance with a price cap for crude 
+                oil and petroleum products that originated in the 
+                Russian Federation established by--
+                            (i) the international coalition made up of 
+                        Australia, Canada, the European Union, France, 
+                        Germany, Italy, Japan, New Zealand, the United 
+                        Kingdom, and the United States and known as the 
+                        ``Price Cap Coalition''; or
+                            (ii) the United States.
+            (4) Any foreign person that the President determines 
+        knowingly--
+                    (A) owns, operates, or manages a vessel described 
+                in paragraph (3);
+                    (B) provides underwriting services or insurance or 
+                reinsurance necessary for such a vessel;
+                    (C) serves as a captain or senior leadership of the 
+                crew of such a vessel; or
+                    (D) transfers to the Russian Federation, or 
+                provides for the use of by a Russian person, any vessel 
+                designed for the transportation of crude oil, uranium, 
+                natural gas, liquefied natural gas, petroleum, 
+                petroleum products, petrochemical products, coal, or 
+                coal products.
+            (5) Any foreign vessel that the President determines 
+        knowingly--
+                    (A) transports crude oil, uranium, natural gas, 
+                liquefied natural gas, petroleum, petroleum products, 
+                petrochemical products, coal, or coal products that 
+                originated in the Russian Federation;
+                    (B) engages in a ship-to-ship transfer involving 
+                crude oil, uranium, natural gas, liquefied natural gas, 
+                petroleum, petroleum products, petrochemical products, 
+                coal, or coal products that originated in the Russian 
+                Federation with a vessel that is subject to sanctions 
+                imposed by the United States; or
+                    (C) provides services to a vessel described in 
+                subparagraph (A) or (B).
+            (6) Any foreign person that the President determines is the 
+        owner or operator of a foreign port that allows a vessel 
+        subject to sanctions imposed by the United States for 
+        supporting the Russian Federation to port or otherwise receive 
+        services.
+            (7) Any foreign person, including a foreign person acting 
+        on behalf of a person described in this subsection (in this 
+        paragraph referred to as the ``sanctioned person''), if the 
+        sanctioned person transferred property or an interest in 
+        property to the person--
+                    (A) after the date on which the President imposed 
+                sanctions with respect to the sanctioned person; or
+                    (B) before that date, if the sanctioned person did 
+                so in an attempt to evade the imposition of sanctions.
+    (c) Vessels Subject to Sanctions by the United Kingdom or European 
+Union.--In determining under subsection (b)(3) if a vessel is a foreign 
+vessel used by the Government of the Russian Federation or Russian 
+persons to move crude oil, uranium, natural gas, liquefied natural gas, 
+petroleum, petroleum products, petrochemical products, coal, coal 
+products, arms, or other goods for the purpose of circumventing 
+sanctions, the President may use as prima facie evidence that the 
+vessel is subject to sanctions imposed by the United Kingdom, the 
+European Union, the Group of 7, or a member of the Five Eyes 
+intelligence alliance.
+    (d) Maintenance of Certain Sanctions Relating to Specified Harmful 
+Foreign Activities.--Sanctions and other measures provided for under 
+any Executive Order issued to address the national emergency that the 
+President continued on March 24, 2026, with respect to specified 
+harmful foreign activities of the Government of the Russian Federation 
+(91 Fed. Reg. 15515), as in effect on the day before the date of the 
+enactment of this Act, including with respect to all persons sanctioned 
+under any such Executive Order, shall remain in effect.
+    (e) Sanctions Described.--The sanctions described in this 
+subsection to be imposed with respect to a person described in 
+subsection (b) are the following:
+            (1) Blocking of property.--The President shall exercise all 
+        of the powers granted by the International Emergency Economic 
+        Powers Act (50 U.S.C. 1701 et seq.) to block any vessel 
+        described in subsection (b), and block and prohibit all 
+        transactions in all property and interests in property of a 
+        person described in subsection (b), if such property and 
+        interests in property are in the United States, come within the 
+        United States, or are or come within the possession or control 
+        of a United States person.
+            (2) Ineligibility for visas, admission, or parole.--
+                    (A) Visas, admission, or parole.--An alien 
+                described in subsection (b) shall be--
+                            (i) inadmissible to the United States;
+                            (ii) ineligible to receive a visa or other 
+                        documentation to enter the United States; and
+                            (iii) otherwise ineligible to be admitted 
+                        or paroled into the United States or to receive 
+                        any other benefit under the Immigration and 
+                        Nationality Act (8 U.S.C. 1101 et seq.).
+                    (B) Current visas revoked.--
+                            (i) In general.--The visa or other entry 
+                        documentation of an alien described in 
+                        subsection (b) shall be revoked, regardless of 
+                        when such visa or other entry documentation is 
+                        or was issued.
+                            (ii) Immediate effect.--A revocation under 
+                        clause (i) shall--
+                                    (I) take effect immediately; and
+                                    (II) automatically cancel any other 
+                                valid visa or entry documentation that 
+                                is in the possession of the alien.
+
+SEC. 103. IMPOSITION OF SANCTIONS WITH RESPECT TO FINANCIAL 
+              INSTITUTIONS AFFILIATED WITH THE GOVERNMENT OF THE 
+              RUSSIAN FEDERATION.
+
+    (a) Imposition of Sanctions.--
+            (1) In general.--Not later than 30 days after the date of 
+        the enactment of this Act, the President shall--
+                    (A) impose 2 or more of the sanctions described in 
+                subsection (d) with respect to the Central Bank of the 
+                Russian Federation (Bank of Russia) and any subsidiary 
+                of, or successor entity to, that Bank;
+                    (B) impose all of the sanctions described in 
+                subsection (d) with respect to--
+                            (i) Sberbank;
+                            (ii) VTB Bank;
+                            (iii) Gazprombank;
+                            (iv) any other financial institution 
+                        organized under the laws of the Russian 
+                        Federation and owned in whole or in part by the 
+                        Government of the Russian Federation;
+                            (v) any subsidiary of, or successor entity 
+                        to, any of the financial institutions described 
+                        in clauses (i) through (iv); and
+                            (vi) except as provided by subsection (c), 
+                        any foreign financial institution that engages 
+                        in significant transactions with any of the 
+                        financial institutions described in clauses (i) 
+                        through (v); and
+                    (C) impose the sanctions described in section 
+                102(e) with respect to any leaders, officials, senior 
+                executive officers, or members of the board of 
+                directors of, or any principal shareholders with a 
+                controlling or majority interest in, a financial 
+                institution described in subparagraph (A) or (B).
+            (2) Updates.--Not later than 210 days after the date of the 
+        enactment of this Act, and every 180 days thereafter, the 
+        President shall--
+                    (A) review any persons that may be described in 
+                paragraph (1); and
+                    (B) if sanctions have not been imposed under this 
+                subsection with respect to any person the President 
+                determines is described in paragraph (1), impose such 
+                sanctions with respect to that person.
+    (b) Prohibition on Transactions by United States Persons.--
+Effective on the date that is 30 days after the date of the enactment 
+of this Act, the President shall prohibit any United States person from 
+engaging in any transaction with a financial institution described in 
+subsection (a)(1)(B).
+    (c) Exception for Certain Financial Institutions.--The President is 
+not required to impose sanctions under subsection (a)(1)(B) with 
+respect to a foreign financial institution described in clause (vi) of 
+that subsection if the Secretary of the Treasury determines that 
+imposing such sanctions is not consistent with the economic or foreign 
+policy interests of the United States.
+    (d) Sanctions Described.--The sanctions described in this 
+subsection to be imposed with respect to a financial institution 
+described in subsection (a) are the following:
+            (1) Blocking of property.--The President shall exercise all 
+        of the powers granted to the President under the International 
+        Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the 
+        extent necessary to block and prohibit all transactions in 
+        property and interests in property of the financial institution 
+        if such property and interests in property are in the United 
+        States, come within the United States, or are or come within 
+        the possession or control of a United States person.
+            (2) CAATSA sanctions.--Two or more of the sanctions 
+        described in section 235 of the Countering America's 
+        Adversaries Through Sanctions Act (22 U.S.C. 9529) that are not 
+        already imposed.
+            (3) Restrictions on correspondent and payable-through 
+        accounts.--The President shall prohibit the opening, and 
+        prohibit or impose strict conditions on the maintaining, in the 
+        United States, of a correspondent account or payable-through 
+        account by the financial institution.
+    (e) Rule of Construction.--
+            (1) Treatment of returns on immobilized russian sovereign 
+        assets.--
+                    (A) In general.--A United States or foreign 
+                financial institution holding immobilized Russian 
+                sovereign assets under the Rebuilding Economic 
+                Prosperity and Opportunity for Ukrainians Act (division 
+                F of Public Law 118-50; 22 U.S.C. 9521 note) or any 
+                other provision of law is not required to return any 
+                interest earned on those assets and due to the Russian 
+                Federation.
+                    (B) Exception for interest earned.--Subparagraph 
+                (A) shall not be construed as affecting the treatment 
+                of interest earned on the assets of persons the assets 
+                of which have been blocked under any provision of law.
+            (2) Loans to ukraine using immobilized russian sovereign 
+        assets.--Sanctions imposed under this section shall not apply 
+        with respect to payments on--
+                    (A) the loans provided by the United States and the 
+                Group of 7 or the European Union to Ukraine that are 
+                serviced and repaid with the proceeds of immobilized 
+                Russian sovereign assets; or
+                    (B) any loans from the United States or countries 
+                that are members of the Group of 7 or the European 
+                Union made after the date of the enactment of this Act 
+                using proceeds from immobilized Russian sovereign 
+                assets.
+
+SEC. 104. IMPOSITION OF SANCTIONS WITH RESPECT TO OTHER ENTITIES OWNED 
+              OR CONTROLLED BY THE GOVERNMENT OF THE RUSSIAN 
+              FEDERATION.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, and every 180 days thereafter, the President 
+shall--
+            (1) review any entity--
+                    (A) in which the Government of the Russian 
+                Federation may have a controlling or majority ownership 
+                interest; or
+                    (B) that may otherwise be affiliated with the 
+                Government of the Russian Federation; and
+            (2) impose the sanctions described in subsection (b) with 
+        respect to an entity if the President determines that--
+                    (A) the Government of the Russian Federation has a 
+                controlling or majority ownership interest in the 
+                entity; or
+                    (B) the entity is otherwise affiliated with the 
+                Government of the Russian Federation.
+    (b) Sanctions Described.--The President shall exercise all of the 
+powers granted to the President under the International Emergency 
+Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to 
+block and prohibit all transactions in property and interests in 
+property of an entity described in subsection (a) if such property and 
+interests in property are in the United States, come within the United 
+States, or are or come within the possession or control of a United 
+States person.
+
+SEC. 105. PROHIBITION ON TRANSFERS OF FUNDS INVOLVING THE RUSSIAN 
+              FEDERATION.
+
+    (a) In General.--Except as provided by subsection (b), effective on 
+the date that is 30 days after the date of the enactment of this Act, a 
+depository institution (as defined in section 19(b)(1)(A) of the 
+Federal Reserve Act (12 U.S.C. 461(b)(1)(A))) or a broker or dealer in 
+securities registered with the Securities and Exchange Commission under 
+the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) may not 
+process transfers of funds--
+            (1) to or from the Government of the Russian Federation, 
+        including any entity owned by the Government of the Russian 
+        Federation; or
+            (2) for the direct or indirect benefit of officials of the 
+        Government of the Russian Federation.
+    (b) Exception.--A depository institution, broker, or dealer 
+described in subsection (a) may process a transfer described in that 
+subsection if the transfer arises from, and is ordinarily incident and 
+necessary to give effect to, an underlying transaction that is 
+authorized by a specific or general license.
+
+SEC. 106. PROHIBITION ON LISTING OR TRADING OF RUSSIAN ENTITIES ON 
+              UNITED STATES SECURITIES EXCHANGES.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, the Securities and Exchange Commission shall 
+prohibit the securities of an issuer described in subsection (b) from 
+being traded on a national securities exchange.
+    (b) Issuers.--An issuer described in this subsection is an issuer 
+that is--
+            (1) an official of or individual affiliated with the 
+        Government of the Russian Federation; or
+            (2) an entity--
+                    (A) in which the Government of the Russian 
+                Federation has a controlling or majority ownership 
+                interest; or
+                    (B) that is otherwise affiliated with the 
+                Government of the Russian Federation.
+    (c) Definitions.--In this section:
+            (1) Issuer; security.--The terms ``issuer'' and 
+        ``security'' have the meanings given those terms in section 
+        3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+            (2) National securities exchange.--The term ``national 
+        securities exchange'' means an exchange registered as a 
+        national securities exchange in accordance with section 6 of 
+        the Securities Exchange Act of 1934 (15 U.S.C. 78f).
+
+SEC. 107. PROHIBITION ON INVESTMENT BY UNITED STATES PERSONS IN THE 
+              RUSSIAN FEDERATION.
+
+    Effective on the date that is 30 days after the date of the 
+enactment of this Act, the following are prohibited:
+            (1) New investment in the Russian Federation by a United 
+        States person, wherever located.
+            (2) The exportation, reexportation, sale, or supply, 
+        directly or indirectly, from the United States, or by a United 
+        States person, wherever located, of any category of services 
+        identified by the Secretary of the Treasury, in consultation 
+        with the Secretary of State, to any person located in the 
+        Russian Federation.
+            (3) Any approval, financing, facilitation, or guarantee by 
+        a United States person, wherever located, of a transaction by a 
+        foreign person if the transaction by that foreign person would 
+        be prohibited by this section if performed by a United States 
+        person or within the United States.
+
+SEC. 108. PROHIBITION ON ENERGY EXPORTS TO, AND INVESTMENT IN ENERGY 
+              SECTOR OF, THE RUSSIAN FEDERATION.
+
+    (a) Prohibitions on Investment and Exports.--
+            (1) In general.--Effective on the date that is 30 days 
+        after the date of the enactment of this Act, the following are 
+        prohibited:
+                    (A) Any new investment in the energy sector of the 
+                Russian Federation by a United States person.
+                    (B) The export, reexport, or in-country transfer to 
+                or in the Russian Federation of any energy or energy 
+                product produced in the United States.
+            (2) Definitions.--In this subsection, the terms ``export'', 
+        ``in-country transfer'', and ``reexport'' have the meanings 
+        given those terms in section 1742 of the Export Control Reform 
+        Act of 2018 (50 U.S.C. 4801).
+    (b) Sanctions.--The President shall impose the sanctions described 
+in section 102(e) with respect to any foreign person that the President 
+determines knowingly sells, supplies, transfers, markets, or otherwise 
+provides goods, services, technology, or other support that facilitates 
+the maintenance or expansion of the production of oil, uranium, natural 
+gas, liquefied natural gas, petroleum, petroleum products, 
+petrochemical products, coal, or coal products for use by any person 
+subject to sanctions under section 102 or 103.
+
+SEC. 109. PROHIBITION ON PURCHASE OF SOVEREIGN DEBT OF THE RUSSIAN 
+              FEDERATION BY UNITED STATES PERSONS.
+
+    Upon the enactment of this Act, the purchase of sovereign debt of 
+the Government of the Russian Federation by any United States person 
+(including a United States financial institution) is prohibited.
+
+SEC. 110. PROHIBITION ON PROVISION OF SERVICES TO SANCTIONED FINANCIAL 
+              INSTITUTIONS BY INTERNATIONAL FINANCIAL MESSAGING 
+              SYSTEMS.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, and every 180 days thereafter, the President 
+shall--
+            (1) review any person that may be described in subsection 
+        (b); and
+            (2) impose sanctions pursuant to the International 
+        Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with 
+        respect to any person the President determines is described in 
+        that subsection.
+    (b) Persons Described.--A person described in this subsection is--
+            (1) any entity that--
+                    (A) operates with the intent to predominantly 
+                engage in the business of providing global financial 
+                messaging services; and
+                    (B) is determined by the Secretary of the Treasury, 
+                in consultation with the Secretary of State, as 
+                knowingly being used to circumvent any sanctions 
+                imposed under section 103 or any other provision of 
+                this title; or
+            (2) a leader, official, senior executive officer, or member 
+        of the board of directors of, or principal shareholder with a 
+        controlling or majority interest in, any entity described in 
+        paragraph (1).
+    (c) Exception.--The President may waive the imposition of sanctions 
+under subsection (a) with respect to an entity predominantly engaged in 
+the business of providing global financial messaging services for, 
+directly providing such services to, or enabling or facilitating direct 
+or indirect access to such services for, any financial institution 
+subject to sanctions under section 103 or any other provision of this 
+title if--
+            (1) the entity--
+                    (A) is subject to a sanctions regime under its 
+                governing foreign law that requires it to eliminate the 
+                knowing provision of such services to, and the knowing 
+                enabling and facilitation of direct or indirect access 
+                to such services for, foreign financial institutions 
+                identified under such governing foreign law for 
+                purposes of that sanctions regime if the President 
+                determines that the sanctions regime under governing 
+                foreign law is not inconsistent with the economic or 
+                foreign policy interests of the United States; and
+                    (B) has, pursuant to that sanctions regime, 
+                terminated the knowing provision of such services to, 
+                and the knowing enabling and facilitation of direct or 
+                indirect access to such services for, foreign financial 
+                institutions identified under such governing foreign 
+                law for purposes of that sanctions regime; or
+            (2) the entity provides significant financial messaging 
+        services to United States financial institutions, as determined 
+        by the Secretary of the Treasury, in consultation with the 
+        Secretary of State.
+    (d) Rule of Construction.--Nothing in this section shall be 
+construed to limit the authority of the President pursuant to the 
+International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+
+SEC. 111. PROHIBITION ON IMPORTING, AND SANCTIONS WITH RESPECT TO, 
+              URANIUM FROM THE RUSSIAN FEDERATION.
+
+    (a) Implementation of Prohibition on Uranium Imports From the 
+Russian Federation.--Upon the date of the enactment of this Act, the 
+President shall take all necessary steps to implement the requirements 
+of section 3112A(d) of the USEC Privatization Act (42 U.S.C. 2297h-
+10a(d)) regarding the importation of uranium from the Russian 
+Federation, including the importation of any uranium from Rosatom State 
+Atomic Energy Corporation or any subsidiary or successor entity.
+    (b) Sanctions.--Beginning on the date described in section 
+3112A(d)(2)(C) of the USEC Privatization Act (42 U.S.C. 2297h-
+10a(d)(2)(C)), and every 180 days thereafter, the President shall 
+impose sanctions described in section 102(e) with respect to any 
+leaders, officials, senior executive officers, or members of the board 
+of directors of, or principal shareholders with a controlling or 
+majority interest in, Rosatom State Atomic Energy Corporation or any 
+subsidiary or successor entity.
+
+SEC. 112. INCREASE IN DUTIES ON GOODS IMPORTED FROM THE RUSSIAN 
+              FEDERATION.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, the President shall, notwithstanding any other 
+provision of law, increase the rate of duty for all goods, including 
+oil, natural gas, liquefied natural gas, petroleum, petroleum products, 
+petrochemical products, coal, and coal products, imported into the 
+United States from the Russian Federation to a rate of up to 500 
+percent ad valorem.
+    (b) Duty Rate in Addition to Other Duties, Fees, Taxes, Exactions, 
+or Charges.--The rate of duty required under subsection (a) with 
+respect to a good described in that subsection shall be in addition to 
+any other duty, fee, tax, exaction, or charge applicable with respect 
+to the good, including any duty imposed under title VII of the Tariff 
+Act of 1930 (19 U.S.C. 1671 et seq.), section 122, 201, or 301 of the 
+Trade Act of 1974 (19 U.S.C. 2132, 2251, and 2411), or section 232 of 
+the Trade Expansion Act of 1962 (19 U.S.C. 1862).
+
+SEC. 113. DUTIES ON COUNTRIES THAT PURCHASE RUSSIAN-ORIGIN CRUDE OIL OR 
+              NATURAL GAS OR FACILITATE SANCTIONS EVASION.
+
+    (a) In General.--Not later than 30 days after the date of the 
+enactment of this Act, the President shall, notwithstanding any other 
+provision of law, increase the rate of duty for all goods imported into 
+the United States from a country described in subsection (c) (and only 
+from a country described in subsection (c)) to a rate of up to 100 
+percent ad valorem.
+    (b) Modification to Rate of Duty.--At any time after the initial 
+imposition of duties under subsection (a) or (e), the United States 
+Trade Representative shall modify or adjust any rate of duty imposed 
+under subsection (a) or (e) to a rate greater than zero and up to 100 
+percent ad valorem upon submitting a written determination to the 
+appropriate congressional committees that a country described in 
+subsection (c) has taken significant steps--
+            (1) to increase the importation, sale, supply, transfer, or 
+        purchase of crude oil or natural gas that originated in the 
+        Russian Federation; or
+            (2) to decrease or cease engaging in the importation, sale, 
+        supply, transfer, or purchase of such crude oil or natural gas.
+    (c) Country Described.--A country described in this subsection is a 
+foreign country that--
+            (1)(A) knowingly made new purchases of crude oil or natural 
+        gas that originated in the Russian Federation on a date that is 
+        on or after 30 days after the date of enactment of this Act; 
+        and
+            (B) was among the 5 largest importers, by total volume, of 
+        crude oil or natural gas that originated in the Russian 
+        Federation during the most recent 12-month period preceding the 
+        date of the enactment of this Act; or
+            (2) was among the top 5 countries facilitating Russian oil 
+        sanctions evasion during the most recent 12-month period 
+        preceding the date of the enactment of this Act.
+    (d) Exception.--A duty shall not be imposed under this section with 
+respect to goods imported from a country described in subsection (c)(1) 
+for the importation by that country of natural gas that originated in 
+the Russian Federation if--
+            (1) that country's total imports of natural gas that 
+        originated in the Russian Federation during the 12-month period 
+        described in subsection (c)(1)(B) were less than 15 percent of 
+        the total annual exports of natural gas from the Russian 
+        Federation during that period; and
+            (2) that country has taken significant steps to reduce its 
+        imports of natural gas that originated in the Russian 
+        Federation.
+    (e) Subsequent Determinations.--Not later than 180 days after the 
+initial imposition of duties under subsection (a), and every 180 days 
+thereafter, the United States Trade Representative, in consultation 
+with the Secretary of State and the Secretary of Energy, shall--
+            (1) determine, based on the most recent 12-month period 
+        preceding the determination, the countries that are--
+                    (A) the 5 largest importers of crude oil, by total 
+                volume, originating in the Russian Federation; and
+                    (B) the 5 largest importers of natural gas, by 
+                total volume, originating in the Russian Federation; 
+                and
+            (2) impose duties pursuant to subsection (a) with respect 
+        to goods imported from those countries.
+    (f) Duty Rate in Addition to Other Duties, Fees, Taxes, Exactions, 
+or Charges.--A rate of duty imposed under this section with respect to 
+a good imported from a country described in subsection (c) shall be in 
+addition to any other duty, fee, tax, exaction, or charge applicable 
+with respect to the good, including any duty imposed under title VII of 
+the Tariff Act of 1930 (19 U.S.C. 1671 et seq.), section 122, 201, or 
+301 of the Trade Act of 1974 (19 U.S.C. 2132, 2251, and 2411), or 
+section 232 of the Trade Expansion Act of 1962 (19 U.S.C. 1862).
+    (g) Methodology, Documentation, and Reports.--
+            (1) Reports required.--Not later than 10 days before 
+        imposing a duty under subsection (a) or (e), or modifying or 
+        adjusting the rate of such a duty under subsection (b), the 
+        President or the United States Trade Representative shall 
+        submit to the appropriate congressional committees a written 
+        justification for the duty that--
+                    (A) provides a substantive rationale for the 
+                determination of the rate of duty imposed under 
+                subsection (a) or (e) or the modification or adjustment 
+                made pursuant to subsection (b), as the case may be; 
+                and
+                    (B) details the methodology used to determine that 
+                the country subject to the duty is a country described 
+                in subsection (c).
+            (2) Determinations of imports of crude oil and natural 
+        gas.--For the purposes of determining whether a country is an 
+        importer of crude oil or natural gas described in subsection 
+        (c)(1)--
+                    (A) crude oil is the substance described in 
+                Harmonized System code 2709; and
+                    (B) natural gas is the substance described in 
+                Harmonized System code 2711.
+    (h) Rule of Construction.--Notwithstanding section 115, nothing in 
+this Act shall be construed to authorize the imposition of duties with 
+respect to goods imported from any country not expressly described in 
+subsection (c) or the Russian Federation.
+    (i) Definitions.--In this section:
+            (1) Appropriate congressional committees.--The term 
+        ``appropriate congressional committees'' means--
+                    (A) the Committee on Finance, the Committee on 
+                Foreign Relations, and the Committee on Banking, 
+                Housing, and Urban Affairs of the Senate; and
+                    (B) the Committee on Ways and Means, the Committee 
+                on Foreign Affairs, and the Committee on Financial 
+                Services of the House of Representatives.
+            (2) Countries facilitating russian oil sanctions evasion.--
+        The term ``countries facilitating Russian oil sanctions 
+        evasion'' means countries in which foreign persons are located 
+        or are operating, or under the laws of which foreign persons 
+        are organized, if such foreign persons are knowingly engaging 
+        in transactions, activities, or services that circumvent, or 
+        assist any third party to circumvent, any sanction related to 
+        oil that originated in the Russian Federation, including by--
+                    (A) providing significant financial or other 
+                support for the purchase, loading, or shipment of oil 
+                that originated in the Russian Federation and is 
+                subject to sanctions; and
+                    (B) engaging in any transaction, activity, or 
+                service related to a shadow fleet vessel that 
+                transported, is transporting, or is attempting to 
+                transport oil that originated in the Russian Federation 
+                and is subject to sanctions.
+            (3) Natural gas.--Except as provided by subsection (g)(2), 
+        the term ``natural gas'' means natural gas, whether unmixed or 
+        any mixture of natural and artificial gas, including liquefied 
+        natural gas.
+
+SEC. 114. EXCEPTIONS.
+
+    (a) Exception for Humanitarian Assistance.--
+            (1) In general.--Sanctions and other measures under this 
+        title shall not apply to--
+                    (A) the conduct or facilitation of a transaction 
+                for the provision of agricultural commodities, food, 
+                medicine, medical devices, humanitarian assistance, or 
+                for humanitarian purposes; or
+                    (B) transactions that are necessary for, or related 
+                to, the activities described in subparagraph (A).
+            (2) Rule of interpretation.--This subsection should be 
+        interpreted to apply to an entity carrying out any 
+        internationally recognized agreement with the Government of 
+        Ukraine for the sale or provision of agricultural commodities, 
+        food, medicine, or medical devices to and from Ukraine unless 
+        the President determines that the agreement is being used to 
+        evade sanctions imposed by the United States, the United 
+        Kingdom, the European Union, or the Group of 7.
+            (3) Definitions.--In this subsection:
+                    (A) Agricultural commodity.--The term 
+                ``agricultural commodity'' has the meaning given such 
+                term in section 102 of the Agricultural Trade Act of 
+                1978 (7 U.S.C. 5602).
+                    (B) Medical device.--The term ``medical device'' 
+                has the meaning given the term ``device'' in section 
+                201 of the Federal Food, Drug, and Cosmetic Act (21 
+                U.S.C. 321).
+                    (C) Medicine.--The term ``medicine'' has the 
+                meaning given the term ``drug'' in section 201 of the 
+                Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
+    (b) Exception for Intelligence and Law Enforcement Activities.--
+This title shall not apply with respect to activities subject to the 
+reporting requirements under title V of the National Security Act of 
+1947 (50 U.S.C. 3091 et seq.) or to carry out or assist any authorized 
+intelligence or law enforcement activities of the United States.
+    (c) Exception To Comply With International Obligations.--Sanctions 
+under this title shall not apply to the admission or parole of an alien 
+into the United States if such admission or parole is necessary to 
+comply with United States obligations under the Agreement between the 
+United Nations and the United States of America regarding the 
+Headquarters of the United Nations, signed at Lake Success June 26, 
+1947, and entered into force November 21, 1947, or under the Convention 
+on Consular Relations, done at Vienna April 24, 1963, and entered into 
+force March 19, 1967, or other international obligations.
+    (d) Exception To Comply With Civilian Nuclear Cooperation 
+Agreements.--This title shall not apply to activities carried out under 
+an agreement for cooperation between the United States and the Russian 
+Federation entered into under section 123 of the Atomic Energy Act of 
+1954 (42 U.S.C. 2153).
+    (e) Exception for Certain Imports of Low-enriched Uranium for 
+Nuclear Reactors.--This title shall not apply with respect to imports 
+into the United States of low-enriched uranium described in paragraph 
+(1) of section 3112A(d) of the USEC Privatization Act (42 U.S.C. 2297h-
+10a(d)) or medical isotopes for which a waiver has been issued under 
+paragraph (2) of that section.
+    (f) Exception for Official Government Business.--This title shall 
+not apply to transactions for the conduct of official business of the 
+United States Government (including transactions necessary for the 
+operation of the United States embassy or United States consulates in 
+the Russian Federation) or the United Nations (including its 
+specialized agencies, programs, funds, and related organizations) by 
+employees, grantees, or contractors thereof.
+    (g) Exception for Non-Russian Oil That Transits Russian 
+Territory.--This title shall not apply to oil originating in a country 
+other than the Russian Federation that transits the territory of the 
+Russian Federation, or to any entity that transports such oil, for 
+export to international markets.
+    (h) General Licenses.--
+            (1) In general.--This title shall not apply with respect to 
+        a United States person that is operating under the terms of a 
+        general license issued by the Department of the Treasury before 
+        the date of the enactment of this Act.
+            (2) Rule of construction.--Nothing in this title shall be 
+        construed to affect the terms of a general license described in 
+        paragraph (1), the authority of United States persons to 
+        continue to operate under such a license, or the authority of 
+        the Secretary of the Treasury to extend or issue new general 
+        licenses.
+    (i) Exception for Winddown Operations.--During the 270-day period 
+beginning on the date of the enactment of this Act, sanctions under 
+this title shall not apply with respect to--
+            (1) an activity related to the winddown or divestiture of 
+        operations in the Russian Federation by an entity located in 
+        the Russian Federation that is not owned or controlled, 
+        directly or indirectly, by a Russian person; or
+            (2) an entity located in the Russian Federation that is 
+        owned or controlled, directly or indirectly, by a United States 
+        person if that United States person is engaged in good faith 
+        efforts to winddown or divest operations in the Russian 
+        Federation, including providing ongoing operational support to 
+        wind down or divest operations.
+    (j) Exception for Safety of Vessels and Crew.--Sanctions under this 
+title shall not apply with respect to a person providing provisions to 
+a vessel otherwise subject to sanctions under this title if such 
+provisions are intended--
+            (1) for the safety and care of the crew aboard the vessel;
+            (2) for the protection of human life aboard the vessel; or
+            (3) to avoid any environmental or other significant damage.
+    (k) Exception Relating to Activities of the National Aeronautics 
+and Space Administration.--
+            (1) In general.--This title shall not apply with respect to 
+        activities of the National Aeronautics and Space 
+        Administration.
+            (2) Rule of construction.--Nothing in this title shall be 
+        construed to authorize the imposition of any sanction or other 
+        condition, limitation, restriction, prohibition, or other 
+        measure, that directly or indirectly impedes the supply by any 
+        entity of the Russian Federation of any product or service, or 
+        the procurement of such product or service by any contractor or 
+        subcontractor of the United States or any other entity, 
+        relating to or in connection with any space launch conducted 
+        for--
+                    (A) the National Aeronautics and Space 
+                Administration; or
+                    (B) any other non-Department of Defense customer.
+
+SEC. 115. WAIVER.
+
+    (a) In General.--The President may, subject to subsection (b), 
+waive the application of any sanctions provision with respect to a 
+foreign person, any restriction with respect to a person, or any duty 
+under this title.
+    (b) Reports Required.--
+            (1) In general.--Before issuing a waiver under subsection 
+        (a), the President shall submit to Congress--
+                    (A) a certification in writing that the issuance of 
+                the waiver is in the national interests of the United 
+                States; and
+                    (B) a report explaining the basis for the 
+                certification.
+            (2) Consolidation of reports.--If the President is issuing 
+        more than one waiver of a section of this title, the President 
+        may include, in one report submitted under paragraph (1), the 
+        certifications and explanations required by that paragraph with 
+        respect to each such waiver, as long as all of such 
+        certifications and explanations relate to a waiver of the same 
+        section of this title.
+            (3) Form of report.--Each report required by paragraph (1) 
+        shall be submitted in unclassified form but may include a 
+        classified annex.
+            (4) Applicability to modifications of certain duty rates.--
+        The President is not required to submit a report under 
+        paragraph (1) for a modification or adjustment of a rate of 
+        duty pursuant to section 113(b). This paragraph does not modify 
+        or negate the requirement to submit a written determination 
+        required by section 113(b) or a report required by section 
+        113(g)(1).
+
+SEC. 116. SANCTIONS IMPLEMENTATION AND PENALTIES.
+
+    (a) Implementation.--The President may exercise all authorities 
+provided under sections 203 and 205 of the International Emergency 
+Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out sections 102 
+through 111.
+    (b) Penalties.--The penalties provided for in subsections (b) and 
+(c) of section 206 of the International Emergency Economic Powers Act 
+(50 U.S.C. 1705) shall apply to any person that violates, attempts to 
+violate, conspires to violate, or causes a violation of any prohibition 
+under any of sections 102 through 111, or an order or regulation 
+prescribed under any of such sections, to the same extent that such 
+penalties apply to a person that commits an unlawful act described in 
+subsection (a) of that section.
+
+SEC. 117. TERMINATION.
+
+    (a) In General.--Subject to subsection (b), the President may 
+terminate the application of any sanction with respect to a foreign 
+person, any restriction with respect to a person, or any duty under 
+this title, if the President submits to Congress a report--
+            (1) certifying in writing that--
+                    (A) in the case of the termination of the 
+                application of a sanction, restriction, or duty with 
+                respect to a Russian person or the Russian Federation, 
+                the Russian Federation has--
+                            (i) signed a peace agreement that is 
+                        accepted by the free and independent Government 
+                        of Ukraine; and
+                            (ii) ceased all military hostilities 
+                        against and any activities to overthrow, 
+                        dismantle, and subvert the Government of 
+                        Ukraine; or
+                    (B) in the case of the termination of the 
+                application of a sanction, restriction, or duty with 
+                respect to any foreign person or foreign country (other 
+                than a Russian person or the Russian Federation)--
+                            (i) the foreign person or the government of 
+                        the foreign country, as the case may be, is not 
+                        engaging in the activity that was the basis for 
+                        the sanctions or other measures being 
+                        terminated; and
+                            (ii) the President has received reliable 
+                        assurances that the foreign person or the 
+                        government of the foreign country, as the case 
+                        may be, will not knowingly engage in activity 
+                        subject to sanctions or other measures under 
+                        this title in the future; and
+            (2) that includes, in the case of a report not relating to 
+        the termination of a duty under section 112 or 113, a 
+        determination of whether the termination is intended to 
+        significantly alter United States foreign policy with regard to 
+        the Russian Federation.
+    (b) Period for Review by Congress.--
+            (1) In general.--During the period of 30 calendar days 
+        beginning on the date on which the President submits a report 
+        under subsection (a) with respect to the termination of the 
+        application of a sanction, restriction, or duty under this 
+        title, the termination shall not take effect. If, after the end 
+        of that period, a joint resolution of disapproval with respect 
+        to the termination has not been enacted into law under 
+        subsection (c), the termination may take effect.
+            (2) Consideration by congress.--During the period described 
+        in paragraph (1), the appropriate committee of the Senate and 
+        the appropriate committee of the House of Representatives 
+        should, as appropriate, hold hearings and briefings and 
+        otherwise obtain information in order to fully review the 
+        report.
+            (3) Exception.--The period for congressional review under 
+        paragraph (1) of a report required to be submitted under 
+        subsection (a) shall be 60 calendar days if the report is 
+        submitted on or after July 10 and on or before September 7 in 
+        any calendar year.
+    (c) Joint Resolution of Disapproval.--
+            (1) Joint resolution of disapproval defined.--In this 
+        subsection, the term ``joint resolution of disapproval'' means 
+        only a joint resolution of either House of Congress the sole 
+        matter after the resolving clause of which is as follows: 
+        ``That Congress disapproves of the termination of the 
+        application of section __ of the Lindsey O. Graham Sanctioning 
+        Russia and Iran Act of 2026, with respect to which the 
+        President submitted a report on ___.'', with the first blank 
+        space being filled with the appropriate section number and the 
+        second blank space being filled with the appropriate date.
+            (2) Introduction.--During the period of 30 calendar days 
+        provided for under subsection (b)(1), including any additional 
+        period as applicable under the exception provided in subsection 
+        (b)(3), a joint resolution of disapproval may be introduced--
+                    (A) in the House of Representatives, by the 
+                majority leader or the minority leader; and
+                    (B) in the Senate, by the majority leader (or a 
+                designee of the majority leader) or the minority leader 
+                (or a designee of the minority leader).
+            (3) Consideration in house of representatives.--
+                    (A) Reporting and discharge.--Any committee of the 
+                House of Representatives to which a joint resolution of 
+                disapproval is referred shall report it to the House of 
+                Representatives without amendment not later than 10 
+                calendar days after the date of referral. If a 
+                committee fails to report the joint resolution within 
+                that period, the committee shall be discharged from 
+                further consideration of the joint resolution and the 
+                joint resolution shall be referred to the appropriate 
+                calendar.
+                    (B) Proceeding to consideration.--After each 
+                committee authorized to consider a joint resolution of 
+                disapproval reports it to the House of Representatives 
+                or has been discharged from its consideration, it shall 
+                be in order to move to proceed to consider the joint 
+                resolution of disapproval in the House of 
+                Representatives. All points of order against the motion 
+                are waived. The previous question shall be considered 
+                as ordered on the motion to its adoption without 
+                intervening motion. The motion shall not be debatable. 
+                A motion to reconsider the vote by which the motion is 
+                disposed of shall not be in order.
+                    (C) Consideration.--The joint resolution of 
+                disapproval shall be considered as read. All points of 
+                order against the joint resolution of disapproval and 
+                against its consideration are waived. The previous 
+                question shall be considered as ordered on the joint 
+                resolution of disapproval to its passage without 
+                intervening motion except 2 hours of debate equally 
+                divided and controlled by the proponent and an 
+                opponent. A motion to reconsider the vote on passage of 
+                the joint resolution of disapproval shall not be in 
+                order.
+            (4) Consideration in the senate.--
+                    (A) Committee referral.--A joint resolution of 
+                disapproval introduced in the Senate shall be referred 
+                to the appropriate committee of the Senate.
+                    (B) Reporting and discharge.--If the appropriate 
+                committee of the Senate has not reported the joint 
+                resolution within 10 calendar days after the date of 
+                referral of the joint resolution, that committee shall 
+                be discharged from further consideration of the joint 
+                resolution and the joint resolution shall be placed on 
+                the appropriate calendar.
+                    (C) Proceeding to consideration.--Notwithstanding 
+                Rule XXII of the Standing Rules of the Senate, it is in 
+                order at any time after the appropriate committee of 
+                the Senate reports a joint resolution of disapproval to 
+                the Senate or has been discharged from consideration of 
+                such a joint resolution to move to proceed to the 
+                consideration of the joint resolution, and all points 
+                of order against the joint resolution (and against 
+                consideration of the joint resolution) are waived. The 
+                motion to proceed is not debatable. The motion is not 
+                subject to a motion to postpone. A motion to reconsider 
+                the vote by which the motion is agreed to or disagreed 
+                to shall not be in order. Approval by the Senate of a 
+                motion to proceed to a joint resolution of disapproval 
+                shall require the affirmative vote of three-fifths of 
+                Members of the Senate, duly chosen and sworn.
+                    (D) Consideration.--Consideration in the Senate of 
+                a joint resolution of disapproval and of all debatable 
+                motions and appeals in connection therewith shall not 
+                exceed a total of 10 hours, which shall be divided 
+                equally between the majority and minority leaders or 
+                their designees. Any debatable motion or appeal is 
+                debatable for not to exceed 1 hour, to be divided 
+                equally between those favoring and those opposing the 
+                motion or appeal.
+                    (E) No amendments or motions.--An amendment to a 
+                joint resolution of disapproval, a motion to postpone, 
+                a motion to proceed to the consideration of other 
+                business, or a motion to recommit the joint resolution 
+                is not in order.
+                    (F) Vote on joint resolution.--If the Senate has 
+                voted to proceed to a joint resolution of disapproval, 
+                the vote on approval of the joint resolution shall 
+                occur immediately following the conclusion of 
+                consideration of the joint resolution, and a single 
+                quorum call if requested. Approval by the Senate of a 
+                joint resolution of disapproval shall require the 
+                affirmative vote of three-fifths of Members of the 
+                Senate, duly chosen and sworn.
+                    (G) Consideration of veto messages.--Consideration 
+                in the Senate of any veto message with respect to a 
+                joint resolution of disapproval, including all 
+                debatable motions and appeals in connection with the 
+                joint resolution, shall be limited to 10 hours, to be 
+                equally divided between, and controlled by, the 
+                majority leader and the minority leader or their 
+                designees.
+            (5) Treatment of house joint resolution in senate.--
+                    (A) If, before the passage by the Senate of a joint 
+                resolution of disapproval, the Senate receives an 
+                identical joint resolution from the House of 
+                Representatives, the following procedures shall apply:
+                            (i) That joint resolution shall not be 
+                        referred to a committee.
+                            (ii) With respect to that joint 
+                        resolution--
+                                    (I) the procedure in the Senate 
+                                shall be the same as if no joint 
+                                resolution had been received from the 
+                                House of Representatives; but
+                                    (II) the vote on passage shall be 
+                                on the joint resolution from the House 
+                                of Representatives.
+                    (B) If the Senate passes a joint resolution of 
+                disapproval before receiving a joint resolution of 
+                disapproval from the House of Representatives, the 
+                joint resolution passed by the Senate shall be held at 
+                the desk pending receipt of the joint resolution from 
+                the House of Representatives. Upon receipt of a joint 
+                resolution from the House of Representatives that is 
+                identical to the joint resolution passed by the Senate, 
+                the Senate shall proceed to its immediate consideration 
+                and the joint resolution shall be considered read a 
+                third time and passed and the motion to reconsider be 
+                considered made and laid upon the table with no 
+                intervening action or debate.
+                    (C) If a joint resolution of disapproval is 
+                received from the House, and no companion joint 
+                resolution has been introduced in the Senate, the 
+                Senate procedures under this subsection shall apply to 
+                the House joint resolution.
+            (6) Rules of house of representatives and senate.--This 
+        subsection is enacted by Congress--
+                    (A) as an exercise of the rulemaking power of the 
+                Senate and the House of Representatives, respectively, 
+                and as such is deemed a part of the rules of each 
+                House, respectively, and supersedes other rules only to 
+                the extent that it is inconsistent with such rules; and
+                    (B) with full recognition of the constitutional 
+                right of either House to change the rules (so far as 
+                relating to the procedure of that House) at any time, 
+                in the same manner, and to the same extent as in the 
+                case of any other rule of that House.
+            (7) Definitions.--In this subsection:
+                    (A) Appropriate committee of the house of 
+                representatives.--The term ``appropriate committee of 
+                the House of Representatives'' means--
+                            (i) with respect to the termination of a 
+                        duty under section 112 or 113, the Committee on 
+                        Ways and Means of the House of Representatives;
+                            (ii) with respect to the termination of any 
+                        sanction or restriction under any of sections 
+                        102 through 111 that is intended to 
+                        significantly alter United States foreign 
+                        policy with regard to the Russian Federation, 
+                        the Committee on Foreign Affairs of the House 
+                        of Representatives; or
+                            (iii) with respect to the termination of 
+                        any sanction or restriction under any of 
+                        sections 102 through 111 that is not intended 
+                        to significantly alter United States foreign 
+                        policy with regard to the Russian Federation, 
+                        the Committee on Financial Services of the 
+                        House of Representatives.
+                    (B) Appropriate committee of the senate.--The term 
+                ``appropriate committee of the Senate'' means--
+                            (i) with respect to the termination of a 
+                        duty under section 112 or 113, the Committee on 
+                        Finance of the Senate;
+                            (ii) with respect to the termination of any 
+                        sanction or restriction under any of sections 
+                        102 through 111 that is intended to 
+                        significantly alter United States foreign 
+                        policy with regard to the Russian Federation, 
+                        the Committee on Foreign Relations of the 
+                        Senate; or
+                            (iii) with respect to the termination of 
+                        any sanction or restriction under any of 
+                        sections 102 through 111 that is not intended 
+                        to significantly alter United States foreign 
+                        policy with regard to the Russian Federation, 
+                        the Committee on Banking, Housing, and Urban 
+                        Affairs of the Senate.
+
+                        TITLE II--OTHER MATTERS
+
+SEC. 201. EXTENSION OF THE IRAN SANCTIONS ACT OF 1996.
+
+    Section 13(b) of the Iran Sanctions Act of 1996 (Public Law 104-
+172; 50 U.S.C. 1701 note) is amended by striking ``2026'' and inserting 
+``2031''.
+
+SEC. 202. SEVERABILITY.
+
+    If any provision of this division, or the application of any such 
+provision to any person or circumstance, is held to be 
+unconstitutional, the remainder of the provisions of this division, and 
+the application of those provisions to any other person or 
+circumstance, shall not be affected.
+
+SEC. 203. SUNSET.
+
+    This division (other than section 201) shall terminate on the date 
+that is 5 years after the date of the enactment of this Act.
+
+      DIVISION B--SUPPORTING EARLY-CHILDHOOD EDUCATORS' DEDUCTIONS
+
+            Amend the title so as to read: ``An Act to impose sanctions 
+        and other measures with respect to the Russian Federation, as 
+        championed by the late Senator Lindsey O. Graham, and for other 
+        purposes.''.
+
+            Attest:
+
+                                                             Secretary.
+119th CONGRESS
+
+  2d Session
+
+                               H.R. 5334
+
+_______________________________________________________________________
+
+                               AMENDMENTS

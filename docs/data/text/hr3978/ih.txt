@@ -1,0 +1,60 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3978 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                H. R. 3978
+
+To amend the definition of ``production facility'' in the Atomic Energy 
+ Act of 1954 to exclude an equipment or device capable of reprocessing 
+ spent nuclear fuel in a manner that does not separate plutonium from 
+          other transuranic elements, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 12, 2025
+
+ Mr. Latta (for himself and Mr. Peters) introduced the following bill; 
+       which was referred to the Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the definition of ``production facility'' in the Atomic Energy 
+ Act of 1954 to exclude an equipment or device capable of reprocessing 
+ spent nuclear fuel in a manner that does not separate plutonium from 
+          other transuranic elements, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear REFUEL (Recycling Efficient 
+Fuels Utilizing Expedited Licensing) Act''.
+
+SEC. 2. EXCLUSION FROM DEFINITION OF PRODUCTION FACILITY.
+
+    Section 11 v. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(v)) 
+is amended by striking ``separating the isotopes of uranium or 
+enriching uranium in the isotope 235'' and inserting ``(A) separating 
+isotopes of uranium or enriching uranium in the isotope 235; or (B) 
+reprocessing spent nuclear fuel in a manner that does not separate 
+plutonium from other transuranic elements''.
+                                 <all>

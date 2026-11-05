@@ -1,0 +1,1286 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3898 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  1st Session
+                                H. R. 3898
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To amend the Federal Water Pollution Control Act to make targeted 
+reforms with respect to waters of the United States and other matters, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+    (a) Short Title.--This Act may be cited as the ``Promoting 
+Efficient Review for Modern Infrastructure Today Act'' or the ``PERMIT 
+Act''.
+    (b) Table of Contents.--The table of contents for this Act is as 
+follows:
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Water quality standards attainability.
+Sec. 3. Water quality criteria development and transparency.
+Sec. 4. Water quality technology availability.
+Sec. 5. Improving water quality certifications and American energy 
+                            infrastructure.
+Sec. 6. Clarifying Federal general permits.
+Sec. 7. NPDES permit terms.
+Sec. 8. Confidence in clean water permits.
+Sec. 9. Forest protection and wildland firefighter safety.
+Sec. 10. Agricultural stormwater discharge.
+Sec. 11. Reducing regulatory burdens.
+Sec. 12. Reducing permitting uncertainty.
+Sec. 13. Nationwide permitting improvement.
+Sec. 14. Deadline for request for submission of additional information 
+                            for permit programs for dredged or fill 
+                            material.
+Sec. 15. Judicial review timeline clarity.
+Sec. 16. Maintaining cooperative permitting.
+Sec. 17. Restoring federalism in clean water permitting.
+Sec. 18. Revision of framework for compensatory mitigation.
+Sec. 19. Jurisdictional determination backlog reduction.
+Sec. 20. Definition of navigable waters.
+Sec. 21. Applicability of Spill Prevention, Control, and Countermeasure 
+                            rule.
+Sec. 22. Coordination with Federal Permitting Improvement Steering 
+                            Council.
+Sec. 23. Sense of Congress on Chesapeake Bay Watershed Agreement.
+Sec. 24. Identification and permitting for water recharge on certain 
+                            Federal lands.
+Sec. 25. State-led permitting efficiency and water quality pilot.
+Sec. 26. International Boundary and Water Commission authority.
+
+SEC. 2. WATER QUALITY STANDARDS ATTAINABILITY.
+
+    (a) State Water Quality Standards.--Section 303(c) (33 U.S.C. 
+1313(c)) of the Federal Water Pollution Control Act is amended--
+            (1) in paragraph (1)--
+                    (A) by striking ``The Governor of a State'' and 
+                inserting ``(A) The Governor of a State''; and
+                    (B) by striking ``Results of such review shall be 
+                made available to the Administrator.'' and inserting 
+                the following:
+    ``(B) Reviews under this paragraph shall include review, for 
+purposes of ensuring that combined sewer overflow controls are cost 
+effective, of any water quality standard applicable to a body of water 
+into which, pursuant to a permit, order, or decree issued pursuant to 
+this Act, a municipal combined storm and sanitary sewer discharges.
+    ``(C) Results of each review under this paragraph shall be made 
+available to the Administrator.''; and
+            (2) in paragraph (2)(A)--
+                    (A) by inserting ``(i)'' before ``their use and 
+                value for public water supplies'';
+                    (B) by striking ``, and also taking into 
+                consideration'' and inserting ``; (ii)''; and
+                    (C) by inserting before the period at the end the 
+                following: ``; and (iii) the cost and commercial 
+                availability in the United States of treatment 
+                technologies (including whether the technologies have 
+                been demonstrated at an applicable scale) that may be 
+                required to be applied to point sources in order to 
+                result in compliance with such standards''.
+    (b) State Water Quality Criteria.--Section 304(a) of the Federal 
+Water Pollution Control Act (33 U.S.C. 1314(a)) is amended by adding at 
+the end the following new paragraph:
+            ``(10) Consideration of treatment technologies.--In 
+        developing or revising water quality criteria under this 
+        subsection, the Administrator shall take into consideration the 
+        cost and commercial availability in the United States of 
+        treatment technologies (including whether the technologies have 
+        been demonstrated at an applicable scale) that may be required 
+        to be applied to point sources in order to result in compliance 
+        with water quality standards adopted or promulgated under 
+        section 303.''.
+
+SEC. 3. WATER QUALITY CRITERIA DEVELOPMENT AND TRANSPARENCY.
+
+    (a) Information and Guidelines.--Section 304(a) of the Federal 
+Water Pollution Control Act (33 U.S.C. 1314(a)) is further amended by 
+adding at the end the following:
+            ``(11) Administrative procedure.--After the date of 
+        enactment of this paragraph, the Administrator shall issue any 
+        new or revised water quality criteria under paragraph (1) or 
+        (9) by rule.''.
+    (b) Administrative Procedure and Judicial Review.--Section 
+509(b)(1) of the Federal Water Pollution Control Act (33 U.S.C. 
+1369(b)(1)) is amended--
+            (1) by striking ``section 402, and'' and inserting 
+        ``section 402,''; and
+            (2) by inserting ``and (H) in issuing any criteria for 
+        water quality pursuant to section 304(a)(11),'' after 
+        ``strategy under section 304(l),''.
+
+SEC. 4. WATER QUALITY TECHNOLOGY AVAILABILITY.
+
+    Section 304(b) of the Federal Water Pollution Control Act (33 
+U.S.C. 1314(b)) is amended--
+            (1) in paragraph (1)(B), by inserting ``the commercial 
+        availability in the United States of the technology (including 
+        whether the technology has been demonstrated at an applicable 
+        scale),'' before ``and such other factors'';
+            (2) in paragraph (2)(B), by inserting ``the commercial 
+        availability in the United States of the technology (including 
+        whether the technology has been demonstrated at an applicable 
+        scale),'' before ``and such other factors''; and
+            (3) in paragraph (4)(B), by inserting ``the commercial 
+        availability in the United States of the technology (including 
+        whether the technology has been demonstrated at an applicable 
+        scale),'' before ``and such other factors''.
+
+SEC. 5. IMPROVING WATER QUALITY CERTIFICATIONS AND AMERICAN ENERGY 
+              INFRASTRUCTURE.
+
+    Section 401 of the Federal Water Pollution Control Act (33 U.S.C. 
+1341) is amended--
+            (1) in subsection (a)--
+                    (A) in paragraph (1)--
+                            (i) in the first sentence, by striking 
+                        ``may result'' and inserting ``may directly 
+                        result'';
+                            (ii) in the second sentence, by striking 
+                        ``activity'' and inserting ``discharge'';
+                            (iii) in the third sentence, by striking 
+                        ``applications'' each place it appears and 
+                        inserting ``requests'';
+                            (iv) in the fifth sentence, by striking 
+                        ``act on a request for certification, within a 
+                        reasonable period of time (which shall not 
+                        exceed one year) after receipt of such request, 
+                        the certification requirements of this 
+                        subsection'' and inserting ``grant the request 
+                        for certification with or without conditions, 
+                        deny the request for certification, or waive 
+                        the requirement for certification under this 
+                        subsection with respect to such Federal 
+                        application, within a reasonable period of time 
+                        to be determined by the licensing or permitting 
+                        agency (which shall not exceed one year) after 
+                        receipt of such request, the requirement for 
+                        certification under this subsection'';
+                            (v) in the sixth sentence, by striking 
+                        ``waived as provided in the preceding 
+                        sentence'' and inserting ``waived under this 
+                        paragraph''; and
+                            (vi) by inserting after the fourth sentence 
+                        the following: ``Not later than 30 days after 
+                        the date of enactment of the PERMIT Act, each 
+                        State and interstate agency that has authority 
+                        to give such a certification, and the 
+                        Administrator, shall publish requirements for 
+                        certification to demonstrate to such State, 
+                        such interstate agency, or the Administrator, 
+                        as the case may be, compliance with the 
+                        applicable provisions of sections 301, 302, 
+                        303, 306, and 307. A decision to grant or deny 
+                        a request for certification shall be based only 
+                        on compliance with the applicable provisions of 
+                        sections 301, 302, 303, 306, and 307, and the 
+                        grounds for the decision shall be set forth in 
+                        writing and provided to the applicant. Not 
+                        later than 90 days after receipt of a request 
+                        for certification, the State, interstate 
+                        agency, or Administrator, as the case may be, 
+                        shall identify in writing all specific 
+                        additional materials or information necessary 
+                        for the request for certification to be 
+                        complete, as described in subsection (g). The 
+                        State, interstate agency, or the Administrator, 
+                        as the case may be, may grant a request for 
+                        certification with or without conditions, deny 
+                        a request for certification, or waive the 
+                        requirement for certification under this 
+                        subsection with respect to such Federal 
+                        application.'';
+                    (B) in paragraph (2)--
+                            (i) in the second sentence, by striking 
+                        ``notice of application for such Federal 
+                        license or permit'' and inserting ``receipt of 
+                        a notice under the preceding sentence'';
+                            (ii) in the third sentence--
+                                    (I) by striking ``any water quality 
+                                requirement in such State'' and 
+                                inserting ``any water quality standard 
+                                in effect for the State under section 
+                                303''; and
+                                    (II) by inserting before the period 
+                                ``at a time that is agreed to by such 
+                                State and the applicant'';
+                            (iii) in the fifth sentence, by striking 
+                        ``insure compliance with applicable water 
+                        quality requirements.'' and inserting ``ensure 
+                        compliance with the applicable provisions of 
+                        sections 301, 302, 303, 306, and 307.'';
+                            (iv) in the final sentence, by striking 
+                        ``insure'' and inserting ``ensure'';
+                            (v) by striking the first sentence and 
+                        inserting ``On receipt of a request for 
+                        certification, the certifying State or 
+                        interstate agency, as applicable, shall 
+                        immediately notify the Administrator of the 
+                        request.''; and
+                            (vi) by inserting after the second sentence 
+                        the following: ``If the Administrator 
+                        determines under the preceding sentence that 
+                        such a discharge will not affect the waters of 
+                        any other State, no such notification is 
+                        required.'';
+                    (C) in paragraph (3)--
+                            (i) in the first sentence, by striking 
+                        ``there will be compliance'' and inserting 
+                        ``any such discharge will comply''; and
+                            (ii) in the second sentence, by striking 
+                        ``section'' and inserting ``any applicable 
+                        provision of section'';
+                    (D) in paragraph (4)--
+                            (i) in the first sentence--
+                                    (I) by inserting ``directly'' 
+                                before ``result in any discharge''; and
+                                    (II) by striking ``applicable 
+                                effluent limitations or other 
+                                limitations or other applicable water 
+                                quality requirements will not be 
+                                violated'' and inserting ``no 
+                                applicable provision of section 301, 
+                                302, 303, 306, or 307 will be 
+                                violated'';
+                            (ii) in the second sentence, by striking 
+                        ``will violate applicable effluent limitations 
+                        or other limitations or other water quality 
+                        requirements'' and inserting ``will directly 
+                        result in a discharge that violates an 
+                        applicable provision of section 301, 302, 303, 
+                        306, or 307,''; and
+                            (iii) in the third sentence, by striking 
+                        ``such facility or activity will not violate 
+                        the applicable provisions'' and inserting 
+                        ``operation of such facility or activity will 
+                        not directly result in a discharge that 
+                        violates any applicable provision''; and
+                    (E) in paragraph (5), by striking ``the applicable 
+                provisions'' and inserting ``any applicable 
+                provision'';
+            (2) in subsection (b), by striking ``Nothing in this 
+        section'' and inserting ``Except as provided in subsection (e), 
+        nothing in this section'';
+            (3) in subsection (d), by striking ``applicant for a 
+        Federal license or permit will comply with any applicable 
+        effluent limitations and other limitations, under section 301 
+        or 302 of this Act, standard of performance under section 306 
+        of this Act, or prohibition, effluent standard, or pretreatment 
+        standard under section 307 of this Act, and with any other 
+        appropriate requirement of State law set forth in such 
+        certification, and shall become a condition on any Federal 
+        license or permit subject to the provisions of this section'' 
+        and inserting ``discharge subject to this section will comply 
+        with the applicable provisions of sections 301, 302, 303, 306, 
+        and 307, and any such limitations or requirements shall be 
+        imposed by the licensing or permitting agency as a condition on 
+        any Federal license or permit subject to the provisions of this 
+        section''; and
+            (4) by adding at the end the following:
+    ``(e) Notwithstanding section 505, any condition imposed on a 
+Federal license or permit by a licensing or permitting agency under 
+this section may be enforced only by such licensing or permitting 
+agency.
+    ``(f) For purposes of this section, the applicable provisions of 
+sections 301, 302, 303, 306, and 307 are any applicable effluent 
+limitations and other limitations under section 301 or 302, any water 
+quality standard in effect for a State under section 303, any standard 
+of performance under section 306, and any prohibition, effluent 
+standard, or pretreatment standard under section 307.
+    ``(g) A request for certification under this section shall be made 
+in writing to the State, interstate agency, or Administrator, as the 
+case may be. A complete request for certification shall consist of the 
+following:
+            ``(1) Identification of each applicant for the Federal 
+        license or permit with respect to which the certification is 
+        requested.
+            ``(2) A statement that information included in the request 
+        for certification is truthful, accurate, and complete, to the 
+        best knowledge of each such applicant.
+            ``(3) In the case of a request for certification with 
+        respect to an individual permit or license--
+                    ``(A) identification of the Federal license or 
+                permit that is the subject of the application with 
+                respect to which the certification is requested;
+                    ``(B) identification of any activity the conduct of 
+                which is subject to such Federal license or permit;
+                    ``(C) identification of the location and nature of 
+                any discharge that may directly result from such 
+                activity, and the location of the receiving waters;
+                    ``(D) a description of means that may be used to 
+                monitor, control, or manage any such discharge; and
+                    ``(E) a list of all other Federal, interstate, 
+                Tribal, State, or local agency authorizations required 
+                for the conduct of such activity, and any approval or 
+                denial of such an authorization already received.
+            ``(4) In the case of a request for certification with 
+        respect to the issuance of a general license or general 
+        permit--
+                    ``(A) identification of the proposed categories of 
+                activities to be covered by the general license or 
+                general permit for which certification is requested;
+                    ``(B) a description of the proposed general license 
+                or general permit, which may include a draft of the 
+                proposed general license or permit; and
+                    ``(C) an estimate of the number of discharges 
+                expected to result from the proposed general license or 
+                general permit annually.
+    ``(h) Judicial Review.--
+            ``(1) Affected certification actions.--This subsection 
+        shall apply to any civil action for the review of a 
+        certification action with respect to an applicant for a license 
+        or permit--
+                    ``(A) for the construction or operation of 
+                facilities for the transmission of electric energy or 
+                energy fuels in interstate or foreign commerce; or
+                    ``(B) from the Federal Energy Regulatory 
+                Commission.
+            ``(2) Standing and filing deadline.--Not withstanding any 
+        other provision of law, no court shall have jurisdiction to 
+        review a civil action under this subsection, except for a civil 
+        action filed not later than 30 days after the final action on 
+        the certification by--
+                    ``(A) the applicant; or
+                    ``(B) a person who has suffered, or likely and 
+                imminently will suffer, direct and irreparable economic 
+                harm from the authorization; provided that an 
+                organization or association satisfies this harm 
+                requirement only if each member of the organization or 
+                association satisfies the requirement.
+            ``(3) Expedited consideration.--
+                    ``(A) The Court shall--
+                            ``(i) set any petition for review brought 
+                        under this subsection for expedited 
+                        consideration; and
+                            ``(ii) issue a final decision no later than 
+                        120 days after the filing of the civil action, 
+                        unless the court finds extraordinary 
+                        circumstances, in which the Court may take up 
+                        to 60 additional days to issue a final 
+                        decision.
+                    ``(B) Failure to comply with deadline.--If the 
+                civil action concerns a certification that has been 
+                granted, the Court's failure to issue a final decision 
+                in compliance with the deadlines in subparagraph (A) 
+                shall mean the civil action is denied with 
+                prejudice.''.
+
+SEC. 6. CLARIFYING FEDERAL GENERAL PERMITS.
+
+    Section 402(a) of the Federal Water Pollution Control Act (33 
+U.S.C. 1342(a)) is amended by adding at the end the following:
+            ``(6) General permits.--
+                    ``(A) Permits authorized.--The Administrator may 
+                issue general permits under this section on a State, 
+                regional, or nationwide basis, or for a delineated 
+                area, for discharges associated with any category of 
+                activities, which discharges are of similar types and 
+                from similar sources.
+                    ``(B) Permit expiration notification requirement.--
+                If a general permit issued under this section will 
+                expire and the Administrator decides not to issue a new 
+                general permit for discharges similar to those covered 
+                by the expiring general permit, the Administrator shall 
+                publish in the Federal Register a notice of such 
+                decision at least two years prior to the expiration of 
+                the general permit.
+                    ``(C) Application of permit terms of an expired 
+                permit.--
+                            ``(i) In general.--If a general permit 
+                        issued under this section expires and the 
+                        Administrator has not published a notice in 
+                        accordance with subparagraph (B), the 
+                        Administrator shall, until the date described 
+                        in clause (ii)--
+                                    ``(I) continue to apply the terms, 
+                                conditions, and requirements of the 
+                                expired general permit to any discharge 
+                                that was covered by the expired general 
+                                permit; and
+                                    ``(II) apply such terms, 
+                                conditions, and requirements to any 
+                                discharge that would have been covered 
+                                by the expired general permit (in 
+                                accordance with any relevant 
+                                requirements for such coverage) if the 
+                                discharge had occurred before such 
+                                expiration.
+                            ``(ii) Date described.--The date described 
+                        in this clause is the earlier of--
+                                    ``(I) the date on which the 
+                                Administrator issues a new general 
+                                permit for discharges similar to those 
+                                covered by the expired general permit; 
+                                or
+                                    ``(II) the date that is two years 
+                                after the date on which the 
+                                Administrator publishes in the Federal 
+                                Register a notice of a decision not to 
+                                issue a new general permit for 
+                                discharges similar to those covered by 
+                                the expired general permit.''.
+
+SEC. 7. NPDES PERMIT TERMS.
+
+    Section 402(b)(1)(B) of the Federal Water Pollution Control Act (33 
+U.S.C. 1342(b)(1)(B)) is amended by striking ``five years'' and 
+inserting ``ten years''.
+
+SEC. 8. CONFIDENCE IN CLEAN WATER PERMITS.
+
+    (a) Compliance With Permits.--Section 402(k) of the Federal Water 
+Pollution Control Act (33 U.S.C. 1342(k)) is amended--
+            (1) by striking ``(k) Compliance with'' and inserting the 
+        following:
+    ``(k) Compliance With Permits.--
+            ``(1) In general.--Subject to paragraph (2), compliance 
+        with''; and
+            (2) by adding at the end the following:
+            ``(2) Scope.--For purposes of paragraph (1), compliance 
+        with the conditions of a permit issued under this section shall 
+        be considered compliance with respect to a discharge of--
+                    ``(A) any pollutant for which an effluent 
+                limitation is included in the permit; and
+                    ``(B) any pollutant for which an effluent 
+                limitation is not included in the permit that is--
+                            ``(i) specifically identified as controlled 
+                        or monitored through indicator parameters in 
+                        the permit, the fact sheet for the permit, or 
+                        the administrative record relating to the 
+                        permit;
+                            ``(ii) specifically identified during the 
+                        permit application process as present in 
+                        discharges to which the permit will apply; or
+                            ``(iii) whether or not specifically 
+                        identified in the permit or during the permit 
+                        application process--
+                                    ``(I) present in any waste streams 
+                                or processes of the point source to 
+                                which the permit applies, which waste 
+                                streams or processes are specifically 
+                                identified during the permit 
+                                application process; or
+                                    ``(II) otherwise within the scope 
+                                of any operations of the point source 
+                                to which the permit applies, which 
+                                scope of operations is specifically 
+                                identified during the permit 
+                                application process.''.
+    (b) Expression of Water Quality-Based Effluent Limitations.--
+Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342) 
+is amended by adding at the end the following:
+    ``(t) Expression of Water Quality-Based Effluent Limitations.--If 
+the Administrator (or a State, in the case of a permit program approved 
+by the Administrator) determines that a water quality-based limitation 
+on a discharge of a pollutant is necessary to include in a permit under 
+this section in addition to any appropriate technology-based effluent 
+limitations included in such permit, the Administrator (or the State) 
+may include such water quality-based limitation in such permit only in 
+the form of a limitation that--
+            ``(1) specifies the pollutant to which it applies; and
+            ``(2) clearly describes the manner in which compliance with 
+        the limitation may be achieved, which shall include--
+                    ``(A) a numerical limit on the discharge of such 
+                pollutant;
+                    ``(B) a narrative description of required actions 
+                to be applied to the discharge (including any measures 
+                or practices required to be applied); or
+                    ``(C) a narrative description of a limitation on 
+                the discharge that specifies the level of control to be 
+                applied.''.
+
+SEC. 9. FOREST PROTECTION AND WILDLAND FIREFIGHTER SAFETY.
+
+    Section 402(l)(3)(A) of the Federal Water Pollution Control Act (33 
+U.S.C. 1342(l)(3)(A)) is amended--
+            (1) by striking ``for a discharge from'' and inserting the 
+        following: ``for--
+                            ``(i) a discharge from'';
+            (2) in clause (i) (as so designated), by striking the 
+        period at the end and inserting ``; or''; and
+            (3) by adding at the end the following:
+                            ``(ii) a discharge resulting from the 
+                        aerial application of a product used for fire 
+                        control and suppression purposes that appears 
+                        on the most current Forest Service Qualified 
+                        Products List (or any successor list).''.
+
+SEC. 10. AGRICULTURAL STORMWATER DISCHARGE.
+
+    Section 402(l) of the Federal Water Pollution Control Act (33 
+U.S.C. 1342(l)) is amended by adding at the end the following:
+            ``(4) Agricultural stormwater discharge.--
+                    ``(A) In general.--The Administrator shall not 
+                require a permit, nor directly or indirectly require 
+                any State to require a permit, under this section for 
+                discharges of stormwater, including from subsurface 
+                drainage, from agricultural land that occur in direct 
+                response to a precipitation event.
+                    ``(B) Agricultural land defined.--In this 
+                paragraph, the term `agricultural land' includes--
+                            ``(i) land on which an agricultural input 
+                        (such as manure and other crop nutrients, crop 
+                        protection, or seed) is applied;
+                            ``(ii) land on which animals (including 
+                        fish and shellfish), crops (including fruit and 
+                        nut trees), crop residue, plants, seed, or 
+                        vegetation are present for purposes of farming 
+                        or ranching; and
+                            ``(iii) land that is--
+                                    ``(I) immediately adjacent to, and 
+                                functionally related to, land described 
+                                in clause (i) or (ii); and
+                                    ``(II) necessary to support 
+                                agricultural production, soil 
+                                conservation, flood control, or water 
+                                quality.''.
+
+SEC. 11. REDUCING REGULATORY BURDENS.
+
+    Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 
+1342) is further amended by adding at the end the following:
+    ``(u) Discharges of Pesticides.--
+            ``(1) No permit requirement.--Except as provided in 
+        paragraph (2), a permit shall not be required by the 
+        Administrator or a State under this Act for a discharge from a 
+        point source into navigable waters of a pesticide authorized 
+        for sale, distribution, or use under the Federal Insecticide, 
+        Fungicide, and Rodenticide Act, or the residue of such a 
+        pesticide, resulting from the application of such pesticide.
+            ``(2) Exceptions.--Paragraph (1) shall not apply to the 
+        following discharges of a pesticide or pesticide residue:
+                    ``(A) A discharge resulting from the application of 
+                a pesticide in violation of a provision of the Federal 
+                Insecticide, Fungicide, and Rodenticide Act that is 
+                relevant to protecting water quality, if--
+                            ``(i) the discharge would not have occurred 
+                        but for the violation; or
+                            ``(ii) the amount of pesticide or pesticide 
+                        residue in the discharge is greater than would 
+                        have occurred without the violation.
+                    ``(B) Stormwater discharges subject to regulation 
+                under subsection (p).
+                    ``(C) The following discharges subject to 
+                regulation under this section:
+                            ``(i) Manufacturing or industrial effluent.
+                            ``(ii) Treatment works effluent.
+                            ``(iii) Discharges incidental to the normal 
+                        operation of a vessel, including a discharge 
+                        resulting from ballasting operations or vessel 
+                        biofouling prevention.''.
+
+SEC. 12. REDUCING PERMITTING UNCERTAINTY.
+
+    (a) In General.--Section 404(c) of the Federal Water Pollution 
+Control Act (33 U.S.C. 1344(c)) is amended--
+            (1) by striking ``(c) The Administrator'' and inserting the 
+        following:
+    ``(c) Specification or Use of Defined Area.--
+            ``(1) In general.--The Administrator'';
+            (2) in paragraph (1), as so designated, by inserting 
+        ``during the period described in paragraph (2) and'' before 
+        ``after notice and opportunity for public hearings''; and
+            (3) by adding at the end the following:
+            ``(2) Period of prohibition.--The period during which the 
+        Administrator may prohibit the specification (including the 
+        withdrawal of specification) of any defined area as a disposal 
+        site, or deny or restrict the use of any defined area for 
+        specification (including the withdrawal of specification) as a 
+        disposal site, under paragraph (1) shall--
+                    ``(A) begin on the date on which an applicant 
+                submits all the information required to complete an 
+                application for a permit under this section; and
+                    ``(B) end on the date on which the Secretary issues 
+                the permit.''.
+    (b) Applicability.--The amendments made by subsection (a) shall 
+apply to a permit application submitted under section 404 of the 
+Federal Water Pollution Control Act (33 U.S.C. 1344) after the date of 
+enactment of this Act.
+
+SEC. 13. NATIONWIDE PERMITTING IMPROVEMENT.
+
+    (a) In General.--Section 404(e) of the Federal Water Pollution 
+Control Act (33 U.S.C. 1344) is amended--
+            (1) by striking ``(e)(1) In carrying'' and inserting the 
+        following:
+    ``(e) General Permits.--
+            ``(1) Permits authorized.--In carrying'';
+            (2) in paragraph (2)--
+                    (A) by striking ``(2) No general'' and inserting 
+                the following:
+            ``(2) Term.--No general''; and
+                    (B) by striking ``five years'' and inserting ``ten 
+                years''; and
+            (3) by adding at the end the following:
+            ``(3) Considerations.--In determining the environmental 
+        effects of an activity under paragraph (1) or (2), the 
+        Secretary--
+                    ``(A) shall consider only the effects of any 
+                discharge of dredged or fill material resulting from 
+                such activity;
+                    ``(B) shall consider any effects of a discharge of 
+                dredged or fill material into less than 3 acres of 
+                navigable waters to be a minimal adverse environmental 
+                effect; and
+                    ``(C) may consider any effects of a discharge of 
+                dredged or fill material into 3 acres or more of 
+                navigable waters to be a minimal adverse environmental 
+                effect.
+            ``(4) Nationwide permits for linear projects.--
+                    ``(A) In general.--Notwithstanding any other 
+                provision of this section, the Secretary shall maintain 
+                general permits on a nationwide basis for--
+                            ``(i) linear infrastructure projects that 
+                        result in a discharge of dredged or fill 
+                        material into less than 3 acres of navigable 
+                        waters for each single and complete project; 
+                        and
+                            ``(ii) linear pipeline projects that do not 
+                        result in the loss of navigable waters in an 
+                        amount that is greater than 0.5 acres for each 
+                        single and complete project.
+                    ``(B) Definitions.--In this paragraph:
+                            ``(i) Linear infrastructure project.--The 
+                        term `linear infrastructure project' means a 
+                        project to carry out any activity required for 
+                        the construction, expansion, maintenance, 
+                        modification, or removal of infrastructure and 
+                        associated facilities for the transmission from 
+                        a point of origin to a terminal point of 
+                        communications or electricity, or for the 
+                        transportation from a point of origin to a 
+                        terminal point of people, water, or wastewater.
+                            ``(ii) Linear pipeline project.--The term 
+                        `linear pipeline project' means a project to 
+                        carry out any activity required for the 
+                        construction, expansion, maintenance, 
+                        modification, or removal of infrastructure and 
+                        associated facilities for the transportation 
+                        from a point of origin to a terminal point of 
+                        carbon dioxide, fuel, or hydrocarbons, in the 
+                        form of a liquid, liquescent, gaseous, or 
+                        slurry substance or supercritical fluid, 
+                        including oil and gas pipeline facilities.
+                            ``(iii) Single and complete project.--The 
+                        term `single and complete project' has the 
+                        meaning given that term in section 330.2 of 
+                        title 33, Code of Federal Regulations (as in 
+                        effect on the date of enactment of this 
+                        paragraph).
+            ``(5) Reissuance of nationwide permits.--In determining 
+        whether to reissue a general permit issued under this 
+        subsection on a nationwide basis--
+                    ``(A) no consultation with an applicable State 
+                pursuant to section 6(a) of the Endangered Species Act 
+                of 1973 (16 U.S.C. 1535(a)) is required;
+                    ``(B) no consultation with a Federal agency 
+                pursuant to section 7(a)(2) of such Act (16 U.S.C. 
+                1536(a)(2)) is required; and
+                    ``(C) the requirements of section 102(2)(C) of the 
+                National Environmental Policy Act of 1969 (42 U.S.C. 
+                4332(2)(C)) shall be satisfied by preparing an 
+                environmental assessment with respect to such general 
+                permit.''.
+    (b) Regulatory Revisions Required.--The Secretary of the Army, 
+acting through the Chief of Engineers, shall expeditiously revise the 
+regulations applicable to carrying out section 404(e) of the Federal 
+Water Pollution Control Act (33 U.S.C. 1344) in order to streamline the 
+processes for issuing general permits under such section to promote 
+efficient and consistent implementation of such section.
+    (c) Administration of Nationwide Permit Program.--In carrying out 
+section 404(e) of the Federal Water Pollution Control Act (33 U.S.C. 
+1344), including in revising regulations under subsection (b) of this 
+section, the Secretary of the Army, acting through the Chief of 
+Engineers, may not finalize or implement any modification to--
+            (1) general condition 15 (relating to single and complete 
+        projects), as included in the final rule titled ``Reissuance 
+        and Modification of Nationwide Permits'' and published on 
+        January 13, 2021, by the Department of the Army, Corps of 
+        Engineers (86 Fed. Reg. 2868);
+            (2) the definition of the term ``single and complete linear 
+        project'', as included in such final rule (86 Fed. Reg. 2877); 
+        or
+            (3) the definition of the term ``single and complete 
+        project'', as included in section 330.2 of title 33, Code of 
+        Federal Regulations (as in effect on the date of enactment of 
+        this Act).
+
+SEC. 14. DEADLINE FOR REQUEST FOR SUBMISSION OF ADDITIONAL INFORMATION 
+              FOR PERMIT PROGRAMS FOR DREDGED OR FILL MATERIAL.
+
+    Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 
+1344) is amended--
+            (1) in subsection (g)--
+                    (A) by redesignating paragraph (3) as paragraph 
+                (4); and
+                    (B) by inserting after paragraph (2) the following:
+    ``(3) If the Administrator determines that additional information 
+is necessary for the description of a program submitted by a State to 
+be full and complete under paragraph (1), the Administrator shall, not 
+later than 45 days after the date of the receipt of the program and 
+statement submitted by the State under such paragraph, submit to the 
+State a written request for all such information.''; and
+            (2) in subsection (h)(1), by striking ``paragraph (1) of 
+        this subsection'' and inserting ``subsection (g)(1)''.
+
+SEC. 15. JUDICIAL REVIEW TIMELINE CLARITY.
+
+    Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 
+1344) is amended--
+            (1) by redesignating subsection (t) as subsection (u);
+            (2) in subsection (u), as so redesignated, by striking 
+        ``Nothing in the section'' and inserting ``Savings Provision.--
+        Nothing in this section''; and
+            (3) by inserting after subsection (s) the following:
+    ``(t) Judicial Review.--
+            ``(1) Statute of limitations.--Notwithstanding any 
+        applicable provision of law relating to statutes of 
+        limitations--
+                    ``(A) an action seeking judicial review of the 
+                approval by the Administrator of a State permit program 
+                pursuant to this section shall be filed not later than 
+                the date that is 60 days after the date on which the 
+                approval was issued;
+                    ``(B) an action seeking judicial review of an 
+                individual permit or general permit issued under this 
+                section shall be filed not later than the date that is 
+                60 days after the date on which the permit was issued; 
+                and
+                    ``(C) an action seeking judicial review of a 
+                verification that an activity involving a discharge of 
+                dredged or fill material is authorized by a general 
+                permit issued under this section shall be filed not 
+                later than the date that is 60 days after the date on 
+                which such verification was issued.
+            ``(2) Limitation on commencement of certain actions.--
+        Notwithstanding any other provision of law, no action described 
+        in subparagraph (A) or (B) of paragraph (1) may be commenced 
+        unless the action--
+                    ``(A) is filed by a party that submitted a 
+                comment--
+                            ``(i) during the public comment period for 
+                        the administrative proceedings related to the 
+                        action; and
+                            ``(ii) which was sufficiently detailed to 
+                        put the Administrator, the Secretary, or the 
+                        State, as applicable, on notice of the issue 
+                        upon which the party seeks judicial review; and
+                    ``(B) is related to such comment.
+            ``(3) Remedies.--
+                    ``(A) Actions relating to permit programs.--If a 
+                court determines that the Administrator did not comply 
+                with the requirements of this section in issuing an 
+                approval of a State permit program pursuant to this 
+                section--
+                            ``(i) the court shall remand the matter to 
+                        the Administrator for further proceedings 
+                        consistent with the determination of the court; 
+                        and
+                            ``(ii) the court may not vacate, revoke, 
+                        enjoin, or otherwise limit the authority of the 
+                        State to issue permits under such State permit 
+                        program.
+                    ``(B) Actions relating to permits.--If a court 
+                determines that the Secretary or the State, as 
+                applicable, did not comply with the requirements of 
+                this section in issuing an individual or general permit 
+                under this section, or in verifying that an activity 
+                involving a discharge of dredged or fill material is 
+                authorized by a general permit issued under this 
+                section, as applicable--
+                            ``(i) the court shall remand the matter to 
+                        the Secretary or the State, as applicable, for 
+                        further proceedings consistent with the 
+                        determination of the court;
+                            ``(ii) with respect to a determination 
+                        regarding the issuance of an individual or 
+                        general permit under this section, the court 
+                        may not vacate, revoke, enjoin, or otherwise 
+                        limit the permit, unless the court finds that 
+                        activities authorized under the permit would 
+                        present an imminent and substantial danger to 
+                        human health or the environment for which there 
+                        is no other equitable remedy available under 
+                        the law; and
+                            ``(iii) with respect to a determination 
+                        regarding a verification that an activity 
+                        involving a discharge of dredged or fill 
+                        material is authorized by a general permit 
+                        issued under this section, the court may not 
+                        enjoin or otherwise limit the discharge unless 
+                        the court finds that the activity would present 
+                        an imminent and substantial danger to human 
+                        health or the environment for which there is no 
+                        other equitable remedy available under the law.
+            ``(4) Timeline to act on court order.--If a court remands a 
+        matter under paragraph (3), the court shall set and enforce a 
+        reasonable schedule and deadline, which may not exceed 180 days 
+        from the date on which the court remands such matter, except as 
+        otherwise required by law, for the Administrator, the 
+        Secretary, or the State, as applicable, to take such actions as 
+        the court may order.''.
+
+SEC. 16. MAINTAINING COOPERATIVE PERMITTING.
+
+    (a) Withdrawal of Approval Without Congressional Authorization 
+Prohibited.--The permit programs described in subsection (b) are 
+ratified, approved, and of full force and effect, and the Administrator 
+of the Environmental Protection Agency (referred to in this section as 
+the ``Administrator'') may not withdraw the approval of those permit 
+programs, including through the process described in section 404(i) of 
+the Federal Water Pollution Control Act (33 U.S.C. 1344(i)), unless the 
+withdrawal is expressly authorized by an Act of Congress enacted after 
+the date of enactment of this Act.
+    (b) Permit Programs Described.--The permit programs referred to in 
+subsection (a) are the following State permit programs for the 
+discharge of dredged or fill material approved under section 404 of the 
+Federal Water Pollution Control Act (33 U.S.C. 1344):
+            (1) The program of the State of Michigan, approved in the 
+        notice of the Environmental Protection Agency entitled 
+        ``Michigan Department of Natural Resources Section 404 Permit 
+        Program Approval'' (49 Fed. Reg. 38947 (October 2, 1984)) and 
+        as described in section 233.70 of title 40, Code of Federal 
+        Regulations (including any updates to the program described in 
+        a successor Federal Register notice).
+            (2) The program of the State of New Jersey, approved in the 
+        final rule and notice of the Environmental Protection Agency 
+        entitled ``New Jersey Department of Environmental Protection 
+        and Energy Section 404 Permit Program Approval'' (59 Fed. Reg. 
+        9933 (March 2, 1994)) and as described in section 233.71 of 
+        title 40, Code of Federal Regulations (including any updates to 
+        the program described in a successor Federal Register notice).
+            (3) The program of the State of Florida, as described in 
+        the notice of the Environmental Protection Agency entitled 
+        ``EPA's Approval of Florida's Clean Water Act Section 404 
+        Assumption Request'' (85 Fed. Reg. 83553 (December 22, 2020)) 
+        (including any updates to the program described in a successor 
+        Federal Register notice), including the Programmatic Biological 
+        Opinion with Incidental Take Statement associated with the 
+        program.
+    (c) Program Transition Period.--During the 90-day period beginning 
+on the date of enactment of this Act, the Secretary of the Army, acting 
+through the Chief of Engineers (referred to in this section as the 
+``Secretary''), and the State of Florida may both issue permits 
+authorized under the program described in subsection (b)(3) for the 
+discharge of dredged or fill material into navigable waters (as 
+described in subsection 404(g)(1) of the Federal Water Pollution 
+Control Act (33 U.S.C. 1344(g)(1))) within the jurisdiction of the 
+State of Florida.
+    (d) Approval of Comparable State Programs.--
+            (1) In general.--If the Administrator determines that a 
+        State program submitted under subsection (g)(1) of section 404 
+        of the Federal Water Pollution Control Act (33 U.S.C. 1344) is 
+        comparable to a State program described in any of paragraphs 
+        (1) through (3) of subsection (b) of this section, the 
+        Administrator shall make the determination described in 
+        subsection (h)(2)(A) of such section 404 with respect to that 
+        program.
+            (2) Notification.--On making the determination required 
+        under paragraph (1), the Administrator shall notify the 
+        Secretary and the applicable State of that determination.
+            (3) Suspension.--On notification from the Administrator 
+        under paragraph (2) and from a State that the State has begun 
+        to administer a program approved pursuant to paragraph (1), the 
+        Secretary shall suspend the issuance of permits under 
+        subsections (a) and (e) of section 404 of the Federal Water 
+        Pollution Control Act (33 U.S.C. 1344) for activities with 
+        respect to which a permit may be issued by the State under that 
+        program.
+
+SEC. 17. RESTORING FEDERALISM IN CLEAN WATER PERMITTING.
+
+    Not later than 180 days after the date of enactment of this Act, 
+the Administrator of the Environmental Protection Agency shall complete 
+a review of the regulations applicable to the approval of State permit 
+programs under section 404 of the Federal Water Pollution Control Act 
+(33 U.S.C. 1344) in order to identify revisions to such regulations 
+necessary to streamline the approval process, reduce administrative 
+burdens, and encourage additional States to administer a permit program 
+under such section, and the Administrator shall implement any such 
+revisions as appropriate.
+
+SEC. 18. REVISION OF FRAMEWORK FOR COMPENSATORY MITIGATION.
+
+    (a) Requirement to Revise.--Not later than 180 days after the date 
+of enactment of this Act, the Secretary, in coordination with the 
+Administrator of the Environmental Protection Agency, shall publish in 
+the Federal Register a proposed rule, consistent with section 404 of 
+the Federal Water Pollution Control Act (33 U.S.C. 1344), to revise the 
+regulations issued in the final rule of the Department of Defense and 
+the Environmental Protection Agency titled ``Compensatory Mitigation 
+for Losses of Aquatic Resources'' and published in the Federal Register 
+on April 10, 2008 (73 Fed. Reg. 19594).
+    (b) Scope of Revisions.--In carrying out subsection (a), the 
+Secretary shall--
+            (1) incorporate lessons learned since the implementation of 
+        the final rule described in subsection (a) and reflect advances 
+        in science, restoration practices, and regulatory efficiency;
+            (2) promote equivalency and flexibility among mitigation 
+        options, including mitigation banking, in-lieu fee programs, 
+        and permittee-responsible mitigation;
+            (3) expedite the approval of plans that use mitigation 
+        banks, in-lieu fee programs, and permittee-responsible 
+        mitigation;
+            (4) support regional watershed approaches, including by--
+                    (A) encouraging compensatory mitigation credit 
+                generation and sales across primary, secondary, and 
+                tertiary service areas; and
+                    (B) implementing mitigation requirements, policies, 
+                and guidance that are consistent, predictable, and 
+                transparent;
+            (5) ensure timely coordination between Corps of Engineers 
+        district offices and Interagency Review Teams;
+            (6) ensure that, for projects involving temporary impacts 
+        to aquatic resources, including mining and other energy or 
+        infrastructure projects with approved reclamation plans, the 
+        revised regulations--
+                    (A) take into account the temporary nature of such 
+                impacts;
+                    (B) recognize activities carried out under an 
+                approved reclamation plan as a form of minimization of 
+                such impacts, consistent with the guidelines developed 
+                under section 404(b)(1) of the Federal Water Pollution 
+                Control Act;
+                    (C) consider financial assurances already required 
+                under applicable regulatory programs (including 
+                instruments such as surety bonds, collateral bonds, 
+                letters of credit, insurance, trust funds, and, where 
+                permitted, self-bonding) when determining the need for 
+                additional financial assurances; and
+                    (D) allow the use, transfer, or sale of surplus 
+                compensatory mitigation credits generated through 
+                activities carried out under an approved reclamation 
+                plan, if such credits meet applicable environmental 
+                performance standards;
+            (7) encourage the use of off-site and out-of-kind 
+        mitigation options where appropriate; and
+            (8) include any other revisions determined appropriate by 
+        the Secretary.
+    (c) Guidance.--After issuing a final rule under this section, the 
+Secretary shall issue guidance establishing objective, measurable 
+success criteria for activities carried out under an approved 
+reclamation plan for purposes of generating compensatory mitigation 
+credits, and a phased credit release schedule tied to milestones for 
+such activities.
+    (d) Definitions.--In this section:
+            (1) Approved reclamation plan.--The term ``approved 
+        reclamation plan''--
+                    (A) means--
+                            (i) a reclamation plan approved pursuant to 
+                        section 510 of the Surface Mining Control and 
+                        Reclamation Act of 1977 (30 U.S.C. 1260);
+                            (ii) a reclamation plan, plan of 
+                        operations, or other similar plan approved by 
+                        the Secretary of Agriculture or the Secretary 
+                        of the Interior with respect to the mining or 
+                        related operations of--
+                                    (I) minerals subject to location 
+                                under the general mining laws;
+                                    (II) minerals subject to leasing 
+                                under the mineral leasing laws; or
+                                    (III) mineral materials subject to 
+                                disposition under the Act of July 31, 
+                                1947, commonly known as the Materials 
+                                Act of 1947 (30 U.S.C. 601 et seq.);
+                            (iii) a surface use plan of operations 
+                        approved pursuant to subpart 3162 of title 43, 
+                        Code of Federal Regulations (or a successor 
+                        regulation);
+                            (iv) a plan of operations or utilization 
+                        plan approved pursuant to subpart 3200 of title 
+                        43, Code of Federal Regulations (or a successor 
+                        regulation); and
+                            (v) a plan of development approved pursuant 
+                        to subpart 2805 of title 43, Code of Federal 
+                        Regulations (or a successor regulation) that 
+                        includes enforceable reclamation or surface 
+                        restoration requirements; and
+                    (B) includes a plan of operations approved under--
+                            (i) subpart 3809 of title 43, Code of 
+                        Federal Regulations (or a successor 
+                        regulation); or
+                            (ii) part 228 of title 36, Code of Federal 
+                        Regulations (or a successor regulation).
+            (2) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Army, acting through the Chief of Engineers.
+
+SEC. 19. JURISDICTIONAL DETERMINATION BACKLOG REDUCTION.
+
+    Not later than 60 days after the date of enactment of this Act, the 
+Secretary of the Army, acting through the Chief of Engineers, shall 
+expedite such procedures and reallocate or augment such personnel and 
+resources of the Corps of Engineers as the Secretary determines 
+necessary to eliminate any backlog existing as of June 5, 2025, of--
+            (1) applications for permits under section 404 of the 
+        Federal Water Pollution Control Act (33 U.S.C. 1344); or
+            (2) requests for jurisdictional determinations or wetlands 
+        delineations under the jurisdiction of the Secretary.
+
+SEC. 20. DEFINITION OF NAVIGABLE WATERS.
+
+    Section 502(7) of the Federal Water Pollution Control Act (33 
+U.S.C. 1362(7)) is amended--
+            (1) by striking ``(7) The term'' and inserting the 
+        following:
+            ``(7) Navigable waters.--
+                    ``(A) In general.--The term''; and
+            (2) by adding at the end the following:
+                    ``(B) Exclusions.--The term `navigable waters' does 
+                not include the following:
+                            ``(i) Any component of a waste treatment 
+                        system, including any lagoon or treatment pond 
+                        (such as a settling or cooling pond), designed 
+                        to actively or passively--
+                                    ``(I) convey or retain wastewater; 
+                                or
+                                    ``(II) concentrate, settle, reduce, 
+                                or remove pollutants from wastewater.
+                            ``(ii) Ephemeral features that flow only in 
+                        direct response to precipitation.
+                            ``(iii) Any area that--
+                                    ``(I) prior to December 23, 1985, 
+                                was drained or otherwise manipulated 
+                                for the purpose, or having the effect, 
+                                of making production of an agricultural 
+                                product possible, as determined by the 
+                                Administrator and the Secretary of the 
+                                Army, acting through the Chief of 
+                                Engineers, which determinations shall 
+                                be consistent with any designations of 
+                                prior converted cropland made by the 
+                                Secretary of Agriculture; and
+                                    ``(II) as determined by the 
+                                Administrator--
+                                            ``(aa) at least once in the 
+                                        immediately preceding ten years 
+                                        has been used for, or in 
+                                        support of, agricultural 
+                                        purposes, including grazing, 
+                                        haying, idling land for 
+                                        conservation use (such as 
+                                        habitat management, pollinator 
+                                        and wildlife management, water 
+                                        storage and supply management, 
+                                        and flood management), 
+                                        irrigation tailwater storage, 
+                                        farm-raised fish production, 
+                                        cranberry production, nutrient 
+                                        retention, and idling land for 
+                                        soil recovery after natural 
+                                        disasters such as hurricanes 
+                                        and drought; and
+                                            ``(bb) has not reverted to 
+                                        wetlands (as defined in section 
+                                        120.2 of title 40, Code of 
+                                        Federal Regulations, as in 
+                                        effect on the date of enactment 
+                                        of this clause).
+                            ``(iv) Groundwater.
+                            ``(v) Any other features determined to be 
+                        excluded by the Administrator and the Secretary 
+                        of the Army, acting through the Chief of 
+                        Engineers.''.
+
+SEC. 21. APPLICABILITY OF SPILL PREVENTION, CONTROL, AND COUNTERMEASURE 
+              RULE.
+
+    Section 1049 of the Water Resources Reform and Development Act of 
+2014 (33 U.S.C. 1361 note) is amended--
+            (1) in subsection (b)--
+                    (A) in paragraph (1)(B), by striking ``20,000'' and 
+                inserting ``42,000'';
+                    (B) by amending paragraph (2)(A) to read as 
+                follows:
+                    ``(A) an aggregate aboveground storage capacity 
+                greater than 10,000 gallons but less than 42,000 
+                gallons; and'';
+                    (C) in paragraph (3)--
+                            (i) by amending subparagraph (A) to read as 
+                        follows:
+                    ``(A) with an aggregate aboveground storage 
+                capacity of less than or equal to 10,000 gallons; 
+                and''; and
+                            (ii) in subparagraph (B), by striking ``; 
+                        and'' and inserting a period; and
+                    (D) by striking paragraph (4);
+            (2) in subsection (c)(2)(A)--
+                    (A) in clause (i), by striking ``1,000'' and 
+                inserting ``1,320''; and
+                    (B) in clause (ii), by striking ``2,500'' and 
+                inserting ``3,000''; and
+            (3) by striking subsection (d).
+
+SEC. 22. COORDINATION WITH FEDERAL PERMITTING IMPROVEMENT STEERING 
+              COUNCIL.
+
+    With respect to any covered project (as defined under section 41001 
+of the FAST Act (42 U.S.C. 4370m)) for which a certification or permit 
+from a State under section 401, 402, or 404 of the Federal Water 
+Pollution Control Act is required, the State is encouraged to choose to 
+participate, to the maximum extent practicable, in the environmental 
+review and authorization process under section 41003(c) of the FAST Act 
+(42 U.S.C. 4370m-2(c)), pursuant to paragraph (3)(A) of such section.
+
+SEC. 23. SENSE OF CONGRESS ON CHESAPEAKE BAY WATERSHED AGREEMENT.
+
+    It is the sense of Congress that the Chesapeake Bay Watershed 
+Agreement is a voluntary, cooperative agreement between the Federal 
+Government, the State of Delaware, the District of Columbia, the State 
+of Maryland, the Commonwealth of Pennsylvania, the State of New York, 
+the Commonwealth of Virginia, and the State of West Virginia. As such, 
+the Federal Government should take a collaborative and cooperative 
+approach to the parties with regard to their compliance with the 
+Chesapeake Bay Total Maximum Daily Load outlined in such agreement.
+
+SEC. 24. IDENTIFICATION AND PERMITTING FOR WATER RECHARGE ON CERTAIN 
+              FEDERAL LANDS.
+
+    (a) Review and Identification.--Not later than 1 year after the 
+date of enactment of this Act, the Secretary of the Army, acting 
+through the Chief of Engineers, shall review lands under the 
+jurisdiction of the Secretary to identify parcels of such lands that 
+are hydrologically and geologically well-suited for water recharge 
+efforts, including aquifer recharge, surface water infiltration, or 
+managed aquifer recharge projects, taking into consideration factors 
+such as soil permeability, proximity to water sources, and minimal 
+environmental impact.
+    (b) Streamlined Permitting Process.--The Secretary, in consultation 
+with the Administrator of the Environmental Protection Agency and each 
+relevant State water resource agency, shall--
+            (1) establish clear and simple permitting processes for 
+        water recharge projects on parcels of land identified by the 
+        Secretary under subsection (a), including a process to 
+        facilitate (to the extent practicable)--
+                    (A) the actions of the Secretary under section 17 
+                applicable to such projects; and
+                    (B) the expedited issuance of a permit under 
+                section 404 of the Federal Water Pollution Control Act 
+                (33 U.S.C. 1344), as amended by this Act, relating to 
+                such projects; and
+            (2) ensure, to the extent practicable, that each process 
+        established under paragraph (1) minimizes regulatory burdens, 
+        provides for categorical exclusions or streamlined 
+        environmental assessments, and promotes collaboration with 
+        State and local entities to expand water recharge efforts.
+    (c) Report to Congress.--Not later than 18 months after the date of 
+enactment of this Act, the Secretary shall submit to Congress a report 
+detailing the parcels identified under subsection (a) and each 
+permitting process established under subsection (b).
+
+SEC. 25. STATE-LED PERMITTING EFFICIENCY AND WATER QUALITY PILOT.
+
+    (a) In General.--The Administrator of the Environmental Protection 
+Agency shall establish a voluntary pilot program to support State-led 
+water quality improvements in waters listed as impaired for nitrogen or 
+phosphorus under section 303(d) of the Federal Water Pollution Control 
+Act (33 U.S.C. 1313(d)).
+    (b) Voluntary Participation.--Participation by agricultural 
+producers in the program established under this section shall be 
+voluntary.
+    (c) Savings Clause.--Nothing in this section may be construed to 
+authorize the regulation of nonpoint sources or expand Federal 
+jurisdiction.
+
+SEC. 26. INTERNATIONAL BOUNDARY AND WATER COMMISSION AUTHORITY.
+
+    (a) Authorization.--The Commission is authorized to accept funds 
+from a Federal or non-Federal entity, including through a grant or 
+funding agreement, to study, design, construct, operate, or maintain 
+wastewater treatment works, water conservation projects, or flood 
+control works, and related structures, consistent with the functions of 
+the Commission.
+    (b) Deposit.--Any funds accepted by the Commission under this 
+section shall be--
+            (1) deposited into the account in the Treasury of the 
+        United States entitled ``International Boundary and Water 
+        Commission, United States and Mexico''; and
+            (2) subject to the availability of appropriations, 
+        available until expended to carry out the activities described 
+        in subsection (a).
+    (c) Limitations.--
+            (1) Limit on reimbursement.--The Commission may not provide 
+        credit towards the non-Federal share of the cost of a project, 
+        or reimbursement, to non-Federal entities for funds accepted 
+        under this section in an amount that exceeds a total of 
+        $5,000,000 in any fiscal year.
+            (2) Source of funds.--The Commission may not accept funds 
+        under this section from any non-Federal entity--
+                    (A) that is domiciled in, headquartered in, or 
+                organized under the laws of, or the principal place of 
+                business of which is located in, a foreign country of 
+                concern; or
+                    (B) that has in place any agreement with a foreign 
+                country of concern.
+    (d) Report.--Not later than the last day of each fiscal year, the 
+Commission shall submit to the Committee on Foreign Relations of the 
+Senate and the Committee on Transportation and Infrastructure of the 
+House of Representatives a report on the funds accepted under this 
+section that includes a description of--
+            (1) the activities carried out with such funds; and
+            (2) costs associated with such activities.
+    (e) Definitions.--In this section:
+            (1) The term ``Commission'' means the United States Section 
+        of the International Boundary and Water Commission, United 
+        States and Mexico.
+            (2) The term ``foreign country of concern'' has the meaning 
+        given that term in section 10638 of the Research and 
+        Development, Competition, and Innovation Act (42 U.S.C. 19237).
+
+            Passed the House of Representatives December 11, 2025.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  1st Session
+
+                               H. R. 3898
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+   To amend the Federal Water Pollution Control Act to make targeted 
+reforms with respect to waters of the United States and other matters, 
+                        and for other purposes.

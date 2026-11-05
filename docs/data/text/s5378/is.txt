@@ -1,0 +1,235 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5378 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5378
+
+  To provide for the disposition of surrendered offshore wind energy 
+                  lease areas, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             August 7, 2026
+
+ Mr. King (for himself and Mr. Padilla) introduced the following bill; 
+   which was read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+  To provide for the disposition of surrendered offshore wind energy 
+                  lease areas, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Outer Continental Shelf Lease 
+Restoration Act of 2026''.
+
+SEC. 2. DISPOSITION OF SURRENDERED OFFSHORE WIND ENERGY LEASE AREAS.
+
+    (a) Definitions.--In this Act:
+            (1) Adjacent lease.--The term ``adjacent lease'' means--
+                    (A) a covered lease that shares not less than 1 
+                boundary point with a terminated lease area; or
+                    (B) a covered lease acquired by a leaseholder 
+                during the same lease sale as the terminated lease 
+                area.
+            (2) Covered entity.--The term ``covered entity'', with 
+        respect to the surrender of a covered lease, means a lessee 
+        (including any parent, subsidiary, successor, or affiliate of 
+        that lessee) that was party to the surrender of that covered 
+        lease.
+            (3) Covered lease.--The term ``covered lease'' means a 
+        lease issued pursuant to section 8(p) of the Outer Continental 
+        Shelf Lands Act (43 U.S.C. 1337(p)) for wind energy 
+        development.
+            (4) OCS block.--The term ``OCS block'' means a block, or a 
+        portion of a block, as delineated on the official Outer 
+        Continental Shelf protraction diagrams and lease maps 
+        maintained by the Marine Minerals Administration.
+            (5) Per-acre price.--The term ``per-acre price'', with 
+        respect to a covered lease, means the amount equal to the per-
+        acre minimum bid price outlined in the Final Sale Notice for a 
+        covered lease.
+            (6) Secretary.--The term ``Secretary'' means the Secretary 
+        of the Interior.
+            (7) Surrender.--The term ``surrender'' means the 
+        termination, cancellation, or relinquishment, whether 
+        characterized as voluntary or otherwise, of a covered lease, 
+        including termination effected through a settlement agreement, 
+        memorandum of agreement, or other negotiated instrument between 
+        a lessee and the Secretary occurring on or after January 20, 
+        2025.
+            (8) Terminated lease area.--The term ``terminated lease 
+        area'' means acreage on the Outer Continental Shelf the use or 
+        potential use of which for wind energy development was 
+        terminated by the surrender of a covered lease.
+    (b) Ratification of Prior Environmental Reviews.--
+            (1) In general.--Congress ratifies and approves the 
+        environmental reviews, analyses, and consultations conducted in 
+        connection with the designation of each terminated lease area 
+        as a wind energy area and the issuance of the applicable 
+        surrendered covered lease, including any environmental impact 
+        statement, environmental assessment, record of decision, and 
+        consultation required under--
+                    (A) section 7 of the Endangered Species Act of 1973 
+                (16 U.S.C. 1536); or
+                    (B) the Marine Mammal Protection Act of 1972 (16 
+                U.S.C. 1361 et seq.).
+            (2) Effect.--The reviews, analyses, and consultations 
+        described in paragraph (1) are considered to satisfy all 
+        requirements of the National Environmental Policy Act of 1969 
+        (42 U.S.C. 4321 et seq.) and any other provision of Federal law 
+        applicable to the issuance or vesting of a covered lease under 
+        subsection (c), and no additional review, analysis, or 
+        consultation shall be required as a condition of, or to give 
+        effect to, a conveyance pursuant to this Act.
+            (3) Project-level review preserved.--Nothing in this 
+        subsection affects the environmental review, analysis, or 
+        consultation otherwise required in connection with the review 
+        and approval of a site assessment plan, construction and 
+        operations plan, or general activities plan submitted for a 
+        covered lease vested pursuant to this Act.
+    (c) Conveyance to Holders of Adjacent Leases.--
+            (1) Offer.--Effective on the date of enactment of this Act 
+        (or, for the surrender of a covered lease occurring after that 
+        date of enactment, on the applicable date of surrender), each 
+        holder of an adjacent lease (referred to in this subsection as 
+        an ``adjacent leaseholder'') shall gain the right to acquire an 
+        applicable terminated lease area, or the apportioned share of 
+        that terminated lease area as determined under paragraph (4), 
+        at a price equal to the per-acre price multiplied by the 
+        acreage of the offered terminated lease area.
+            (2) Issuance and vesting.--
+                    (A) Issuance.--On submission of the amount 
+                described in paragraph (1) by an adjacent leaseholder 
+                to the Treasury of the United States, the Secretary 
+                shall issue a lease of the terminated lease area, or 
+                the apportioned share of that terminated lease area as 
+                determined under paragraph (4), to the applicable 
+                adjacent leaseholder without any further action, 
+                approval, execution, or issuance required by the 
+                Secretary.
+                    (B) Vesting.--A lease issued to an applicable 
+                leaseholder under subparagraph (A) shall be considered 
+                vested in that applicable leaseholder.
+            (3) Terms.--A lease issued and vested under paragraph (2) 
+        shall be subject to the same terms, conditions, and 
+        stipulations as are applicable to the applicable adjacent lease 
+        of the adjacent leaseholder, with a term commencing on the date 
+        of vesting under that paragraph.
+            (4) Apportionment among multiple adjacent leaseholders.--
+                    (A) In general.--If a terminated lease area shares 
+                a boundary with more than 1 adjacent lease--
+                            (i) each OCS block within the terminated 
+                        lease area shall be assigned to the adjacent 
+                        lease whose boundary is nearest to the 
+                        geographic center of that OCS block, determined 
+                        by a line of equidistance where a block lies 
+                        equidistant from 2 or more adjacent leases;
+                            (ii) the apportioned share offered to each 
+                        adjacent leaseholder shall consist of the OCS 
+                        blocks assigned under clause (i); and
+                            (iii) each adjacent leaseholder may 
+                        exercise the right to acquire the applicable 
+                        OCS blocks assigned under clause (i) 
+                        independently of any other adjacent 
+                        leaseholder.
+                    (B) Unclaimed share.--If an adjacent leaseholder 
+                does not submit payment of the amount described in 
+                paragraph (1), the terminated lease area or apportioned 
+                share of that terminated lease area offered to that 
+                adjacent leaseholder shall be made available and 
+                disposed of pursuant to subsection (d).
+    (d) Disposition of Unclaimed Areas.--
+            (1) In general.--A terminated lease area or the apportioned 
+        share of a terminated lease area that is not issued and vested 
+        under subsection (c) shall be returned to the inventory of 
+        areas available for leasing pursuant to section 8(p) of the 
+        Outer Continental Shelf Lands Act (43 U.S.C. 1337(p)).
+            (2) Lease sale.--
+                    (A) In general.--Not later than 90 days after a 
+                terminated lease area or apportioned share of a 
+                terminated lease area is returned to inventory under 
+                paragraph (1), the Secretary shall offer the terminated 
+                lease area or apportioned share of a terminated lease 
+                area for lease.
+                    (B) Terms and conditions.--A terminated lease area 
+                or apportioned share of a terminated lease area offered 
+                under subparagraph (A) shall be offered with the same 
+                terms and conditions, including financial terms, under 
+                which the area was most recently offered before the 
+                surrender of the applicable covered lease.
+            (3) Ineligibility of covered entities.--A covered entity 
+        that has surrendered a terminated lease area is ineligible to 
+        acquire, bid for, or hold any interest in that terminated lease 
+        area pursuant to the conveyance or disposition requirements of 
+        subsection (c), this subsection, or any other applicable law.
+    (e) Limitations on Oil and Gas Leasing and Permitting.--
+            (1) In general.--Except as provided in paragraph (2), the 
+        Secretary may not issue any new oil or gas lease under section 
+        8(a) of the Outer Continental Shelf Lands Act (43 U.S.C. 
+        1337(a)), or issue any new permit for oil or gas exploration, 
+        development, or production activity on the Outer Continental 
+        Shelf pursuant to that Act, until--
+                    (A) each conveyance of a terminated lease area for 
+                which payment has been made under subsection (c) has 
+                been given full effect; and
+                    (B) the Secretary has offered under subsection (d) 
+                every terminated lease area or apportioned share of a 
+                terminated lease area that was unclaimed.
+            (2) Exception.--The limitations described in paragraph (1) 
+        shall not apply to the extent necessary to comply with an 
+        obligation under a lease or permit issued before the date of 
+        enactment of this Act.
+    (f) Effect on Settlement Agreements.--
+            (1) In general.--A conveyance under subsection (c) or a 
+        disposition under subsection (d) shall not--
+                    (A) reinstate any covered lease held by a covered 
+                entity before the surrender of the covered lease;
+                    (B) restore any right of a covered entity in a 
+                terminated lease area; or
+                    (C) entitle a covered entity to any additional 
+                payment.
+            (2) Consideration.--Nothing in this Act shall require the 
+        return of any consideration paid by a covered entity in 
+        connection with the surrender of a covered lease.
+    (g) Judicial Review.--
+            (1) In general.--No court shall have jurisdiction to review 
+        any conveyance, vesting, apportionment, or disposition under 
+        this Act.
+            (2) Jurisdiction.--
+                    (A) In general.--The United States Court of Appeals 
+                for the District of Columbia Circuit shall have 
+                original and exclusive jurisdiction over any claim 
+                alleging--
+                            (i) the invalidity of this Act; or
+                            (ii) that an action taken pursuant to this 
+                        Act is beyond the scope of authority conferred 
+                        by this Act.
+                    (B) Deadline.--A claim described in subparagraph 
+                (A) shall be filed by not later than 90 days after the 
+                date of enactment of this Act, or the date that the 
+                challenged action is taken, as applicable.
+                                 <all>

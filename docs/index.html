@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JAYANAS Bill Tracker</title>
+<meta name="description" content="Federal budget, appropriations, legislative and energy-policy tracking from official sources: bills, versions, votes, members, Federal Register and daily digests.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+<header class="site">
+  <div class="bar">
+    <a class="brand" href="#/" aria-label="JAYANAS Bill Tracker, home">
+      <svg aria-hidden="true" width="28" height="28" viewBox="0 0 32 32"><rect width="32" height="32" rx="6" fill="currentColor" opacity=".18"/><path d="M8 9h16M8 15h16M8 21h10" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><circle cx="24" cy="22" r="3.2" fill="currentColor"/></svg>
+      <span><strong>JAYANAS</strong> Bill Tracker</span>
+    </a>
+    <form class="quick" role="search" action="#/search" id="quickSearch">
+      <label for="q0" class="sr">Search bills, votes, members and Federal Register</label>
+      <input id="q0" name="q" type="search" placeholder="Search, or a bill number like H.R. 9171" autocomplete="off">
+      <button type="submit">Search</button>
+    </form>
+  </div>
+  <nav aria-label="Main">
+    <ul id="nav">
+      <li><a href="#/">Today</a></li>
+      <li><a href="#/budget">Budget</a></li>
+      <li><a href="#/energy">Energy</a></li>
+      <li><a href="#/search">Search</a></li>
+      <li><a href="#/watch">Watch list</a></li>
+      <li><a href="#/alerts">Alerts</a></li>
+      <li><a href="#/digest">Digest</a></li>
+      <li><a href="#/votes">Votes</a></li>
+      <li><a href="#/members">Members</a></li>
+      <li><a href="#/about">About</a></li>
+    </ul>
+  </nav>
+</header>
+<div class="demo-note" role="note">Demonstration site. Data is refreshed from official sources each day. Watch lists and alerts are kept in this browser only.</div>
+<main id="main" tabindex="-1">
+  <p class="loading">Loading…</p>
+</main>
+<div id="status" class="sr" role="status" aria-live="polite"></div>
+<footer class="site">
+  <p>JAYANAS LLC, Gretna, Nebraska. Data from Congress.gov, the Office of the Clerk of the House, Voteview, the Federal Register, GovInfo and the Congressional Budget Office. Bill summaries are written by the Congressional Research Service. JAYANAS does not publish original news reporting.</p>
+  <p><a href="#/about">Sources, accessibility and limitations</a> <span id="built"></span></p>
+</footer>
+<noscript><p class="noscript">This site needs JavaScript to search and display the data.</p></noscript>
+<script src="vendor/diff.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

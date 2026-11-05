@@ -1,0 +1,161 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4858 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4858
+
+ To provide for a National Guard Rural Revival and Modernization Plan.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 23, 2026
+
+ Mr. Sullivan introduced the following bill; which was read twice and 
+              referred to the Committee on Armed Services
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To provide for a National Guard Rural Revival and Modernization Plan.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Alaska National Guard Rural 
+Community Revival Act''.
+
+SEC. 2. NATIONAL GUARD RURAL COMMUNITY REVIVAL.
+
+    (a) Strategy and Implementation Plan Required.--Not later than 90 
+days after the date of the enactment of this Act, the Secretary of the 
+Army, in coordination with the Chief of the National Guard Bureau, 
+shall develop a comprehensive strategy and roadmap to optimize Army 
+National Guard readiness, force posture, and infrastructure in remote 
+or isolated areas to include the Arctic. The strategy shall take into 
+consideration the posture and plans of the United States Northern 
+Command as well as Golden Dome for America in the assessment and 
+development of the strategy, to ensure infrastructure investments meet 
+homeland defense requirements and maximize operational effectiveness. 
+The strategy shall be known as the ``Army National Guard Rural Revival 
+and Modernization Plan'' (referred to in this section as the ``Plan'').
+    (b) Elements of the Plan.--The Plan required under subsection (a) 
+shall include, at a minimum, the following:
+            (1) Infrastructure review.--A comprehensive audit and 
+        assessment of all National Guard armories, readiness centers, 
+        training support centers, and ranges within remote or isolated 
+        areas. The audit should include an assessment of necessary 
+        facilities improvements and include a plan for--
+                    (A) joint-force and extreme-cold-weather tactical 
+                training, including integrated survival, mobility, 
+                logistics, and combat operations specific to degraded 
+                and contested Arctic environments;
+                    (B) forward-operating logistical hubs, cold-weather 
+                equipment staging, and intra-theater supply-chain 
+                distribution points;
+                    (C) emergency management, disaster response, and 
+                homeland defense staging zones; and
+                    (D) communications nodes and remote command-and-
+                control capabilities.
+            (2) End-strength and billet optimization strategy.--A 
+        feasible plan to address and fill critically vacant, 
+        unassigned, or under-strength National Guard billets within the 
+        designated regions to meet increasing operational tempo 
+        (OPTEMPO). The optimization plan shall include--
+                    (A) an analysis of recruitment and retention 
+                barriers unique to rural, isolated, or high-cost 
+                geographic areas;
+                    (B) a targeted marketing, recruitment, and 
+                localized incentives framework, including specialized 
+                remote duty allowances, signing bonuses, and 
+                educational stipends, designed to source personnel 
+                directly from local and rural communities; and
+                    (C) a potential rotational assignment framework to 
+                temporarily bridge immediate operational readiness gaps 
+                while permanent personnel pipelines are materialized to 
+                include associated funding.
+            (3) Dual-use center modernization blueprint.--A 
+        comprehensive capitalization and modernization plan for 
+        existing multi-mission, dual-use facilities. The blueprint 
+        shall--
+                    (A) identify specific structural and technological 
+                upgrades necessary to sustain prolonged, multi-domain 
+                operations in austere environments, predicated on a 
+                comprehensive cyber-resilience and vulnerability 
+                assessment of the existing operational technology at 
+                installations and facilities, with an emphasis on--
+                            (i) grid resilience, microgrid integration, 
+                        and continuous primary power capabilities under 
+                        extreme environmental degradation;
+                            (ii) communications modernization, 
+                        including secure tactical satellite integration 
+                        and redundant high-latitude network systems;
+                            (iii) hangar, maintenance bay, and cold-
+                        storage runway and housing upgrades to handle 
+                        modern tactical, rotary-wing, and autonomous 
+                        aerial platforms, and personnel; and
+                            (iv) dual-use airfield infrastructure 
+                        reutilization and expansion of existing runways 
+                        to accommodate modern military and civilian 
+                        aircraft; and
+                    (B) ensure all proposed command and control (C2) 
+                and facility infrastructure is engineered to operate 
+                seamlessly within Denied, Degraded, Intermittent, or 
+                Limited environments, incorporating resilient closed 
+                and restricted network architectures.
+    (c) Commingling and Private-Sector Leveraging Planning Framework.--
+In developing the facility expansion and modernization elements of the 
+Plan, the Secretary of the Army shall evaluate and identify 
+opportunities to leverage enhanced use lease (EUL) authorities or enter 
+into public-private partnerships. The Plan shall--
+            (1) include specific strategies to co-locate dual-use 
+        commercial, community, or telecommunications infrastructure 
+        within National Guard footprints to lower Federal 
+        infrastructure cost premiums and enhance installation 
+        resilience; and
+            (2) establish or clarify statutory data-sharing authorities 
+        and indemnification for the rapid exchange of cyber threat 
+        intelligence, risk assessments, and incident response data 
+        between the Department of Defense and the co-located commercial 
+        entities.
+    (d) Direct Funding and Minor Construction Threshold 
+Recommendations.--The Plan shall include an assessment of funding 
+mechanisms and potential legislative adjustments required to execute 
+the infrastructure developments, conversions, and modifications 
+identified under the Plan, including an evaluation of how the Secretary 
+may utilize funds available for unspecified minor military construction 
+under section 2805 of title 10, United States Code.
+    (e) Congressional Briefings and Reporting.--
+            (1) Initial briefing.--Not later than 180 days after the 
+        date of the enactment of this Act, the Secretary of the Army 
+        and the Chief of the National Guard Bureau shall provide an 
+        interim briefing to the congressional defense committees on the 
+        initial findings of the armory audit and the initial personnel 
+        recruitment milestones.
+            (2) Final report.--Concurrently with the submission of the 
+        President's budget request for the upcoming fiscal year 
+        following the completion of the Plan, the Secretary of the Army 
+        shall submit to the congressional defense committees a formal 
+        report detailing the finalized strategy.
+    (f) Congressional Defense Committees Defined.--In this Act, the 
+term ``congressional defense committees'' has the meaning given the 
+term in section 101(a) of title 10, United States Code.
+                                 <all>

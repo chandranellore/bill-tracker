@@ -1,0 +1,65 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 8482 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                H. R. 8482
+
+To amend the Internal Revenue Code of 1986 to modify certain investment 
+            credit rules with respect to nuclear facilities.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             April 23, 2026
+
+Mr. Harrigan (for himself, Mr. Panetta, Mr. Murphy, Mr. Suozzi, and Mr. 
+ Haridopolos) introduced the following bill; which was referred to the 
+                      Committee on Ways and Means
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Internal Revenue Code of 1986 to modify certain investment 
+            credit rules with respect to nuclear facilities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. MODIFICATION OF CERTAIN INVESTMENT CREDIT RULES WITH RESPECT 
+              TO NUCLEAR FACILITIES.
+
+    (a) Election To Remove Public Utility Property Limitation Allowed 
+for Nuclear Facilities.--
+            (1) In general.--Section 50(d)(2) of the Internal Revenue 
+        Code of 1986 is amended in the matter preceding subparagraph 
+        (A), by inserting ``to any qualified facility (as defined in 
+        section 48E(b)(3)(A)) which uses nuclear energy to produce 
+        electricity or'' before ``to any energy storage technology''.
+            (2) Conforming amendment.--Section 50(d)(2)(B) of such Code 
+        is amended by inserting ``qualified facility or'' before 
+        ``energy storage technology'' each place it appears.
+    (b) Removal of Progress Expenditures Limitation for Nuclear 
+Facilities.--Section 6418(g)(4) of such Code is amended by adding at 
+the end the following: ``The preceding sentence shall not apply with 
+respect to any eligible credit to the extent such credit is determined 
+with respect to any qualified facility (as defined in section 
+48E(b)(3)(A)) which uses nuclear energy to produce electricity.''.
+    (c) Effective Date.--The amendments made by this section shall 
+apply to taxable years beginning after December 31, 2026.
+                                 <all>

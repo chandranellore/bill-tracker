@@ -1,0 +1,405 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2126 Reported in Senate (RS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 405
+119th CONGRESS
+  2d Session
+                                S. 2126
+
+                          [Report No. 119-120]
+
+To reauthorize the Integrated Coastal and Ocean Observation System Act 
+                    of 2009, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             June 18, 2025
+
+Mr. Wicker (for himself, Ms. Cantwell, Mrs. Hyde-Smith, Ms. Murkowski, 
+    Mr. Sullivan, Ms. Blunt Rochester, Ms. Baldwin, and Mr. Markey) 
+introduced the following bill; which was read twice and referred to the 
+           Committee on Commerce, Science, and Transportation
+
+                              May 11, 2026
+
+                Reported by Mr. Cruz, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To reauthorize the Integrated Coastal and Ocean Observation System Act 
+                    of 2009, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``Integrated Ocean 
+Observation System Reauthorization Act of 2025''.</DELETED>
+
+<DELETED>SEC. 2. PURPOSES.</DELETED>
+
+<DELETED>    Section 12302 of the Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3601) is amended--</DELETED>
+        <DELETED>    (1) in paragraph (1), in the matter preceding 
+        subparagraph (A)--</DELETED>
+                <DELETED>    (A) by striking ``Council'' and inserting 
+                ``Committee'';</DELETED>
+                <DELETED>    (B) by striking ``and ocean observation'' 
+                and inserting ``, ocean, and meteorological 
+                observations''; and</DELETED>
+                <DELETED>    (C) by striking ``and coastal 
+                information'' and inserting ``, coastal, and 
+                meteorological information''; and</DELETED>
+        <DELETED>    (2) in paragraph (4)(A), by inserting ``data 
+        management systems and cyber infrastructure,'' after ``data 
+        gaps,''.</DELETED>
+
+<DELETED>SEC. 3. DEFINITIONS.</DELETED>
+
+<DELETED>    Section 12303 of the Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3602) is amended--</DELETED>
+        <DELETED>    (1) in paragraph (2)--</DELETED>
+                <DELETED>    (A) in the paragraph heading, by striking 
+                ``Council'' and inserting ``Committee''; and</DELETED>
+                <DELETED>    (B) by striking ``term'' and all that 
+                follows through ``established'' and inserting ``term 
+                `Committee' means the Ocean Policy Committee 
+                established'';</DELETED>
+        <DELETED>    (2) in paragraph (3), by striking ``Council'' and 
+        inserting ``Committee'';</DELETED>
+        <DELETED>    (3) in paragraph (6), by inserting ``conduct 
+        operational oceanography measurements and'' after ``systems in 
+        order to'';</DELETED>
+        <DELETED>    (4) by redesignating paragraphs (8) and (9) as 
+        paragraphs (9) and (10), respectively;</DELETED>
+        <DELETED>    (5) by inserting after paragraph (7) the 
+        following:</DELETED>
+        <DELETED>    ``(8) State.--The term `State' has the meaning 
+        given that term in section 3501 of title 40, United States 
+        Code.''; and</DELETED>
+        <DELETED>    (6) in paragraph (10), as redesignated by 
+        paragraph (4), by striking ``Council'' and inserting 
+        ``Committee''.</DELETED>
+
+<DELETED>SEC. 4. INTEGRATED COASTAL AND OCEAN OBSERVING 
+              SYSTEM.</DELETED>
+
+<DELETED>    Section 12304 of the Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3603) is amended--</DELETED>
+        <DELETED>    (1) in subsection (b)(1)--</DELETED>
+                <DELETED>    (A) in subparagraph (A), by striking 
+                ``national'' and inserting ``regional, 
+                national,'';</DELETED>
+                <DELETED>    (B) in subparagraph (C), by inserting 
+                ``and ocean'' after ``weather''; and</DELETED>
+                <DELETED>    (C) in subparagraph (E)--</DELETED>
+                        <DELETED>    (i) in clause (iv), by inserting 
+                        ``and ocean'' after ``weather'' each place it 
+                        appears; and</DELETED>
+                        <DELETED>    (ii) in clause (v), by inserting 
+                        ``and ocean'' after ``weather'';</DELETED>
+        <DELETED>    (2) in subsection (c)--</DELETED>
+                <DELETED>    (A) in paragraph (1)--</DELETED>
+                        <DELETED>    (i) in the paragraph heading, by 
+                        striking ``Council'' and inserting 
+                        ``Committee''; and</DELETED>
+                        <DELETED>    (ii) in the matter preceding 
+                        subparagraph (A), by striking ``Council'' each 
+                        place it appears and inserting 
+                        ``Committee'';</DELETED>
+                <DELETED>    (B) in paragraph (2)--</DELETED>
+                        <DELETED>    (i) in subparagraph (A), by 
+                        striking ``The Council'' and inserting ``The 
+                        Committee''; and</DELETED>
+                        <DELETED>    (ii) in subparagraph (B)--
+                        </DELETED>
+                                <DELETED>    (I) by redesignating 
+                                clauses (vi) through (x) as clauses 
+                                (vii) through (xi), respectively; 
+                                and</DELETED>
+                                <DELETED>    (II) by inserting after 
+                                clause (v) the following:</DELETED>
+                        <DELETED>    ``(vi) develop requirements and 
+                        processes for regional associations and 
+                        federally funded projects of the agencies 
+                        participating in the Interagency Ocean 
+                        Observation Committee to collaborate with the 
+                        regional coastal observing systems for data 
+                        sharing at regional levels;''; and</DELETED>
+                <DELETED>    (C) in paragraph (3)(C)--</DELETED>
+                        <DELETED>    (i) in clause (iii)(I), by 
+                        inserting ``as operational entities'' after 
+                        ``associations'';</DELETED>
+                        <DELETED>    (ii) in clause (x), by inserting 
+                        ``, cyber infrastructure,'' after ``data 
+                        management''; and</DELETED>
+                        <DELETED>    (iii) in clause (xiii)--</DELETED>
+                                <DELETED>    (I) by inserting ``and 
+                                ocean'' after ``weather''; 
+                                and</DELETED>
+                                <DELETED>    (II) by striking ``and 
+                                harmful algal bloom forecasting'' and 
+                                inserting ``harmful algal bloom 
+                                forecasting, and resource and coastal 
+                                management'';</DELETED>
+        <DELETED>    (3) in subsection (d)(1), by adding a period at 
+        the end; and</DELETED>
+        <DELETED>    (4) by striking ``the Council'' each place it 
+        appears and inserting ``the Committee''.</DELETED>
+
+<DELETED>SEC. 5. REPORT TO CONGRESS.</DELETED>
+
+<DELETED>    Section 12307 of the Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3606) is amended--</DELETED>
+        <DELETED>    (1) in subsection (b)--</DELETED>
+                <DELETED>    (A) by redesignating paragraphs (8) and 
+                (9) as paragraphs (9) and (10), respectively; 
+                and</DELETED>
+                <DELETED>    (B) by inserting after paragraph (7) the 
+                following:</DELETED>
+        <DELETED>    ``(8) a post-storm evaluation for all major storms 
+        in the United States that occurred during the year preceding 
+        submission of the report, to assess the impact of observations 
+        of the System and other products of the System with respect to 
+        storm forecast accuracy;''; and</DELETED>
+        <DELETED>    (2) by striking ``the Council'' each place it 
+        appears and inserting ``the Committee''.</DELETED>
+
+<DELETED>SEC. 6. AUTHORIZATION OF APPROPRIATIONS.</DELETED>
+
+<DELETED>    Section 12311 of the Integrated Coastal and Ocean 
+Observation System Act of 2009 (33 U.S.C. 3610) is amended--</DELETED>
+        <DELETED>    (1) by striking ``There are'' and inserting the 
+        following:</DELETED>
+<DELETED>    ``(a) In General.--There are'';</DELETED>
+        <DELETED>    (2) by striking ``this subtitle'' and all that 
+        follows and inserting ``$56,000,000 for each of fiscal years 
+        2026 through 2030.''; and</DELETED>
+        <DELETED>    (3) by adding at the end the following:</DELETED>
+<DELETED>    ``(b) Allocation of Funds.--</DELETED>
+        <DELETED>    ``(1) In general.--Except as provided by paragraph 
+        (2), the Secretary shall allocate not less than 7.5 percent of 
+        amounts appropriated pursuant to the authorization of 
+        appropriations under subsection (a) to each regional coastal 
+        observing system that was in existence on January 1, 
+        2025.</DELETED>
+        <DELETED>    ``(2) Exclusion of disaster relief 
+        appropriations.--Paragraph (1) does not apply with respect to 
+        any amounts appropriated by an Act making supplemental 
+        appropriations for disaster relief.''.</DELETED>
+
+<DELETED>SEC. 7. CONFORMING AMENDMENTS.</DELETED>
+
+<DELETED>    (a) Interagency Financing and Agreements.--Section 
+12305(b) of the Integrated Coastal and Ocean Observation System Act of 
+2009 (33 U.S.C. 3604(b)) is amended by striking ``the Council'' and 
+inserting ``the Committee''.</DELETED>
+<DELETED>    (b) Public-Private Use Policy.--Section 12308 of the 
+Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 
+3607) is amended by striking ``the Council'' each place it appears and 
+inserting ``the Committee''.</DELETED>
+<DELETED>    (c) Intent of Congress.--Section 12310 of the Integrated 
+Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3609) is 
+amended by striking ``the Council'' each place it appears and inserting 
+``the Committee''.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Integrated Ocean Observation System 
+Reauthorization Act of 2025''.
+
+SEC. 2. PURPOSES.
+
+    Section 12302 of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3601) is amended--
+            (1) in paragraph (1), in the matter preceding subparagraph 
+        (A)--
+                    (A) by striking ``Council'' and inserting ``Ocean 
+                Policy Committee'';
+                    (B) by striking ``and ocean observation'' and 
+                inserting ``, ocean, and meteorological observations''; 
+                and
+                    (C) by striking ``and coastal information'' and 
+                inserting ``, coastal, and meteorological 
+                information''; and
+            (2) in paragraph (4)(A)--
+                    (A) by inserting ``data management systems and 
+                cyber infrastructure,'' after ``data gaps,''; and
+                    (B) by striking ``global climate change,''.
+
+SEC. 3. DEFINITIONS.
+
+    Section 12303 of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3602) is amended--
+            (1) by striking paragraph (2);
+            (2) by redesignating paragraphs (3), (4), and (5) as 
+        paragraphs (2), (3), and (4), respectively;
+            (3) in paragraph (2), as so redesignated, by striking 
+        ``Council'' and inserting ``Ocean Policy Committee'';
+            (4) by inserting after paragraph (4), as redesignated by 
+        paragraph (2), the following:
+            ``(5) Ocean policy committee.--The term `Ocean Policy 
+        Committee' means the Ocean Policy Committee established by 
+        section 8932 of title 10, United States Code.'';
+            (5) in paragraph (6), by inserting ``conduct operational 
+        oceanography measurements and'' after ``systems in order to'';
+            (6) by redesignating paragraphs (8) and (9) as paragraphs 
+        (9) and (10), respectively;
+            (7) by inserting after paragraph (7) the following:
+            ``(8) State.--The term `State' has the meaning given that 
+        term in section 3501 of title 40, United States Code.''; and
+            (8) in paragraph (10), as redesignated by paragraph (6), by 
+        striking ``Council'' and inserting ``Ocean Policy Committee''.
+
+SEC. 4. INTEGRATED COASTAL AND OCEAN OBSERVING SYSTEM.
+
+    Section 12304 of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3603) is amended--
+            (1) in subsection (b)(1)--
+                    (A) in subparagraph (A), by striking ``national'' 
+                and inserting ``regional, national,'';
+                    (B) in subparagraph (C), by inserting ``and ocean'' 
+                after ``weather''; and
+                    (C) in subparagraph (E)--
+                            (i) in clause (iv), by inserting ``and 
+                        ocean'' after ``weather'' each place it 
+                        appears; and
+                            (ii) in clause (v), by inserting ``and 
+                        ocean'' after ``weather'';
+            (2) in subsection (c)--
+                    (A) in paragraph (1)--
+                            (i) in the paragraph heading, by striking 
+                        ``Council'' and inserting ``Ocean policy 
+                        committee''; and
+                            (ii) in the matter preceding subparagraph 
+                        (A), by striking ``Council'' each place it 
+                        appears and inserting ``Ocean Policy 
+                        Committee'';
+                    (B) in paragraph (2)--
+                            (i) in subparagraph (A), by striking ``The 
+                        Council'' and inserting ``The Ocean Policy 
+                        Committee''; and
+                            (ii) in subparagraph (B)--
+                                    (I) by redesignating clauses (vi) 
+                                through (x) as clauses (vii) through 
+                                (xi), respectively; and
+                                    (II) by inserting after clause (v) 
+                                the following:
+                            ``(vi) develop requirements and processes 
+                        for regional associations and federally funded 
+                        projects of the agencies participating in the 
+                        Interagency Ocean Observation Committee to 
+                        collaborate with the regional coastal observing 
+                        systems for data sharing at regional levels;''; 
+                        and
+                    (C) in paragraph (3)(C)--
+                            (i) in clause (iii)(I), by inserting ``as 
+                        operational entities'' after ``associations'';
+                            (ii) in clause (x), by inserting ``, cyber 
+                        infrastructure,'' after ``data management''; 
+                        and
+                            (iii) in clause (xiii)--
+                                    (I) by inserting ``and ocean'' 
+                                after ``weather''; and
+                                    (II) by striking ``and harmful 
+                                algal bloom forecasting'' and inserting 
+                                ``harmful algal bloom forecasting, and 
+                                resource and coastal management'';
+            (3) in subsection (d)(1), by adding a period at the end; 
+        and
+            (4) by striking ``the Council'' each place it appears and 
+        inserting ``the Ocean Policy Committee''.
+
+SEC. 5. REPORT TO CONGRESS.
+
+    Section 12307 of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3606) is amended--
+            (1) in subsection (b)--
+                    (A) by redesignating paragraphs (8) and (9) as 
+                paragraphs (9) and (10), respectively; and
+                    (B) by inserting after paragraph (7) the following:
+            ``(8) a post-storm evaluation for all major storms in the 
+        United States that occurred during the year preceding the 
+        submission of the report, to assess the impact of observations 
+        of the System and other products of the System with respect to 
+        storm forecast accuracy;''; and
+            (2) by striking ``the Council'' each place it appears and 
+        inserting ``the Ocean Policy Committee''.
+
+SEC. 6. AUTHORIZATION OF APPROPRIATIONS.
+
+    Section 12311 of the Integrated Coastal and Ocean Observation 
+System Act of 2009 (33 U.S.C. 3610) is amended--
+            (1) by striking ``There are'' and inserting the following:
+    ``(a) In General.--There are'';
+            (2) by striking ``--'' and all that follows through 
+        ``(5)'';
+            (3) by striking ``fiscal year 2025'' and inserting ``each 
+        of fiscal years 2026 through 2030''; and
+            (4) by adding at the end the following:
+    ``(b) Allocation of Funds.--
+            ``(1) In general.--Except as provided by paragraph (2), the 
+        Secretary shall allocate not less than 7.5 percent of amounts 
+        appropriated pursuant to the authorization of appropriations 
+        under subsection (a) to each regional coastal observing system 
+        that was in existence on January 1, 2025.
+            ``(2) Exclusion of disaster relief appropriations.--
+        Paragraph (1) does not apply with respect to any amounts 
+        appropriated by an Act making supplemental appropriations for 
+        disaster relief.''.
+
+SEC. 7. CONFORMING AMENDMENTS.
+
+    (a) Interagency Financing and Agreements.--Section 12305(b) of the 
+Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 
+3604(b)) is amended by striking ``the Council'' and inserting ``the 
+Ocean Policy Committee''.
+    (b) Public-Private Use Policy.--Section 12308 of the Integrated 
+Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3607) is 
+amended by striking ``Council'' each place it appears and inserting 
+``Ocean Policy Committee''.
+    (c) Intent of Congress.--Section 12310 of the Integrated Coastal 
+and Ocean Observation System Act of 2009 (33 U.S.C. 3609) is amended by 
+striking ``the Council'' each place it appears and inserting ``the 
+Ocean Policy Committee''.
+                                                       Calendar No. 405
+
+119th CONGRESS
+
+  2d Session
+
+                                S. 2126
+
+                          [Report No. 119-120]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To reauthorize the Integrated Coastal and Ocean Observation System Act 
+                    of 2009, and for other purposes.
+
+_______________________________________________________________________
+
+                              May 11, 2026
+
+                       Reported with an amendment

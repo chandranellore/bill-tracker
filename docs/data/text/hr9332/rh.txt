@@ -1,0 +1,231 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9332 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 722
+119th CONGRESS
+  2d Session
+                                H. R. 9332
+
+                          [Report No. 119-823]
+
+   To require the Federal Energy Regulatory Commission to establish 
+regional joint boards to study electric load forecasting, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                             June 18, 2026
+
+ Mr. Balderson (for himself and Mr. Menendez) introduced the following 
+    bill; which was referred to the Committee on Energy and Commerce
+
+                           September 14, 2026
+
+Additional sponsors: Mr. Joyce of Pennsylvania, Mr. Vindman, Mr. Kean, 
+                    Mr. Griffith, and Ms. McClellan
+
+                           September 14, 2026
+
+Committed to the Committee of the Whole House on the State of the Union 
+                       and ordered to be printed
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To require the Federal Energy Regulatory Commission to establish 
+regional joint boards to study electric load forecasting, and for other 
+                               purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Load Forecasting Enhancement Act''.
+
+SEC. 2. REGIONAL JOINT BOARDS TO STUDY ELECTRIC LOAD FORECASTING.
+
+    (a) In General.--
+            (1) Establishment.--Not later than 90 days after the date 
+        of enactment of this Act, the Federal Energy Regulatory 
+        Commission shall establish--
+                    (A) regions determined appropriate by the 
+                Commission for purposes of studying electric load 
+                forecasting; and
+                    (B) a joint board for each such region.
+            (2) Regions.--In carrying out paragraph (1), the Commission 
+        shall ensure that each State is included in a region 
+        established under such paragraph.
+    (b) Membership.--Each joint board established under this section 
+shall be composed of--
+            (1) 1 representative from each State commission in the 
+        region for which the joint board is established; and
+            (2) 1 member of the Commission, who shall serve as chair of 
+        the joint board.
+    (c) Duties.--Each joint board established under this section 
+shall--
+            (1) study issues relevant to identifying best practices for 
+        electric load forecasting that enhance the reliability and 
+        affordability of electric service to customers in the region 
+        for which the joint board is established, including, with 
+        respect to the region for which the joint board is 
+        established--
+                    (A) the effects of electric load forecasting on the 
+                affordability of electric service;
+                    (B) the reliability and resilience of electric 
+                service;
+                    (C) the methods used for collecting and modeling 
+                data relating to electric load forecasting;
+                    (D) the transparency of the data and methodologies 
+                used to forecast electric loads and the accuracy of 
+                such forecasts;
+                    (E) stakeholder engagement relating to electric 
+                load forecasting;
+                    (F) economic development projections that may 
+                affect the electric load;
+                    (G) the best available technologies, methodologies, 
+                and procedures for forecasting electric loads; and
+                    (H) an evaluation of requests for electric service 
+                by industrial or commercial facilities with large 
+                loads, including whether such facilities have made 
+                financial commitments to an electric utility;
+            (2) identify such best practices; and
+            (3) report on such best practices to the Commission.
+    (d) Report to Congress.--Not later than 1 year after the date of 
+enactment of this Act, the Commission shall publish and submit to 
+Congress a report that includes--
+            (1) the best practices reported under subsection (c); and
+            (2) recommendations for the consistent use across States of 
+        any such best practices by electric utilities.
+    (e) Termination.--Each joint board established under this section 
+shall terminate on the day after the date on which the Commission 
+submits the report under subsection (d).
+    (f) Definitions.--In this section, the terms ``electric utility'', 
+``State'', and ``State commission'' have the meanings given such terms, 
+respectively, in section 3 of the Federal Power Act (16 U.S.C. 796).
+
+SEC. 3. PURPA STANDARD ON ELECTRIC LOAD FORECASTING.
+
+    (a) In General.--Section 111 of the Public Utility Regulatory 
+Policies Act of 1978 (16 U.S.C. 2621) is amended--
+            (1) in subsection (d), by adding at the end the following:
+            ``(22) Electric load forecasting.--The procedures used to 
+        forecast electric loads shall incorporate the recommendations 
+        published in the report of the Federal Energy Regulatory 
+        Commission pursuant to the Load Forecasting Enhancement Act.''; 
+        and
+            (2) by adding at the end the following:
+    ``(e) Consideration and Determination by Nonregulated Electric 
+Utilities.--The requirement for consideration and determination 
+referred to in the first sentence of subsection (a) shall not apply to 
+a nonregulated electric utility with respect to the standard 
+established by paragraph (22) of subsection (d).''.
+    (b) Conforming Amendments.--
+            (1) Obligations to consider and determine.--Section 112 of 
+        the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 
+        2622) is amended--
+                    (A) in subsection (b), by adding at the end the 
+                following:
+            ``(9)(A) Not later than 1 year after the date of enactment 
+        of this paragraph, each State regulatory authority (with 
+        respect to each electric utility for which the State has 
+        ratemaking authority) shall commence consideration under 
+        section 111, or set a hearing date for consideration, with 
+        respect to the standard established by paragraph (22) of 
+        section 111(d).
+            ``(B) Not later than 2 years after the date of enactment of 
+        this paragraph, each State regulatory authority (with respect 
+        to each electric utility for which the State has ratemaking 
+        authority) shall complete the consideration and make the 
+        determination under section 111 with respect to the standard 
+        established by paragraph (22) of section 111(d).'';
+                    (B) in subsection (c)--
+                            (i) by striking ``subsection (b)(2)'' and 
+                        inserting ``subsection (b)''; and
+                            (ii) by inserting ``In the case of the 
+                        standard established by paragraph (22) of 
+                        section 111(d), the reference contained in this 
+                        subsection to the date of enactment of this Act 
+                        shall be deemed to be a reference to the date 
+                        of enactment of that paragraph (22).'' after 
+                        ``paragraph (21).''; and
+                    (C) by adding at the end the following:
+    ``(i) Other Prior State Actions.--Subsections (b) and (c) shall not 
+apply to the standard established by paragraph (22) of section 111(d) 
+in the case of any electric utility in a State if, before the date of 
+enactment of this subsection--
+            ``(1) the State has implemented for the electric utility 
+        the standard (or a comparable standard);
+            ``(2) the State regulatory authority for the State has 
+        conducted a proceeding to consider implementation of the 
+        standard (or a comparable standard) for the electric utility; 
+        or
+            ``(3) the State legislature has voted on the implementation 
+        of the standard (or a comparable standard) for the electric 
+        utility during the 3-year period ending on that date of 
+        enactment.''.
+            (2) Prior and pending proceedings.--Section 124 of the 
+        Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2634) 
+        is amended by inserting ``In the case of the standard 
+        established by paragraph (22) of section 111(d), the reference 
+        contained in this section to the date of enactment of this Act 
+        shall be deemed to be a reference to the date of enactment of 
+        paragraph (22).'' after ``paragraph (21).''.
+
+SEC. 4. STATE ENERGY CONSERVATION PLANS.
+
+    Section 362(c) of the Energy Policy and Conservation Act (42 U.S.C. 
+6322(c)) is amended--
+            (1) in paragraph (6), by striking ``and'' at the end;
+            (2) in paragraph (7), by striking the period at the end and 
+        inserting ``; and''; and
+            (3) by adding at the end the following:
+            ``(8) procedures and programs to improve the accuracy, 
+        oversight, and transparency to stakeholders of the forecasting 
+        of electric loads by electric utilities (as such term is 
+        defined in section 3 of the Federal Power Act (16 U.S.C. 
+        796)).''.
+                                                 Union Calendar No. 722
+
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 9332
+
+                          [Report No. 119-823]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+   To require the Federal Energy Regulatory Commission to establish 
+regional joint boards to study electric load forecasting, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                           September 14, 2026
+
+Committed to the Committee of the Whole House on the State of the Union 
+                       and ordered to be printed

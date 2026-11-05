@@ -1,0 +1,147 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 5317 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 5317
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 21, 2026
+
+Received; read twice and referred to the Committee on Banking, Housing, 
+                           and Urban Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+   To amend the Federal Deposit Insurance Act to ensure that certain 
+custodial deposits of well capitalized insured depository institutions 
+are not considered to be funds obtained by or through deposit brokers, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Community Bank Deposit Access Act of 
+2025''.
+
+SEC. 2. LIMITED EXCEPTION FOR CUSTODIAL DEPOSITS.
+
+    (a) In General.--Section 29 of the Federal Deposit Insurance Act 
+(12 U.S.C. 1831f) is amended by adding at the end the following:
+    ``(j) Limited Exception for Custodial Deposits.--
+            ``(1) In general.--Custodial deposits of an eligible 
+        institution shall not be considered to be funds obtained, 
+        directly or indirectly, by or through a deposit broker to the 
+        extent that the total amount of such custodial deposits does 
+        not exceed an amount equal to 20 percent of the total 
+        liabilities of the eligible institution.
+            ``(2) Definitions.--In this subsection:
+                    ``(A) Custodial deposit.--The term `custodial 
+                deposit' means a deposit that is not deposited at an 
+                insured depository institution in return for fees paid 
+                by the insured depository institution pursuant to an 
+                agreement with a third party and that would otherwise 
+                be considered to be obtained, directly or indirectly, 
+                by or through a deposit broker, if the deposit is 
+                deposited at 1 or more insured depository institutions, 
+                for the purpose of providing or maintaining deposit 
+                insurance for the benefit of a third party, by or 
+                through any of the following, each acting in a formal 
+                custodial or fiduciary capacity for the benefit of a 
+                third party:
+                            ``(i) An insured depository institution 
+                        serving as agent, trustee, or custodian.
+                            ``(ii) A trust entity controlled by an 
+                        insured depository institution serving as 
+                        agent, trustee, or custodian.
+                            ``(iii) A State-chartered trust company 
+                        serving as agent, trustee, or custodian.
+                            ``(iv) A plan administrator or investment 
+                        advisor, acting in a formal custodial or 
+                        fiduciary capacity for the benefit of a plan.
+                    ``(B) Eligible institution.--The term `eligible 
+                institution' means an insured depository institution 
+                that accepts custodial deposits, if the insured 
+                depository institution has less than $10,000,000,000 in 
+                total assets as reported on the consolidated report of 
+                condition and income as reported quarterly to the 
+                appropriate Federal banking agency and--
+                            ``(i)(I) when most recently examined under 
+                        section 10(d) was assigned a composite rating 
+                        of 1, 2, or 3 under the Uniform Financial 
+                        Institutions Rating System (or an equivalent 
+                        rating under a comparable rating system); and
+                            ``(II) is well capitalized; or
+                            ``(ii) has obtained a waiver pursuant to 
+                        subsection (c).
+                    ``(C) Plan.--The term `plan' has the meaning given 
+                the term in section 3 of the Employee Retirement Income 
+                Security Act of 1974 (29 U.S.C. 1002).
+                    ``(D) Plan administrator.--The term `plan 
+                administrator' has the meaning given the term 
+                `administrator' in section 3 of the Employee Retirement 
+                Income Security Act of 1974 (29 U.S.C. 1002).
+                    ``(E) Well capitalized.--The term `well 
+                capitalized' has the meaning given the term in section 
+                38(b).''.
+    (b) Interest Rate Restriction.--Section 29 of the Federal Deposit 
+Insurance Act (12 U.S.C. 1831f), as amended by subsection (a), is 
+further amended by adding at the end the following:
+    ``(k) Restriction on Interest Rate Paid on Certain Custodial 
+Deposits.--
+            ``(1) Definitions.--In this subsection--
+                    ``(A) the terms `custodial deposit', `eligible 
+                institution', and `well capitalized' have the meanings 
+                given those terms in subsection (j); and
+                    ``(B) the term `covered insured depository 
+                institution' means an insured depository institution 
+                that while acting as an eligible institution under 
+                subsection (j), accepts custodial deposits while not 
+                well capitalized.
+            ``(2) Prohibition.--A covered insured depository 
+        institution may not pay a rate of interest on custodial 
+        deposits that are accepted while not well capitalized that, at 
+        the time the funds or custodial deposits are accepted, 
+        significantly exceeds the limit set forth in paragraph (3).
+            ``(3) Limit on interest rates.--The limit on the rate of 
+        interest referred to in paragraph (2) shall be not greater 
+        than--
+                    ``(A) the rate paid on deposits of similar maturity 
+                in the normal market area of the covered insured 
+                depository institution for deposits accepted in the 
+                normal market area of the covered insured depository 
+                institution; or
+                    ``(B) the national rate paid on deposits of 
+                comparable maturity, as established by the Corporation, 
+                for deposits accepted outside the normal market area of 
+                the covered insured depository institution.''.
+
+SEC. 3. DISCRETIONARY SURPLUS FUND.
+
+    (a) In General.--The dollar amount specified under section 
+7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is 
+reduced by $4,000,000.
+    (b) Effective Date.--The amendment made by subsection (a) shall 
+take effect on September 1, 2036.
+
+            Passed the House of Representatives May 20, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

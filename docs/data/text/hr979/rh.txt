@@ -1,0 +1,423 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 979 Reported in House (RH)]
+
+<DOC>
+
+
+
+
+
+                                                 Union Calendar No. 330
+119th CONGRESS
+  1st Session
+                                H. R. 979
+
+                      [Report No. 119-379, Part I]
+
+ To require the Secretary of Transportation to issue a rule requiring 
+   access to AM broadcast stations in motor vehicles, and for other 
+                               purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                            February 5, 2025
+
+ Mr. Bilirakis (for himself and Mr. Pallone) introduced the following 
+ bill; which was referred to the Committee on Energy and Commerce, and 
+in addition to the Committees on Homeland Security, and Transportation 
+ and Infrastructure, for a period to be subsequently determined by the 
+  Speaker, in each case for consideration of such provisions as fall 
+           within the jurisdiction of the committee concerned
+
+                           November 12, 2025
+
+ Additional sponsors: Mr. Meuser, Mr. Hudson, Mr. Weber of Texas, Mr. 
+     Alford, Mr. Langworthy, Mr. Lucas, Ms. Ross, Mr. LaMalfa, Ms. 
+ Schakowsky, Mr. Soto, Ms. Perez, Mr. Golden of Maine, Mr. Bacon, Mr. 
+ Bresnahan, Mr. Costa, Mr. Rogers of Alabama, Ms. McCollum, Mr. Flood, 
+ Mr. Bost, Mrs. Kiggans of Virginia, Mr. McGuire, Mr. Fleischmann, Mr. 
+ Pappas, Mr. Finstad, Mr. Auchincloss, Mr. Keating, Mr. Van Orden, Mr. 
+  Amodei of Nevada, Mr. Schmidt, Mr. Calvert, Mr. Mullin, Ms. Lee of 
+Florida, Ms. Pettersen, Mr. Crank, Mr. Moran, Mr. McCaul, Mr. Aderholt, 
+    Mr. Grothman, Mr. Yakym, Mr. Castro of Texas, Mrs. Beatty, Ms. 
+ Barragan, Ms. McClellan, Ms. Balint, Ms. Gillen, Ms. Leger Fernandez, 
+Mr. Smith of Nebraska, Mr. Hunt, Mr. Grijalva, Mr. Magaziner, Mr. Cole, 
+ Mrs. Bice, Mr. Webster of Florida, Mr. Fitzpatrick, Mr. Carbajal, Mr. 
+  Emmer, Mr. McDowell, Ms. De La Cruz, Mr. Menendez, Ms. Matsui, Ms. 
+Velazquez, Mr. Carter of Louisiana, Mr. Correa, Mr. Case, Mr. Pfluger, 
+Ms. Tenney, Mr. Mrvan, Ms. Kaptur, Mr. Womack, Mr. Landsman, Mr. Rogers 
+   of Kentucky, Mr. Vasquez, Mr. Gomez, Ms. Titus, Mr. Horsford, Ms. 
+Tlaib, Mr. Deluzio, Mrs. Fischbach, Mr. Messmer, Ms. Sewell, Mr. Lynch, 
+ Mr. Fitzgerald, Mr. Westerman, Mr. Downing, Mr. Dunn of Florida, Mr. 
+  Carter of Georgia, Mr. Neguse, Mr. LaLota, Mr. Roy, Ms. Tokuda, Mr. 
+Tiffany, Mr. Riley of New York, Mr. Burchett, Mr. Estes, Mr. Sessions, 
+  Mr. Moore of West Virginia, Mr. Smith of New Jersey, Mr. Levin, Ms. 
+Sanchez, Ms. Craig, Mr. Harder of California, Mr. Mann, Mr. Zinke, Mr. 
+  Bishop, Mr. David Scott of Georgia, Mr. Collins, Mr. Harrigan, Mr. 
+  Edwards, Mr. Bentz, Ms. Adams, Ms. Castor of Florida, Mr. Kean, Mr. 
+  Thompson of Pennsylvania, Ms. Williams of Georgia, Ms. Salazar, Ms. 
+ McBride, Mrs. Miller-Meeks, Mr. Rulli, Mr. Panetta, Ms. Schrier, Mr. 
+  Connolly, Mrs. Trahan, Mr. Smucker, Mr. Courtney, Mr. Timmons, Mr. 
+ Ezell, Ms. Foxx, Mr. Kelly of Mississippi, Ms. Jacobs, Mr. Rose, Mr. 
+Owens, Mrs. Ramirez, Mr. Feenstra, Ms. Salinas, Ms. Pingree, Mr. Ruiz, 
+Mr. Hamadeh of Arizona, Mr. Allen, Ms. Davids of Kansas, Mr. Nehls, Mr. 
+    Norcross, Mr. Turner of Ohio, Mr. Schneider, Mr. Garbarino, Ms. 
+  Stefanik, Mr. Hill of Arkansas, Mr. Valadao, Mrs. Sykes, Mr. Cline, 
+Mrs. Biggs of South Carolina, Mr. Suozzi, Mr. Simpson, Mr. Gimenez, Mr. 
+   Scott Franklin of Florida, Mr. Stauber, Mr. Fine, Mr. Taylor, Mr. 
+  Gottheimer, Mr. Espaillat, Mr. Amo, Mr. Luttrell, Mr. Cisneros, Ms. 
+    Scanlon, Mrs. Houchin, Ms. Houlahan, Ms. Wilson of Florida, Mr. 
+Swalwell, Ms. Hoyle of Oregon, Ms. Mace, Mr. Kelly of Pennsylvania, Ms. 
+ Meng, Mr. Gosar, Mrs. Miller of West Virginia, Mr. Nunn of Iowa, Mr. 
+ Norman, Ms. Kelly of Illinois, Mr. Quigley, Mr. Veasey, Mr. Scott of 
+  Virginia, Mr. Davis of North Carolina, Mr. Carson, Mrs. Hinson, Mr. 
+ Cloud, Mr. Thompson of Mississippi, Mr. Wilson of South Carolina, Mr. 
+ Moore of North Carolina, Ms. Omar, Ms. Lee of Nevada, Mr. Carey, Mr. 
+ Barrett, Mr. Rouzer, Mr. Lawler, Mr. Morelle, Ms. Plaskett, Mr. Boyle 
+of Pennsylvania, Ms. Bynum, Mr. Tony Gonzales of Texas, Mr. Murphy, Mr. 
+  Davis of Illinois, Mr. Nadler, Mr. Goldman of Texas, Mr. Pocan, Mr. 
+  Loudermilk, Mr. Garamendi, Ms. Brown, Ms. Norton, Ms. Brownley, Ms. 
+Stansbury, Mr. McGovern, Mr. Haridopolos, Ms. Pou, Mr. Barr, Mrs. Kim, 
+Mr. Fry, Mr. Williams of Texas, Mr. Thompson of California, Mr. Johnson 
+of Georgia, Ms. Pressley, Mr. Comer, Mr. Huizenga, Mr. Harris of North 
+ Carolina, Mr. Tran, Ms. Wasserman Schultz, Mr. Fallon, Mr. Patronis, 
+     Mr. Baird, Mr. Babin, Mr. Bell, Ms. Letlow, Mr. Wittman, Mr. 
+Reschenthaler, Mr. Diaz-Balart, Mr. Wied, Mr. DeSaulnier, Ms. Chu, Mr. 
+Evans of Pennsylvania, Mr. Newhouse, Mr. Ivey, Mrs. Hayes, Mrs. Watson 
+Coleman, Mr. Tonko, Ms. Morrison, Mr. Harris of Maryland, Ms. DeLauro, 
+  Mrs. Spartz, Mr. Smith of Missouri, Mr. Larson of Connecticut, Mr. 
+  Foster, Mr. Krishnamoorthi, Mr. Knott, Mr. Garcia of Illinois, Mr. 
+Burlison, Mr. Crawford, Mr. McGarvey, Mr. Bergman, Ms. Budzinski, Mrs. 
+Torres of California, Mr. Mannion, Ms. Malliotakis, Ms. Lois Frankel of 
+  Florida, Ms. Garcia of Texas, Mr. Mfume, Ms. Friedman, Mrs. McClain 
+Delaney, Mr. Torres of New York, Mr. Crane, Mr. Evans of Colorado, Mr. 
+Kennedy of New York, Mrs. Cherfilus-McCormick, Mrs. Foushee, Mr. Miller 
+of Ohio, Mr. Van Drew, Mr. Goldman of New York, Mr. Vicente Gonzalez of 
+Texas, Mrs. Miller of Illinois, Mr. Baumgartner, Ms. Greene of Georgia, 
+Ms. Elfreth, Mr. Ryan, Mr. Begich, Ms. Kamlager-Dove, Mr. Figures, Mr. 
+Shreve, Mr. Onder, Mr. Huffman, Ms. Dean of Pennsylvania, Mr. Fulcher, 
+Mr. Jackson of Illinois, Mr. Smith of Washington, Mr. Moore of Alabama, 
+Mr. Conaway, Mr. Latimer, Mr. Sherman, Mr. Mackenzie, Mr. Griffith, Mr. 
+Crow, Mr. Vargas, Mrs. Wagner, Ms. Escobar, Mr. Palmer, Ms. Fedorchak, 
+Mr. Walkinshaw, Ms. Johnson of Texas, Ms. Hageman, Ms. Goodlander, Mr. 
+LaHood, Mr. Hurd of Colorado, Ms. Strickland, Mr. Larsen of Washington, 
+Mr. Bera, Mr. Stanton, Mr. Gill of Texas, Ms. Simon, Mr. Crenshaw, Mr. 
+                    Joyce of Ohio, and Mr. Hernandez
+
+                           November 12, 2025
+
+  Reported from the Committee on Energy and Commerce with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+                           November 12, 2025
+
+ Committees on Homeland Security and Transportation and Infrastructure 
+discharged; committed to the Committee of the Whole House on the State 
+                 of the Union and ordered to be printed
+    [For text of introduced bill, see copy of bill as introduced on 
+                           February 5, 2025]
+
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require the Secretary of Transportation to issue a rule requiring 
+   access to AM broadcast stations in motor vehicles, and for other 
+                               purposes.
+
+
+ 
+
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``AM Radio for Every Vehicle Act of 
+2025''.
+
+SEC. 2. DEFINITIONS.
+
+    In this Act:
+            (1) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Federal Emergency Management Agency.
+            (2) Am broadcast band.--The term ``AM broadcast band'' 
+        means the band of frequencies between 535 kilohertz and 1705 
+        kilohertz, inclusive.
+            (3) Am broadcast station.--The term ``AM broadcast 
+        station'' means a radio broadcast station--
+                    (A) licensed by the Federal Communications 
+                Commission for the dissemination of radio 
+                communications intended to be received by the public; 
+                and
+                    (B) operated on a channel in the AM broadcast band.
+            (4) Appropriate committees of congress.--The term 
+        ``appropriate committees of Congress'' means--
+                    (A) the Committee on Commerce, Science, and 
+                Transportation of the Senate;
+                    (B) the Committee on Homeland Security and 
+                Governmental Affairs of the Senate;
+                    (C) the Committee on Transportation and 
+                Infrastructure of the House of Representatives;
+                    (D) the Committee on Homeland Security of the House 
+                of Representatives; and
+                    (E) the Committee on Energy and Commerce of the 
+                House of Representatives.
+            (5) Automated driving system.--The term ``automated driving 
+        system'' means a system that meets the definition of Level 3, 
+        Level 4, or Level 5 automation as those terms are defined in 
+        the April 2021 edition of the J3016 recommended practice of SAE 
+        International, ``Taxonomy and Definitions for Terms Related to 
+        Driving Automation Systems for On-Road Motor Vehicles''.
+            (6) Comptroller general.--The term ``Comptroller General'' 
+        means the Comptroller General of the United States.
+            (7) Device.--The term ``device'' means a piece of equipment 
+        or an apparatus that is designed--
+                    (A) to receive signals transmitted by a radio 
+                broadcast station; and
+                    (B) to play back content or programming derived 
+                from those signals.
+            (8) Digital audio am broadcast station.--
+                    (A) In general.--The term ``digital audio AM 
+                broadcast station'' means an AM broadcast station that 
+                uses an In Band On Channel DAB System (as defined in 
+                section 73.402 of title 47, Code of Federal Regulations 
+                (or a successor regulation)) for broadcasting purposes.
+                    (B) Exclusion.--The term ``digital audio AM 
+                broadcast station'' does not include an All-digital AM 
+                station (as defined in section 73.402 of title 47, Code 
+                of Federal Regulations (or a successor regulation)).
+            (9) Ipaws.--The term ``IPAWS'' means the public alert and 
+        warning system of the United States described in section 526 of 
+        the Homeland Security Act of 2002 (6 U.S.C. 321o).
+            (10) Manufacturer.--The term ``manufacturer'' has the 
+        meaning given the term in section 30102(a) of title 49, United 
+        States Code.
+            (11) Passenger motor vehicle.--The term ``passenger motor 
+        vehicle'' has the meaning given the term in section 32101 of 
+        title 49, United States Code.
+            (12) Radio broadcast station.--The term ``radio broadcast 
+        station'' has the meaning given the term in section 3 of the 
+        Communications Act of 1934 (47 U.S.C. 153).
+            (13) Radio station license.--The term ``radio station 
+        license'' has the meaning given the term in section 3 of the 
+        Communications Act of 1934 (47 U.S.C. 153).
+            (14) Receive.--The term ``receive'' means to receive a 
+        broadcast signal via over-the-air transmission.
+            (15) Secretary.--The term ``Secretary'' means the Secretary 
+        of Transportation.
+            (16) Signal.--The term ``signal'' means radio frequency 
+        energy that a holder of a radio station license intentionally 
+        emits or causes to be emitted at a specified frequency for the 
+        purpose of transmitting content or programming to the public.
+            (17) Standard equipment.--The term ``standard equipment'' 
+        means motor vehicle equipment (as defined in section 30102(a) 
+        of title 49, United States Code) that--
+                    (A) is installed as a system, part, or component of 
+                a passenger motor vehicle as originally manufactured; 
+                and
+                    (B) the manufacturer of the passenger motor vehicle 
+                recommends or authorizes to be included in the 
+                passenger motor vehicle for no additional or separate 
+                monetary fee, payment, or surcharge, beyond the base 
+                price of the passenger motor vehicle.
+            (18) State.--The term ``State'' means each State of the 
+        United States, the District of Columbia, each commonwealth, 
+        territory, or possession of the United States, and each 
+        federally recognized Indian Tribe.
+
+SEC. 3. AM BROADCAST STATIONS RULE.
+
+    (a) Rule Required.--Not later than 1 year after the date of 
+enactment of this Act, the Secretary, in consultation with the 
+Administrator and the Federal Communications Commission, shall issue a 
+rule--
+            (1) requiring devices that can receive signals and play 
+        content transmitted by AM broadcast stations be installed as 
+        standard equipment in passenger motor vehicles--
+                    (A) manufactured in the United States for sale in 
+                the United States, imported into the United States, or 
+                shipped in interstate commerce; and
+                    (B) manufactured after the effective date of the 
+                rule;
+            (2) requiring access to AM broadcast stations through the 
+        devices required under paragraph (1) in a manner that is easily 
+        accessible to drivers; and
+            (3) allowing a manufacturer to comply with that rule by 
+        installing devices as described in paragraph (1) that can 
+        receive signals and play content transmitted by digital audio 
+        AM broadcast stations.
+    (b) Report Required.--Before issuing the rule required under 
+subsection (a), the Secretary shall submit to the Committee on Energy 
+and Commerce of the House of Representatives and the Committee on 
+Commerce, Science and Transportation of the Senate and make publicly 
+available on the website of the Department of Transportation, a report 
+that evaluates the following:
+            (1) Any potential adverse impacts related to automotive 
+        innovation and the motor vehicle safety of passenger motor 
+        vehicles equipped with automated driving systems from the 
+        reception of AM radio signals by such vehicles as required by 
+        subsection (a) of this Act.
+            (2) The range of solutions that manufacturers could adopt 
+        or have adopted to mitigate any potential impacts identified in 
+        paragraph (1).
+    (c) Compliance.--
+            (1) In general.--Except as provided in paragraph (2), in 
+        issuing the rule required under subsection (a), the Secretary 
+        shall establish an effective date for the rule that is not more 
+        than 2 years after the date on which the rule is issued.
+            (2) Certain manufacturers.--In issuing the rule required 
+        under subsection (a), the Secretary shall establish an 
+        effective date for the rule that is at least 4 years after the 
+        date on which the rule is issued with respect to a manufacturer 
+        that manufactured not more than 40,000 passenger motor vehicles 
+        for sale in the United States in 2022.
+    (d) Interim Requirement.--For passenger motor vehicles manufactured 
+after the date of enactment of this Act and manufactured in the United 
+States for sale in the United States, imported into the United States, 
+or shipped in interstate commerce during the period beginning on the 
+day after the date of enactment of this Act and ending on the day 
+before the effective date of the rule issued under subsection (a) that 
+do not include devices that can receive signals and play content 
+transmitted by AM broadcast stations, the manufacturer of the passenger 
+motor vehicles--
+            (1) shall provide clear and conspicuous labeling to inform 
+        purchasers of those passenger motor vehicles that the passenger 
+        motor vehicles do not include devices that can receive signals 
+        and play content transmitted by AM broadcast stations; and
+            (2) may not charge an additional or separate monetary fee, 
+        payment, or surcharge, beyond the base price of the passenger 
+        motor vehicles, for access to AM broadcast stations for the 
+        period described in this subsection.
+    (e) Relationship to Other Laws.--After the date of enactment of 
+this Act, a State or a political subdivision of a State may not 
+prescribe or continue in effect a law, regulation, or other requirement 
+applicable to access to AM broadcast stations in passenger motor 
+vehicles.
+    (f) Enforcement.--
+            (1) Civil penalty.--Any person who violates the rule issued 
+        under subsection (a) shall be liable to the United States 
+        Government for a civil penalty under section 30165(a)(1) of 
+        title 49, United States Code, as if that rule were a regulation 
+        described in that section.
+            (2) Civil action.--The Attorney General may bring a civil 
+        action under section 30163 of title 49, United States Code, in 
+        an appropriate district court of the United States to enjoin a 
+        violation of the rule issued under subsection (a) of this 
+        section, as if that rule were a regulation described in 
+        subsection (a)(1) of that section 30163.
+    (g) GAO Study.--
+            (1) In general.--The Comptroller General shall conduct a 
+        comprehensive study on disseminating emergency alerts and 
+        warnings to the public.
+            (2) Requirements.--The study required under paragraph (1) 
+        shall include--
+                    (A) an assessment of--
+                            (i) the role of passenger motor vehicles in 
+                        IPAWS communications, including by providing 
+                        access to AM broadcast stations;
+                            (ii) the advantages, effectiveness, 
+                        limitations, resilience, and accessibility of 
+                        existing IPAWS communication technologies, 
+                        including AM broadcast stations in passenger 
+                        motor vehicles;
+                            (iii) the advantages, effectiveness, 
+                        limitations, resilience, and accessibility of 
+                        AM broadcast stations relative to other IPAWS 
+                        communication technologies in passenger motor 
+                        vehicles; and
+                            (iv) whether other IPAWS communication 
+                        technologies are capable of ensuring the 
+                        President (or a designee) can reach at least 90 
+                        percent of the population of the United States 
+                        at a time of crisis, including at night; and
+                    (B) a description of any ongoing efforts to 
+                integrate new and emerging technologies and 
+                communication platforms into the IPAWS framework.
+            (3) Consultation required.--In conducting the study 
+        required under paragraph (1), the Comptroller General shall 
+        consult with--
+                    (A) the Secretary of Homeland Security;
+                    (B) the Federal Communications Commission;
+                    (C) the National Telecommunications and Information 
+                Administration;
+                    (D) the Secretary;
+                    (E) Federal, State, Tribal, territorial, and local 
+                emergency management officials;
+                    (F) first responders;
+                    (G) technology experts in resilience and 
+                accessibility;
+                    (H) radio broadcasters;
+                    (I) manufacturers of passenger motor vehicles; and
+                    (J) other relevant stakeholders, as determined by 
+                the Comptroller General.
+            (4) Briefing and report.--
+                    (A) Briefing.--Not later than 1 year after the date 
+                of enactment of this Act, the Comptroller General shall 
+                brief the appropriate committees of Congress on the 
+                results of the study required by paragraph (1), 
+                including recommendations for legislation and 
+                administrative action as the Comptroller General 
+                determines appropriate.
+                    (B) Report.--Not later than 180 days after the date 
+                on which the Comptroller General provides the briefing 
+                required under subparagraph (A), the Comptroller 
+                General shall submit to the appropriate committees of 
+                Congress a report describing the results of the study 
+                required under paragraph (1), including recommendations 
+                for legislation and administrative action as the 
+                Comptroller General determines appropriate.
+    (h) Review.--Not less frequently than once every 5 years after the 
+date on which the Secretary issues the rule required by subsection (a), 
+the Secretary, in coordination with the Administrator and the Federal 
+Communications Commission, shall submit to the appropriate committees 
+of Congress a report that shall include an assessment of--
+            (1) the impacts of the rule issued under that subsection, 
+        including the impacts on public safety; and
+            (2) possible changes to IPAWS communication technologies 
+        that would enable resilient and accessible alerts to drivers 
+        and passengers of passenger motor vehicles.
+    (i) Sunset.--This Act shall sunset and no longer be in effect on 
+the date that is 8 years after the date of enactment of this Act, 
+including the authority of the Secretary to carry out or enforce that 
+rule.
+                                                 Union Calendar No. 330
+
+119th CONGRESS
+
+  1st Session
+
+                               H. R. 979
+
+                      [Report No. 119-379, Part I]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+ To require the Secretary of Transportation to issue a rule requiring 
+   access to AM broadcast stations in motor vehicles, and for other 
+                               purposes.
+
+_______________________________________________________________________
+
+                           November 12, 2025
+
+  Reported from the Committee on Energy and Commerce with an amendment
+
+                           November 12, 2025
+
+ Committees on Homeland Security and Transportation and Infrastructure 
+discharged; committed to the Committee of the Whole House on the State 
+                 of the Union and ordered to be printed

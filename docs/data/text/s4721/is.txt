@@ -1,0 +1,171 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4721 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 4721
+
+   To prevent certain executive actions and repeal certain executive 
+                   documents, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              June 9, 2026
+
+  Mr. Merkley introduced the following bill; which was read twice and 
+                  referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To prevent certain executive actions and repeal certain executive 
+                   documents, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Restoring Renewable Energy Parity 
+Act''.
+
+SEC. 2. PREVENTION OF EXECUTIVE ACTIONS AND REPEAL OF EXECUTIVE 
+              DOCUMENTS.
+
+    (a) Prevention and Repeal.--
+            (1) In general.--Effective beginning on the date of 
+        enactment of this Act--
+                    (A) the Secretary of Commerce shall discontinue the 
+                investigation into imports of wind turbines and their 
+                parts and components initiated under section 232 of the 
+                Trade Expansion Act of 1962 (19 U.S.C. 1862), as 
+                described in the notice of the Bureau of Industry and 
+                Security entitled ``Notice of Request for Public 
+                Comments on Section 232 National Security Investigation 
+                of Imports of Wind Turbines and Their Parts and 
+                Components'' (90 Fed. Reg 41380 (August 25, 2025));
+                    (B) notwithstanding any other provision of law, the 
+                Secretary of Health and Human Services shall not take 
+                any action that hinders any wind, solar, or geothermal 
+                development; and
+                    (C) the Executive documents described in paragraph 
+                (2) (referred to in this subsection as the ``Executive 
+                documents'') shall have no force or effect and no 
+                Federal funds may be used to implement, administer, 
+                enforce, or carry out the Executive documents.
+            (2) Executive documents described.--The Executive documents 
+        referred to in paragraph (1)(C) are the following:
+                    (A) Executive Order 14315 (90 Fed. Reg. 30821; 
+                relating to ending market distorting subsidies for 
+                unreliable, foreign-controlled energy sources).
+                    (B) The Presidential memorandum entitled 
+                ``Temporary Withdrawal of All Areas on the Outer 
+                Continental Shelf from Offshore Wind Leasing and Review 
+                of the Federal Government's Leasing and Permitting 
+                Practices for Wind Projects'' issued on January 20, 
+                2025 (90 Fed. Reg. 8363).
+                    (C) Secretarial Order 3417, issued by the Secretary 
+                of the Interior on February 3, 2025 (relating to 
+                addressing the national energy emergency).
+                    (D) Secretarial Order 3418, issued by the Secretary 
+                of the Interior on February 3, 2025 (relating to 
+                unleashing American energy).
+                    (E) Secretarial Order 3437, issued by the Secretary 
+                of the Interior on July 29, 2025 (relating to ending 
+                preferential treatment for unreliable, foreign-
+                controlled energy sources in Department decision 
+                making).
+                    (F) Secretarial Order 3438, issued by the Secretary 
+                of the Interior on August 1, 2025 (relating to managing 
+                Federal energy resources and protecting the 
+                environment).
+                    (G) The memorandum of the Secretary of the Interior 
+                issued on July 15, 2025, entitled ``Departmental Review 
+                Procedures for Decisions, Actions, Consultations, and 
+                Other Undertakings Related to Wind and Solar Energy 
+                Facilities''.
+                    (H) The memorandum of the Secretary of Agriculture 
+                issued on August 21, 2025, numbered 1078-016 and 
+                entitled ``Efficiency Screening Criteria for Proposals 
+                Concerning Power Generation on National Forest System 
+                Lands''.
+                    (I) Internal Revenue Service Notice 2025-42 
+                (relating to beginning of construction requirements for 
+                purposes of the termination of clean electricity 
+                production credits and clean electricity investment 
+                credits for applicable wind and solar facilities).
+                    (J) The guidance of the Assistant Secretary of the 
+                Army for Civil Works, described in the news release 
+                published on the website of the Corps of Engineers on 
+                September 22, 2025, entitled ``Army Corps of Engineers 
+                begins implementing policy to increase America's energy 
+                generation efficiency''.
+            (3) Substantially similar documents.--The President or the 
+        head of the applicable Federal department or agency may not 
+        reissue an Executive document in substantially the same form, 
+        and a new order, memorandum, notice, or guidance document that 
+        is substantially the same as an Executive document may not be 
+        issued, unless the order, memorandum, notice, or guidance 
+        document is specifically authorized by an Act of Congress 
+        enacted after the date of enactment of this Act.
+            (4) Required action by secretary of defense.--Not later 
+        than 30 days after the date of enactment of this Act, the 
+        Secretary of Defense shall approve and sign any mitigation 
+        agreement relating to a wind energy facility, solar energy 
+        facility, transmission line, or distribution line that was 
+        initiated before January 1, 2026.
+    (b) IPaC Portal.--Notwithstanding any other provision of law, the 
+Director of the United States Fish and Wildlife Service shall not 
+prohibit any person requesting a permit for a wind, solar, geothermal, 
+or storage project from using the Information for Planning and 
+Consultation Portal (commonly known as the ``IPaC Portal'') of the 
+United States Fish and Wildlife Service to process the project.
+    (c) Financial Assistance.--
+            (1) Definition of continuation application.--In this 
+        subsection, the term ``continuation application'' means an 
+        application to secure continuing distribution of a Federal 
+        financial assistance award that was designated to be 
+        distributed over multiple fiscal years.
+            (2) Continuation application.--
+                    (A) In general.--Not later than 60 days after the 
+                date on which a continuation application is submitted 
+                by an applicant, the head of the applicable Federal 
+                department or agency shall--
+                            (i) grant or deny that continuation 
+                        application; and
+                            (ii) notify the applicant of the 
+                        determination made under clause (i).
+                    (B) Continuation application.--A continuation 
+                application submitted under subparagraph (A) shall be 
+                in such form and contain such information as the head 
+                of the applicable Federal department or agency may 
+                require.
+                    (C) Terms and conditions.--A continuation 
+                application granted under subparagraph (A) shall 
+                contain the same terms and conditions as the original 
+                application, as applicable.
+                    (D) Deadline.--A continuation application that is 
+                not responded to by the deadline required under 
+                subparagraph (A) shall be considered granted.
+    (d) Rescission Limitation.--No amounts may be rescinded from 
+amounts provided under any appropriation Act (as defined in section 3 
+of the Congressional Budget and Impoundment Control Act of 1974 (2 
+U.S.C. 622)) for fiscal years 2026 or 2027, unless the rescission is 
+made through an appropriation Act.
+                                 <all>
