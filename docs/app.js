@@ -282,7 +282,7 @@ async function viewBill(id, q) {
       ${rec.reports.length ? `<dt>Committee reports</dt><dd>${rec.reports.map(r => esc(r.citation)).join(", ")}</dd>` : ""}
     </dl>
     <h2 id="summary">Summary</h2>
-    ${summary ? `<p class="meta">Congressional Research Service summary of the version ${esc(summary.v.toLowerCase())}, ${fmtDate(summary.d)}.</p><div class="summary">${summary.html}</div>` : `<p class="muted">No CRS summary has been published yet.</p>`}
+    ${summary ? `<p class="meta">Congressional Research Service summary of the version “${esc(summary.v)}”, ${fmtDate(summary.d)}.</p><div class="summary">${summary.html}</div>` : `<p class="muted">No CRS summary has been published yet.</p>`}
     ${rec.cbo.length ? `<h2>CBO cost estimates</h2><ul class="plain">${rec.cbo.map(c => `<li><a class="item-title" href="${esc(c.url)}">${esc(c.title)}</a><div class="meta">${fmtDate(c.date)}. ${esc(c.desc)}</div></li>`).join("")}</ul>` : ""}
     <h2 id="text">Text and version comparison</h2>
     ${rec.versions.length ? `<div class="table-wrap"><table><caption>Published text versions (${rec.versions.length})</caption><thead><tr><th scope="col">Version</th><th scope="col">Date</th><th scope="col">Formats</th></tr></thead><tbody>
