@@ -1,0 +1,539 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 5159 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                                S. 5159
+
+To amend the Public Utility Regulatory Policies Act of 1978 to support 
+                  microgrids, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 29, 2026
+
+   Mr. Welch introduced the following bill; which was read twice and 
+       referred to the Committee on Energy and Natural Resources
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Public Utility Regulatory Policies Act of 1978 to support 
+                  microgrids, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Supporting Transformative 
+Resilience, Operations, and Next-Generation Grid Innovation Deployment 
+Act of 2026'' or the ``STRONG GRID Act of 2026''.
+
+SEC. 2. CONSIDERATION OF INTERCONNECTION OF MICROGRIDS AND THE BENEFITS 
+              OF INVESTMENTS IN RESILIENCE.
+
+    (a) In General.--Section 111(d) of the Public Utility Regulatory 
+Policies Act of 1978 (16 U.S.C. 2621(d)) is amended by adding at the 
+end the following:
+            ``(22) Interconnection of microgrids.--
+                    ``(A) Definition of microgrid.--In this paragraph, 
+                the term `microgrid' means a group of interconnected 
+                loads and distributed energy resources (which may 
+                include energy generation resources, energy storage, 
+                energy efficiency resources, district heating and 
+                cooling, combined heat and power, demand response and 
+                load control tools, and other management, forecasting, 
+                and analytical tools) within clearly defined electrical 
+                boundaries that--
+                            ``(i) acts as a single controllable entity 
+                        with respect to the electric grid; and
+                            ``(ii) has the ability--
+                                    ``(I) to connect to the electric 
+                                grid;
+                                    ``(II) to disconnect from the 
+                                electric grid; or
+                                    ``(III) to run in parallel to the 
+                                electric grid, whether connected to or 
+                                disconnected from the electric grid.
+                    ``(B) Interconnection.--Each State shall consider 
+                establishing a regulatory framework for the 
+                interconnection of microgrids, which may include 
+                revising existing interconnection requirements for 
+                distributed energy resources to better account for 
+                islanding, resource availability and scheduling, 
+                resource protection, and controls.
+            ``(23) Quantifying benefits of investments in resilience.--
+                    ``(A) In general.--Each State shall consider 
+                establishing--
+                            ``(i) standards for evaluating and 
+                        quantifying the benefits of investments in the 
+                        resilience of the electric grid, including--
+                                    ``(I) the events, circumstances, 
+                                and essential services for which 
+                                resilience is required;
+                                    ``(II) the level and duration of 
+                                service required to achieve resilience; 
+                                and
+                                    ``(III) consideration of--
+                                            ``(aa) whether critical 
+                                        customers have on-site or 
+                                        behind-the-meter generation 
+                                        capacity; and
+                                            ``(bb) whether information 
+                                        relating to that capacity has 
+                                        been shared with the applicable 
+                                        utility and relevant regional 
+                                        entities, as necessary; and
+                            ``(ii) a valuation methodology to quantify 
+                        the value of measures to improve the resilience 
+                        of the electric grid in order to determine 
+                        whether such investments are justifiable, 
+                        including a mechanism to determine--
+                                    ``(I) the distribution of 
+                                resilience benefits to ratepayers; and
+                                    ``(II) the scope over which 
+                                resilience benefits accrue.
+                    ``(B) Defense installations.--Military 
+                installations (as defined in section 2801(c) of title 
+                10, United States Code) and other defense installations 
+                and infrastructure operated by the Department of 
+                Defense shall not be subject to any standards or 
+                methodologies established pursuant to subparagraph 
+                (A).''.
+    (b) Compliance.--
+            (1) Time limitation.--Section 112(b) of the Public Utility 
+        Regulatory Policies Act of 1978 (16 U.S.C. 2622(b)) is 
+        amended--
+                    (A) by indenting paragraphs (4) through (8), and 
+                any subparagraphs within those paragraphs, 
+                appropriately; and
+                    (B) by adding at the end the following:
+    ``(9)(A) Not later than 1 year after the date of enactment of this 
+paragraph, each State regulatory authority (with respect to each 
+electric utility for which the State has ratemaking authority) and each 
+nonregulated electric utility shall commence consideration under 
+section 111, or set a hearing date for consideration, with respect to 
+the standards established by paragraphs (22) and (23) of section 
+111(d).
+    ``(B) Not later than 2 years after the date of enactment of this 
+paragraph, each State regulatory authority (with respect to each 
+electric utility for which the State has ratemaking authority), and 
+each nonregulated electric utility shall complete the consideration and 
+make the determination under section 111 with respect to the standards 
+established by paragraphs (22) and (23) of section 111(d).''.
+            (2) Failure to comply.--Section 112(c) of the Public 
+        Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(c)) is 
+        amended by adding at the end the following: ``In the case of 
+        the standards established by paragraphs (22) and (23) of 
+        section 111(d), the reference contained in this subsection to 
+        the date of enactment of this Act shall be deemed to be a 
+        reference to the date of enactment of those paragraphs.''.
+            (3) Prior state actions.--
+                    (A) In general.--Section 112 of the Public Utility 
+                Regulatory Policies Act of 1978 (16 U.S.C. 2622) is 
+                amended--
+                            (i) in each of subsections (d) through (h), 
+                        by redesignating paragraphs (1) through (3) as 
+                        subparagraphs (A) through (C), respectively, 
+                        and indenting appropriately;
+                            (ii) in subsections (e) through (h), by 
+                        striking ``enactment of this subsection'' and 
+                        inserting ``enactment of that paragraph'';
+                            (iii) in subsection (d), in the matter 
+                        preceding subparagraph (A) (as so 
+                        redesignated), by striking ``Subsections'' and 
+                        inserting the following:
+            ``(1) In general.--Subsections'';
+                            (iv) in subsection (e), by striking the 
+                        subsection designation and heading and all that 
+                        follows through ``Subsections'' in the matter 
+                        preceding subparagraph (A) (as so redesignated) 
+                        and inserting the following:
+            ``(2) Time-based metering and communications.--
+        Subsections'';
+                            (v) in subsection (f), by striking the 
+                        subsection designation and heading and all that 
+                        follows through ``Subsections'' in the matter 
+                        preceding subparagraph (A) (as so redesignated) 
+                        and inserting the following:
+            ``(3) Interconnection.--Subsections'';
+                            (vi) in subsection (g), by striking the 
+                        subsection designation and heading and all that 
+                        follows through ``Subsections'' in the matter 
+                        preceding subparagraph (A) (as so redesignated) 
+                        and inserting the following:
+            ``(4) Demand-response practices.--Subsections'';
+                            (vii) in subsection (h), by striking the 
+                        subsection designation and heading and all that 
+                        follows through ``Subsections'' in the matter 
+                        preceding subparagraph (A) (as so redesignated) 
+                        and inserting the following:
+            ``(5) Electric vehicle charging programs.--Subsections''; 
+        and
+                            (viii) in subsection (d) (as so amended) by 
+                        adding at the end the following:
+            ``(6) Interconnection of microgrids; benefits of 
+        investments in resilience.--Subsections (b) and (c) shall not 
+        apply to the standard established by paragraph (22) or (23), as 
+        applicable, of section 111(d) in the case of any electric 
+        utility in a State if, before the date of enactment of that 
+        paragraph--
+                    ``(A) the State has implemented for the electric 
+                utility the applicable standard (or a comparable 
+                standard);
+                    ``(B) the State regulatory authority for the State 
+                or the relevant nonregulated electric utility has 
+                conducted a proceeding to consider implementation of 
+                the applicable standard (or a comparable standard) for 
+                the electric utility; or
+                    ``(C) the State legislature has voted on the 
+                implementation of the applicable standard (or a 
+                comparable standard) for the electric utility during 
+                the 3-year period ending on that date of enactment.''.
+                    (B) Cross reference.--Section 124 of the Public 
+                Utility Regulatory Policies Act of 1978 (16 U.S.C. 
+                2634) is amended by adding at the end the following: 
+                ``In the case of the standards established by 
+                paragraphs (22) and (23) of section 111(d), the 
+                reference contained in this section to the date of 
+                enactment of this Act shall be deemed to be a reference 
+                to the date of enactment of those paragraphs.''.
+
+SEC. 3. STATE ENERGY PROGRAMS.
+
+    Section 362 of the Energy Policy and Conservation Act (42 U.S.C. 
+6322) is amended--
+            (1) in subsection (c)(7)(B), by inserting ``, including 
+        microgrids (as defined in section 367(a))'' before the 
+        semicolon at the end; and
+            (2) in subsection (d)(10), by inserting ``, such as 
+        distributed energy resources and virtual power plants'' before 
+        the semicolon at the end.
+
+SEC. 4. STATE-ADMINISTERED ASSISTANCE FOR MICROGRIDS.
+
+    (a) In General.--Part D of title III of the Energy Policy and 
+Conservation Act (42 U.S.C. 6321 et seq.) is amended by adding at the 
+end the following:
+
+``SEC. 367. STATE-ADMINISTERED ASSISTANCE FOR MICROGRIDS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Low-income community.--The term `low-income 
+        community' means any census block group in which 30 percent or 
+        more of the population are individuals with an annual household 
+        income equal to, or less than, the greater of--
+                    ``(A) an amount equal to 80 percent of the median 
+                income of the area in which the household is located, 
+                as reported by the Department of Housing and Urban 
+                Development; and
+                    ``(B) 200 percent of the Federal poverty line.
+            ``(2) Microgrid.--The term `microgrid' means a group of 
+        interconnected loads and distributed energy resources (which 
+        may include energy generation resources, energy storage, energy 
+        efficiency resources, district heating and cooling, combined 
+        heat and power, demand response and load control tools, and 
+        other management, forecasting, and analytical tools) within 
+        clearly defined electrical boundaries that--
+                    ``(A) acts as a single controllable entity with 
+                respect to the electric grid; and
+                    ``(B) has the ability to connect to, disconnect 
+                from, or run in parallel to the electric grid and 
+                operate in grid-connected mode or islanded mode.
+            ``(3) Rural area.--The term `rural area' means any area 
+        other than--
+                    ``(A) a city or town that has a population of 
+                greater than 50,000 inhabitants; and
+                    ``(B) any urbanized area contiguous and adjacent to 
+                a city or town described in subparagraph (A).
+    ``(b) Program.--Not later than 1 year after the date of enactment 
+of the STRONG GRID Act of 2026, the Secretary, in consultation with the 
+Director of the Office of Cybersecurity, Energy Security, and Emergency 
+Response, shall establish a program under which the Secretary shall 
+allocate funding to State energy offices to implement an Electric Grid 
+Resilience Program in accordance with this section.
+    ``(c) Funding Allocation.--The Secretary shall allocate funding 
+under subsection (b) in accordance with the allocation formula in 
+effect on December 31, 2024, for the State Energy Program established 
+under this part.
+    ``(d) Electric Grid Resilience Programs.--
+            ``(1) In general.--An Electric Grid Resilience Program 
+        carried out by a State energy office using funds provided under 
+        this section shall award competitive grants to eligible 
+        entities to support the deployment of microgrids.
+            ``(2) Eligible activities.--A grant awarded under an 
+        Electric Grid Resilience Program may be used for--
+                    ``(A) conducting a microgrid needs assessment or 
+                feasibility study;
+                    ``(B) designing and engineering a microgrid, 
+                including the solicitation of technical assistance--
+                            ``(i) to address permitting and siting 
+                        challenges;
+                            ``(ii) to understand the technical 
+                        characteristics and management of microgrids;
+                            ``(iii) to develop a maintenance plan for 
+                        the microgrid; and
+                            ``(iv) to develop cybersecurity and data 
+                        privacy measures unique to microgrid 
+                        performance and operation;
+                    ``(C) construction of a microgrid and associated 
+                energy resources, including--
+                            ``(i) energy generation assets;
+                            ``(ii) energy storage; and
+                            ``(iii) technologies to manage the 
+                        operation and security of the microgrid;
+                    ``(D) implementation of advanced cybersecurity or 
+                operational controls for an existing microgrid;
+                    ``(E) the technical and physical operation and 
+                maintenance of a newly constructed microgrid;
+                    ``(F) training existing staff on the real-time 
+                systems specific to microgrids; and
+                    ``(G) other activities relating to microgrid 
+                deployment, as the applicable State energy office 
+                determines to be appropriate.
+            ``(3) Priorities.--In awarding grants under an Electric 
+        Grid Resilience Program, a State energy office shall give 
+        priority to projects that--
+                    ``(A) improve energy resilience, such as by 
+                reducing the frequency, duration, or scale of blackouts 
+                or power system failures;
+                    ``(B) improve the reliability of electric service;
+                    ``(C) generate multiple energy value streams, 
+                including ancillary services;
+                    ``(D) address a need identified in a State or local 
+                hazard mitigation or emergency preparedness plan;
+                    ``(E) address a need identified in a State energy 
+                security plan (as defined in section 366(a));
+                    ``(F) primarily benefit a rural area or low-income 
+                community;
+                    ``(G) provide ancillary services to the grid, such 
+                as demand management or congestion control; or
+                    ``(H) deploy distributed or renewable energy 
+                resources.
+            ``(4) Cost share.--The recipient of a grant under an 
+        Electric Grid Resilience Program shall be required to provide 
+        not less than 25 percent of the cost of the project carried out 
+        using the grant.
+    ``(e) Administrative Expenses.--A State may use up to 10 percent of 
+the amount allocated to the State under this section for the costs of 
+administering an Electric Grid Resilience Program.
+    ``(f) Funding.--There is appropriated, out of any funds in the 
+Treasury not otherwise appropriated, $500,000,000 to carry out this 
+section for the period of fiscal years 2027 through 2031.''.
+    (b) Technical Amendment.--The table of contents for the Energy 
+Policy and Conservation Act (Public Law 94-163; 89 Stat. 872) is 
+amended by inserting after the item relating to section 366 the 
+following:
+
+``Sec. 367. State-administered assistance for microgrids.''.
+
+SEC. 5. TECHNICAL ASSISTANCE FOR UTILITIES, UTILITY REGULATORS, AND 
+              OTHER STAKEHOLDERS.
+
+    (a) In General.--Title VI of the Public Utility Regulatory Policies 
+Act of 1978 is amended by inserting after section 609 (7 U.S.C. 918c) 
+the following:
+
+``SEC. 610. TECHNICAL, EDUCATIONAL, AND OTHER ASSISTANCE ON MICROGRIDS.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Eligible entity.--The term `eligible entity' means--
+                    ``(A) an electric utility, including the board of 
+                an electric cooperative;
+                    ``(B) an electric utility regulator, including a 
+                State regulatory authority, such as a public utility 
+                commission;
+                    ``(C) a State or a State energy office;
+                    ``(D) an agency, authority, corporation, or 
+                instrumentality of a State or Indian Tribe;
+                    ``(E) a unit of local government or a political 
+                subdivision of a State or Indian Tribe;
+                    ``(F) a policymaker having authority with respect 
+                to--
+                            ``(i) an electric utility;
+                            ``(ii) the regulation of electric utilities 
+                        or the sale of electric energy; or
+                            ``(iii) any other matter relating to the 
+                        adoption or use of microgrids; and
+                    ``(G) any other relevant entity, as determined by 
+                the Secretary.
+            ``(2) Microgrid.--The term `microgrid' has the meaning 
+        given the term in section 111(d)(22)(A).
+            ``(3) National laboratory.--The term `National Laboratory' 
+        has the meaning given the term in section 2 of the Energy 
+        Policy Act of 2005 (42 U.S.C. 15801).
+            ``(4) State energy office.--The term `State energy office' 
+        means the State agency responsible for developing a State 
+        energy conservation plan under section 362 of the Energy Policy 
+        and Conservation Act (42 U.S.C. 6322).
+    ``(b) Technical Assistance on Microgrid Adoption.--The Secretary, 
+on request, shall provide to eligible entities technical assistance to 
+facilitate the adoption and deployment of microgrids, including 
+technical assistance with respect to--
+            ``(1) interconnection processes;
+            ``(2) valuation and verification of microgrid benefits;
+            ``(3) integrated distribution system and resource planning, 
+        including behind-the-meter resources;
+            ``(4) co-locating microgrid infrastructure and large 
+        industrial and commercial loads; and
+            ``(5) other relevant considerations, as determined by the 
+        Secretary.
+    ``(c) Technical Assistance on Implementation of the STRONG GRID Act 
+of 2026.--
+            ``(1) In general.--The Secretary, on request, shall provide 
+        technical assistance to State agencies and other eligible 
+        entities, including State regulatory authorities, State 
+        regulated electric utilities, and nonregulated electric 
+        utilities, with respect to--
+                    ``(A) regulatory proceedings relating to paragraphs 
+                (22) and (23) of section 111(d);
+                    ``(B) the adoption or use of microgrids as part of 
+                the State Energy Program established under part D of 
+                title III of the Energy Policy and Conservation Act (42 
+                U.S.C. 6321 et seq.); or
+                    ``(C) the grant program established under section 
+                367(b) of that Act.
+            ``(2) National laboratories.--The Secretary may provide 
+        technical assistance under paragraph (1) through the National 
+        Laboratories, as the Secretary determines to be appropriate.
+    ``(d) Best Practices.--The Secretary, in coordination with the 
+National Laboratories and in consultation with State energy offices and 
+other stakeholders, as determined by the Secretary, shall develop best 
+practices for the following matters with respect to microgrids and 
+microgrid components:
+            ``(1) Interconnection processes.
+            ``(2) Cybersecurity.
+            ``(3) Personal data protection.
+            ``(4) Ownership.
+    ``(e) Workshops, Roundtables, and Other Activities.--The Secretary 
+shall host workshops, roundtables, information sessions, and other 
+activities to provide to eligible entities education and information 
+about microgrids, including with respect to--
+            ``(1) the benefits of microgrids and the role of microgrids 
+        in strengthening electric grid resilience, reducing emissions, 
+        managing demand, and meeting load growth and other energy 
+        industry challenges;
+            ``(2) best practices, standards, and protocols for the 
+        regulation, development, implementation, operation, and 
+        management of microgrids; and
+            ``(3) resources and technical assistance opportunities 
+        available to eligible entities from the Secretary and other 
+        Federal agencies.''.
+    (b) Clerical Amendment.--The table of contents in section 1(b) of 
+the Public Utility Regulatory Policies Act of 1978 (Public Law 95-617; 
+92 Stat. 3118) is amended by adding at the end of the items relating to 
+title VI the following:
+
+``Sec. 609. Rural and remote communities electrification grants.
+``Sec. 610. Technical, educational, and other assistance on 
+                            microgrids.''.
+
+SEC. 6. PILOT PROGRAM FOR DEMONSTRATION OF INNOVATIVE MICROGRID 
+              APPLICATIONS.
+
+    (a) Definitions.--In this section:
+            (1) Eligible entity.--The term ``eligible entity'' means--
+                    (A) an electric grid operator;
+                    (B) an electricity storage operator;
+                    (C) an electricity generator;
+                    (D) a transmission owner or operator;
+                    (E) a distribution provider;
+                    (F) a fuel supplier;
+                    (G) a State, a territory of the United States, or 
+                an Indian Tribe;
+                    (H) an agency, authority, corporation, or 
+                instrumentality of a State or Indian Tribe;
+                    (I) a unit of local government or a political 
+                subdivision of a State or Indian Tribe;
+                    (J) an institution of higher education; and
+                    (K) any other relevant entity, as determined by the 
+                Secretary.
+            (2) Pilot program.--The term ``pilot program'' means the 
+        pilot program established under subsection (b).
+            (3) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+    (b) Establishment.--Not later than 1 year after the date of 
+enactment of this Act, the Secretary shall establish a pilot program to 
+award grants, on a competitive basis, to eligible entities for projects 
+to demonstrate innovative microgrid deployment.
+    (c) Applications.--An eligible entity seeking a grant under the 
+pilot program shall submit to the Secretary an application at such 
+time, in such manner, and containing such information as the Secretary 
+may require.
+    (d) Priority.--In awarding grants under the pilot program, the 
+Secretary shall give priority to projects that demonstrate innovative 
+microgrid applications, emerging technologies, and distributed energy 
+resources management systems, which may include microgrid projects 
+that--
+            (1) provide ancillary grid services and supply and demand 
+        management;
+            (2) aggregate distributed energy resources into virtual 
+        power plants;
+            (3) communicate between demand and generation resources;
+            (4) demonstrate effective cybersecurity management;
+            (5) demonstrate methods to protect microgrids and related 
+        energy resources during a grid or microgrid fault;
+            (6) facilitate load transfers to alleviate transmission 
+        congestion;
+            (7) manage voltage instability or collapses;
+            (8) demonstrate systems to support microgrid and networked 
+        microgrid operations, including coordination and resource 
+        sharing;
+            (9) demonstrate systems for multi-microgrid control;
+            (10) demonstrate microgrid capabilities and operation in 
+        black-start conditions;
+            (11) demonstrate successful operation of microgrids where 
+        direct current systems are the primary basis of design;
+            (12) demonstrate successful microgrid operation with a 
+        significant penetration of or complete reliance on renewable 
+        energy resources, including storage; or
+            (13) adopt a flexible regulatory framework for high-
+        visibility projects that demonstrate advanced microgrid 
+        concepts and technologies.
+    (e) Cost Share.--The Federal share of the cost of a project for 
+which a grant is provided under the pilot program shall not exceed 90 
+percent.
+    (f) Technical Assistance.--The Secretary may provide technical 
+assistance to recipients of grants under the pilot program with respect 
+to--
+            (1) the development of microgrid regulatory frameworks;
+            (2) the design of microgrids; and
+            (3) the feasibility of microgrid projects.
+    (g) Reports.--
+            (1) Report on microgrid benefits and regulatory 
+        processes.--Not later than 5 years after the date of enactment 
+        of this Act, the Secretary, in coordination with the National 
+        Laboratories, shall submit to Congress and publish on a 
+        publicly available website of the Department of Energy a report 
+        that evaluates the outcomes of the pilot program, including--
+                    (A) the benefits, challenges, and risks of 
+                microgrid deployment; and
+                    (B) regulatory processes relating to the deployment 
+                of microgrids.
+            (2) Report on pilot projects.--Annually, the Secretary 
+        shall submit to Congress and publish on a publicly available 
+        website of the Department of Energy a report describing each 
+        project funded under the pilot program as of the date of the 
+        report, including the innovative microgrid deployment, 
+        applications, and technologies demonstrated by the project.
+    (h) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary to carry out the pilot program 
+$200,000,000 for the period of fiscal years 2027 through 2031.
+                                 <all>

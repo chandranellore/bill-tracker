@@ -1,0 +1,72 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2403 Introduced in Senate (IS)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  1st Session
+                                S. 2403
+
+To amend the Employee Retirement Income Security Act of 1974 to provide 
+ a clear definition of adequate consideration for certain closely held 
+                     stock, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 23, 2025
+
+Mr. Marshall (for himself and Mr. Kaine) introduced the following bill; 
+     which was read twice and referred to the Committee on Health, 
+                     Education, Labor, and Pensions
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Employee Retirement Income Security Act of 1974 to provide 
+ a clear definition of adequate consideration for certain closely held 
+                     stock, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Retire through Ownership Act''.
+
+SEC. 2. AMENDING ADEQUATE CONSIDERATION DEFINITION.
+
+    (a) In General.--Section 3(18) of the Employee Retirement Income 
+Security Act of 1974 (29 U.S.C. 1002(18)) is amended--
+            (1) by redesignating clauses (i) and (ii) as subclauses (I) 
+        and (II), respectively;
+            (2) by redesignating subparagraphs (A) and (B) as clauses 
+        (i) and (ii), respectively;
+            (3) by inserting ``(A)'' before ``The term''; and
+            (4) by adding at the end the following:
+            ``(B) For purposes of clause (ii), a fiduciary of an 
+        employee stock ownership plan as defined in section 407(d)(6) 
+        may make a good faith reliance on the principles and 
+        methodologies set forth in Internal Revenue Service Revenue 
+        Ruling 59-60 (as in effect on the date of enactment of the 
+        ERISA Adequate Consideration Act of 2025) in determining the 
+        fair market value of an asset described in such clause.''.
+    (b) Effective Date.--The amendments made by subsection (a) shall 
+apply with respect to determinations described in section 3(18)(B) of 
+the Employee Retirement Income Security Act of 1974 (29 U.S.C. 
+1002(18)(B)) (as added by such subsection) that are made on or after 
+the date of enactment of this Act.
+                                 <all>

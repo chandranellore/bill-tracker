@@ -1,0 +1,72 @@
+JAYANAS Bill Tracker daily digest, Friday, November 06, 2026
+Official actions dated 2026-11-05 to 2026-11-05
+
+BUDGET AND APPROPRIATIONS
+  No new action.
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-05: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 1945 America's National Churchill Museum National Historic Landmark Act
+  2026-11-05: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1945
+
+ROLL-CALL VOTES
+  No new action.
+
+ENERGY AND MINERALS LEGISLATION
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 771.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 768.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr3978
+- H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
+  2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-871.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr3978
+- H.R. 9613 Nuclear Advisory Committee Reform Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 774.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9613
+- H.R. 9613 Nuclear Advisory Committee Reform Act
+  2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-877.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9613
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 769.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-05: Reported by the Committee on Energy and Commerce. H. Rept. 119-872.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+
+FEDERAL REGISTER
+- Proposed Rule: Deepwater Port Application Processing and Licensing
+  https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing
+- Notice: Scotts Valley Band of Pomo Indians of California Liquor Control Ordinance; Correction
+  https://www.federalregister.gov/documents/2026/11/05/2026-22566/scotts-valley-band-of-pomo-indians-of-california-liquor-control-ordinance-correction
+- Notice: Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC; Notice of Schedule for the Preparation of an Environmental Assessment fo
+  https://www.federalregister.gov/documents/2026/11/05/2026-22609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc
+- Notice: Natural Gas Pipeline Company of America, LLC; Notice of Scoping Period Requesting Comments on Environmental Issues for the Proposed Amarillo Expansion Project
+  https://www.federalregister.gov/documents/2026/11/05/2026-22608/natural-gas-pipeline-company-of-america-llc-notice-of-scoping-period-requesting-comments-on
+- Notice: Commission Information Collection Activities (FERC-725R); Comment Request; Extension
+  https://www.federalregister.gov/documents/2026/11/05/2026-22607/commission-information-collection-activities-ferc-725r-comment-request-extension
+- Notice: Privacy Act of 1974; Systems of Records
+  https://www.federalregister.gov/documents/2026/11/05/2026-22606/privacy-act-of-1974-systems-of-records
+- Notice: Oncor Electric Delivery Company LLC; Notice of Filing
+  https://www.federalregister.gov/documents/2026/11/05/2026-22605/oncor-electric-delivery-company-llc-notice-of-filing
+- Notice: Erie Boulevard Hydropower, L.P.; Notice of Availability of Environmental Assessment
+  https://www.federalregister.gov/documents/2026/11/05/2026-22604/erie-boulevard-hydropower-lp-notice-of-availability-of-environmental-assessment
+- Notice: Pacific Gas and Electric Company; Notice of Intent To File License Application, Filing of Pre-Application Document (Pad), Commencement of Pre-Filing Process, and Scoping; Request f
+  https://www.federalregister.gov/documents/2026/11/05/2026-22603/pacific-gas-and-electric-company-notice-of-intent-to-file-license-application-filing-of
+- Notice: Combined Notice of Filings #2
+  https://www.federalregister.gov/documents/2026/11/05/2026-22580/combined-notice-of-filings-2
+- Notice: Combined Notice of Filings #1
+  https://www.federalregister.gov/documents/2026/11/05/2026-22579/combined-notice-of-filings-1
+- Notice: Combined Notice of Filings
+  https://www.federalregister.gov/documents/2026/11/05/2026-22578/combined-notice-of-filings
+- Notice: Performance Review Board for Senior Executive Service
+  https://www.federalregister.gov/documents/2026/11/05/2026-22636/performance-review-board-for-senior-executive-service
+- Notice: Last Energy, Inc; Phased Construction Permit Application-Limited Work Authorization
+  https://www.federalregister.gov/documents/2026/11/05/2026-22577/last-energy-inc-phased-construction-permit-application-limited-work-authorization

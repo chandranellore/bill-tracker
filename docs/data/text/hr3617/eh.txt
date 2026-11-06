@@ -1,0 +1,153 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 3617 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 3617
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+To amend the Department of Energy Organization Act to secure the supply 
+  of critical energy resources, including critical minerals and other 
+                   materials, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Securing America's Critical Minerals 
+Supply Act''.
+
+SEC. 2. AMENDMENT TO THE DEPARTMENT OF ENERGY ORGANIZATION ACT.
+
+    The Department of Energy Organization Act (42 U.S.C. 7101 et seq.) 
+is amended--
+            (1) in section 2, by adding at the end the following:
+    ``(d) As used in sections 102(20) and 203(a)(12), the term 
+`critical energy resource' means any energy resource--
+            ``(1) that is essential to the energy sector and energy 
+        systems of the United States; and
+            ``(2) the supply chain of which is vulnerable to 
+        disruption.'';
+            (2) in section 102, by adding at the end the following:
+            ``(20) To ensure there is an adequate and reliable supply 
+        of critical energy resources that are essential to the energy 
+        security of the United States.''; and
+            (3) in section 203(a), by adding at the end the following:
+            ``(12) Functions that relate to securing the supply of 
+        critical energy resources, including identifying and mitigating 
+        the effects of a disruption of such supply on--
+                    ``(A) the development and use of energy 
+                technologies; and
+                    ``(B) the operation of energy systems.''.
+
+SEC. 3. SECURING CRITICAL ENERGY RESOURCE SUPPLY CHAINS.
+
+    (a) In General.--In carrying out the requirements of the Department 
+of Energy Organization Act (42 U.S.C. 7101 et seq.), the Secretary of 
+Energy, in consultation with the appropriate Federal agencies, 
+representatives of the energy sector, States, and other stakeholders, 
+shall--
+            (1) conduct ongoing assessments of--
+                    (A) energy resource criticality, based on the 
+                importance of critical energy resources to the 
+                development of energy technologies and the supply of 
+                energy;
+                    (B) the critical energy resource supply chain of 
+                the United States;
+                    (C) the vulnerability of such supply chain;
+                    (D) the diversity of domestic critical energy 
+                resource supply chains in the United States, including 
+                the extent to which such diversity is sufficient to 
+                prevent monopolistic behavior, a single point of 
+                failure, or market manipulation;
+                    (E) capacity constraints on the domestic production 
+                of critical energy resources, including any such 
+                constraint caused by a shortage of material or labor;
+                    (F) Federal regulations affecting the domestic 
+                production or importation of critical energy resources;
+                    (G) how the energy security of the United States is 
+                affected by the reliance of the United States on 
+                importation of critical energy resources; and
+                    (H) how adversarial nations seek to exploit 
+                critical energy resource markets to undermine 
+                investment in the United States, which may include the 
+                extent to which adversarial nations employ anti-
+                competitive practices, price manipulation, or human 
+                rights abuses in critical energy resource production 
+                and exportation;
+            (2) facilitate development of strategies to strengthen 
+        critical energy resource supply chains in the United States, 
+        including by--
+                    (A) diversifying the sources of the supply of 
+                critical energy resources; and
+                    (B) increasing domestic production, separation, and 
+                processing of critical energy resources;
+            (3) develop substitutes and alternatives to critical energy 
+        resources; and
+            (4) improve technology that reuses and recycles critical 
+        energy resources.
+    (b) Report.--Not later than two years after the date of enactment 
+of this Act, the Secretary of Energy shall submit to the Committee on 
+Energy and Commerce of the House of Representatives and the Committee 
+on Energy and Natural Resources of the Senate a report on the status of 
+the assessments under subsection (a)(1), including a description of any 
+regulation prescribed, guidance issued, or other action taken as a 
+result of such an assessment.
+    (c) Critical Energy Resource Defined.--In this section, the term 
+``critical energy resource'' has the meaning given such term in section 
+2 of the Department of Energy Organization Act (42 U.S.C. 7101).
+
+            Passed the House of Representatives February 11, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 3617
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+To amend the Department of Energy Organization Act to secure the supply 
+  of critical energy resources, including critical minerals and other 
+                   materials, and for other purposes.
