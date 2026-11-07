@@ -5,18 +5,18 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 8205 Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
-  2026-11-03: Became Public Law No: 119-138.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8205
-- H.R. 8205 Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
-  2026-11-03: Signed by President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8205
 - H.R. 1744 United States Commission on International Religious Freedom Reauthorization Act of 2026
   2026-11-03: Became Public Law No: 119-137.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1744
 - H.R. 1744 United States Commission on International Religious Freedom Reauthorization Act of 2026
   2026-11-03: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1744
+- H.R. 8205 Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
+  2026-11-03: Became Public Law No: 119-138.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8205
+- H.R. 8205 Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
+  2026-11-03: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8205
 
 ROLL-CALL VOTES
   No new action.
