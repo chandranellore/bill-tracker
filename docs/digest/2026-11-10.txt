@@ -1,0 +1,54 @@
+JAYANAS Bill Tracker daily digest, Tuesday, November 10, 2026
+Official actions dated 2026-11-09 to 2026-11-09
+
+BUDGET AND APPROPRIATIONS
+  No new action.
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- S. 3589 RISE Act
+  2026-11-09: Passed Senate with an amendment by Voice Vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/s3589
+
+ROLL-CALL VOTES
+- House: On Motion to Suspend the Rules and Pass, as Amended: H R 9612 Passed (394-3)
+- House: On Motion to Suspend the Rules and Pass, as Amended: H R 3978 Passed (397-2)
+- Senate: On Cloture on the Motion to Proceed: HR2347 Cloture on the Motion to Proceed Agreed to (73-25)
+
+ENERGY AND MINERALS LEGISLATION
+  No new action.
+
+FEDERAL REGISTER
+- Proposed Rule: Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion
+  https://www.federalregister.gov/documents/2026/11/09/2026-22815/pacific-island-fisheries-commercial-fishing-in-the-pacific-remote-islands-marine-national-monument
+- Notice: Endangered and Threatened Wildlife and Plants; Initiation of 5-Year Status Reviews for 81 Southeastern Species
+  https://www.federalregister.gov/documents/2026/11/09/2026-22818/endangered-and-threatened-wildlife-and-plants-initiation-of-5-year-status-reviews-for-81
+- Notice: Agency Information Collection Activities; National Park Service Concessioner Services Customer Satisfaction Survey
+  https://www.federalregister.gov/documents/2026/11/09/2026-22736/agency-information-collection-activities-national-park-service-concessioner-services-customer
+- Notice: FFP Missouri 12, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+  https://www.federalregister.gov/documents/2026/11/09/2026-22808/ffp-missouri-12-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction
+- Notice: Red River Hydro LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+  https://www.federalregister.gov/documents/2026/11/09/2026-22805/red-river-hydro-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction
+- Notice: Northern Illinois Hydropower, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and
+  https://www.federalregister.gov/documents/2026/11/09/2026-22804/northern-illinois-hydropower-llc-notice-of-request-for-extension-of-time-to-commence-and-complete
+- Notice: Northern Illinois Hydropower, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and
+  https://www.federalregister.gov/documents/2026/11/09/2026-22803/northern-illinois-hydropower-llc-notice-of-request-for-extension-of-time-to-commence-and-complete
+- Notice: FFP Missouri 5, LLC; Notice of Request for Extension of Time To Commence and Complete Construction Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests
+  https://www.federalregister.gov/documents/2026/11/09/2026-22801/ffp-missouri-5-llc-notice-of-request-for-extension-of-time-to-commence-and-complete-construction
+- Notice: Application for Authorization To Export Electric Energy; KPT Energy LLC
+  https://www.federalregister.gov/documents/2026/11/09/2026-22796/application-for-authorization-to-export-electric-energy-kpt-energy-llc
+- Notice: National Coal Council
+  https://www.federalregister.gov/documents/2026/11/09/2026-22795/national-coal-council
+- Notice: Combined Notice of Filings
+  https://www.federalregister.gov/documents/2026/11/09/2026-22791/combined-notice-of-filings
+- Notice: Combined Notice of Filings #1
+  https://www.federalregister.gov/documents/2026/11/09/2026-22790/combined-notice-of-filings-1
+- Notice: Environmental Management Site-Specific Advisory Board, Northern New Mexico
+  https://www.federalregister.gov/documents/2026/11/09/2026-22773/environmental-management-site-specific-advisory-board-northern-new-mexico
+- Notice: Reliability Technical Conference; Notice Inviting Post-Technical Conference Comments
+  https://www.federalregister.gov/documents/2026/11/09/2026-22762/reliability-technical-conference-notice-inviting-post-technical-conference-comments
+- Notice: Hazardous Materials: Notice of Actions on Special Permits
+  https://www.federalregister.gov/documents/2026/11/09/2026-22779/hazardous-materials-notice-of-actions-on-special-permits
+- Notice: Hazardous Materials: Notice of Applications for Modification to Special Permits
+  https://www.federalregister.gov/documents/2026/11/09/2026-22778/hazardous-materials-notice-of-applications-for-modification-to-special-permits
+- Notice: Hazardous Materials: Notice of Applications for New Special Permits
+  https://www.federalregister.gov/documents/2026/11/09/2026-22777/hazardous-materials-notice-of-applications-for-new-special-permits
