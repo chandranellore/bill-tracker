@@ -1,0 +1,84 @@
+JAYANAS Bill Tracker daily digest, Wednesday, November 11, 2026
+Official actions dated 2026-11-10 to 2026-11-10
+
+BUDGET AND APPROPRIATIONS
+- H.R. 10974 To rescind appropriations provided to U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection by
+  2026-11-10: Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall wit
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10974
+- H.R. 10974 To rescind appropriations provided to U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection by
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10974
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- S. 3923 Weather Research and Forecasting Innovation Reauthorization Act of 2026
+  2026-11-10: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s3923
+- S. 2434 A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heri
+  2026-11-10: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s2434
+- S. 3720 Bay Area Ridge National Scenic Trail Feasibility Study Act
+  2026-11-10: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s3720
+- H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
+  2026-11-10: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4930
+
+ROLL-CALL VOTES
+- House: On Agreeing to the Resolution: H RES 1650 Passed (215-209)
+- House: On Ordering the Previous Question: H RES 1650 Passed (213-207)
+- House: On Motion to Refer: H RES 1655 Passed (211-204)
+- Senate: On the Motion to Proceed: HR2347 Motion to Proceed Agreed to (62-21)
+
+ENERGY AND MINERALS LEGISLATION
+- H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
+  2026-11-10: Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr3978
+- H.R. 9613 Nuclear Advisory Committee Reform Act
+  2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9613
+- S. 5711 A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out 
+  2026-11-10: Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/s5711
+- S. 5711 A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out 
+  2026-11-10: Introduced in Senate
+  https://chandranellore.github.io/bill-tracker/#/bill/s5711
+- H.R. 10987 To require the Federal Energy Regulatory Commission to establish procedures by which 1 or more States may refer a public
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
+- H.R. 10987 To require the Federal Energy Regulatory Commission to establish procedures by which 1 or more States may refer a public
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
+- H.R. 10988 To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use a
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10988 To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use a
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10989 To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid with
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10989 To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid with
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+
+FEDERAL REGISTER
+- Proposed Rule: Revision of Regulations for Planning, Programming, Budgeting
+  https://www.federalregister.gov/documents/2026/11/10/2026-22860/revision-of-regulations-for-planning-programming-budgeting
+- Notice: President's Council of Advisors on Science and Technology (PCAST)
+  https://www.federalregister.gov/documents/2026/11/10/2026-22918/presidents-council-of-advisors-on-science-and-technology-pcast
+- Notice: Notice of Effectiveness of Exempt Wholesale Generator Status
+  https://www.federalregister.gov/documents/2026/11/10/2026-22880/notice-of-effectiveness-of-exempt-wholesale-generator-status
+- Notice: Combined Notice of Filings #1
+  https://www.federalregister.gov/documents/2026/11/10/2026-22879/combined-notice-of-filings-1
+- Notice: ConocoPhillips Company; Notice of Institution of Section 206 Proceeding and Refund Effective Date
+  https://www.federalregister.gov/documents/2026/11/10/2026-22878/conocophillips-company-notice-of-institution-of-section-206-proceeding-and-refund-effective-date
+- Notice: Combined Notice of Filings
+  https://www.federalregister.gov/documents/2026/11/10/2026-22877/combined-notice-of-filings
+- Notice: SMR, LLC; Palisades SMR, LLC; Pioneer Units 1 and 2; Receipt of Construction Permit Application
+  https://www.federalregister.gov/documents/2026/11/10/2026-22884/smr-llc-palisades-smr-llc-pioneer-units-1-and-2-receipt-of-construction-permit-application
+- Notice: Biweekly Notice; Applications and Amendments to Facility Operating Licenses and Combined Licenses Involving No Significant Hazards Considerations
+  https://www.federalregister.gov/documents/2026/11/10/2026-22882/biweekly-notice-applications-and-amendments-to-facility-operating-licenses-and-combined-licenses
+- Notice: Sunshine Act Meetings
+  https://www.federalregister.gov/documents/2026/11/10/2026-22869/sunshine-act-meetings
+- Notice: Sunshine Act Meetings
+  https://www.federalregister.gov/documents/2026/11/10/2026-22858/sunshine-act-meetings

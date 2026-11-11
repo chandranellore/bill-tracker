@@ -1,0 +1,163 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9613 Engrossed in House (EH)]
+
+<DOC>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+119th CONGRESS
+  2d Session
+                                H. R. 9613
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+ To update the role of the Advisory Committee on Reactor Safeguards in 
+  the licensing and oversight of nuclear reactor facilities, and for 
+                            other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Nuclear Advisory Committee Reform 
+Act''.
+
+SEC. 2. ADVISORY COMMITTEE ON REACTOR SAFEGUARDS.
+
+    (a) In General.--Section 29 of the Atomic Energy Act of 1954 (42 
+U.S.C. 2039) is amended--
+            (1) by striking ``There is'' and inserting the following:
+    ``(a) Establishment.--There is'';
+            (2) by inserting ``(referred to in this section as the 
+        `Committee').'' after ``Reactor Safeguards'';
+            (3) by striking ``consisting of'' and all that follows; and
+            (4) by adding at the end the following:
+    ``(b) Membership.--The Committee shall consist of a maximum of 15 
+members, to be appointed by the Commission, who shall represent a 
+diverse background of technical expertise relevant to the mission of 
+the Commission.
+    ``(c) Terms.--
+            ``(1) In general.--Except as provided in paragraph (2), the 
+        Commission may appoint a member of the Committee for not more 
+        than 2 terms of 4 years each.
+            ``(2) Exception.--The Commission may appoint a member of 
+        the Committee for more than 2 terms if the Commission 
+        determines that there is a compelling need for the member's 
+        continued service.
+            ``(3) Applicability.--This subsection shall apply with 
+        respect to members appointed after the date of enactment of the 
+        Nuclear Advisory Committee Reform Act.
+    ``(d) Committee Actions.--The Committee shall--
+            ``(1) review safety studies and facility license 
+        applications referred to it and make reports thereon;
+            ``(2) advise the Commission with regard to--
+                    ``(A) the hazards of proposed or existing reactor 
+                facilities; and
+                    ``(B) the adequacy of proposed reactor safety 
+                standards; and
+            ``(3) perform such other duties as the Commission may 
+        request.
+    ``(e) Focus of Committee.--In taking an action pursuant to 
+paragraph (1), (2), or (3) of subsection (d), the Committee shall, to 
+the extent practicable, focus on issues that--
+            ``(1) directly relate to facility design;
+            ``(2) are safety significant;
+            ``(3) are unique, novel, or noteworthy; and
+            ``(4) have not been previously acted on by the Committee.
+    ``(f) Policies for Efficient and Timely Action.--The Commission 
+shall maintain and, if necessary, modify policies to ensure efficient 
+and timely action by the Committee, including efficient and timely 
+coordination between the Committee and staff of the Commission.
+    ``(g) Chairperson.--The Commission shall designate 1 member of the 
+Committee as the Chairperson of the Committee.
+    ``(h) Per Diem.--The members of the Committee shall receive--
+            ``(1) a per diem compensation for each day spent in 
+        meetings, conferences, or other work of the Committee; and
+            ``(2) compensation for necessary traveling or other 
+        expenses while engaged in the work of the Committee.
+    ``(i) Applicability.--Section 163 shall apply to the Committee.''.
+    (b) License Application Review.--Section 182 b. of the Atomic 
+Energy Act of 1954 (42 U.S.C. 2232(b)) is amended--
+            (1) by striking ``The Advisory Committee on Reactor 
+        Safeguards'' and inserting ``(1) Except as provided in 
+        paragraph (2), the Advisory Committee on Reactor Safeguards''; 
+        and
+            (2) by adding at the end the following:
+    ``(2) The Advisory Committee on Reactor Safeguards may decline to 
+review an application referenced in paragraph (1) if it determines that 
+such application does not--
+            ``(A) contain issues that are unique, novel, or noteworthy; 
+        or
+            ``(B) raise issues that warrant review by the Advisory 
+        Committee on Reactor Safeguards.''.
+    (c) Conforming Amendments.--
+            (1) Advisory committees.--Section 163 of the Atomic Energy 
+        Act of 1954 (42 U.S.C. 2203) is amended--
+                    (A) by striking ``members of the General Advisory 
+                committee established pursuant to section 26 and the''; 
+                and
+                    (B) by striking ``sections 281, 283, or 284'' and 
+                inserting ``sections 203, 205, or 207''.
+            (2) Temporary operating license.--Section 192 a. of the 
+        Atomic Energy Act of 1954 (42 U.S.C. 2242(a)) is amended--
+                    (A) by striking ``Safeguards required by section 
+                182 b.;'' and inserting ``Safeguards submitted under 
+                section 182 b. (if applicable);''; and
+                    (B) by striking ``and the Nuclear Regulatory 
+                Commission staff's first supplement to the report 
+                prepared in response to the report of the Advisory 
+                Committee on Reactor Safeguards for the facility'' and 
+                inserting ``, and the Nuclear Regulatory Commission 
+                staff's first supplement to the report prepared in 
+                response to the report of the Advisory Committee on 
+                Reactor Safeguards for the facility (if applicable)''.
+
+            Passed the House of Representatives November 9, 2026.
+
+            Attest:
+
+                                                                 Clerk.
+119th CONGRESS
+
+  2d Session
+
+                               H. R. 9613
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+ To update the role of the Advisory Committee on Reactor Safeguards in 
+  the licensing and oversight of nuclear reactor facilities, and for 
+                            other purposes.

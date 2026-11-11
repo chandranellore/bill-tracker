@@ -1,0 +1,87 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 1703 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 1703
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 21, 2026
+
+      Received; read twice and referred to the Committee on Finance
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+  To amend title XVIII of the Social Security Act to clarify payment 
+   rules for manual wheelchairs under part B of the Medicare program.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Choices for Increased Mobility Act 
+of 2026''.
+
+SEC. 2. SPECIAL RULES RELATED TO TREATMENT OF CERTAIN MANUAL 
+              WHEELCHAIRS UNDER THE MEDICARE PROGRAM.
+
+    Section 1834(a) of the Social Security Act (42 U.S.C. 1395m(a)) is 
+amended by adding at the end the following new paragraph:
+            ``(24) Special rules related to treatment of certain manual 
+        wheelchairs.--
+                    ``(A) Requirement to establish separate hcpcs codes 
+                for certain manual wheelchairs.--With respect to 
+                ultralightweight manual wheelchairs payable under this 
+                subsection furnished on or after January 1, 2028, the 
+                Secretary shall establish two or more HCPCS codes, as 
+                determined appropriate by the Secretary, for the base 
+                of such a wheelchair depending on the construction 
+                material used in such base (with 1 or more such codes 
+                for such a base with titanium or carbon fiber 
+                construction material and 1 or more such codes for such 
+                a base without such materials).
+                    ``(B) Payment and beneficiary protections.--
+                            ``(i) Payment.--On or after January 1, 
+                        2028, in the case where an individual purchases 
+                        or rents from a supplier an ultralightweight 
+                        manual wheelchair that has titanium or carbon 
+                        fiber construction material used in the base of 
+                        such wheelchair, payment to the supplier shall 
+                        be made in the frequency and amount as would 
+                        otherwise be made under this subsection (as 
+                        described in paragraph (1)(A)) for such 
+                        wheelchair.
+                            ``(ii) Beneficiary charges.--The supplier 
+                        may charge the individual the difference 
+                        between the supplier's actual charge for such 
+                        wheelchair and the payment amount described in 
+                        clause (i) for such wheelchair.
+                            ``(iii) Beneficiary protections.--In order 
+                        to inform an individual of the individual's 
+                        potential financial liability under clause 
+                        (ii), the Secretary may require a supplier to 
+                        issue a notice to the individual (in a form and 
+                        manner determined by the Secretary) prior to 
+                        the purchase or rental of such ultralightweight 
+                        manual wheelchair by such individual.''.
+
+            Passed the House of Representatives July 20, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

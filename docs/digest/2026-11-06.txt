@@ -22,18 +22,18 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-871.
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-05: Placed on the Union Calendar, Calendar No. 771.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-05: Placed on the Union Calendar, Calendar No. 774.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-877.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 771.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
 - H.R. 5549 Efficient Nuclear Licensing Hearings Act
   2026-11-05: Placed on the Union Calendar, Calendar No. 769.
   https://chandranellore.github.io/bill-tracker/#/bill/hr5549
