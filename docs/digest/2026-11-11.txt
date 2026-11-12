@@ -2,12 +2,7 @@ JAYANAS Bill Tracker daily digest, Wednesday, November 11, 2026
 Official actions dated 2026-11-10 to 2026-11-10
 
 BUDGET AND APPROPRIATIONS
-- H.R. 10974 To rescind appropriations provided to U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection by
-  2026-11-10: Referred to the Committee on the Judiciary, and in addition to the Committees on Ways and Means, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall wit
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10974
-- H.R. 10974 To rescind appropriations provided to U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection by
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10974
+  No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
 - S. 3923 Weather Research and Forecasting Innovation Reauthorization Act of 2026
@@ -30,6 +25,24 @@ ROLL-CALL VOTES
 - Senate: On the Motion to Proceed: HR2347 Motion to Proceed Agreed to (62-21)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 10988 Lower Electricity Bills Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10988 Lower Electricity Bills Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10987 Local Transmission Accountability Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
+- H.R. 10987 Local Transmission Accountability Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-10: Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
@@ -42,24 +55,6 @@ ENERGY AND MINERALS LEGISLATION
 - S. 5711 A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out 
   2026-11-10: Introduced in Senate
   https://chandranellore.github.io/bill-tracker/#/bill/s5711
-- H.R. 10987 To require the Federal Energy Regulatory Commission to establish procedures by which 1 or more States may refer a public
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
-- H.R. 10987 To require the Federal Energy Regulatory Commission to establish procedures by which 1 or more States may refer a public
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
-- H.R. 10988 To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use a
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
-- H.R. 10988 To amend the Federal Power Act to direct the Federal Energy Regulatory Commission to require that public utilities use a
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
-- H.R. 10989 To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid with
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 10989 To amend the Federal Power Act to provide that activities to maintain or increase the capacity of the electric grid with
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
 
 FEDERAL REGISTER
 - Proposed Rule: Revision of Regulations for Planning, Programming, Budgeting

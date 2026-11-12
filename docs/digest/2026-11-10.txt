@@ -20,15 +20,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 9614 NRC Staff Pay Alignment Act
   2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6104)
   https://chandranellore.github.io/bill-tracker/#/bill/hr9614
-- H.R. 9612 American Enrichment Deployment Act
-  2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
-- H.R. 9612 American Enrichment Deployment Act
-  2026-11-09: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316). (text: CR H6100-6101)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
-- H.R. 9612 American Enrichment Deployment Act
-  2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316). (text: CR H6100-6101)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
@@ -38,6 +29,15 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315). (text: CR H6096)
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
+- H.R. 9612 American Enrichment Deployment Act
+  2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
+- H.R. 9612 American Enrichment Deployment Act
+  2026-11-09: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316). (text: CR H6100-6101)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
+- H.R. 9612 American Enrichment Deployment Act
+  2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316). (text: CR H6100-6101)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9612
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
@@ -66,6 +66,30 @@ ROLL-CALL VOTES
 - Senate: On Cloture on the Motion to Proceed: HR2347 Cloture on the Motion to Proceed Agreed to (73-25)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-09: Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill, as amended.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 5549.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: Considered under suspension of the rules. (consideration: CR H6097-6099; text: CR H6097)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
@@ -108,30 +132,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-09: Mr. Latta moved to suspend the rules and pass the bill, as amended.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-09: Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill, as amended.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 5549.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: Considered under suspension of the rules. (consideration: CR H6097-6099; text: CR H6097)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 
 FEDERAL REGISTER
 - Proposed Rule: Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion

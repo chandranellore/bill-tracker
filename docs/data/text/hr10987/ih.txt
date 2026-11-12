@@ -1,0 +1,172 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10987 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10987
+
+   To require the Federal Energy Regulatory Commission to establish 
+procedures by which 1 or more States may refer a public utility for an 
+                 investigation, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 10, 2026
+
+ Mr. Vindman introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To require the Federal Energy Regulatory Commission to establish 
+procedures by which 1 or more States may refer a public utility for an 
+                 investigation, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Local Transmission Accountability 
+Act''.
+
+SEC. 2. IMPROVEMENTS RELATING TO LOCAL TRANSMISSION PLANNING AND 
+              DEVELOPMENT.
+
+    Part II of the Federal Power Act (16 U.S.C. 824 et seq.) is amended 
+by adding at the end the following:
+
+``SEC. 224. OVERSIGHT OF LOCAL TRANSMISSION PLANNING AND DEVELOPMENT.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Commission.--The term `Commission' means the Federal 
+        Energy Regulatory Commission.
+            ``(2) Local transmission facility.--The term `local 
+        transmission facility' means an electric transmission 
+        facility--
+                    ``(A) that is located entirely within the service 
+                territory of a single public utility; and
+                    ``(B) the cost of which is recovered entirely from 
+                transmission customers within that service territory.
+            ``(3) Referring state.--The term `referring State' means 1 
+        or more States making a referral under subsection (b).
+            ``(4) Regional transmission facility.--The term `regional 
+        transmission facility' means an electric transmission facility 
+        the cost of which is recovered from transmission customers 
+        located within more than 1 service territory but within a 
+        single transmission planning region.
+            ``(5) Transmission planning region.--The term `transmission 
+        planning region' means a region for which the Commission 
+        determines that electric transmission planning is appropriate, 
+        such as a region established in accordance with Order No. 1000 
+        of the Commission, entitled `Transmission Planning and Cost 
+        Allocation by Transmission Owning and Operating Public 
+        Utilities' (76 Fed. Reg. 49842 (August 11, 2011)).
+    ``(b) State Referral Authority.--
+            ``(1) In general.--Not later than 1 year after the date of 
+        enactment of this section, the Commission shall, by rule, 
+        establish procedures by which 1 or more States may refer a 
+        public utility to the Commission for an investigation into the 
+        processes used by the public utility for planning and 
+        developing local transmission facilities.
+            ``(2) Requirements.--A referral under paragraph (1) shall 
+        include, at a minimum--
+                    ``(A) a description of the 1 or more processes used 
+                by the public utility for local transmission planning 
+                and development about which the referring State is 
+                concerned;
+                    ``(B) a description of the harm that those 
+                processes may be causing to wholesale or retail 
+                electric customers within the referring State; and
+                    ``(C) a description of the efforts that the 
+                referring State has taken to resolve its concerns about 
+                the identified local transmission planning and 
+                development processes prior to referral to the 
+                Commission.
+    ``(c) Commission Action To Exercise Oversight of Local Transmission 
+Planning and Development.--
+            ``(1) In general.--On receipt of a referral under 
+        subsection (b) from a referring State, the Commission shall--
+                    ``(A) notice for initial public comment the 
+                initiation of an investigation; and
+                    ``(B) concurrently with that notice, certify an 
+                investigative team to be composed of--
+                            ``(i) 1 or more individuals from the Office 
+                        of Enforcement and Regulatory Accounting of the 
+                        Commission; and
+                            ``(ii) up to 3 representatives appointed by 
+                        the referring State.
+            ``(2) Authority of investigative team.--An investigative 
+        team certified under paragraph (1)(B) shall have all 
+        investigative authorities that would be available to the 
+        Commission or Commission staff in proceedings under or relating 
+        to the authority of the Commission under section 222.
+            ``(3) Preliminary findings report.--If an investigative 
+        team certified under paragraph (1)(B) concludes that the 
+        processes used by a public utility for planning and developing 
+        local transmission facilities are not resulting in the 
+        selection of the more efficient or cost-effective local 
+        transmission facilities or that those processes are interfering 
+        with the processes of the relevant transmission planning region 
+        for planning and developing regional transmission facilities, 
+        the investigative team shall issue a preliminary findings 
+        report to the Commission explaining that conclusion and 
+        recommending a remedy.
+            ``(4) Commission response to report.--
+                    ``(A) Notice and comment.--On receipt of a 
+                preliminary findings report under paragraph (3), the 
+                Commission shall notice the report for comment.
+                    ``(B) Order.--After reviewing the record, including 
+                any comments received under subparagraph (A), the 
+                Commission shall issue an order taking any such action 
+                as would be available to the Commission in a proceeding 
+                under section 222 that the Commission determines to be 
+                appropriate, which may include 1 or more of the 
+                following remedies:
+                            ``(i) Requiring changes to the processes 
+                        used by the applicable public utility for 
+                        planning local transmission facilities.
+                            ``(ii) Reducing the return on equity of the 
+                        public utility with respect to local 
+                        transmission facilities.
+                            ``(iii) Eliminating the presumption of 
+                        prudence for local transmission facilities 
+                        planned or developed by the public utility.
+                            ``(iv) A fine, payable to the referring 
+                        State, of up to $5,000,000 for each local 
+                        transmission facility--
+                                    ``(I) that was developed or 
+                                energized during the period beginning 
+                                60 days before the referral under 
+                                subsection (b) and ending on the date 
+                                on which the order under this 
+                                subparagraph is issued; and
+                                    ``(II) the development or 
+                                energizing of which the Commissions 
+                                determines--
+                                            ``(aa) was imprudent; and
+                                            ``(bb) caused financial 
+                                        harm to wholesale or retail 
+                                        electric customers within the 
+                                        referring State.
+                            ``(v) Any other appropriate remedy.
+    ``(d) Savings Provision.--Nothing in this section limits or impairs 
+any authority of the Commission under any other provision of law.''.
+                                 <all>

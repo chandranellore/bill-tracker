@@ -1,0 +1,151 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10989 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10989
+
+ To amend the Federal Power Act to provide that activities to maintain 
+or increase the capacity of the electric grid within certain areas are 
+ a category of actions designated as being categorically excluded from 
+  the preparation of an environmental assessment or an environmental 
+ impact statement under the National Environmental Policy Act of 1969, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 10, 2026
+
+ Mr. Vindman introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To amend the Federal Power Act to provide that activities to maintain 
+or increase the capacity of the electric grid within certain areas are 
+ a category of actions designated as being categorically excluded from 
+  the preparation of an environmental assessment or an environmental 
+ impact statement under the National Environmental Policy Act of 1969, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Smart Transmission Line Placement 
+Act''.
+
+SEC. 2. CATEGORICAL EXCLUSION FOR RECONDUCTORING.
+
+    The Federal Power Act is amended by inserting after section 216 (16 
+U.S.C. 824p) the following:
+
+``SEC. 216A. GRID CAPACITY EXPANSION IN EXISTING RIGHTS-OF-WAY.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Applicable electrical standard.--The term `applicable 
+        electrical standard' includes--
+                    ``(A) a reliability standard (as defined in section 
+                215(a)); and
+                    ``(B) an applicable standard of the National 
+                Electrical Safety Code published by the Institute of 
+                Electrical and Electronics Engineers Standards 
+                Association.
+            ``(2) Covered area.--The term `covered area' means an 
+        area--
+                    ``(A) within an existing right-of-way; or
+                    ``(B) within the minimum additional area adjacent 
+                to an existing right-of-way that is necessary--
+                            ``(i) to comply with applicable electrical 
+                        standards; or
+                            ``(ii) to complete an activity described in 
+                        subsection (b).
+            ``(3) Covered facility.--The term `covered facility' means 
+        an existing electric transmission or distribution facility or 
+        associated infrastructure (including an electrical substation) 
+        that is located within a covered area.
+    ``(b) Exemptions.--
+            ``(1) In general.--Activities to maintain or increase the 
+        capacity of the electric grid within a covered area, and any 
+        Federal agency action authorizing such activities--
+                    ``(A) are a category of actions designated as being 
+                categorically excluded from the preparation of an 
+                environmental assessment or an environmental impact 
+                statement under the National Environmental Policy Act 
+                of 1969 (42 U.S.C. 4321 et seq.); and
+                    ``(B) shall not be considered to be--
+                            ``(i) a major Federal action for purposes 
+                        of that Act; or
+                            ``(ii) an undertaking for purposes of 
+                        section 306108 of title 54, United States Code.
+            ``(2) Inclusions.--The activities described in paragraph 
+        (1) include--
+                    ``(A) any repair, maintenance, replacement, 
+                upgrade, rebuilding, modification, optimization, minor 
+                relocation of, or addition to, a covered facility, 
+                including--
+                            ``(i) reconductoring;
+                            ``(ii) an increase in operating voltage;
+                            ``(iii) a circuit addition or adjustment; 
+                        and
+                            ``(iv) installation of advanced 
+                        transmission technologies (as defined in 
+                        section 1223(a) of the Energy Policy Act of 
+                        2005 (42 U.S.C. 16422(a)));
+                    ``(B) any minimum widening of an existing right-of-
+                way associated with an activity described in 
+                subparagraph (A) that--
+                            ``(i) is necessary to comply with 
+                        applicable electrical standards; or
+                            ``(ii) remains within a covered area;
+                    ``(C) an addition of energy storage at or near a 
+                covered facility; and
+                    ``(D) the addition of a parallel circuit within an 
+                existing right-of-way.''.
+
+SEC. 3. ELECTRIC GRID PROJECTS.
+
+    (a) Definition of Previously Disturbed or Developed.--In this 
+section, the term ``previously disturbed or developed'' has the meaning 
+given the term in section 1021.410(g)(1) of title 10, Code of Federal 
+Regulations (or successor regulations).
+    (b) Rulemaking.--Not later than 180 days after the date of 
+enactment of this Act, to facilitate timely permitting, the Secretary 
+of the Interior and the Secretary of Agriculture shall each develop or 
+adopt 1 or more categorical exclusions, including allowing for 
+extraordinary circumstances under which the categorical exclusion shall 
+not be available, under the National Environmental Policy Act of 1969 
+(42 U.S.C. 4321 et seq.) for the following activities:
+            (1) Placement of an electric transmission or distribution 
+        facility in an approved right-of-way corridor, including a 
+        corridor designated under section 368 of the Energy Policy Act 
+        of 2005 (42 U.S.C. 15926).
+            (2) Any repair, maintenance, replacement, upgrade, 
+        modification, optimization, or minor relocation of, or addition 
+        to, an existing electric transmission or distribution facility 
+        or associated infrastructure, including electrical substations, 
+        within an existing right-of-way or on otherwise previously 
+        disturbed or developed land, including reconductoring and 
+        installation of grid-enhancing technologies.
+            (3) Construction, operation, upgrade, or decommissioning of 
+        a battery or other energy storage technology on previously 
+        disturbed or developed land.
+                                 <all>
