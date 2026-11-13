@@ -1,0 +1,104 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9614 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 9614
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 10, 2026
+
+Received; read twice and referred to the Committee on Homeland Security 
+                        and Governmental Affairs
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To amend the Atomic Energy Act of 1954 to provide compensation 
+    authority for certain career appointees, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``NRC Staff Pay Alignment Act''.
+
+SEC. 2. COMPENSATION AUTHORITY FOR CAREER APPOINTEES.
+
+    (a) In General.--Section 161B of the Atomic Energy Act of 1954 (42 
+U.S.C. 2201b) is amended--
+            (1) by redesignating subsections (d) through (h) as 
+        subsections (e) through (i), respectively;
+            (2) by inserting after subsection (c) the following:
+    ``(d) Compensation Authority for Career Appointees.--
+            ``(1) In general.--Notwithstanding any other provision of 
+        law, the Chairman may fix the compensation of a career 
+        appointee at an annual rate of basic pay that is not greater 
+        than 110 percent of the maximum annual rate of basic pay for 
+        Senior Executive Service positions within the Commission 
+        established under section 5382 of title 5, United States Code.
+            ``(2) Applicability.--The authority to fix the compensation 
+        of a career appointee under paragraph (1) shall apply 
+        regardless of when the career appointee was appointed.
+            ``(3) Effect on certain certification.--The exercise of the 
+        authority to fix the compensation of a career appointee under 
+        paragraph (1) may not affect the certification of any 
+        performance appraisal system of the Commission under section 
+        5307(d) of title 5, United States Code.
+            ``(4) Career appointee defined.--In this subsection, the 
+        term `career appointee' has the meaning given such term in 
+        section 3132(a) of title 5, United States Code.'';
+            (3) in subsection (g) (as so redesignated), in paragraph 
+        (2)(C)--
+                    (A) in clause (ii)--
+                            (i) in each of subclauses (I) and (III), by 
+                        striking ``subsection (g)(1)'' each place it 
+                        appears and inserting ``subsection (h)(1)''; 
+                        and
+                            (ii) in each of subclauses (II) and (IV), 
+                        by striking ``subsection (g)(2)'' each place it 
+                        appears and inserting ``subsection (h)(2)'';
+                    (B) in clause (iv), by striking ``and'' at the end;
+                    (C) by redesignating clause (v) as clause (vi); and
+                    (D) by inserting after clause (iv) the following:
+                            ``(v) the total number of career appointees 
+                        that have their compensation fixed pursuant to 
+                        subsection (d); and''; and
+            (4) in subsection (i) (as so redesignated)--
+                    (A) in each of paragraphs (1) and (3), by striking 
+                ``subsections (a) and (b)'' each place it appears and 
+                inserting ``subsections (a), (b), and (d)'';
+                    (B) in paragraph (2), by striking ``or both 
+                subsections'' and inserting ``subsection (d), or any 
+                combination of those subsections''; and
+                    (C) in paragraph (3)--
+                            (i) by inserting ``, or a career 
+                        appointee,'' after ``compensation of an 
+                        employee or other personnel serving in a 
+                        covered position''; and
+                            (ii) by striking ``subsection (a) or (b)'' 
+                        and inserting ``subsection (a), (b), or (d)''.
+    (b) Conforming Amendment Relating to Government Accountability 
+Office Report.--Section 502(b) of the ADVANCE Act of 2024 is amended by 
+striking ``subsections (a), (b), and (c)'' each place it appears and 
+inserting ``subsections (a), (b), (c), and (d)''.
+
+            Passed the House of Representatives November 9, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

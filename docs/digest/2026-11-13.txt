@@ -1,0 +1,116 @@
+JAYANAS Bill Tracker daily digest, Friday, November 13, 2026
+Official actions dated 2026-11-12 to 2026-11-12
+
+BUDGET AND APPROPRIATIONS
+  No new action.
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 10167 Common Cents Act
+  2026-11-12: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10167
+- H.R. 5284 Claiming Age Clarity Act
+  2026-11-12: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5284
+- H.R. 1550 Strengthening America’s Turning Point Act
+  2026-11-12: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1550
+- S. 2887 Route 66 National Historic Trail Designation Act
+  2026-11-12: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s2887
+- H.R. 2102 Major Richard Star Act
+  2026-11-12: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2102
+- H.R. 2102 Major Richard Star Act
+  2026-11-12: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2102
+- H.R. 2102 Major Richard Star Act
+  2026-11-12: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2102
+- S. 1353 A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.
+  2026-11-12: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s1353
+- S. 3493 Carson City Public Land Correction Act
+  2026-11-12: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s3493
+
+ROLL-CALL VOTES
+- House: On Passage: H R 2102 Passed (392-18)
+- House: On Agreeing to the Resolution: H RES 1247 Passed (271-135)
+
+ENERGY AND MINERALS LEGISLATION
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 11015 To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce t
+  2026-11-12: Referred to the House Committee on Education and Workforce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11015
+- H.R. 11015 To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce t
+  2026-11-12: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11015
+- H.R. 11023 To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for 
+  2026-11-12: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11023
+- H.R. 11023 To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for 
+  2026-11-12: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11023
+- H.R. 11012 To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant 
+  2026-11-12: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall withi
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11012
+- H.R. 11012 To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant 
+  2026-11-12: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11012
+
+FEDERAL REGISTER
+- Rule: AP1000 Design Certification Renewal
+  https://www.federalregister.gov/documents/2026/11/12/C1-2026-21030/ap1000-design-certification-renewal
+- Proposed Rule: Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12
+  https://www.federalregister.gov/documents/2026/11/12/2026-23020/coral-coral-reefs-and-livehardbottom-habitats-of-the-south-atlantic-and-the-shrimp-fishery-of-the
+- Proposed Rule: Respirable Crystalline Silica and Respiratory Protection
+  https://www.federalregister.gov/documents/2026/11/12/2026-23048/respirable-crystalline-silica-and-respiratory-protection
+- Notice: Direct Sale of Public Land for Affordable Housing Purposes in Clark County, Nevada
+  https://www.federalregister.gov/documents/2026/11/12/2026-23080/direct-sale-of-public-land-for-affordable-housing-purposes-in-clark-county-nevada
+- Notice: Notice of Inventory Completion: Auburn University at Montgomery, Montgomery, AL
+  https://www.federalregister.gov/documents/2026/11/12/2026-23001/notice-of-inventory-completion-auburn-university-at-montgomery-montgomery-al
+- Notice: Notice of Inventory Completion: William S. Webb Museum of Anthropology, University of Kentucky, Lexington, KY, and U.S. Department of Agriculture, Forest Service, Daniel Boone Nati
+  https://www.federalregister.gov/documents/2026/11/12/2026-23000/notice-of-inventory-completion-william-s-webb-museum-of-anthropology-university-of-kentucky
+- Notice: Notice of Intended Repatriation: Gregg Museum of Art & Design, Raleigh, NC
+  https://www.federalregister.gov/documents/2026/11/12/2026-22999/notice-of-intended-repatriation-gregg-museum-of-art-and-design-raleigh-nc
+- Notice: Notice of Inventory Completion: William S. Webb Museum of Anthropology, University of Kentucky, Lexington, KY
+  https://www.federalregister.gov/documents/2026/11/12/2026-22998/notice-of-inventory-completion-william-s-webb-museum-of-anthropology-university-of-kentucky
+- Notice: Notice of Inventory Completion: Auburn University at Montgomery, Montgomery, AL
+  https://www.federalregister.gov/documents/2026/11/12/2026-22995/notice-of-inventory-completion-auburn-university-at-montgomery-montgomery-al
+- Notice: Notice of Intended Repatriation: William S. Webb Museum of Anthropology, University of Kentucky, Lexington, KY
+  https://www.federalregister.gov/documents/2026/11/12/2026-22994/notice-of-intended-repatriation-william-s-webb-museum-of-anthropology-university-of-kentucky
+- Notice: Notice of Intended Repatriation: Eiteljorg Museum of American Indian and Western Art, Indianapolis, IN
+  https://www.federalregister.gov/documents/2026/11/12/2026-22993/notice-of-intended-repatriation-eiteljorg-museum-of-american-indian-and-western-art-indianapolis-in
+- Notice: Notice of Inventory Completion: Auburn University at Montgomery, Montgomery, AL
+  https://www.federalregister.gov/documents/2026/11/12/2026-22991/notice-of-inventory-completion-auburn-university-at-montgomery-montgomery-al
+- Notice: Notice of Inventory Completion: Indiana State University, Terre Haute, IN
+  https://www.federalregister.gov/documents/2026/11/12/2026-22990/notice-of-inventory-completion-indiana-state-university-terre-haute-in
+- Notice: Notice of Intended Repatriation: University of Illinois Urbana-Champaign, Champaign, IL
+  https://www.federalregister.gov/documents/2026/11/12/2026-22988/notice-of-intended-repatriation-university-of-illinois-urbana-champaign-champaign-il
+- Notice: Notice of Inventory Completion: San Bernardino County Museum, Redlands, CA
+  https://www.federalregister.gov/documents/2026/11/12/2026-22987/notice-of-inventory-completion-san-bernardino-county-museum-redlands-ca
+- Notice: Notice of Intended Repatriation: Longyear Museum of Anthropology, Colgate University, Hamilton, NY
+  https://www.federalregister.gov/documents/2026/11/12/2026-22986/notice-of-intended-repatriation-longyear-museum-of-anthropology-colgate-university-hamilton-ny
+- Notice: Notice of Inventory Completion: Verde Valley Archaeology Center and Museum, Camp Verde, AZ
+  https://www.federalregister.gov/documents/2026/11/12/2026-22985/notice-of-inventory-completion-verde-valley-archaeology-center-and-museum-camp-verde-az
+- Notice: Notice of Inventory Completion: U.S. Department of Agriculture, Forest Service, Fremont-Winema National Forest, Lakeview, OR
+  https://www.federalregister.gov/documents/2026/11/12/2026-22984/notice-of-inventory-completion-us-department-of-agriculture-forest-service-fremont-winema-national
+- Notice: Notice of Inventory Completion: University of Texas at San Antonio Center for Archaeological Research, San Antonio, TX
+  https://www.federalregister.gov/documents/2026/11/12/2026-22983/notice-of-inventory-completion-university-of-texas-at-san-antonio-center-for-archaeological-research
+- Notice: Notice of Inventory Completion: University of Texas at San Antonio Center for Archaeological Research, San Antonio, TX
+  https://www.federalregister.gov/documents/2026/11/12/2026-22982/notice-of-inventory-completion-university-of-texas-at-san-antonio-center-for-archaeological-research
+- Notice: Notice of Intended Repatriation: Sonoma State University, Rohnert Park, CA
+  https://www.federalregister.gov/documents/2026/11/12/2026-22981/notice-of-intended-repatriation-sonoma-state-university-rohnert-park-ca
+- Notice: Notice of Inventory Completion: Antelope Valley College, Lancaster, CA
+  https://www.federalregister.gov/documents/2026/11/12/2026-22980/notice-of-inventory-completion-antelope-valley-college-lancaster-ca
+- Notice: Notice of Inventory Completion: U.S. Department of the Interior, Bureau of Land Management, Alaska State Office, Anchorage, AK
+  https://www.federalregister.gov/documents/2026/11/12/2026-22979/notice-of-inventory-completion-us-department-of-the-interior-bureau-of-land-management-alaska-state
+- Notice: Notice of Intended Repatriation: Gregg Museum of Art & Design, Raleigh, NC
+  https://www.federalregister.gov/documents/2026/11/12/2026-22978/notice-of-intended-repatriation-gregg-museum-of-art-and-design-raleigh-nc
+- Notice: Notice of Inventory Completion: Verde Valley Archaeology Center and Museum, Campe Verde, AZ, and Museum of Northern Arizona, Flagstaff, AZ
+  https://www.federalregister.gov/documents/2026/11/12/2026-22977/notice-of-inventory-completion-verde-valley-archaeology-center-and-museum-campe-verde-az-and-museum

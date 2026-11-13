@@ -5,18 +5,27 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- S. 3923 Weather Research and Forecasting Innovation Reauthorization Act of 2026
-  2026-11-10: Passed Senate with an amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/s3923
-- S. 2434 A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heri
-  2026-11-10: Passed Senate without amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/s2434
-- S. 3720 Bay Area Ridge National Scenic Trail Feasibility Study Act
-  2026-11-10: Passed Senate with an amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/s3720
+- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr997
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 1945 America's National Churchill Museum National Historic Landmark Act
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1945
+- H.R. 1703 Choices for Increased Mobility Act of 2026
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
 - H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
-  2026-11-10: Passed Senate without amendment by Unanimous Consent.
+  2026-11-10: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5525)
   https://chandranellore.github.io/bill-tracker/#/bill/hr4930
+- H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
+  2026-11-10: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4930
+- H.R. 2347 Survivor Justice Tax Prevention Act
+  2026-11-10: Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 62 - 21. Record Vote Number: 258. (CR S5383-5393)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
 
 ROLL-CALL VOTES
 - House: On Agreeing to the Resolution: H RES 1650 Passed (215-209)
@@ -25,36 +34,30 @@ ROLL-CALL VOTES
 - Senate: On the Motion to Proceed: HR2347 Motion to Proceed Agreed to (62-21)
 
 ENERGY AND MINERALS LEGISLATION
-- H.R. 10988 Lower Electricity Bills Act
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
-- H.R. 10988 Lower Electricity Bills Act
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 10987 Local Transmission Accountability Act
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
-- H.R. 10987 Local Transmission Accountability Act
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
-- H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
-  2026-11-10: Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr3978
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
-- S. 5711 A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out 
-  2026-11-10: Read twice and referred to the Committee on Environment and Public Works.
-  https://chandranellore.github.io/bill-tracker/#/bill/s5711
-- S. 5711 A bill to allow the Secretary of the Interior to enter into contracts or agreements with eligible entities to carry out 
-  2026-11-10: Introduced in Senate
-  https://chandranellore.github.io/bill-tracker/#/bill/s5711
+- H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
+  2026-11-10: Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr3978
+- H.R. 10988 Lower Electricity Bills Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10988 Lower Electricity Bills Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10988
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10987 Local Transmission Accountability Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
+- H.R. 10987 Local Transmission Accountability Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10987
 
 FEDERAL REGISTER
 - Proposed Rule: Revision of Regulations for Planning, Programming, Budgeting

@@ -1,0 +1,82 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9612 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 9612
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 10, 2026
+
+ Received; read twice and referred to the Committee on Environment and 
+                              Public Works
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To amend the Atomic Energy Act of 1954 to update the licensing 
+procedures for uranium enrichment facilities to enable the timely, safe 
+         deployment of such facilities, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Enrichment Deployment 
+Act''.
+
+SEC. 2. LICENSING OF URANIUM ENRICHMENT FACILITIES.
+
+    (a) In General.--Section 193 of the Atomic Energy Act of 1954 (42 
+U.S.C. 2243) is amended--
+            (1) by striking subsections (a) through (c) and inserting 
+        the following:
+    ``(a) At-risk Construction.--
+            ``(1) In general.--Construction of a uranium enrichment 
+        facility prior to the issuance of a license under sections 53 
+        and 63 for that facility shall be permitted under the same 
+        terms and conditions applicable to other fuel cycle facilities 
+        licensed under such sections.
+            ``(2) Rule of construction.--Paragraph (1) may not be 
+        construed to modify the licensing and regulatory authority of 
+        the Commission to issue a license under sections 53 and 63 for 
+        a uranium enrichment facility, including the authority to deny 
+        an application for such a license for the failure of an 
+        applicant to meet regulatory requirements.''; and
+            (2) by redesignating subsections (d) through (f) as 
+        subsections (b) through (d), respectively.
+    (b) Regulations Required.--Not later than 180 days after the date 
+of enactment of this Act, the Nuclear Regulatory Commission shall issue 
+or revise regulations to carry out this Act and the amendments made by 
+this Act.
+    (c) Rule of Construction.--None of the amendments made by this Act 
+shall be construed to affect--
+            (1) the applicability of the National Environmental Policy 
+        Act of 1969 (42 U.S.C. 4321 et seq.) to the issuance of a 
+        license under section 53 or 63 of the Atomic Energy Act of 1954 
+        (42 U.S.C. 2073 or 2093) for a uranium enrichment facility;
+            (2) the right of any person whose interest may be affected 
+        by a proceeding under the Atomic Energy Act of 1954 (42 U.S.C. 
+        2011 et seq.) to a hearing under section 189 of such Act; or
+            (3) the authority of the Nuclear Regulatory Commission to 
+        conduct inspections of uranium enrichment facilities.
+
+            Passed the House of Representatives November 9, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.
