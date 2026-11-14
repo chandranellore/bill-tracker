@@ -1,0 +1,106 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 9084 Referred in Senate (RFS)]
+
+<DOC>
+119th CONGRESS
+  2d Session
+                                H. R. 9084
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                           November 12, 2026
+
+    Received; read twice and referred to the Committee on Energy and 
+                           Natural Resources
+
+_______________________________________________________________________
+
+                                 AN ACT
+
+
+ 
+    To increase transparency relating to the Department of Energy's 
+             authorizations of certain nuclear facilities.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Department of Energy Nuclear 
+Transparency Act''.
+
+SEC. 2. PUBLIC ANNOUNCEMENT REQUIREMENTS FOR DEPARTMENT OF ENERGY 
+              ACTIONS RELATING TO CERTAIN NUCLEAR FACILITIES.
+
+    (a) Alterations to Directives and Safety Standards.--
+            (1) Public announcement.--Not later than 72 hours after 
+        altering a directive or safety standard relating to covered DOE 
+        nuclear facilities, the Secretary of Energy shall post, on a 
+        publicly accessible website of the Department of Energy, an 
+        announcement regarding such alteration.
+            (2) Inclusion.--Each announcement under paragraph (1) shall 
+        include a summary of how the relevant directive or safety 
+        standard was altered.
+    (b) Documented Safety Analysis.--
+            (1) Public announcement.--Not later than 72 hours after 
+        issuing any preliminary documented safety analysis or 
+        documented safety analysis with respect to a covered DOE 
+        nuclear facility, the Secretary of Energy shall post, on a 
+        publicly accessible website of the Department of Energy, an 
+        announcement regarding the issuance of such preliminary 
+        documented safety analysis or documented safety analysis.
+            (2) Inclusion.--
+                    (A) Analysis.--Subject to subparagraph (B), each 
+                announcement under paragraph (1) shall include the 
+                relevant preliminary documented safety analysis or 
+                documented safety analysis.
+                    (B) Commercially sensitive or controlled 
+                information.--The Secretary of Energy may modify a 
+                preliminary documented safety analysis or documented 
+                safety analysis included in an announcement under 
+                paragraph (1) only to ensure that such preliminary 
+                documented safety analysis or documented safety 
+                analysis does not include any commercially sensitive 
+                information, classified information, unclassified 
+                controlled nuclear information, or controlled 
+                unclassified information.
+    (c) Authorizations.--Not later than 72 hours after entering into an 
+agreement to authorize a covered DOE nuclear facility, the Secretary of 
+Energy shall post, on a publicly accessible website of the Department 
+of Energy, an announcement regarding such agreement, including 
+information regarding any conditions applying to such agreement.
+    (d) Report.--Not later than January 31 of each year, the Secretary 
+of Energy shall submit to the Committee on Energy and Commerce of the 
+House of Representatives and the Committee on Energy and Natural 
+Resources of the Senate a report detailing any activities the Secretary 
+of Energy took to authorize covered DOE nuclear facilities during the 
+previous calendar year.
+    (e) Definitions.--In this section:
+            (1) Covered doe nuclear facility.--The term ``covered DOE 
+        nuclear facility'' means any of the Hazard Category 1, 2, and 3 
+        DOE nuclear facilities (as such term is defined in section 
+        830.3(a) of title 10, Code of Federal Regulations (as in effect 
+        on the date of enactment of this section)) that the Secretary 
+        of Energy holds authority over pursuant to section 110 a. of 
+        the Atomic Energy Act of 1954 (42 U.S.C. 2140(a)).
+            (2) Documented safety analysis; preliminary documented 
+        safety analysis.--The terms ``documented safety analysis'' and 
+        ``preliminary documented safety analysis'' have the meanings 
+        given such terms, respectively, in section 830.3(a) of title 
+        10, Code of Federal Regulations (as in effect on the date of 
+        enactment of this section).
+
+            Passed the House of Representatives November 11, 2026.
+
+            Attest:
+
+                                             KEVIN F. MCCUMBER,
+
+                                                                 Clerk.

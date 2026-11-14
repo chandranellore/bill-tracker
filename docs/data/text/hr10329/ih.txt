@@ -1,0 +1,152 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10329 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10329
+
+ To require the Administrator of the Small Business Administration to 
+    disseminate information on foreign adversary conduct that poses 
+   material harm to small business concerns, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 10, 2026
+
+    Mr. Williams of Texas (for himself and Mr. Tran) introduced the 
+ following bill; which was referred to the Committee on Small Business
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+ To require the Administrator of the Small Business Administration to 
+    disseminate information on foreign adversary conduct that poses 
+   material harm to small business concerns, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Combating Foreign Threats to Main 
+Street Act of 2026''.
+
+SEC. 2. INFORMATION DISSEMINATION ON FOREIGN ADVERSARY CONDUCT THAT 
+              POSES MATERIAL HARM TO SMALL BUSINESS CONCERNS.
+
+    (a) Educational Materials.--The Administrator of the Small Business 
+Administration, in consultation with the appropriate Federal agency 
+heads, shall develop and disseminate educational materials regarding 
+foreign adversary conduct that poses material harm to small business 
+concerns.
+    (b) Dissemination.--The Administrator shall make the educational 
+materials described in subsection (a) available through district 
+offices and other programs of the Administration.
+    (c) Contents.--The educational materials described in subsection 
+(a) shall, at a minimum--
+            (1) describe the nature of the foreign adversary conduct 
+        that poses material harm to small business concerns;
+            (2) describe how such conduct materially harms small 
+        business concerns;
+            (3) identify best practices for small business concerns to 
+        protect intellectual property, sensitive business information, 
+        and supply chains;
+            (4) provide guidance regarding cybersecurity and data 
+        protection for small business concerns;
+            (5) inform small business concerns of risks associated with 
+        foreign investment, joint ventures, licensing arrangements, and 
+        other commercial relationships involving entities owned or 
+        controlled by a foreign adversary or an additional covered 
+        entity;
+            (6) describe resources available from the Federal 
+        Government to help small business concerns identify, avoid, 
+        prevent, and address such conduct; and
+            (7) provide guidance on safeguarding business interests in 
+        foreign markets without unnecessarily restricting lawful 
+        commercial activity.
+    (d) Annual Review and Updates.--Beginning October 1, 2027, and 
+annually thereafter, the Administrator, in consultation with the 
+appropriate Federal agency heads, shall--
+            (1) review the educational materials described in 
+        subsection (a) to ensure such materials reflect emerging 
+        foreign adversary conduct that poses material harm to small 
+        business concerns, evolving tactics used by foreign 
+        adversaries, changes in applicable Federal law and policy, and 
+        current best practices for protecting small business concerns; 
+        and
+            (2) update such materials as necessary to remain accurate 
+        and up to date.
+    (e) Notice.--If, under subparagraph (F) of subsection (f)(6), the 
+Administrator determines, in consultation with the appropriate Federal 
+agency heads, that an activity poses a significant risk to the economic 
+or national security interests of the United States, the Administrator 
+shall notify the Committee on Small Business of the House of 
+Representatives and the Committee on Small Business and 
+Entrepreneurship of the Senate of the determination, what specific 
+activity has been determined to pose such a risk, and the justification 
+for such determination of such activity.
+    (f) Definitions.--In this section:
+            (1) Additional covered entity.--The term ``additional 
+        covered entity'' means an entity, an affiliate of an entity, or 
+        an individual included on a list described in section 
+        9(g)(16)(D) of the Small Business Act (15 U.S.C. 
+        638(g)(16)(D)).
+            (2) Administration.--The term ``Administration'' means the 
+        Small Business Administration.
+            (3) Administrator.--The term ``Administrator'' means the 
+        Administrator of the Small Business Administration.
+            (4) Appropriate federal agency head.--The term 
+        ``appropriate Federal agency head'' means the Secretary of 
+        Homeland Security, the Secretary of State, the Director of the 
+        Federal Bureau of Investigation, the Secretary of the Treasury, 
+        the Secretary of Commerce, the United States Trade 
+        Representative, the Director of the United States Patent and 
+        Trademark Office, the Director of the United States Copyright 
+        Office, and the head of any other relevant Federal agency, as 
+        determined by the Administrator of the Small Business 
+        Administration.
+            (5) Foreign adversary.--The term ``foreign adversary'' 
+        means a foreign adversary, as defined in section 791.4 of title 
+        15, Code of Federal Regulations (or any successor regulation).
+            (6) Foreign adversary conduct that poses material harm to 
+        small business concerns.--The term ``foreign adversary conduct 
+        that poses material harm to small business concerns'' means an 
+        activity carried out by a foreign adversary, an entity owned or 
+        controlled by a foreign adversary, or an additional covered 
+        entity that poses risks to the economic or national security of 
+        the United States or to small business concerns, including--
+                    (A) theft of intellectual property, trade secrets, 
+                or proprietary business information;
+                    (B) cyber intrusions and malicious cyber-enabled 
+                activities;
+                    (C) forced labor and the importation of goods 
+                produced wholly or in part with forced labor;
+                    (D) counterfeit goods, illicit trade, customs 
+                evasion, and related fraud;
+                    (E) predatory or non-market investment practices; 
+                and
+                    (F) any other activity the Administrator 
+                determines, in consultation with the appropriate 
+                Federal agency heads, poses a significant risk to the 
+                economic or national security interests of the United 
+                States.
+            (7) Small business concern.--The term ``small business 
+        concern'' has the meaning given under section 3 of the Small 
+        Business Act (15 U.S.C. 632).
+                                 <all>

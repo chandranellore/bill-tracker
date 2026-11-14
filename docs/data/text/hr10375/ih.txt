@@ -1,0 +1,308 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 10375 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 10375
+
+To amend the Small Business Investment Act of 1958 to improve the loan 
+guaranty program, enhance the ability of small manufacturers to access 
+              affordable capital, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           September 14, 2026
+
+ Ms. Velazquez (for herself and Mr. Williams of Texas) introduced the 
+ following bill; which was referred to the Committee on Small Business
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Small Business Investment Act of 1958 to improve the loan 
+guaranty program, enhance the ability of small manufacturers to access 
+              affordable capital, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``504 Modernization and Small 
+Manufacturer Enhancement Act of 2026''.
+
+SEC. 2. ADDITIONS TO POLICY GOALS FOR THE DEVELOPMENT COMPANY PROGRAM.
+
+    Section 501(d)(3) of the Small Business Investment Act of 1958 (15 
+U.S.C. 695(d)(3)) is amended--
+            (1) by redesignating subparagraphs (A) through (L) as 
+        subparagraphs (B) through (M), respectively;
+            (2) by inserting before subparagraph (B), as so 
+        redesignated, the following:
+                    ``(A) workforce development through work-based or 
+                work-integrated training, which shall be satisfied by 
+                demonstrating that a small business concern that is a 
+                subject of the project has--
+                            ``(i) a documented in-house training 
+                        program, the duration of which is not shorter 
+                        than 12 weeks; or
+                            ``(ii) entered into a contract with an 
+                        entity--
+                                    ``(I) to provide trained applicants 
+                                for any open position of employment at 
+                                the small business concern; and
+                                    ``(II) that ensures that any 
+                                applicant provided to the small 
+                                business concern under subclause (I) 
+                                has undergone not fewer than 12 weeks 
+                                of training that is relevant to the 
+                                open position described in that 
+                                subclause,'';
+            (3) in subparagraph (L), as so redesignated, by striking 
+        ``producers, or'' and inserting ``producers,'';
+            (4) in subparagraph (M), as so redesignated, by striking 
+        the period at the end and inserting a comma;
+            (5) by inserting after subparagraph (M), as so 
+        redesignated, the following:
+                    ``(N) aid revitalizing of an area for which a 
+                disaster has been declared or determined under 
+                subparagraph (A), (B), (C), or (E) of section 7(b)(2) 
+                of the Small Business Act (15 U.S.C. 636(b)(2)) during 
+                the five-year period beginning on the date on which the 
+                disaster was declared or determined under such 
+                subparagraph, except that the Administrator may extend 
+                such period if, for each extension of such period, the 
+                Administrator determines that such extension will 
+                facilitate the recovery of such area from such disaster 
+                and such extension is for a period of one year, or
+                    ``(O) expansion of small business concerns with 10 
+                or fewer employees.''; and
+            (6) in the flush text following subparagraph (O), as added 
+        by paragraph (5), by striking ``subparagraphs (J) and (K)'' and 
+        inserting ``subparagraphs (K) and (L)''.
+
+SEC. 3. IMPROVEMENTS TO 504 LOAN CLOSING PROCEDURE.
+
+    Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 
+et seq.) is amended--
+            (1) in section 502 (15 U.S.C. 696), by adding at the end 
+        the following:
+            ``(8) Closing.--An accredited lender certified company may 
+        take any of the following actions to facilitate the closing of 
+        a loan made under this section:
+                    ``(A) Reallocate the cost of the project with 
+                respect to which the loan is made in an amount that is 
+                not more than 10 percent of the overall cost of the 
+                project.
+                    ``(B) Make typographical corrections to any name 
+                that is applicable to the loan, including the name of 
+                any borrower, guarantor, eligible passive company 
+                described in subparagraph (C)(i), and operating company 
+                described in subparagraph (C)(i).
+                    ``(C) Add any of the following to receive proceeds 
+                of the loan:
+                            ``(i) An eligible passive company, as 
+                        defined by the Administrator.
+                            ``(ii) If an eligible passive company is 
+                        added under clause (i), an operating company 
+                        with respect to that eligible passive company.
+                    ``(D) Make typographical corrections to the address 
+                of any property with respect to which the loan is made.
+                    ``(E) Make typographical corrections to the name of 
+                any interim lender, third-party lender, or provider of 
+                funds described in subclause (I), (II), or (III) of 
+                section 502(3)(B)(i).
+                    ``(F) Make a guarantor a co-borrower or a co-
+                borrower a guarantor.
+                    ``(G) Add a guarantor that does not have any 
+                ownership interest in the business seeking financing or 
+                project being financed under this section.
+                    ``(H) Reduce the amount of debt owed by the 
+                borrower before the closing as a result of regularly 
+                scheduled payments.
+                    ``(I) Reduce the cost of the project with respect 
+                to which the loan is made.
+            ``(9) Accredited lender certified company defined.--In this 
+        section, the term `accredited lender certified company' means a 
+        certified development company that the Administration has 
+        designated as an accredited lender under such section 
+        507(b).''; and
+            (2) by adding at the end the following:
+
+``SEC. 511. CLOSING AND OVERSIGHT.
+
+    ``(a) SBA District Counsels.--Beginning on the date that is 180 
+days after the date of enactment of this section, with respect to the 
+program established under this title, district counsels of the 
+Administration shall be subject to the same requirements, and shall 
+have the same authority and responsibilities, as in effect with respect 
+to that program on the day before the date of enactment of this 
+section, except that--
+            ``(1) the Office of Credit Risk Management of the 
+        Administration shall have the responsibility for all duties 
+        relating to conducting file reviews of loans reviewed and 
+        closed by a designated attorney under this title; and
+            ``(2) district counsels of the Administration shall not 
+        have any responsibility relating to the review of closing 
+        packages with respect to a loan reviewed and closed by a 
+        designated attorney under this title.
+    ``(b) Designated Attorneys.--For the purposes of this title, the 
+following definitions and requirements shall apply with respect to a 
+designated attorney of a Priority certified development company:
+            ``(1) The term `designated attorney' means a certified 
+        development company attorney that the Administrator has 
+        approved to close loans for a Priority certified development 
+        company.
+            ``(2) The term `Priority certified development company' 
+        means a certified development company certified to participate 
+        on a permanent basis in the program to provide financings 
+        established under this title and that the Administrator has 
+        approved to participate in an expedited loan and debenture 
+        closing process.
+            ``(3) A designated attorney shall be responsible for 
+        certifying documents relating to the closing of a loan made 
+        under this title if such designated attorney submits to the 
+        Administrator evidence that such designated attorney--
+                    ``(A) is licensed and in good standing to practice 
+                law in the State in which such loan is being closed;
+                    ``(B) has professional malpractice insurance 
+                coverage; and
+                    ``(C) has attended a training course on closing 
+                loans made under this title that is approved by the 
+                Administration.''.
+
+SEC. 4. SBA MARKETING AND OUTREACH.
+
+    (a) In General.--Title V of the Small Business Investment Act of 
+1958 (15 U.S.C. 695 et seq.), as amended by this Act, is further 
+amended by adding at the end the following:
+
+``SEC. 512. SBA MARKETING AND OUTREACH.
+
+    ``The Administrator shall develop and implement a marketing and 
+outreach plan with respect to the availability of loans available under 
+this title and may partner with 1 or more resource partners to 
+implement such plan.''.
+    (b) Initial Plan.--The Administrator of the Small Business 
+Administration shall begin implementing the plan required under section 
+512 of title V of the Small Business Investment Act of 1958 (15 U.S.C. 
+695 et seq.), as added by subsection (a), not later than 1 year after 
+the date of the enactment of this Act.
+
+SEC. 5. LEASING RULES FOR NEW FACILITIES AND EXISTING BUILDINGS.
+
+    (a) In General.--Section 502 of the Small Business Investment Act 
+of 1958 (15 U.S.C. 696) is amended by striking paragraphs (4) and (5) 
+and inserting the following:
+            ``(4) New facilities.--
+                    ``(A) In general.--With respect to a project to 
+                construct a new facility, an assisted small business 
+                concern may permanently lease not more than 20 percent 
+                of the project to commercial or residential tenants if 
+                such concern--
+                            ``(i) permanently occupies and uses not 
+                        less than 60 percent of the project;
+                            ``(ii) plans to occupy and use an 
+                        additional portion of the project that is not 
+                        permanently leased not later than 3 years after 
+                        receipt of assistance under this section; and
+                            ``(iii) plans to permanently occupy and use 
+                        80 percent of the project not later than 10 
+                        years after receipt of such assistance.
+                    ``(B) Small manufacturers.--With respect to an 
+                assisted small business concern that is a small 
+                manufacturer (as defined in section 501(e)(6)), 
+                subparagraph (A)(i) shall apply with `50 percent' 
+                substituted for `60 percent'.
+            ``(5) Existing buildings.--With respect to a project to 
+        acquire, renovate, or reconstruct an existing building, the 
+        following shall apply:
+                    ``(A) Occupancy requirements.--The assisted small 
+                business concern may permanently lease not more than 50 
+                percent of the project if the concern permanently 
+                occupies and uses not less than 50 percent of the 
+                project.
+                    ``(B) Exception.--The assisted small business 
+                concern may permanently lease more than 50 percent of 
+                the project, but not more than 66 percent of the 
+                project, to commercial or residential tenants if--
+                            ``(i) such concern--
+                                    ``(I) has occupied and used the 
+                                existing building for a consecutive 12-
+                                month period before submitting an 
+                                application for assistance under this 
+                                section;
+                                    ``(II) agrees to permanently use 
+                                less than 50 percent of the existing 
+                                building and permanently lease more 
+                                than 50 percent for a consecutive 12-
+                                month period after receiving such 
+                                assistance; and
+                                    ``(III) affirms that the existing 
+                                building is appropriate for current and 
+                                reasonably anticipated needs; and
+                            ``(ii) the development company assisting 
+                        such project--
+                                    ``(I) provides written notice to 
+                                the Administrator on the date on which 
+                                the development company closes the loan 
+                                for such project; and
+                                    ``(II) once each year during the 
+                                first 5 years of the loan, and once 
+                                every 2 years for the remainder of the 
+                                loan--
+                                            ``(aa) conducts an 
+                                        examination of the assisted 
+                                        small business concern to 
+                                        ensure the concern is not a 
+                                        real estate development 
+                                        business; and
+                                            ``(bb) files with the 
+                                        Administrator an anti-investor 
+                                        certification signed by the 
+                                        development company and the 
+                                        assisted small business 
+                                        concern.
+                    ``(C) Lease term.--Any residential lease made under 
+                this paragraph shall be for a term of not more than 1 
+                year, and any commercial lease made under this 
+                paragraph shall be for a term of not more than 5 
+                years.''.
+    (b) Report.--Not later than 5 years after the date of enactment of 
+this Act, the Administrator of the Small Business Administration shall 
+submit to Congress a report analyzing the impact of the amendments made 
+by this section on access to capital for small business concerns (as 
+defined in section 3 of the Small Business Act (15 U.S.C. 632)).
+
+SEC. 6. CREDIT ELSEWHERE EXEMPTION.
+
+    Section 7(a)(1)(A) of the Small Business Act (15 U.S.C. 
+636(a)(1)(A)) is amended--
+            (1) in clause (i), by striking ``The Administrator'' and 
+        inserting ``Except as provided in clause (iii), the 
+        Administrator''; and
+            (2) by adding at the end the following:
+                            ``(iii) Exemption.--Clause (i) shall not 
+                        apply to loans under paragraph (13) of this 
+                        subsection, loans or other financings under the 
+                        Small Business Investment Act of 1958 (15 
+                        U.S.C. 661 et seq.), or any other loan made by 
+                        the Administrator to a certified development 
+                        company.''.
+                                 <all>

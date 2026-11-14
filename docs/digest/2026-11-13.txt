@@ -5,6 +5,9 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 8352 Criminal History Access Act of 2026
+  2026-11-12: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8352
 - H.R. 10167 Common Cents Act
   2026-11-12: Presented to President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10167
@@ -14,18 +17,24 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 1550 Strengthening America’s Turning Point Act
   2026-11-12: Presented to President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1550
-- S. 2887 Route 66 National Historic Trail Designation Act
-  2026-11-12: Passed Senate without amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/s2887
 - H.R. 2102 Major Richard Star Act
   2026-11-12: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr2102
 - H.R. 2102 Major Richard Star Act
-  2026-11-12: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).
+  2026-11-12: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323). (text: CR H6195)
   https://chandranellore.github.io/bill-tracker/#/bill/hr2102
 - H.R. 2102 Major Richard Star Act
-  2026-11-12: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323).
+  2026-11-12: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 392 - 18 (Roll no. 323). (text: CR H6195)
   https://chandranellore.github.io/bill-tracker/#/bill/hr2102
+- S. 2887 Route 66 National Historic Trail Designation Act
+  2026-11-12: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s2887
+- S. 432 Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act
+  2026-11-12: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5668; text: CR S5669)
+  https://chandranellore.github.io/bill-tracker/#/bill/s432
+- S. 432 Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act
+  2026-11-12: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s432
 - S. 1353 A bill to extend the authority for modifications to the Second Division Memorial in the District of Columbia.
   2026-11-12: Passed Senate with an amendment by Unanimous Consent.
   https://chandranellore.github.io/bill-tracker/#/bill/s1353
@@ -36,32 +45,42 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 ROLL-CALL VOTES
 - House: On Passage: H R 2102 Passed (392-18)
 - House: On Agreeing to the Resolution: H RES 1247 Passed (271-135)
+- Senate: On the Cloture Motion: PN11817 Cloture Motion Agreed to (49-26)
+- Senate: On the Cloture Motion: PN9992 Cloture Motion Agreed to (51-27)
+- Senate: On the Nomination: PN11811 Nomination Confirmed (49-27)
+- Senate: On the Cloture Motion: PN11811 Cloture Motion Agreed to (50-27)
 
 ENERGY AND MINERALS LEGISLATION
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- S. 2262 American Voices in Federal Lands Act
+  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
+  https://chandranellore.github.io/bill-tracker/#/bill/s2262
+- S. 2262 American Voices in Federal Lands Act
+  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+  https://chandranellore.github.io/bill-tracker/#/bill/s2262
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-12: Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 11015 To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce t
-  2026-11-12: Referred to the House Committee on Education and Workforce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11015
-- H.R. 11015 To require the Secretary of Energy to establish a program to strengthen the domestic science and engineering workforce t
-  2026-11-12: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11015
-- H.R. 11023 To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for 
-  2026-11-12: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11023
-- H.R. 11023 To authorize the Federal Energy Regulatory Commission to modify filings under part II of the Federal Power Act, and for 
-  2026-11-12: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11023
-- H.R. 11012 To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant 
-  2026-11-12: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall withi
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11012
-- H.R. 11012 To require the Secretary of Energy to adopt model standards and best practices to support effective virtual power plant 
-  2026-11-12: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11012
+- S. 789 Critical Minerals Security Act of 2025
+  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 699.
+  https://chandranellore.github.io/bill-tracker/#/bill/s789
+- S. 789 Critical Minerals Security Act of 2025
+  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+  https://chandranellore.github.io/bill-tracker/#/bill/s789
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- S. 465 GRID Power Act
+  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 698.
+  https://chandranellore.github.io/bill-tracker/#/bill/s465
+- S. 465 GRID Power Act
+  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+  https://chandranellore.github.io/bill-tracker/#/bill/s465
+- S. 4410 A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under
+  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 707.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4410
+- S. 4410 A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under
+  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4410
 
 FEDERAL REGISTER
 - Rule: AP1000 Design Certification Renewal

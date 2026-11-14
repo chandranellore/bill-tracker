@@ -5,12 +5,12 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
-  2026-11-09: Presented to President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr997
 - H.R. 1703 Choices for Increased Mobility Act of 2026
   2026-11-09: Presented to President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1703
+- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
+  2026-11-09: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr997
 - H.R. 9612 American Enrichment Deployment Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9612
@@ -20,15 +20,9 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 9612 American Enrichment Deployment Act
   2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 3 (Roll no. 316). (text: CR H6100-6101)
   https://chandranellore.github.io/bill-tracker/#/bill/hr9612
-- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
-  2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
-- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
-  2026-11-09: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
-- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
-  2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
+- H.R. 2347 Survivor Justice Tax Prevention Act
+  2026-11-09: Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 257. (CR S5343-5344)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
@@ -56,9 +50,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-09: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315). (text: CR H6096)
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
-- H.R. 2347 Survivor Justice Tax Prevention Act
-  2026-11-09: Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 257. (CR S5343-5344)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
 
 ROLL-CALL VOTES
 - House: On Motion to Suspend the Rules and Pass, as Amended: H R 9612 Passed (394-3)
@@ -66,18 +57,6 @@ ROLL-CALL VOTES
 - Senate: On Cloture on the Motion to Proceed: HR2347 Cloture on the Motion to Proceed Agreed to (73-25)
 
 ENERGY AND MINERALS LEGISLATION
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 5549.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: Considered under suspension of the rules. (consideration: CR H6097-6099; text: CR H6097)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
@@ -90,6 +69,18 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-09: Mr. Latta moved to suspend the rules and pass the bill, as amended.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quoru
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: DEBATE - The House proceeded with forty minutes of debate on H.R. 5549.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: Considered under suspension of the rules. (consideration: CR H6097-6099; text: CR H6097)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-09: Mr. Latta moved to suspend the rules and pass the bill.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-09: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613

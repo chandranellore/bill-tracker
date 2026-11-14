@@ -1,0 +1,198 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[S. 2262 Reported in Senate (RS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 701
+119th CONGRESS
+  2d Session
+                                S. 2262
+
+To amend the Federal Land Policy and Management Act of 1976 to clarify 
+ the nature of public involvement for purposes of certain rulemaking, 
+                        and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                             July 10, 2025
+
+   Mr. Barrasso (for himself, Ms. Lummis, Mr. Crapo, Mr. Risch, Mr. 
+   Curtis, Mr. Daines, Mr. Sheehy, and Mr. Sullivan) introduced the 
+ following bill; which was read twice and referred to the Committee on 
+                      Energy and Natural Resources
+
+                           November 12, 2026
+
+                 Reported by Mr. Lee, with an amendment
+ [Strike out all after the enacting clause and insert the part printed 
+                               in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+To amend the Federal Land Policy and Management Act of 1976 to clarify 
+ the nature of public involvement for purposes of certain rulemaking, 
+                        and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+<DELETED>SECTION 1. SHORT TITLE.</DELETED>
+
+<DELETED>    This Act may be cited as the ``American Voices in Federal 
+Lands Act''.</DELETED>
+
+<DELETED>SEC. 2. PUBLIC INVOLVEMENT IN CERTAIN PUBLIC LAND 
+              RULEMAKING.</DELETED>
+
+<DELETED>    (a) Definition of Public Involvement.--Section 103(d) of 
+the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(d)) 
+is amended by striking ``citizens'' and inserting ``citizens of the 
+United States, in accordance with section 310(d), as 
+applicable,''.</DELETED>
+<DELETED>    (b) Public Involvement Relating to Certain Rules and 
+Regulations.--Section 310 of the Federal Land Policy and Management Act 
+of 1976 (43 U.S.C. 1740) is amended to read as follows:</DELETED>
+
+<DELETED>``SEC. 310. RULES AND REGULATIONS.</DELETED>
+
+<DELETED>    ``(a) Authorization.--</DELETED>
+        <DELETED>    ``(1) Secretary.--Subject to subsection (d), the 
+        Secretary, with respect to public lands, shall promulgate rules 
+        and regulations to carry out the purposes of--</DELETED>
+                <DELETED>    ``(A) this Act; and</DELETED>
+                <DELETED>    ``(B) other laws applicable to public 
+                lands.</DELETED>
+        <DELETED>    ``(2) Secretary of agriculture.--The Secretary of 
+        Agriculture, with respect to land in the National Forest 
+        System, shall promulgate rules and regulations to carry out the 
+        purposes of this Act.</DELETED>
+<DELETED>    ``(b) Requirement.--The promulgation of rules and 
+regulations pursuant to this section shall be in accordance with 
+chapter 5 of title 5, United States Code, without regard to section 
+553(a)(2) of that title.</DELETED>
+<DELETED>    ``(c) Absence of Regulation.--Before the promulgation of a 
+rule or regulation pursuant to this section with respect to public 
+lands or land in the National Forest System, the applicable land shall 
+be administered under existing rules and regulations concerning the 
+land, to the maximum extent practicable.</DELETED>
+<DELETED>    ``(d) Public Involvement Relating to Bureau Land.--
+Notwithstanding any other provision of law, with respect to public 
+lands managed by the Bureau, the Secretary--</DELETED>
+        <DELETED>    ``(1) in promulgating any applicable regulations 
+        pursuant to this or any other Act, may take into consideration 
+        only public comments received from citizens of the United 
+        States; and</DELETED>
+        <DELETED>    ``(2) in any public involvement under this Act or 
+        any other provision of law (including regulations), shall 
+        establish and implement a process commonly known as `Completely 
+        Automated Public Test to tell Computers and Humans Apart 
+        (CAPTCHA)' to deter attempts at public involvement via 
+        artificial intelligence.''.</DELETED>
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``American Voices in Federal Lands 
+Act''.
+
+SEC. 2. PUBLIC INVOLVEMENT IN CERTAIN PUBLIC LAND RULEMAKING.
+
+    (a) Definitions of Public Involvement and Citizen of the United 
+States.--Section 103 of the Federal Land Policy and Management Act of 
+1976 (43 U.S.C. 1702) is amended--
+            (1) in subsection (d), by striking ``citizens'' and 
+        inserting ``citizens of the United States, in accordance with 
+        section 310(d), as applicable,''; and
+            (2) by adding at the end the following:
+    ``(q)(1) The term `citizen of the United States' shall only 
+include--
+            ``(A) a natural person who--
+                    ``(i) is--
+                            ``(I) born in the United States; and
+                            ``(II) subject to the jurisdiction of the 
+                        United States; or
+                    ``(ii) acquires citizenship through naturalization 
+                pursuant to chapter 2 of title III of the Immigration 
+                and Nationality Act (8 U.S.C. 1421 et seq.); or
+            ``(B) a juridical person established under the law of a 
+        State, a territory of the United States, or the District of 
+        Columbia and domiciled in the United States.
+    ``(2) For purposes of this subsection, the citizenship of a legal 
+representative or other agent representing a natural or juridical 
+person who is otherwise ineligible under this subsection shall not be 
+considered as a factor to cure the ineligibility under this 
+subsection.''.
+    (b) Public Involvement Relating to Certain Rules and Regulations.--
+Section 310 of the Federal Land Policy and Management Act of 1976 (43 
+U.S.C. 1740) is amended to read as follows:
+
+``SEC. 310. RULES AND REGULATIONS.
+
+    ``(a) Authorization.--
+            ``(1) Secretary.--Subject to subsection (d), the Secretary, 
+        with respect to public lands, shall promulgate rules and 
+        regulations to carry out the purposes of--
+                    ``(A) this Act; and
+                    ``(B) other laws applicable to public lands.
+            ``(2) Secretary of agriculture.--The Secretary of 
+        Agriculture, with respect to land in the National Forest 
+        System, shall promulgate rules and regulations to carry out the 
+        purposes of this Act.
+    ``(b) Requirement.--The promulgation of rules and regulations 
+pursuant to this section shall be in accordance with chapter 5 of title 
+5, United States Code, without regard to section 553(a)(2) of that 
+title.
+    ``(c) Absence of Regulation.--Before the promulgation of a rule or 
+regulation pursuant to this section with respect to public lands or 
+land in the National Forest System, the applicable land shall be 
+administered under existing rules and regulations concerning the land, 
+to the maximum extent practicable.
+    ``(d) Public Involvement Relating to Bureau Land.--Notwithstanding 
+any other provision of law, with respect to public lands managed by the 
+Bureau, the Secretary--
+            ``(1) in promulgating any applicable regulations pursuant 
+        to this or any other Act, may take into consideration only 
+        public comments received from citizens of the United States; 
+        and
+            ``(2) in any public involvement under this Act or any other 
+        provision of law (including regulations), shall establish and 
+        implement a process using the best available technology to 
+        deter attempts at public involvement by individuals or entities 
+        other than citizens of the United States.''.
+    (c) Effect on Public Comments Submitted by Mail.--Nothing in this 
+section (including an amendment made by this section) affects a public 
+comment submitted by mail.
+                                                       Calendar No. 701
+
+119th CONGRESS
+
+  2d Session
+
+                                S. 2262
+
+_______________________________________________________________________
+
+                                 A BILL
+
+To amend the Federal Land Policy and Management Act of 1976 to clarify 
+ the nature of public involvement for purposes of certain rulemaking, 
+                        and for other purposes.
+
+_______________________________________________________________________
+
+                           November 12, 2026
+
+                       Reported with an amendment

@@ -16,18 +16,18 @@ ROLL-CALL VOTES
   No new action.
 
 ENERGY AND MINERALS LEGISLATION
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-05: Placed on the Union Calendar, Calendar No. 769.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-05: Reported by the Committee on Energy and Commerce. H. Rept. 119-872.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-05: Placed on the Union Calendar, Calendar No. 771.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-05: Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-05: Placed on the Union Calendar, Calendar No. 769.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-05: Reported by the Committee on Energy and Commerce. H. Rept. 119-872.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-05: Placed on the Union Calendar, Calendar No. 774.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613

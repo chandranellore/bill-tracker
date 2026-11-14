@@ -5,24 +5,30 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
-  2026-11-10: Signed by President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr997
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Became Public Law No: 119-142.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
 - H.R. 7730 Bankruptcy Threshold Adjustment Act
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr7730
 - H.R. 1945 America's National Churchill Museum National Historic Landmark Act
+  2026-11-10: Became Public Law No: 119-141.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1945
+- H.R. 1945 America's National Churchill Museum National Historic Landmark Act
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1945
 - H.R. 1703 Choices for Increased Mobility Act of 2026
+  2026-11-10: Became Public Law No: 119-140.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
+- H.R. 1703 Choices for Increased Mobility Act of 2026
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1703
-- H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
-  2026-11-10: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5525)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr4930
-- H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
-  2026-11-10: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr4930
+- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
+  2026-11-10: Became Public Law No: 119-139.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr997
+- H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr997
 - H.R. 2347 Survivor Justice Tax Prevention Act
   2026-11-10: Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 62 - 21. Record Vote Number: 258. (CR S5383-5393)
   https://chandranellore.github.io/bill-tracker/#/bill/hr2347
