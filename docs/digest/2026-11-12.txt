@@ -5,6 +5,9 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 2347 Survivor Justice Tax Prevention Act
+  2026-11-11: Cloture motion on the measure presented in Senate. (CR S5568)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
@@ -29,18 +32,18 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 10355 Disaster Loan Outreach Consistency Act
   2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10355
-- H.R. 10375 504 Modernization and Small Manufacturer Enhancement Act of 2026
-  2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10375
-- H.R. 10375 504 Modernization and Small Manufacturer Enhancement Act of 2026
-  2026-11-11: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10375
 - H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10329
 - H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
   2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10329
+- H.R. 10375 504 Modernization and Small Manufacturer Enhancement Act of 2026
+  2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10375
+- H.R. 10375 504 Modernization and Small Manufacturer Enhancement Act of 2026
+  2026-11-11: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10375
 - H.R. 1013 Retirement Fairness for Charities and Educational Institutions Act of 2025
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1013
@@ -68,9 +71,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 10371 Ensuring SBA Implementation of GAO Recommendations Act of 2026
   2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10371
-- H.R. 2347 Survivor Justice Tax Prevention Act
-  2026-11-11: Cloture motion on the measure presented in Senate. (CR S5568)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
 - H.R. 9237 Take Care of America’s Veterans Act
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9237
