@@ -5,33 +5,30 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 7730 Bankruptcy Threshold Adjustment Act
-  2026-11-10: Became Public Law No: 119-142.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
-- H.R. 7730 Bankruptcy Threshold Adjustment Act
-  2026-11-10: Signed by President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
 - H.R. 1945 America's National Churchill Museum National Historic Landmark Act
   2026-11-10: Became Public Law No: 119-141.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1945
 - H.R. 1945 America's National Churchill Museum National Historic Landmark Act
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1945
-- H.R. 1703 Choices for Increased Mobility Act of 2026
-  2026-11-10: Became Public Law No: 119-140.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
-- H.R. 1703 Choices for Increased Mobility Act of 2026
-  2026-11-10: Signed by President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
 - H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
   2026-11-10: Became Public Law No: 119-139.
   https://chandranellore.github.io/bill-tracker/#/bill/hr997
 - H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr997
-- H.R. 2347 Survivor Justice Tax Prevention Act
-  2026-11-10: Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 62 - 21. Record Vote Number: 258. (CR S5383-5393)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr2347
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Became Public Law No: 119-142.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 1703 Choices for Increased Mobility Act of 2026
+  2026-11-10: Became Public Law No: 119-140.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
+- H.R. 1703 Choices for Increased Mobility Act of 2026
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1703
 
 ROLL-CALL VOTES
 - House: On Agreeing to the Resolution: H RES 1650 Passed (215-209)
@@ -40,6 +37,9 @@ ROLL-CALL VOTES
 - Senate: On the Motion to Proceed: HR2347 Motion to Proceed Agreed to (62-21)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 9613 Nuclear Advisory Committee Reform Act
+  2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9613
 - H.R. 3978 Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
   2026-11-10: Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
   https://chandranellore.github.io/bill-tracker/#/bill/hr3978
@@ -61,9 +61,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 10989 Smart Transmission Line Placement Act
   2026-11-10: Introduced in House
   https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 9613 Nuclear Advisory Committee Reform Act
-  2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9613
 
 FEDERAL REGISTER
 - Proposed Rule: Revision of Regulations for Planning, Programming, Budgeting
