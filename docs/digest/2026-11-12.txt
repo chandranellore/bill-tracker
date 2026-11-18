@@ -5,24 +5,18 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 10355 Disaster Loan Outreach Consistency Act
-  2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10355
-- H.R. 10355 Disaster Loan Outreach Consistency Act
-  2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10355
 - H.R. 10353 SBIC Reporting Modernization Act of 2026
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10353
 - H.R. 10353 SBIC Reporting Modernization Act of 2026
   2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10353
-- H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
+- H.R. 10238 Cybersecurity for Small Businesses Act of 2026
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10329
-- H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
-  2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10329
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10238
+- H.R. 10238 Cybersecurity for Small Businesses Act of 2026
+  2026-11-11: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10238
 - H.R. 1013 Retirement Fairness for Charities and Educational Institutions Act of 2025
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1013
@@ -32,12 +26,18 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 1013 Retirement Fairness for Charities and Educational Institutions Act of 2025
   2026-11-11: Passed/agreed to in House: On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321). (text of amendment in the nature of a substitute: CR H6166)
   https://chandranellore.github.io/bill-tracker/#/bill/hr1013
-- H.R. 10238 Cybersecurity for Small Businesses Act of 2026
+- H.R. 10355 Disaster Loan Outreach Consistency Act
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10238
-- H.R. 10238 Cybersecurity for Small Businesses Act of 2026
-  2026-11-11: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10238
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10355
+- H.R. 10355 Disaster Loan Outreach Consistency Act
+  2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10355
+- H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
+  2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10329
+- H.R. 10329 Combating Foreign Threats to Main Street Act of 2026
+  2026-11-11: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10329
 - H.R. 10371 Ensuring SBA Implementation of GAO Recommendations Act of 2026
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10371
@@ -80,6 +80,12 @@ ROLL-CALL VOTES
 - House: On Motion to Discharge: H RES 1247 Passed (245-175)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
+  2026-11-11: Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11002
+- H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
+  2026-11-11: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11002
 - H.R. 5549 Efficient Nuclear Licensing Hearings Act
   2026-11-11: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr5549
@@ -98,12 +104,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-11: Considered as unfinished business. (consideration: CR H6171)
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
-  2026-11-11: Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11002
-- H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
-  2026-11-11: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11002
 
 FEDERAL REGISTER
   No new action.

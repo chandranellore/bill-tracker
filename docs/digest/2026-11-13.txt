@@ -36,6 +36,15 @@ ROLL-CALL VOTES
 - Senate: On the Cloture Motion: PN11811 Cloture Motion Agreed to (50-27)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
+  2026-11-12: Sponsor introductory remarks on measure. (CR H6202)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11002
+- S. 789 Critical Minerals Security Act of 2025
+  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 699.
+  https://chandranellore.github.io/bill-tracker/#/bill/s789
+- S. 789 Critical Minerals Security Act of 2025
+  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+  https://chandranellore.github.io/bill-tracker/#/bill/s789
 - S. 465 GRID Power Act
   2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 698.
   https://chandranellore.github.io/bill-tracker/#/bill/s465
@@ -60,12 +69,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 9084 Department of Energy Nuclear Transparency Act
   2026-11-12: Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9084
-- S. 789 Critical Minerals Security Act of 2025
-  2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 699.
-  https://chandranellore.github.io/bill-tracker/#/bill/s789
-- S. 789 Critical Minerals Security Act of 2025
-  2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
-  https://chandranellore.github.io/bill-tracker/#/bill/s789
 
 FEDERAL REGISTER
 - Rule: AP1000 Design Certification Renewal

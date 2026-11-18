@@ -5,6 +5,12 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Became Public Law No: 119-142.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 7730 Bankruptcy Threshold Adjustment Act
+  2026-11-10: Signed by President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
 - H.R. 1945 America's National Churchill Museum National Historic Landmark Act
   2026-11-10: Became Public Law No: 119-141.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1945
@@ -17,12 +23,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 997 National Taxpayer Advocate Enhancement Act of 2025
   2026-11-10: Signed by President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr997
-- H.R. 7730 Bankruptcy Threshold Adjustment Act
-  2026-11-10: Became Public Law No: 119-142.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
-- H.R. 7730 Bankruptcy Threshold Adjustment Act
-  2026-11-10: Signed by President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7730
 - H.R. 1703 Choices for Increased Mobility Act of 2026
   2026-11-10: Became Public Law No: 119-140.
   https://chandranellore.github.io/bill-tracker/#/bill/hr1703
@@ -37,6 +37,12 @@ ROLL-CALL VOTES
 - Senate: On the Motion to Proceed: HR2347 Motion to Proceed Agreed to (62-21)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
+- H.R. 10989 Smart Transmission Line Placement Act
+  2026-11-10: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
@@ -55,12 +61,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 10988 Lower Electricity Bills Act
   2026-11-10: Introduced in House
   https://chandranellore.github.io/bill-tracker/#/bill/hr10988
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
 
 FEDERAL REGISTER
 - Proposed Rule: Revision of Regulations for Planning, Programming, Budgeting

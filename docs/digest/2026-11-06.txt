@@ -5,12 +5,12 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 1945 America's National Churchill Museum National Historic Landmark Act
-  2026-11-05: Presented to President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr1945
 - H.R. 7730 Bankruptcy Threshold Adjustment Act
   2026-11-05: Presented to President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr7730
+- H.R. 1945 America's National Churchill Museum National Historic Landmark Act
+  2026-11-05: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1945
 
 ROLL-CALL VOTES
   No new action.
