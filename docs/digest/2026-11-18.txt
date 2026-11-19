@@ -5,63 +5,81 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 8454 To provide for the transfer of administrative jurisdiction over certain Federal land in the State of California, and for
-  2026-11-17: Passed Senate without amendment by Unanimous Consent.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8454
-- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
-- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
-  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
+  2026-11-17: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
+- H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
+  2026-11-17: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4930
 - H.R. 9600 Common Sense 250 Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9600
 - H.R. 9600 Common Sense 250 Act of 2026
-  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325).
+  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325). (text: CR H6242)
   https://chandranellore.github.io/bill-tracker/#/bill/hr9600
 - H.R. 9600 Common Sense 250 Act of 2026
-  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325).
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325). (text: CR H6242)
   https://chandranellore.github.io/bill-tracker/#/bill/hr9600
-- H.R. 2400 Pit River Land Transfer Act of 2026
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr2400
-- H.R. 2400 Pit River Land Transfer Act of 2026
-  2026-11-17: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr2400
-- H.R. 9269 Renewing the African American Civil Rights Network Act
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
-- H.R. 9269 Renewing the African American Civil Rights Network Act
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
-- H.R. 9785 South Dakota Water Feasibility Studies Act
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9785
-- H.R. 9785 South Dakota Water Feasibility Studies Act
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9785
-- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
-- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324).
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
-- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
-  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324).
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
 - H.R. 8195 Responsible Cormorant Management and Control Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr8195
 - H.R. 8195 Responsible Cormorant Management and Control Act of 2026
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)
   https://chandranellore.github.io/bill-tracker/#/bill/hr8195
+- H.R. 8195 Responsible Cormorant Management and Control Act of 2026
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8195
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
+- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324). (text: CR H6240-6241)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
+- H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324). (text: CR H6240-6241)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8483
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
 - H.R. 10136 Crossett Experimental Forest Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10136
 - H.R. 10136 Crossett Experimental Forest Act of 2026
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)
   https://chandranellore.github.io/bill-tracker/#/bill/hr10136
+- H.R. 10136 Crossett Experimental Forest Act of 2026
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr10136
+- H.R. 9785 South Dakota Water Feasibility Studies Act
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9785
+- H.R. 9785 South Dakota Water Feasibility Studies Act
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6248-6249)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9785
+- H.R. 9785 South Dakota Water Feasibility Studies Act
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6248-6249)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9785
+- H.R. 2400 Pit River Land Transfer Act of 2026
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2400
+- H.R. 2400 Pit River Land Transfer Act of 2026
+  2026-11-17: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6247-6248)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2400
 
 ROLL-CALL VOTES
 - House: On Motion to Suspend the Rules and Pass: H R 9600 Passed (365-36)
@@ -69,18 +87,18 @@ ROLL-CALL VOTES
 - Senate: On the Nomination: PN11817 Nomination Confirmed (52-46)
 
 ENERGY AND MINERALS LEGISLATION
-- S. 5733 A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal
-  2026-11-17: Read twice and referred to the Committee on Energy and Natural Resources.
-  https://chandranellore.github.io/bill-tracker/#/bill/s5733
-- S. 5733 A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal
-  2026-11-17: Introduced in Senate
-  https://chandranellore.github.io/bill-tracker/#/bill/s5733
 - S. 5727 A bill to amend the Internal Revenue Code of 1986 to expand the military housing allowance exclusion for purposes of det
   2026-11-17: Read twice and referred to the Committee on Finance.
   https://chandranellore.github.io/bill-tracker/#/bill/s5727
 - S. 5727 A bill to amend the Internal Revenue Code of 1986 to expand the military housing allowance exclusion for purposes of det
   2026-11-17: Introduced in Senate
   https://chandranellore.github.io/bill-tracker/#/bill/s5727
+- S. 5733 A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal
+  2026-11-17: Read twice and referred to the Committee on Energy and Natural Resources.
+  https://chandranellore.github.io/bill-tracker/#/bill/s5733
+- S. 5733 A bill to establish a best-available transmission conductor standard for certain transmission projects under the Federal
+  2026-11-17: Introduced in Senate
+  https://chandranellore.github.io/bill-tracker/#/bill/s5733
 
 FEDERAL REGISTER
 - Rule: Advisory Committee on Reactor Safeguards Functions

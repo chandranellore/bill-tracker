@@ -1,0 +1,85 @@
+JAYANAS Bill Tracker daily digest, Thursday, November 19, 2026
+Official actions dated 2026-11-18 to 2026-11-18
+
+BUDGET AND APPROPRIATIONS
+- H.R. 11057 To amend the Food and Nutrition Act of 2008 to expand the eligibility of students to participate in the supplemental nut
+  2026-11-18: Referred to the Committee on Education and Workforce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdict
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11057
+- H.R. 11057 To amend the Food and Nutrition Act of 2008 to expand the eligibility of students to participate in the supplemental nut
+  2026-11-18: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11057
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 9640 Earth MRI Reauthorization Act of 2026
+  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9640
+- H.R. 9640 Earth MRI Reauthorization Act of 2026
+  2026-11-18: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9640
+- H.R. 9640 Earth MRI Reauthorization Act of 2026
+  2026-11-18: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9640
+- H.R. 7934 Settlement Agreement Information Database Act of 2026
+  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
+- H.R. 7934 Settlement Agreement Information Database Act of 2026
+  2026-11-18: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
+- H.R. 5490 Dismantle Foreign Scam Syndicates Act
+  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
+- H.R. 5490 Dismantle Foreign Scam Syndicates Act
+  2026-11-18: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
+
+ROLL-CALL VOTES
+- House: On Motion to Suspend the Rules and Pass, as Amended: H R 9640 Passed (396-14)
+- Senate: On the Cloture Motion: HR2347 Cloture Motion Agreed to (65-31)
+- Senate: On the Amendment: HR2347 Amendment Agreed to (69-27)
+- Senate: On the Motion: HR2347 Motion Agreed to (70-26)
+
+ENERGY AND MINERALS LEGISLATION
+- H.R. 11064 To require the Secretary of Energy to establish a Data Center Community Assistance Program, and for other purposes.
+  2026-11-18: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11064
+- H.R. 11064 To require the Secretary of Energy to establish a Data Center Community Assistance Program, and for other purposes.
+  2026-11-18: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11064
+- H.R. 11071 To amend the Public Health Service Act to improve the public health system in tribal communities and increase the number
+  2026-11-18: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11071
+- H.R. 11071 To amend the Public Health Service Act to improve the public health system in tribal communities and increase the number
+  2026-11-18: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11071
+- H.R. 11063 To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates a
+  2026-11-18: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11063
+- H.R. 11063 To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates a
+  2026-11-18: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11063
+
+FEDERAL REGISTER
+- Notice: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Renewable Energy and Alternate Uses of Existing Facilities on t
+  https://www.federalregister.gov/documents/2026/11/18/2026-23455/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for
+- Proposed Rule: Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area
+  https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to
+- Notice: Call for Nominations to the Advisory Committee on Landslides
+  https://www.federalregister.gov/documents/2026/11/18/2026-23471/call-for-nominations-to-the-advisory-committee-on-landslides
+- Notice: Indian Gaming; Extension of Tribal-State Class III Gaming Compact Between the Picayune Rancheria of Chukchansi Indians, California, and the State of California
+  https://www.federalregister.gov/documents/2026/11/18/2026-23404/indian-gaming-extension-of-tribal-state-class-iii-gaming-compact-between-the-picayune-rancheria-of
+- Notice: Village of Swanton, Vermont; Notice of Availability of Environmental Assessment
+  https://www.federalregister.gov/documents/2026/11/18/2026-23447/village-of-swanton-vermont-notice-of-availability-of-environmental-assessment
+- Notice: Algonquin Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline
+  https://www.federalregister.gov/documents/2026/11/18/2026-23446/algonquin-gas-transmission-llc-notice-of-application-and-establishing-intervention-deadline
+- Notice: Commission Information Collection Activities (FERC-510); Comment Request; Extension
+  https://www.federalregister.gov/documents/2026/11/18/2026-23443/commission-information-collection-activities-ferc-510-comment-request-extension
+- Notice: Natural Gas Pipeline of America, LLC; Horizon Pipeline Company, LLC; Notice of Schedule for the Preparation of an Environmental Assessment for the North Extension Project
+  https://www.federalregister.gov/documents/2026/11/18/2026-23442/natural-gas-pipeline-of-america-llc-horizon-pipeline-company-llc-notice-of-schedule-for-the
+- Notice: Northwest Pipeline, LLC; Notice of Scoping Period Requesting Comments on Environmental Issues for the Planned Silver Spur Project and Notice of Public Scoping Sessions
+  https://www.federalregister.gov/documents/2026/11/18/2026-23441/northwest-pipeline-llc-notice-of-scoping-period-requesting-comments-on-environmental-issues-for-the
+- Notice: Combined Notice of Filings
+  https://www.federalregister.gov/documents/2026/11/18/2026-23440/combined-notice-of-filings
+- Notice: Combined Notice of Filings #1
+  https://www.federalregister.gov/documents/2026/11/18/2026-23439/combined-notice-of-filings-1
+- Notice: Combined Notice of Filings #2
+  https://www.federalregister.gov/documents/2026/11/18/2026-23436/combined-notice-of-filings-2

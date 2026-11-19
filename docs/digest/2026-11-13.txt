@@ -36,6 +36,12 @@ ROLL-CALL VOTES
 - Senate: On the Cloture Motion: PN11811 Cloture Motion Agreed to (50-27)
 
 ENERGY AND MINERALS LEGISLATION
+- H.R. 5549 Efficient Nuclear Licensing Hearings Act
+  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
+- H.R. 9084 Department of Energy Nuclear Transparency Act
+  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
 - H.R. 11002 Protecting Our Public Lands from Data Centers Act of 2026
   2026-11-12: Sponsor introductory remarks on measure. (CR H6202)
   https://chandranellore.github.io/bill-tracker/#/bill/hr11002
@@ -57,18 +63,12 @@ ENERGY AND MINERALS LEGISLATION
 - S. 4410 A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under
   2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
   https://chandranellore.github.io/bill-tracker/#/bill/s4410
-- H.R. 5549 Efficient Nuclear Licensing Hearings Act
-  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5549
 - S. 2262 American Voices in Federal Lands Act
   2026-11-12: Placed on Senate Legislative Calendar under General Orders. Calendar No. 701.
   https://chandranellore.github.io/bill-tracker/#/bill/s2262
 - S. 2262 American Voices in Federal Lands Act
   2026-11-12: Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
   https://chandranellore.github.io/bill-tracker/#/bill/s2262
-- H.R. 9084 Department of Energy Nuclear Transparency Act
-  2026-11-12: Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9084
 
 FEDERAL REGISTER
 - Rule: AP1000 Design Certification Renewal
