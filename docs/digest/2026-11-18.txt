@@ -5,12 +5,12 @@ BUDGET AND APPROPRIATIONS
   No new action.
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
-- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
-  2026-11-17: Presented to President.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
 - H.R. 4930 To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.
   2026-11-17: Presented to President.
   https://chandranellore.github.io/bill-tracker/#/bill/hr4930
+- H.R. 8552 Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
+  2026-11-17: Presented to President.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr8552
 - H.R. 9600 Common Sense 250 Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9600
@@ -29,15 +29,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 8195 Responsible Cormorant Management and Control Act of 2026
   2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)
   https://chandranellore.github.io/bill-tracker/#/bill/hr8195
-- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
-- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
-  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
-- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
-  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
 - H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr8483
@@ -47,15 +38,6 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 8483 Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
   2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 324). (text: CR H6240-6241)
   https://chandranellore.github.io/bill-tracker/#/bill/hr8483
-- H.R. 9269 Renewing the African American Civil Rights Network Act
-  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
-- H.R. 9269 Renewing the African American Civil Rights Network Act
-  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
-- H.R. 9269 Renewing the African American Civil Rights Network Act
-  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
-  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
 - H.R. 10136 Crossett Experimental Forest Act of 2026
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10136
@@ -65,6 +47,24 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 10136 Crossett Experimental Forest Act of 2026
   2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6243)
   https://chandranellore.github.io/bill-tracker/#/bill/hr10136
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
+- H.R. 9269 Renewing the African American Civil Rights Network Act
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6246)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr9269
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
+- H.R. 7954 Don Young Doug LaMalfa Indian Buffalo Management Act
+  2026-11-17: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7954
 - H.R. 9785 South Dakota Water Feasibility Studies Act
   2026-11-17: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9785

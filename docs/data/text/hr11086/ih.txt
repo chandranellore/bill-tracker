@@ -1,0 +1,249 @@
+
+[Congressional Bills 119th Congress]
+[From the U.S. Government Publishing Office]
+[H.R. 11086 Introduced in House (IH)]
+
+<DOC>
+
+
+
+
+
+
+119th CONGRESS
+  2d Session
+                               H. R. 11086
+
+   To direct the Secretary of Energy to establish a grant program to 
+  facilitate the deployment of plug-in devices for the generation of 
+                  solar power, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                    IN THE HOUSE OF REPRESENTATIVES
+
+                           November 19, 2026
+
+ Ms. Barragan (for herself, Mr. Mullin, Ms. Bonamici, Ms. Norton, and 
+  Ms. Tlaib) introduced the following bill; which was referred to the 
+                    Committee on Energy and Commerce
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To direct the Secretary of Energy to establish a grant program to 
+  facilitate the deployment of plug-in devices for the generation of 
+                  solar power, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Plug-In Solar Savings Act of 2026''.
+
+SEC. 2. DEPARTMENT OF ENERGY GRANT PROGRAM FOR DEPLOYMENT OF PLUG-IN 
+              SOLAR POWER GENERATION DEVICES.
+
+    (a) Establishment.--Not later than 180 days after the date of 
+enactment of this Act, the Secretary of Energy shall establish a grant 
+program (in this section referred to as the ``Program'') to facilitate 
+the deployment of plug-in solar generation devices.
+    (b) Grant Authority; Eligible Recipients.--In carrying out the 
+Program, the Secretary may award a grant on a competitive basis to any 
+of the following:
+            (1) A unit of State or local government.
+            (2) A nonprofit organization.
+            (3) A public housing agency (as such term is defined in 
+        section 3(b) of the United States Housing Act of 1937 (42 
+        U.S.C. 1437a(b)).
+            (4) A multifamily dwelling that has entered into a 
+        partnership with an entity listed in paragraphs (1) through (3) 
+        for the purpose of carrying out a project specified in 
+        subsection (d).
+    (c) Limitations on Grant Amount.--
+            (1) Annual cap.--A grant awarded under the Program to an 
+        eligible entity may not exceed $2,000,000 per year.
+            (2) Administrative cost cap.--A recipient of a grant under 
+        the Program may not use more than 15 percent of such grant 
+        amounts to cover administrative costs relating to the 
+        management of such grant or activities carried out using such 
+        grant amounts.
+    (d) Eligible Uses of Grant Funds.--A recipient of a grant under the 
+Program may only use grant funds for the purpose of carrying out a 
+project to--
+            (1) distribute plug-in solar generation devices to not 
+        fewer than 5 eligible households;
+            (2) provide to eligible households technical assistance 
+        regarding such devices;
+            (3) distribute to eligible households educational materials 
+        regarding the benefits of such devices; or
+            (4) provide funding to eligible households for home updates 
+        to enhance safety with respect to the use of such devices.
+    (e) Conditions for Certain Projects.--
+            (1) Maximizing household savings.--A recipient of a grant 
+        under the Program carrying out a project specified in 
+        subsection (d)(1) shall, as a condition of such grant, seek to 
+        select, and distribute to eligible households, plug-in solar 
+        generation devices in a manner that maximizes household 
+        electricity cost savings and, to the extent practicable, 
+        provides such eligible households with the ability to monitor 
+        the generation of electricity by such devices.
+            (2) Consumer information.--A recipient of a grant under the 
+        Program carrying out a project specified in subsection (d)(1) 
+        shall, as a condition of such grant, provide to each eligible 
+        household to which the recipient distributes a plug-in solar 
+        generation device basic information regarding--
+                    (A) estimated electricity cost savings to result 
+                from the use of such device, and factors affecting such 
+                estimated cost savings;
+                    (B) the safe operation of such device, including 
+                relevant electrical safety requirements; and
+                    (C) applicable warranty and product recall 
+                procedures, and insurance and liability considerations, 
+                relating to such device.
+            (3) Pass-through of savings.--A recipient of a grant under 
+        the Program carrying out any project under subsection (d) with 
+        respect to a household residing in a building with multiple 
+        dwelling units that is served by a master meter shall, as a 
+        condition of such grant, agree to enter into a written contract 
+        with the owner of such building to ensure that any electricity 
+        cost savings realized as a result of such project are passed 
+        through to such household.
+    (f) Applications.--To be eligible for a grant under the Program, an 
+entity shall submit to the Secretary an application at such time, in 
+such form, and containing such information as the Secretary determines 
+appropriate.
+    (g) Priority.--In awarding grants under the Program, the Secretary 
+shall give priority to applicants the proposed projects of which would 
+serve eligible households that face barriers to accessing conventional 
+rooftop devices for the generation of solar power, including eligible 
+households that are tenants and eligible households that are residing 
+in buildings with multiple dwelling units.
+    (h) Reports to Congress.--
+            (1) In general.--On an annual basis, the Secretary shall 
+        submit to the Committee on Energy and Commerce of the House of 
+        Representatives and the Committee on Energy and Natural 
+        Resources of the Senate a report containing an assessment of 
+        the implementation of the Program during the preceding calendar 
+        year.
+            (2) Matters.--Each report submitted under paragraph (1) 
+        shall include, with respect to the period covered by such 
+        report, an identification of the following:
+                    (A) The number of eligible households that received 
+                plug-in solar generation devices under the Program.
+                    (B) The status of the residents of such households 
+                as renters or homeowners.
+                    (C) The number and cost of plug-in solar generation 
+                devices distributed under the Program.
+                    (D) The aggregate rated power capacity of plug-in 
+                solar generation devices distributed under the Program 
+                in total, and a breakdown of the rated power capacity 
+                of plug-in solar generation devices distributed by each 
+                recipient of a grant under the Program.
+                    (E) The estimated dollar amount of household 
+                electricity cost savings realized as a result of the 
+                Program, as determined by the Secretary.
+    (i) Authorization of Appropriations.--There is authorized to be 
+appropriated to the Secretary to carry out this section $25,000,000 for 
+each of fiscal years 2028 through 2030.
+    (j) Definitions.--In this section:
+            (1) Eligible household.--The term ``eligible household'' 
+        means any household--
+                    (A) with an income of 80 percent or less than the 
+                area median income; or
+                    (B) that participates in or is enrolled under, or 
+                that includes an individual who participates in or is 
+                enrolled under--
+                            (i) the supplemental nutrition assistance 
+                        program under the Food and Nutrition Act of 
+                        2008 (7 U.S.C. 2011 et seq.);
+                            (ii) the special supplemental nutrition 
+                        program for women, infants, and children 
+                        established by section 17 of the Child 
+                        Nutrition Act of 1966 (42 U.S.C. 1786);
+                            (iii) the low-income home energy assistance 
+                        program established under the Low-Income Home 
+                        Energy Assistance Act of 1981 (42 U.S.C. 8621 
+                        et seq.);
+                            (iv) the Weatherization Assistance Program 
+                        for Low-Income Persons established under part A 
+                        of title IV of the Energy Conservation and 
+                        Production Act (42 U.S.C. 6861 et seq.);
+                            (v) a State plan (or waiver of such plan) 
+                        under title XIX of the Social Security Act (42 
+                        U.S.C. 1396 et seq.);
+                            (vi) the public housing program under the 
+                        United States Housing Act of 1937 (42 U.S.C. 
+                        1437 et seq.);
+                            (vii) the program for rental assistance 
+                        under section 8 of the United States Housing 
+                        Act of 1937 (42 U.S.C. 1437f);
+                            (viii) the programs under title IV of the 
+                        McKinney-Vento Homeless Assistance Act (42 
+                        U.S.C. 11360 et seq.);
+                            (ix) the program for supportive housing for 
+                        the elderly under section 202 of the Housing 
+                        Act of 1959 (12 U.S.C. 1701q);
+                            (x) the program for supportive housing for 
+                        persons with disabilities under section 811 of 
+                        the Cranston-Gonzalez National Affordable 
+                        Housing Act (42 U.S.C. 8013);
+                            (xi) the AIDS Housing Opportunities program 
+                        under subtitle D of title VIII of the Cranston-
+                        Gonzalez National Affordable Housing Act (42 
+                        U.S.C. 12901 et seq.);
+                            (xii) the program for Native American 
+                        housing under the Native American Housing 
+                        Assistance and Self-Determination Act of 1996 
+                        (25 U.S.C. 4101 et seq.);
+                            (xiii) the program for housing assistance 
+                        for Native Hawaiians under title VIII of the 
+                        Native American Housing Assistance and Self-
+                        Determination Act of 1996 (25 U.S.C. 4221 et 
+                        seq.);
+                            (xiv) the programs for assistance for rural 
+                        rental housing under title V of the Housing Act 
+                        of 1949 (42 U.S.C. 1471 et seq.); or
+                            (xv) any other relevant Federal assistance 
+                        program, as determined by the Secretary.
+            (2) Multifamily dwelling.--The term ``multifamily 
+        dwelling'' means a unit of housing that is located within a 
+        building consisting of 5 or more units, including an apartment 
+        building, a subsidized housing building, an age restricted 
+        building, an assisted living dwelling, (such as age restricted 
+        building or an assisted living building), and student housing.
+            (3) Plug-in solar generation device.--The term ``plug-in 
+        solar generation device'' means a device, or combination of 
+        devices, for photovoltaic energy generation that--
+                    (A) has a maximum aggregated AC output of not more 
+                than 1,200 watts per dwelling;
+                    (B) is designed to be connected to, and 
+                disconnected from, the electrical system of a building 
+                through a receptacle;
+                    (C) is intended to offset the onsite electricity 
+                consumption of the electric consumer concerned;
+                    (D) meets the standards of the most recent version 
+                of the National Electrical Code;
+                    (E) is certified by Underwriters Laboratories or an 
+                equivalent nationally recognized testing laboratory; 
+                and
+                    (F) includes a feature, certified by Underwriters 
+                Laboratories or an equivalent nationally recognized 
+                testing laboratory, that isolates the device from the 
+                electrical system of the building to which such device 
+                is connected, to prevent the device from backfeeding 
+                electricity to the electric grid in the event of a 
+                power outage.
+            (4) Secretary.--The term ``Secretary'' means the Secretary 
+        of Energy.
+            (5) State.--The term ``State'' means each State of the 
+        United States, the District of Columbia, each territory or 
+        possession of the United States, and each federally recognized 
+        Indian Tribe.
+                                 <all>

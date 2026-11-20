@@ -49,12 +49,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 9613 Nuclear Advisory Committee Reform Act
   2026-11-10: Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9613
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
-- H.R. 10989 Smart Transmission Line Placement Act
-  2026-11-10: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr10989
 - H.R. 10987 Local Transmission Accountability Act
   2026-11-10: Referred to the House Committee on Energy and Commerce.
   https://chandranellore.github.io/bill-tracker/#/bill/hr10987

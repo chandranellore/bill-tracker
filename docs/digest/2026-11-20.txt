@@ -1,0 +1,131 @@
+JAYANAS Bill Tracker daily digest, Friday, November 20, 2026
+Official actions dated 2026-11-19 to 2026-11-19
+
+BUDGET AND APPROPRIATIONS
+- H.R. 11105 To amend the Food and Nutrition Act of 2008 to prohibit the Secretary of Agriculture from approving retail food stores t
+  2026-11-19: Referred to the House Committee on Agriculture.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11105
+- H.R. 11105 To amend the Food and Nutrition Act of 2008 to prohibit the Secretary of Agriculture from approving retail food stores t
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11105
+- H.R. 11089 To require the Subcommittee on Ocean Science and Technology of the National Science and Technology Council to establish 
+  2026-11-19: Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, House Administration, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for 
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11089
+- H.R. 11089 To require the Subcommittee on Ocean Science and Technology of the National Science and Technology Council to establish 
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11089
+
+PASSED, FAILED OR SENT TO THE PRESIDENT
+- S. 4538 Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 2026
+  2026-11-19: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4538
+- H.R. 1520 Charlotte Woodward Organ Transplant Discrimination Prevention Act
+  2026-11-19: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr1520
+- H.R. 4624 Muhammad Ali American Boxing Revival Act of 2026
+  2026-11-19: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4624
+- H.R. 4464 Preventive Health Savings Act
+  2026-11-19: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4464
+- H.R. 4464 Preventive Health Savings Act
+  2026-11-19: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 327).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4464
+- H.R. 4464 Preventive Health Savings Act
+  2026-11-19: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 327).
+  https://chandranellore.github.io/bill-tracker/#/bill/hr4464
+- S. 1135 A bill to amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibi
+  2026-11-19: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s1135
+- S. 4448 Accelerating Broadband Permits Act of 2026
+  2026-11-19: Passed Senate with an amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4448
+- S. 4238 Endless Mountains National Heritage Area Act
+  2026-11-19: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4238
+- S. 1288 Finger Lakes National Heritage Area Act
+  2026-11-19: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s1288
+
+ROLL-CALL VOTES
+- House: On Motion to Suspend the Rules and Pass: H R 4464 Passed (401-0)
+- Senate: On the Cloture Motion: PN12724 Cloture Motion Agreed to (48-46)
+- Senate: On Passage of the Bill: HR2347 Bill Passed (62-33)
+- Senate: On the Concurrent Resolution: HCONRES93 Concurrent Resolution Rejected (48-51)
+
+ENERGY AND MINERALS LEGISLATION
+- S. 1135 A bill to amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibi
+  2026-11-19: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/s1135
+- H.R. 11086 Plug-In Solar Savings Act of 2026
+  2026-11-19: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11086
+- H.R. 11086 Plug-In Solar Savings Act of 2026
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11086
+- H.R. 11085 To provide for the establishment of a U.S.-Eritrea Agricultural and Critical Minerals Trade Partnership.
+  2026-11-19: Referred to the House Committee on Ways and Means.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11085
+- H.R. 11085 To provide for the establishment of a U.S.-Eritrea Agricultural and Critical Minerals Trade Partnership.
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11085
+- H.R. 11090 To provide for interagency coordination and data standards, technology to combat illegal, unreported, and unregulated fi
+  2026-11-19: Referred to the Committee on Natural Resources, and in addition to the Committees on Science, Space, and Technology, Transportation and Infrastructure, and Education and Workforce, for a period to be subsequently determined by the Speaker, 
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11090
+- H.R. 11090 To provide for interagency coordination and data standards, technology to combat illegal, unreported, and unregulated fi
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11090
+- H.R. 11122 To direct the Secretary of Energy to develop and maintain a website containing information regarding data centers and LE
+  2026-11-19: Referred to the House Committee on Energy and Commerce.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11122
+- H.R. 11122 To direct the Secretary of Energy to develop and maintain a website containing information regarding data centers and LE
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11122
+- H.R. 11084 To provide for the establishment of a U.S.-Ethiopia Agricultural and Critical Minerals Trade Partnership.
+  2026-11-19: Referred to the House Committee on Ways and Means.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11084
+- H.R. 11084 To provide for the establishment of a U.S.-Ethiopia Agricultural and Critical Minerals Trade Partnership.
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11084
+- H.R. 11125 To authorize the Secretary of the Interior to cooperate with the State of California and other appropriate entities in c
+  2026-11-19: Referred to the House Committee on Natural Resources.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11125
+- H.R. 11125 To authorize the Secretary of the Interior to cooperate with the State of California and other appropriate entities in c
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11125
+- H.R. 11097 To authorize the purchase of the Potter Valley Hydroelectric Project in northern California, and for other purposes.
+  2026-11-19: Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall with
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11097
+- H.R. 11097 To authorize the purchase of the Potter Valley Hydroelectric Project in northern California, and for other purposes.
+  2026-11-19: Introduced in House
+  https://chandranellore.github.io/bill-tracker/#/bill/hr11097
+
+FEDERAL REGISTER
+- Notice: Proposed Modification of NPDES General Permit for New and Existing Sources and New Dischargers in the Offshore Subcategory of the Oil and Gas Extraction Category for the Western Po
+  https://www.federalregister.gov/documents/2026/11/19/2026-23523/proposed-modification-of-npdes-general-permit-for-new-and-existing-sources-and-new-dischargers-in
+- Rule: Mammoth Cave National Park; Bicycling and Horses
+  https://www.federalregister.gov/documents/2026/11/19/2026-23563/mammoth-cave-national-park-bicycling-and-horses
+- Proposed Rule: Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH)
+  https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious
+- Notice: Aquatic Nuisance Species Task Force Meeting
+  https://www.federalregister.gov/documents/2026/11/19/2026-23615/aquatic-nuisance-species-task-force-meeting
+- Notice: Notice of Application for 299 ROW Application for Coastal Connect Services, LLC; Florida
+  https://www.federalregister.gov/documents/2026/11/19/2026-23605/notice-of-application-for-299-row-application-for-coastal-connect-services-llc-florida
+- Notice: Realty Action: Modified Competitive Sale of 20 Parcels of Public Land in Clark County, Nevada; Modification of Recreation and Public Purposes Act Classification
+  https://www.federalregister.gov/documents/2026/11/19/2026-23587/realty-action-modified-competitive-sale-of-20-parcels-of-public-land-in-clark-county-nevada
+- Notice: Agency Information Collection Activities; Submission to the Office of Management and Budget; Big Cat Public Safety Act
+  https://www.federalregister.gov/documents/2026/11/19/2026-23561/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-big-cat
+- Notice: Realty Action: Recreation and Public Purposes Act Classification and Conveyance of Public Land in Kane County, UT
+  https://www.federalregister.gov/documents/2026/11/19/2026-23559/realty-action-recreation-and-public-purposes-act-classification-and-conveyance-of-public-land-in
+- Notice: Realty Action: Recreation and Public Purposes Act Classification and Segregation of Public Land for Ivins City, Washington County, Utah
+  https://www.federalregister.gov/documents/2026/11/19/2026-23558/realty-action-recreation-and-public-purposes-act-classification-and-segregation-of-public-land-for
+- Notice: Exelon Corporation v. PJM Interconnection, L.L.C.; Notice Establishing Comment Period
+  https://www.federalregister.gov/documents/2026/11/19/2026-23611/exelon-corporation-v-pjm-interconnection-llc-notice-establishing-comment-period
+- Notice: Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Interve
+  https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc
+- Notice: Combined Notice of Filings
+  https://www.federalregister.gov/documents/2026/11/19/2026-23608/combined-notice-of-filings
+- Notice: Combined Notice of Filings #1
+  https://www.federalregister.gov/documents/2026/11/19/2026-23607/combined-notice-of-filings-1
+- Notice: Proposed Decommissioning and Disposition of USCGC Smilax (WLIC 315)
+  https://www.federalregister.gov/documents/2026/11/19/2026-23566/proposed-decommissioning-and-disposition-of-uscgc-smilax-wlic-315

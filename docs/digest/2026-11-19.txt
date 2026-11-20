@@ -8,8 +8,32 @@ BUDGET AND APPROPRIATIONS
 - H.R. 11057 To amend the Food and Nutrition Act of 2008 to expand the eligibility of students to participate in the supplemental nut
   2026-11-18: Introduced in House
   https://chandranellore.github.io/bill-tracker/#/bill/hr11057
+- S. 5768 A bill to amend the Food and Nutrition Act of 2008 to expand the eligibility of students to participate in the supplemen
+  2026-11-18: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+  https://chandranellore.github.io/bill-tracker/#/bill/s5768
+- S. 5768 A bill to amend the Food and Nutrition Act of 2008 to expand the eligibility of students to participate in the supplemen
+  2026-11-18: Introduced in Senate
+  https://chandranellore.github.io/bill-tracker/#/bill/s5768
 
 PASSED, FAILED OR SENT TO THE PRESIDENT
+- H.R. 7934 Settlement Agreement Information Database Act of 2026
+  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
+- H.R. 7934 Settlement Agreement Information Database Act of 2026
+  2026-11-18: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6270-6271)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
+- H.R. 7934 Settlement Agreement Information Database Act of 2026
+  2026-11-18: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6270-6271)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
+- H.R. 5490 Dismantle Foreign Scam Syndicates Act
+  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
+- H.R. 5490 Dismantle Foreign Scam Syndicates Act
+  2026-11-18: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6262-6264)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
+- H.R. 5490 Dismantle Foreign Scam Syndicates Act
+  2026-11-18: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6262-6264)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
 - H.R. 9640 Earth MRI Reauthorization Act of 2026
   2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
   https://chandranellore.github.io/bill-tracker/#/bill/hr9640
@@ -19,18 +43,18 @@ PASSED, FAILED OR SENT TO THE PRESIDENT
 - H.R. 9640 Earth MRI Reauthorization Act of 2026
   2026-11-18: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
   https://chandranellore.github.io/bill-tracker/#/bill/hr9640
-- H.R. 7934 Settlement Agreement Information Database Act of 2026
-  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
-- H.R. 7934 Settlement Agreement Information Database Act of 2026
-  2026-11-18: On motion to suspend the rules and pass the bill Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr7934
-- H.R. 5490 Dismantle Foreign Scam Syndicates Act
-  2026-11-18: Motion to reconsider laid on the table Agreed to without objection.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
-- H.R. 5490 Dismantle Foreign Scam Syndicates Act
-  2026-11-18: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr5490
+- S. 4445 Veterans Protection from Fraud Act of 2026
+  2026-11-18: Passed Senate without amendment by Voice Vote. (consideration: CR S5778; text: CR S5778)
+  https://chandranellore.github.io/bill-tracker/#/bill/s4445
+- S. 4445 Veterans Protection from Fraud Act of 2026
+  2026-11-18: Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+  https://chandranellore.github.io/bill-tracker/#/bill/s4445
+- H.R. 2478 Financial Exploitation Prevention Act of 2025
+  2026-11-18: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5777-5778)
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2478
+- H.R. 2478 Financial Exploitation Prevention Act of 2025
+  2026-11-18: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+  https://chandranellore.github.io/bill-tracker/#/bill/hr2478
 
 ROLL-CALL VOTES
 - House: On Motion to Suspend the Rules and Pass, as Amended: H R 9640 Passed (396-14)
@@ -51,12 +75,6 @@ ENERGY AND MINERALS LEGISLATION
 - H.R. 11071 To amend the Public Health Service Act to improve the public health system in tribal communities and increase the number
   2026-11-18: Introduced in House
   https://chandranellore.github.io/bill-tracker/#/bill/hr11071
-- H.R. 11063 To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates a
-  2026-11-18: Referred to the House Committee on Energy and Commerce.
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11063
-- H.R. 11063 To direct the Nuclear Regulatory Commission to promulgate regulations prohibiting the issuance of certain certificates a
-  2026-11-18: Introduced in House
-  https://chandranellore.github.io/bill-tracker/#/bill/hr11063
 
 FEDERAL REGISTER
 - Notice: Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Renewable Energy and Alternate Uses of Existing Facilities on t
